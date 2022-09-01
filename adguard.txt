@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-08-31T18:36:54.241Z
+! Last modified: 2022-09-01T06:10:02.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8963,7 +8963,6 @@
 ||agukalty.net^
 ||agurgeed.net^
 ||aguttfdnoipmlv.xyz^
-||ahacdn.me^
 ||ahadsply.com^
 ||ahaumplab.com^
 ||ahbdsply.com^
