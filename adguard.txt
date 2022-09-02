@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-01T06:10:02.106Z
+! Last modified: 2022-09-02T08:18:56.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||setka.media^
 ||servetraff.com^
 ||brocode1s.com^
 ||fgceajcbjihgiacceade.ru^
@@ -4011,6 +4012,9 @@
 !
 !
 !
+||weakya.com^
+||ptonuhoku.com^
+||ttvfddlipb.com^
 ||preauc.com^
 ||stappear.cfd^
 ||perict.com^
@@ -7770,6 +7774,7 @@
 ||1ex4oemg99mv.com^
 ||1f7de8569ea97f0614.com^
 ||1f95b058c0.com^
+||1free33style.com^
 ||1frozenthrone1.com^
 ||1fwjpdwguvqs.com^
 ||1gldnstrofhkybypdsknubjobaleestranre24.com^
@@ -8318,6 +8323,7 @@
 ||absoluteroute.com^
 ||absolutionbravery.com^
 ||absolveparticlesanti.com^
+||absorbedswept.com^
 ||absorbinginject.com^
 ||abtyroguer.com^
 ||abundantshells.com^
@@ -8961,6 +8967,7 @@
 ||agrigh.com^
 ||aguehalved.com^
 ||agukalty.net^
+||agunahclamped.com^
 ||agurgeed.net^
 ||aguttfdnoipmlv.xyz^
 ||ahadsply.com^
@@ -9693,6 +9700,7 @@
 ||auspiceguile.com^
 ||auspiceunworthy.com^
 ||auspipe.com^
+||ausrjuwwohbbu.xyz^
 ||austrypulsory.club^
 ||autchoog.net^
 ||autcokncufjp.com^
@@ -10709,6 +10717,7 @@
 ||byvuwhubi.com^
 ||bzrmxfxu.com^
 ||bzwcgscqnf.com^
+||bzwdksdngjhay.com^
 ||c02o3mpych.com^
 ||c0594.com^
 ||c0c.xyz^
@@ -10875,6 +10884,7 @@
 ||catgride.com^
 ||cathodecreped.com^
 ||catiligh.ru^
+||cationakasu.shop^
 ||cationinina.one^
 ||catnipsdaymen.com^
 ||catsupsfloit.com^
@@ -11011,6 +11021,7 @@
 ||cfrsqptn.com^
 ||cfts1tifqr.com^
 ||cfwchydynfc.com^
+||cgeckmydirect.biz^
 ||cgznataqg.com^
 ||cha2spoi3rasne.com^
 ||chachors.net^
@@ -11608,6 +11619,7 @@
 ||copedblanc.com^
 ||copeforcing.com^
 ||coperledsinhe.info^
+||copyairthtnttg.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||coqnaoubj.xyz^
@@ -12205,6 +12217,7 @@
 ||dexplatform.com^
 ||dexpredict.com^
 ||df8c5028a1fad1.com^
+||dfd1ec534a.com^
 ||dfdjilnzqgtow.com^
 ||dfdybylchujl.com^
 ||dffaernr.com^
@@ -12555,6 +12568,7 @@
 ||dressuresl.top^
 ||dreyeli.info^
 ||dribletbogled.com^
+||drillpatiotrash.com^
 ||drinkergenys.com^
 ||drious.com^
 ||drivecareveryday.com^
@@ -13652,6 +13666,7 @@
 ||flite.com^
 ||flixcontentshop.com^
 ||flmuqa.com^
+||floccischlump.com^
 ||flocktanjib.com^
 ||flogspci.com^
 ||flomigo.com^
@@ -13815,6 +13830,7 @@
 ||freeskreen.com^
 ||freesoftwarelive.com^
 ||freestar.io^
+||freezeanything.com^
 ||frenchequal.pro^
 ||fresh8.co^
 ||freshintimate.com^
@@ -14063,6 +14079,7 @@
 ||genesismedia.com^
 ||geneticdiminishblake.com^
 ||geniad.net^
+||genialsleptworldwide.com^
 ||genigh.com^
 ||genishury.pro^
 ||genistawabbler.com^
@@ -14293,6 +14310,7 @@
 ||goaserv.com^
 ||goasrv.com^
 ||goatassociateraces.com^
+||gobacktothefuture.biz^
 ||gobiidinshore.com^
 ||gobmodfoe.com^
 ||gobosclatchy.com^
@@ -14553,6 +14571,7 @@
 ||h5tjj3loy2.com^
 ||h8vzwpv.com^
 ||haaseavy.one^
+||hacbfyvvsw.com^
 ||hackelevensol.com^
 ||hadlacrighterthen.pro^
 ||hadquellseventeen.com^
@@ -14767,6 +14786,7 @@
 ||hidelen.com^
 ||hidner.com^
 ||hieramuriel.com^
+||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
 ||higherdebateplume.com^
 ||higherincomparablehandicraft.com^
@@ -15175,6 +15195,7 @@
 ||immigrantarchipelagopoetic.com^
 ||immigrateignorantdual.com^
 ||immisurns.com^
+||immixedpistrix.com^
 ||immixteddo.com^
 ||immoderatesulky.com^
 ||immortalsplashslob.com^
@@ -15376,6 +15397,7 @@
 ||invisedspill.com^
 ||invitesuperstitiousadmire.com^
 ||invitingdoubloons.com^
+||involveclank.com^
 ||invraisemblable.com^
 ||inwardxenos.com^
 ||inwgamacuuv.xyz^
@@ -15428,6 +15450,7 @@
 ||irtyf.com^
 ||irvate.com^
 ||irvuyekrdga.com^
+||isakbrjjkkshr.top^
 ||isboost.co.jp^
 ||iscosta.ru^
 ||isdbjvok.xyz^
@@ -15502,6 +15525,7 @@
 ||iyfnzgb.com^
 ||iykiuacppty.com^
 ||iymqlsiqdxu.com^
+||iysyjkpbgymv.com^
 ||iytafcpbnyauogj.xyz^
 ||izeiiemb.com^
 ||izewuzabgcojd.com^
@@ -16031,6 +16055,7 @@
 ||knightsyllabusimprobable.com^
 ||knittedcourthouse.com^
 ||knkkpmtdesg.com^
+||knmbgepqi.com^
 ||knonoi.com^
 ||knoure.com^
 ||knowd.com^
@@ -16288,6 +16313,7 @@
 ||lcentntel.com^
 ||lcvtgvcod.com^
 ||ldiscdnkbg.com^
+||ldndromaqpnnp.com^
 ||ldutvi.com^
 ||ldvnyduhpfgytls.com^
 ||lead1.pl^
@@ -16523,6 +16549,7 @@
 ||loajawun.com^
 ||loameepu.com^
 ||loanonionbidding.com^
+||loathepimpery.com^
 ||loatis.com^
 ||lobby-x.eu^
 ||lobhtwevnmgpxby.xyz^
@@ -16763,6 +16790,7 @@
 ||maidenseadescription.com^
 ||maidishcubbing.com^
 ||maikashu.net^
+||mailboxdoablebasically.com^
 ||mailboxleadsphone.com^
 ||mailwithcash.com^
 ||maimeehu.com^
@@ -17023,6 +17051,7 @@
 ||meshagreeable.com^
 ||meshlucky.com^
 ||meshpetrols.com^
+||messagereceiver.com^
 ||messenger-notify.digital^
 ||messengerinternfair.com^
 ||mesucces.top^
@@ -17799,7 +17828,9 @@
 ||nooroapo.com^
 ||nopolicycrea.com^
 ||noproblfr.com^
+||noptog.com^
 ||noqj1iz4u28t.com^
+||nordeela.com^
 ||norentisol.com^
 ||noretia.com^
 ||normandydeclare.com^
@@ -18680,6 +18711,7 @@
 ||peakclick.com^
 ||pearsguess.com^
 ||pebadu.com^
+||peciet.com^
 ||peckleooze.com^
 ||pecult.com^
 ||pedagogsecreta.com^
@@ -19142,6 +19174,7 @@
 ||posqvyovldwawp.com^
 ||possessedbrute.com^
 ||possesseddimplebandy.com^
+||possessionaddictedflight.com^
 ||possiblyinsufficientchecking.com^
 ||possiblytoxic.com^
 ||possoacu.com^
@@ -19277,6 +19310,7 @@
 ||printmeantime.com^
 ||prinue.com^
 ||prisedeluge.com^
+||priseloos.com^
 ||prismarrears.com^
 ||pritesol.com^
 ||privacymorrowexecute.com^
@@ -19319,6 +19353,7 @@
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
 ||profitabledisplaycontent.com^
+||profitablegatetocontent.com^
 ||profitabletrustednetwork.com^
 ||profitpeelers.com^
 ||prognosisshallowpliant.com^
@@ -19633,6 +19668,7 @@
 ||pvclouds.com^
 ||pvjscfhlt.com^
 ||pvobumsfxacarh.com^
+||pvxfkublrecbtjb.xyz^
 ||pvyvglaf.com^
 ||pwbstpjjkovpy.com^
 ||pwigekcyr.com^
@@ -19763,6 +19799,7 @@
 ||quanta-wave.com^
 ||quatrefeuillepolonaise.xyz^
 ||qubenwwxlspyki.com^
+||quealcoodle.com^
 ||queersodadults.com^
 ||quellstubble.com^
 ||quenchskirmishcohere.com^
@@ -20783,6 +20820,7 @@
 ||securely-send.com^
 ||securesmrt-dt.com^
 ||securesurf.biz^
+||sedatecompulsiveout.com^
 ||sedativesandhandbook.com^
 ||seedallegation.com^
 ||seedattentiontestify.com^
@@ -20919,6 +20957,7 @@
 ||sharieta.com^
 ||sharpsharkteeth.com^
 ||sharpycurvet.com^
+||shaumtol.com^
 ||shaursar.net^
 ||shawlyni.name^
 ||shawuh2a8nyam09.com^
@@ -21850,6 +21889,7 @@
 ||talkingdom.club^
 ||tallcy.com^
 ||tallowstwangle.com^
+||tallyhoquires.com^
 ||talsauve.com^
 ||tangiblewhereuponprestige.com^
 ||tanguinantaiva.com^
@@ -22122,6 +22162,7 @@
 ||thumpssleys.com^
 ||thuqqyggwc.com^
 ||thurag.com^
+||thurch.com^
 ||thurnflfant.com^
 ||thurniafetal.com^
 ||thwartcrazyposition.com^
@@ -22497,6 +22538,7 @@
 ||ttgmjfgldgv9ed10.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
+||ttoefanyorget.one^
 ||ttrailwaysint.com^
 ||ttwscqlqmbcb.com^
 ||ttzmedia.com^
@@ -22521,6 +22563,7 @@
 ||tumri.net^
 ||tumuta.xyz^
 ||tundbjrjrqotjag.xyz^
+||tunuhap.com^
 ||tunviralbionic.com^
 ||tupeloherem.com^
 ||tupope.com^
@@ -23112,6 +23155,7 @@
 ||vfvdsati.com^
 ||vgfutxwgq.com^
 ||vggdaiesp.com^
+||vgowyarau.com^
 ||vgw35hwr4w6x.com^
 ||vhrtgvzcmrfoo.com^
 ||vi69.work^
@@ -23172,6 +23216,7 @@
 ||vilercarpetfolk.com^
 ||vilereasoning.com^
 ||viliaff.com^
+||vilith.com^
 ||villageeatable.com^
 ||vimjarawl.com^
 ||vimmenced.club^
@@ -24053,6 +24098,7 @@
 ||xvwebllndr.com^
 ||xvxxbrzhjunco.com^
 ||xwktyiydn.com^
+||xwkuycrtwjirp.com^
 ||xwkxpxili.com^
 ||xwoqjitfpcxkqf.xyz^
 ||xwvbbphb.com^
@@ -30400,6 +30446,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pipe-collect.ebu.io^
+||d3kyk5bao1crtw.cloudfront.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||collect.asics.com^
 ||log.ohou.se^
@@ -35205,7 +35253,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ping.dozuki.com^
 ||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
-||pipe-collect.ebu.io^
 ||pix.revjet.com^
 ||pix.speedbit.com^
 ||pix.spot.im^
@@ -35543,7 +35590,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
-||d3kyk5bao1crtw.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
