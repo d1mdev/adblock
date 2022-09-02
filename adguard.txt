@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-02T13:45:54.555Z
+! Last modified: 2022-09-02T16:34:09.917Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8728,6 +8728,7 @@
 ||adtrk18.com^
 ||adtrue.fun^
 ||adtruism.com^
+||aduato.com^
 ||adulatoryrabid.com^
 ||adult-adv.com^
 ||adultadvertising.net^
@@ -9799,6 +9800,7 @@
 ||awmserve.com^
 ||awnexus.com^
 ||awnxcexsy.xyz^
+||awodrozu.com^
 ||awpcrpu.com^
 ||awprt.com^
 ||awptjmp.com^
@@ -10609,6 +10611,7 @@
 ||brereairsome.com^
 ||brftedjb.com^
 ||brgvlyaccixnbnu.xyz^
+||briefcasebuoyduster.com^
 ||briefsupbuoy.com^
 ||brighteroption.com^
 ||brightonclick.com^
@@ -12451,6 +12454,7 @@
 ||divaduolite.com^
 ||divedconservativemember.com^
 ||dividedscientific.com^
+||dizipal223.com^
 ||dj-updates.com^
 ||djdecsdwjdgemj.com^
 ||djfiln.com^
@@ -12864,6 +12868,7 @@
 ||ec73ce0ab9.com^
 ||echnol.com^
 ||echnolog.club^
+||echolargemovement.com^
 ||eclkmpbn.com^
 ||eclogicmeows.com^
 ||ecmjckvcqiceia.xyz^
@@ -12993,6 +12998,7 @@
 ||eitiso.com^
 ||eivbjsegbino.com^
 ||eiyhjkqued.com^
+||ejcet5y9ag.com^
 ||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
 ||ejghgjhhgadcdchjaada.ru.^
@@ -14731,6 +14737,7 @@
 ||hawsuffer.com^
 ||haxbyq.com^
 ||hayfatduh.com^
+||haymishlytta.com^
 ||hazelnutshighs.com^
 ||hb-247.com^
 ||hbepoqct.xyz^
@@ -15826,6 +15833,7 @@
 ||jpzwomhbxoalxu.com^
 ||jqcgyjwidktu.xyz^
 ||jquerycdn.host^
+||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jqwhjuxv.xyz^
@@ -16367,6 +16375,7 @@
 ||laulup.com^
 ||launchbit.com^
 ||launchreliantcleaver.com^
+||laundryrespond.com^
 ||laurieconstitutionalsupposedly.com^
 ||lauriestatuestroll.com^
 ||lauwhada.com^
@@ -16753,6 +16762,7 @@
 ||ltbbfotur.xyz^
 ||ltdxdwjsf.com^
 ||ltengronsa.com^
+||lthmlkkppfengi.com^
 ||lturerpartm.com^
 ||ltwrkbxgnsc.com^
 ||ltziyuyjoq.com^
@@ -17009,6 +17019,7 @@
 ||mb38.com^
 ||mb57.com^
 ||mbctxigml.com^
+||mbhvyihyaayh.com^
 ||mbiizkzics.com^
 ||mbitag.com^
 ||mblink.in^
@@ -17078,6 +17089,7 @@
 ||meepwrite.com^
 ||meerihoh.net^
 ||meet4you.net^
+||meetexhibitcautiously.com^
 ||meetic-partners.com^
 ||meetsourhig.biz^
 ||meeturlove.com^
@@ -18482,6 +18494,7 @@
 ||oscism.com^
 ||oscolk.com^
 ||oskiwood.com^
+||osmoticanansi.com^
 ||ospicalad.buzz^
 ||osseasougan.com^
 ||osskanger.com^
@@ -18608,6 +18621,7 @@
 ||oxado.com^
 ||oxanelinkups.com^
 ||oxazoleorfrays.com^
+||oxdvxkdmeblg.top^
 ||oxenfishtreaty.com^
 ||oxharmonysample.com^
 ||oxidesloot.com^
@@ -19946,6 +19960,7 @@
 ||quotes.com^
 ||qupurda.com^
 ||qutltjamq.com^
+||quwecgjiibsq.com^
 ||qvcwklhelpk.xyz^
 ||qvorcqfon.com^
 ||qvuehosxuzhagv.com^
@@ -20147,6 +20162,7 @@
 ||reedsbullyingpastel.com^
 ||reedsbullyingpsafestgatetocontent.com^
 ||reedscarved.com^
+||reedthatm.biz^
 ||reefseasidejunkie.com^
 ||reenakun.com^
 ||reenginee.club^
@@ -20234,6 +20250,7 @@
 ||reminews.com^
 ||remintrex.com^
 ||renderscreech.com^
+||renomeeguze.com^
 ||renormaliseras.xyz^
 ||rentingketch.com^
 ||reojou.com^
@@ -20385,6 +20402,7 @@
 ||rftslb.com^
 ||rgfftupf.com^
 ||rggtysyp.com^
+||rgpvgoej.com^
 ||rgrd.xyz^
 ||rgsuixxwncmkj.com^
 ||rgttoipdr.com^
@@ -21265,6 +21283,7 @@
 ||sixminutes.biz^
 ||sixthpriodon.com^
 ||sixtually.com^
+||sixtybirthsuperstition.com^
 ||sixtyhardwarepreference.com^
 ||siyfihrtsdgyb.com^
 ||sjcnnddcx.com^
@@ -22394,6 +22413,7 @@
 ||tkickhhylnvm.com^
 ||tklaxrrzzo.com^
 ||tkonyrkc.com^
+||tksgjhukenbcu.com^
 ||tkudoacf.com^
 ||tkurpqyoct.com^
 ||tl2go.com^
@@ -23824,6 +23844,7 @@
 ||whgfceyl.com^
 ||whiceega.com^
 ||whichroar.com^
+||whicki.com^
 ||whilefitsaltered.com^
 ||whippedfreezerbegun.com^
 ||whirlsblosmy.com^
@@ -23982,6 +24003,7 @@
 ||wontonsnosite.com^
 ||wood-pen.com^
 ||woodlandsintervention.com^
+||woodmenopsonia.com^
 ||woodymotherhood.com^
 ||woofheapverdure.com^
 ||woofspectrumbookcase.com^
@@ -24102,6 +24124,7 @@
 ||wwfx.xyz^
 ||wwija.com^
 ||wwjijoywqiu.xyz^
+||wwjjgavdbnp.top^
 ||wwlipxritaoo.com^
 ||wwmocmktwnaeik.xyz^
 ||wwnrdqxo.com^
@@ -24233,6 +24256,7 @@
 ||xmlwizard.com^
 ||xmvusqpp.com^
 ||xndcnnkygvd.com^
+||xnnfchykwvgjmoh.com^
 ||xoalt.com^
 ||xotwqnjinpnaul.com^
 ||xoulrusmf.com^
@@ -36522,9 +36546,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Sep 2022 20:12 UTC+7
-! Version: 2209022012
-! Blocked: 1.539 rules
+! Last modified: 02 Sep 2022 23:25 UTC+7
+! Version: 2209022325
+! Blocked: 1.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37379,6 +37403,7 @@ vkcdnservice.appspot.com^
 ||aw8vn3.com^
 ||b29.bet^
 ||b29qc.win^
+||b52.vip^
 ||b52.win^
 ||b89.bet^
 ||banca-red88.top^
@@ -37419,6 +37444,7 @@ vkcdnservice.appspot.com^
 ||choingay88.com^
 ||choisv88.live^
 ||choita88.club^
+||choiwin79.com^
 ||cmd368t.com^
 ||comebet.xyz^
 ||comebetvn1.com^
@@ -37533,6 +37559,7 @@ vkcdnservice.appspot.com^
 ||hi88vip8.com^
 ||hotlive8.vip^
 ||i8bet.org^
+||i99903.com^
 ||i99906.com^
 ||i99908.com^
 ||i9bet5.com^
@@ -37763,6 +37790,7 @@ vkcdnservice.appspot.com^
 ||sunwinvn.club^
 ||sv88.club^
 ||sv88.com^
+||sv88.vip^
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
@@ -37899,6 +37927,7 @@ vkcdnservice.appspot.com^
 ||wbet99.net^
 ||websvn.info^
 ||wellviet.net^
+||win79play.me^
 ||win888b.com^
 ||ww88club.com^
 ||x8.club^
@@ -37912,6 +37941,7 @@ vkcdnservice.appspot.com^
 ||xoso6.com^
 ||xoso9988.com^
 ||xosobet.com^
+||yo88.net^
 ||yo88.win^
 ||yo88vn.com^
 ||yo88vn.us^
