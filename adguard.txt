@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-06T22:00:15.101Z
+! Last modified: 2022-09-07T22:00:11.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4012,6 +4012,9 @@
 !
 !
 !
+||vuwmxjusucnh.com^
+||fssuqbylk.com^
+||tartwo.com^
 ||psapsiph.net^
 ||selectmedia.asia^
 ||aukirtoo.com^
@@ -4056,7 +4059,6 @@
 ||ruogesfshygsj.com^
 ||disurm.com^
 ||imilroshoors.com^
-||thathechoxe.com^
 ||glaichid.net^
 ||qhsihvjmut.com^
 ||kihudevo.pro^
@@ -6848,6 +6850,8 @@
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||daxuetong.zone^
+||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
 ||turbo.adsbynimbus.com^
@@ -8039,6 +8043,7 @@
 ||606d891745.com^
 ||60d4631eb3.com^
 ||60e19222e9.com^
+||611566a7a1.com^
 ||615b68cc9c8528e.com^
 ||61739011039d41a.com^
 ||620c663bca9a4.com^
@@ -9189,6 +9194,7 @@
 ||allureencourage.com^
 ||allusionpressed.com^
 ||allyes.com^
+||almbxayp.com^
 ||almostspend.com^
 ||aloetichansels.casa^
 ||alogationa.co^
@@ -9388,6 +9394,7 @@
 ||aohuwj.com^
 ||aonpnndg.com^
 ||aoredi.com^
+||aoxfjjsgqjp.com^
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apartblot.com^
@@ -9866,6 +9873,7 @@
 ||ayads.co^
 ||ayahtyros.com^
 ||ayahucapasso.website^
+||ayassociallya.xyz^
 ||ayboll.com^
 ||ayelpacle.com^
 ||ayhfnvgv.com^
@@ -9923,6 +9931,7 @@
 ||b62c8d1a6b.com^
 ||b6852c8ea5.com^
 ||b73uszzq3g9h.com^
+||b78645c7cc.com^
 ||b7om8bdayac6at.com^
 ||b81oidrmy82w.com^
 ||b8cf0fd3179ef.com^
@@ -10094,6 +10103,7 @@
 ||bbcrgate.com^
 ||bbes.xyz^
 ||bbgomsvyyacndcf.xyz^
+||bbjisktuj.com^
 ||bblo.xyz^
 ||bc5049654b.com^
 ||bcdnfk.com^
@@ -10144,6 +10154,7 @@
 ||beeferzak.com^
 ||beefymartpronunciation.com^
 ||beegotou.net^
+||beegoust.com^
 ||beehiveclergyman.com^
 ||beehivefestivesolve.com^
 ||beeintercourseoven.com^
@@ -10153,6 +10164,7 @@
 ||beewakiy.com^
 ||befortugal.club^
 ||befuglago.live^
+||beggarlyfilmingabreast.com^
 ||beginnerdole.com^
 ||begrimdos.com^
 ||begrudgecorrespondence.com^
@@ -10539,6 +10551,7 @@
 ||bonusmaniac.com^
 ||bonzai.ad^
 ||boodlewrite.com^
+||boogopee.com^
 ||bookljlihooli.com^
 ||booklstfree.com^
 ||bookmsg.com^
@@ -11540,6 +11553,7 @@
 ||colorfullank.com
 ||colorfullank.com^
 ||colossalfutile.com^
+||colossalrate.com^
 ||colouredcavity.com^
 ||colpursehowl.com^
 ||colsuchy.com^
@@ -12851,6 +12865,7 @@
 ||e350570881272e.com^
 ||e376ef28103177cc.com^
 ||e44150775e.site^
+||e4d3c228c4.com^
 ||e4nglis56hcoo5nhou6nd.com^
 ||e55cdcbcd2.com^
 ||e5asyhilodice.com^
@@ -12890,6 +12905,7 @@
 ||earewi.com^
 ||eargentssep.one^
 ||earlapspur.com^
+||earlieraccelerateshoplifting.com^
 ||earnbigo.com^
 ||earnify.com^
 ||earningserie.co^
@@ -12996,6 +13012,7 @@
 ||eekdjxqjlrx.com^
 ||eeksidro.com^
 ||eelfadechi.com^
+||eempacmy.com^
 ||eensoans.com^
 ||eeoylmkd.com^
 ||eephaush.com^
@@ -13313,6 +13330,7 @@
 ||esignificanvi.info^
 ||esmentbrads.com^
 ||esmystem.com^
+||espotl.com^
 ||esqfctbqf.com^
 ||establishbrightestsavvy.com^
 ||establishmentinfluence.com^
@@ -14019,7 +14037,6 @@
 ||fsalfrwdr.com^
 ||fsitel.com^
 ||fsobjvtkew.com^
-||fssuqbylk.com^
 ||fsswokpc.com^
 ||fstexydzode.com^
 ||ftalymniyqmbuyg.com^
@@ -14962,6 +14979,7 @@
 ||highperformancecpmnetwork.com^
 ||highperformancedformats.com^
 ||highperformancedisplaycontent.com^
+||highperformancedisplayformat.com^
 ||highperformancegate.com^
 ||highprofitnetwork.com^
 ||highrevenuecpm.com^
@@ -15204,6 +15222,7 @@
 ||hybgrhjuk.xyz^
 ||hycikesty.pro^
 ||hydragrouge.com^
+||hydricsamba.com^
 ||hygrephexy.com^
 ||hyloistmithan.com^
 ||hymenalwiring.com^
@@ -15580,6 +15599,7 @@
 ||inwardxenos.com^
 ||inwgamacuuv.xyz^
 ||inwlempmjkqp.com^
+||inwoodaural.com^
 ||inwraptsekane.com^
 ||ioadserve.com^
 ||iociley.com^
@@ -16321,6 +16341,7 @@
 ||ksdqhiaythajdv.com^
 ||ksharu.com^
 ||ksiywrjwvkmat.com^
+||ksyilixgdlrhb.com^
 ||ksznidltg.com^
 ||kt5850pjz0.com^
 ||ktautdkiixlunl.com^
@@ -16844,6 +16865,7 @@
 ||lowremoraidon.com^
 ||lowrihouston.pro^
 ||lowseelan.com^
+||lowstaryur.com^
 ||lowsteelixor.com^
 ||lowtyruntor.com^
 ||loxbeelid.com^
@@ -16860,6 +16882,7 @@
 ||lrlptkumwpcck.com^
 ||lrxlbekpmav.com^
 ||lsariz.com^
+||lshsfywxhby.top^
 ||lsjne.com^
 ||lsjvmvkowneqogu.com^
 ||lspzhtvstux.com^
@@ -18288,6 +18311,7 @@
 ||obussevier.com^
 ||obvhiojpse.xyz^
 ||obviousmanipulate.com^
+||obwmidktcmuc.com^
 ||obyjpiok.com^
 ||oc2tdxocb3ae0r.com^
 ||occultcreed.com^
@@ -18346,6 +18370,7 @@
 ||offshoreanglehost.com^
 ||offshoretolerantbenignity.com^
 ||offsigilyphor.com^
+||offslrbeqypf.com^
 ||ofghaidarium.xyz^
 ||ofgogoatan.com^
 ||ofhappinyer.com^
@@ -18402,6 +18427,7 @@
 ||oktpage.com^
 ||okueroskynt.com^
 ||okupsudd.work^
+||olayomad.com^
 ||oldership.com^
 ||oldeststrickenambulance.com^
 ||oldgyhogola.com^
@@ -18545,6 +18571,7 @@
 ||openxenterprise.com^
 ||openxmarket.asia^
 ||operaserver.com^
+||opertyvaluat.autos^
 ||opertyvaluat.com^
 ||opingexamplyt.info^
 ||opinionthroughambition.com^
@@ -18779,6 +18806,7 @@
 ||pacide.com^
 ||pacifoos.net^
 ||pacifyrespirator.com^
+||packethierarchy.com^
 ||pacoaniy.net^
 ||pactionpolab.com^
 ||paddedhayssag.com^
@@ -19075,6 +19103,7 @@
 ||pgmediaserve.com^
 ||pgonews.pro^
 ||pgpartner.com^
+||pgpnsvqpo.com^
 ||pgpyce.com^
 ||pgqrmhewdb.xyz^
 ||pgssl.com^
@@ -21086,6 +21115,7 @@
 ||scythesandwiches.com^
 ||sd5doozry8.com^
 ||sdbqiynix.com^
+||sdbvveonb1.com^
 ||sdcrnfjo.com^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
@@ -22380,6 +22410,8 @@
 ||thanksinhabitedregretful.com^
 ||thanosofcos5.com^
 ||tharbadir.com^
+||thatdhostler.com^
+||thathechoxe.com^
 ||thatitgivesm.biz^
 ||thatohegly.com^
 ||thatsouh.com^
@@ -22650,6 +22682,7 @@
 ||top-performance.best^
 ||top-performance.club^
 ||top-performance.top^
+||topazgrubbed.com^
 ||topbestscoreapp.com^
 ||topbetfast.com^
 ||topcpmnetwork.com^
@@ -23338,6 +23371,7 @@
 ||ustausoo.com^
 ||ustithoo.net^
 ||ustujuvo.com^
+||usualaurated.com^
 ||usuler.com^
 ||usurv.com^
 ||uswtcdnqbm.com^
@@ -23785,7 +23819,6 @@
 ||vupyepafn.com^
 ||vutudm.com^
 ||vuuwd.com^
-||vuwmxjusucnh.com^
 ||vvmvpitjqr.com^
 ||vvqknwws.com^
 ||vvvcpueydsm.com^
@@ -23825,6 +23858,7 @@
 ||waitedbunchnight.com^
 ||waiteddeplore.com^
 ||waitersmimical.com^
+||waiting.biz^
 ||waitressdivisionspring.com^
 ||waitressinaugurate.com^
 ||waitressunequal.com^
@@ -24618,6 +24652,7 @@
 ||ygiugqyccp.com^
 ||ygnbukywx.com^
 ||ygnnqkxheq.com^
+||ygtdwkkngdor.com^
 ||ygudtbdnhkhlmkd.xyz^
 ||yguuoibdsscki.com^
 ||ygzkedoxwhqlzp.com^
@@ -26226,6 +26261,7 @@
 ||textonlyads.com^
 ||tgtmedia.com^
 ||thebannerexchange.com^
+||themediagrid.com^
 ||themoneytizer.com^
 ||thewebgemnetwork.com^
 ||tinyads.io^
@@ -26293,6 +26329,7 @@
 ||trafic-media.ru^
 ||trafiq.party^
 ||trigr.co^
+||triplelift.com^
 ||trker.com^
 ||truex.com^
 ||trustx.org^
@@ -26356,6 +26393,7 @@
 ||wmmediacorp.com^
 ||worthathousandwords.com^
 ||x4300tiz.com^
+||xandr.com^
 ||xgpub.com^
 ||xmlmonetize.com^
 ||xtendadvert.com^
@@ -26444,6 +26482,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||x9.shinobi.jp^
 ||poeticmetric.com^
 ||getstats.org^
 ||log-sg.bytegsdk.com^
@@ -30872,6 +30911,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ef.fanatical.com^
 ||analytics.kurocore.com^
 ||metricus.artlebedev.ru^
 ||pipe-collect.ebu.io^
@@ -36323,7 +36363,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.520call.me^
 ||userdive.com^
 ||webbc.fivecdm.com^
-||x9.shinobi.jp^
 ||zucks.net.zimg.jp^
 ! Korean
 ||log.mofa.go.kr^
