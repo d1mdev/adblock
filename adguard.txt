@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-10T22:00:11.567Z
+! Last modified: 2022-09-11T22:00:16.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8008,6 +8008,7 @@
 ||5nt1gx7o57.com^
 ||5odjin7ipi.com^
 ||5ovrmmmoubi71efvatfd.com^
+||5pi13h3q.de^
 ||5qg9ibt1a6.com^
 ||5toft8or7on8tt.com^
 ||5umpz4evlgkm.com^
@@ -16770,6 +16771,7 @@
 ||lepinsar.com^
 ||lepsogoso.com^
 ||lerrdoriak.com^
+||les7andla4.cfd^
 ||lessalle.com^
 ||lessite.pro^
 ||lessonis.com^
@@ -25624,6 +25626,7 @@
 ||adsiduous.com^
 ||adskeeper.com^
 ||adslivecorp.com^
+||adsmart.hk^
 ||adsninja.ca^
 ||adsparc.net^
 ||adspeed.com^
@@ -34432,6 +34435,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ndf81.com^
 ||nejmqianyan.cn^
 ||nero.live^
+||netcentric.biz^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netrefer.com^
@@ -34477,6 +34481,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pirsch.io^
 ||plerdy.com^
 ||pnstat.com^
+||podcorn.com^
 ||podfdch.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
@@ -37177,8 +37182,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Sep 2022 09:30 UTC+7
-! Version: 2209080930
+! Last modified: 11 Sep 2022 23:08 UTC+7
+! Version: 2209112308
 ! Blocked: 1.547 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
