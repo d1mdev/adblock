@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-27T22:00:11.554Z
+! Last modified: 2022-09-28T22:00:11.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4021,9 +4021,10 @@
 !
 !
 !
+||dealtbroodconstitutional.com^
+||eneverals.biz^
 ||hqscene.com^
 ||distinct-bicycle.com^
-||wuzbhjpvsf.com^
 ||sanjagh.com^
 ||moksoxos.com^
 ||ap.frarychazan.com^
@@ -4041,7 +4042,6 @@
 ||sqiykbyqwlxfus.com^
 ||teefuthe.com^
 ||uqfypsnktfr.com^
-||cotihgcqkh.com^
 ||matqqagvkaaftr.com^
 ||starkhousing.com^
 ||dtu2kitmpserg.cloudfront.net^
@@ -9112,6 +9112,7 @@
 ||aluationiam.com^
 ||alwayspainfully.com^
 ||alwsbnvialll.com^
+||alwys.net^
 ||alxbgo.com^
 ||alxsite.com^
 ||alypremistand.xyz^
@@ -10982,6 +10983,7 @@
 ||casterpretic.com^
 ||castpallium.com^
 ||catalpaaxillae.com^
+||cataractoutputprogramming.com^
 ||cataractsallydeserves.com^
 ||catastropheillusive.com^
 ||catastrophetray.com^
@@ -11806,6 +11808,7 @@
 ||cotchaug.com^
 ||cotdrollback.com^
 ||coterybulrush.com^
+||cotihgcqkh.com^
 ||coudswamper.com^
 ||couhawhu.net^
 ||councedvdvg.club^
@@ -12040,6 +12043,7 @@
 ||cwejnszakvvvu.com^
 ||cwgads.com^
 ||cwkuki.com^
+||cwqljsecvr.com^
 ||cxhmxuyeqitmy.com^
 ||cxkivjsorpburb.com^
 ||cxrjjwsh.com^
@@ -12636,6 +12640,7 @@
 ||dk4ywix.com^
 ||dkjrvgfozzhc.com^
 ||dkksrclpfqmmtp.com^
+||dkkypggviv.com^
 ||dkuiefdtuwnfo.com^
 ||dl-rms.com^
 ||dlexkxqacleb.com^
@@ -12808,6 +12813,7 @@
 ||drivecareveryday.com^
 ||drjgjngf.com^
 ||drkkydnkdvfosd.xyz^
+||drkness.net^
 ||drldgfscmjgim.com^
 ||drlphsvpybieyie.xyz^
 ||drmjxoaaslsn.com^
@@ -15053,6 +15059,7 @@
 ||hatefulredheadstone.com^
 ||hats-47b.com^
 ||hatsadamantpushed.com^
+||hatsheisaco.xyz^
 ||haubar.com^
 ||haughtydropszoology.com^
 ||hauglees.net^
@@ -16188,6 +16195,7 @@
 ||jksdcwgjfm.xyz^
 ||jlklnwmj.com^
 ||jlvqhftliz.com^
+||jmmunnojlcwgsrt.com^
 ||jmnvxpgmcbrk.xyz^
 ||jmrnews.pro^
 ||jmtomcgqnsczl.com^
@@ -16373,6 +16381,7 @@
 ||jwjocqgh.xyz^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
+||jwuyjehlbndrkd.com^
 ||jwyiyqptg.com^
 ||jxdqawzenrpw.com^
 ||jxfkevszqqdb.com^
@@ -18972,6 +18981,7 @@
 ||oncomeannuals.com^
 ||onctus.com^
 ||ondeerlingan.com^
+||oneclck.net^
 ||onedmp.com^
 ||onegalact.com^
 ||onelivetra.com^
@@ -19039,6 +19049,7 @@
 ||oovofcsyxayy.com^
 ||oowelamdgta.com^
 ||oozyunmix.com^
+||op00.biz^
 ||op01.biz^
 ||op02.biz^
 ||opawyzoh.xyz^
@@ -20751,6 +20762,7 @@
 ||ragapa.com^
 ||rageagainstthesoap.com^
 ||raggedselsyn.com^
+||ragmenteasygoingmass.com^
 ||railcowboy.com^
 ||railroadtomato.com^
 ||rainbending.com^
@@ -21054,6 +21066,7 @@
 ||resemblanceilluminatedcigarettes.com^
 ||resentmentveneering.com^
 ||reservehearingmissing.com^
+||resetmascara.com^
 ||resetoccultkeeper.com^
 ||residebroadly.com^
 ||residelikingminister.com^
@@ -21090,6 +21103,7 @@
 ||resultsz.com^
 ||resumedelayed.com^
 ||resurnommions.xyz^
+||reswsentativ.xyz^
 ||retaea.com^
 ||retagro.com^
 ||retailgobioid.com^
@@ -22167,6 +22181,7 @@
 ||sleeveashame.com^
 ||sleevedcaelum.com^
 ||sleightraumatize.com^
+||slgynezaygkjqi.com^
 ||slhoisgdhs.com^
 ||slicktrulyuptown.com^
 ||sliddeceived.com^
@@ -22190,6 +22205,7 @@
 ||slothnge.com^
 ||sloto.live^
 ||sloughybucayo.com^
+||slowdn.net^
 ||slowih.com^
 ||slowinghardboiled.com^
 ||slrviazqkilu.com^
@@ -23344,6 +23360,7 @@
 ||tmrjmp.com^
 ||tncomg.com^
 ||tncred.com^
+||tneca.com^
 ||tnnpkperngdhtv.xyz^
 ||tnpads.xyz^
 ||tnqmayfhdr.com^
@@ -25145,6 +25162,7 @@
 ||wutipupi.xyz^
 ||wuueqejuratzdz.com^
 ||wuyizhqrappxeq.com^
+||wuzbhjpvsf.com^
 ||wvpkoyjoq.com^
 ||wwfepjszewf.com^
 ||wwfx.xyz^
