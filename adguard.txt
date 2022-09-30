@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-29T22:00:12.347Z
+! Last modified: 2022-09-30T22:00:12.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4021,6 +4021,11 @@
 !
 !
 !
+||bitterlythread.com^
+||srvpcn.com^
+||n33d0nem0re.com^
+||soft-little.com^
+||allimpactdesign.com^
 ||dealtbroodconstitutional.com^
 ||eneverals.biz^
 ||hqscene.com^
@@ -9726,6 +9731,7 @@
 ||avazu.net^
 ||aveark.com^
 ||avenuescrupuloustheological.com^
+||average-champion.pro^
 ||averalzaedsk.xyz^
 ||avertscratch.com^
 ||aviesanct.website^
@@ -11461,6 +11467,7 @@
 ||clixsense.com^
 ||clkepd.com^
 ||clknrtrg.pro^
+||clkofafcbk.com^
 ||clkrev.com^
 ||clksite.com^
 ||clmbtech.com^
@@ -12227,6 +12234,7 @@
 ||dbuadjcelk.com^
 ||dbvault.net^
 ||dcbnameapneas.com^
+||dcceb78f4a.com^
 ||dcf0698a21.com^
 ||dcmgptcbcrogl.com^
 ||dcmosques.com^
@@ -16576,6 +16584,7 @@
 ||kinkledunendly.com^
 ||kinkydisplacelate.com^
 ||kinley.com^
+||kinogogly.pro^
 ||kinoneeloign.com^
 ||kinsecutiony.club^
 ||kinsmenmislies.com^
@@ -19813,6 +19822,7 @@
 ||pizasoji.com^
 ||pjbuxnevj.com^
 ||pjjpp.com^
+||pjwwvpcgbvbyyka.com^
 ||pjx1ky4xhwip.com^
 ||pkfyelxxpbisf.com^
 ||pkgebysm.com^
@@ -20797,6 +20807,7 @@
 ||rageagainstthesoap.com^
 ||raggedselsyn.com^
 ||ragmenteasygoingmass.com^
+||raicabuy.net^
 ||railcowboy.com^
 ||railroadtomato.com^
 ||rainbending.com^
@@ -22901,6 +22912,7 @@
 ||suzanne.pro^
 ||svacdnjutk.com^
 ||sviter2s1olenyami1.com^
+||svkmxwssih.com^
 ||svkxlfhrdrn.com^
 ||svyksa.info^
 ||sw2block.com^
@@ -25291,6 +25303,7 @@
 ||xelllwrite.com^
 ||xemfrctctdnlhe.com^
 ||xepkfd.com^
+||xerxyeprhbe.com^
 ||xev2o.com^
 ||xfffx.xyz^
 ||xfileload.com^
@@ -28433,7 +28446,6 @@
 ||tgdaudience.com^
 ||quadran.eu^
 ||piwik.pro^
-||marketingautomation.services^
 ||audiens.com^
 ||lift.acquia.com^
 ||osniffer.pro^
@@ -33920,6 +33932,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||airlytics.airlock.twcmobile.weather.com^
 ||track.midway.run^
 ||tdid.m.qq.com^
 ||d.reddit.com^
@@ -34988,6 +35001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mobee.xyz^
 ||mockingfish.com^
 ||momently.com^
+||mon-pagerank.com^
 ||monsido.com^
 ||monstat.com^
 ||mooseway.com^
