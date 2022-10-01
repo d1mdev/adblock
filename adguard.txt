@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-09-30T22:00:12.317Z
+! Last modified: 2022-10-01T22:00:11.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4021,6 +4021,7 @@
 !
 !
 !
+||tuleceti.com^
 ||bitterlythread.com^
 ||srvpcn.com^
 ||n33d0nem0re.com^
@@ -4045,7 +4046,6 @@
 ||qxtcgrkqlgjcvg.com^
 ||wpuapncoe.com^
 ||sqiykbyqwlxfus.com^
-||teefuthe.com^
 ||uqfypsnktfr.com^
 ||matqqagvkaaftr.com^
 ||starkhousing.com^
@@ -7526,7 +7526,6 @@
 ||059e025e7484.com^
 ||05ee3a24ed11df058c8.com^
 ||06a2b66f11.com^
-||06e17e67683b95.com^
 ||06f09b1008ae993a5a.com^
 ||0735ce74e7.com^
 ||0898hhh.com^
@@ -10932,6 +10931,7 @@
 ||canoevaguely.com^
 ||canonch.pro^
 ||canstrm.com^
+||cantateremiss.com^
 ||cantpastelli.one^
 ||canvassblanketjar.com^
 ||caoinelining.com^
@@ -14049,6 +14049,7 @@
 ||flwvnqfxwoedg.com^
 ||flycheapen.com^
 ||flyingsquirellsmooch.com^
+||flylikeaguy.com^
 ||flymob.com^
 ||flysoothingate.com^
 ||fmcahlux.com^
@@ -15315,6 +15316,7 @@
 ||hmikxktkmccfoyq.xyz^
 ||hmtacaizmmzpxv.com^
 ||hmuxsxuqhnptfq.com^
+||hmychtanrj.com^
 ||hmyjpt.com^
 ||hnfuboqaopdweu.com^
 ||hnpvnnhzazkl.com^
@@ -17247,6 +17249,7 @@
 ||loreps.com^
 ||lorimertoned.com^
 ||lorybnfh.com^
+||loshrhaphae.com^
 ||losingfoundation.com^
 ||losingoldfry.com^
 ||lotionmodule.com^
@@ -20768,6 +20771,7 @@
 ||qwpetywdh.com^
 ||qwwjgmpfpthke.com^
 ||qxazefkhgayy.com^
+||qxihapln.com^
 ||qxniowwbdnhnn.com^
 ||qydhjirz.com^
 ||qyhshcrwqvaft.com^
@@ -23085,6 +23089,7 @@
 ||tecuil.com^
 ||tedmonasty.xyz^
 ||tedmonastyd.com^
+||teefuthe.com^
 ||teeglimu.com^
 ||teelikeableaspirant.com^
 ||teemingaymoro.com^
@@ -27396,6 +27401,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tag.dec-connect.decsuite.com^
 ||internal-analytics.odoo.com^
 ||analytics.growthphysics.com^
 ||sp.tinymce.com^
@@ -28049,7 +28055,6 @@
 ||events.launchdarkly.com^
 ||eclog*-*.cafe24.com^
 ||tag.goadopt.io^
-||tag.hariken.co^
 ||tracker.cauly.co.kr^
 ||tk.mediacategory.com^
 ||ck.ncclick.co.kr^
@@ -34578,6 +34583,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||takingbackjuly.com^
 ||tatpek.com^
 ||test.vast^
+||testingmetriksbre.ru^
 ||the-ozone-project.com^
 ||thefontzone.com^
 ||tncid.app^
@@ -35026,7 +35032,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ndf81.com^
 ||nejmqianyan.cn^
 ||nero.live^
-||netcentric.biz^
 ||netcore.co.in^
 ||netcoresmartech.com^
 ||netrefer.com^
@@ -35058,6 +35063,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||particularaudience.com^
 ||pbgrd.com^
 ||pdbu.net^
+||pendo.io^
 ||perf-serving.com^
 ||perfalytics.com^
 ||perfops.io^
@@ -36182,6 +36188,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||btg360.com.br^
 ||clearsale.com.br^
 ||enviou.com.br^
+||hariken.co^
 ||percycle.com^
 ||pmweb.com.br^
 ||premiumads.com.br^
@@ -36622,6 +36629,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.artipbox.net^
 ||log.kibboko.com^
 ||log.seekda.com^
+||logging.cmp-resources.link^
 ||logging.je-apps.com^
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
@@ -36641,6 +36649,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.api.drift.com^
 ||metrics.ctvdigital.net^
 ||metrics.kmsmep.com^
+||metrics.mdstrm.com^
 ||metrics.readme.io^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -37354,6 +37363,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
+||segmentor.snowfox-ai.com^
+||tags.cmp.tail.digital^
 ||track.e7r.com.br^
 ||track.noddus.com^
 ||tracker.tolvnow.com^
@@ -37408,6 +37419,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g-stats.openhost.es^
 ||hits.eluniversal.com.mx^
 ||mtm.qdqmedia.com^
+||pub.servidoresge.com^
 ||reachandrich.antevenio.com^
 ||sp.vtex.com^
 ||stats.administrarweb.es^
