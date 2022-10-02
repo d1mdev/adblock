@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-01T22:00:11.150Z
+! Last modified: 2022-10-02T22:00:11.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4021,6 +4021,8 @@
 !
 !
 !
+||joowkijejv.com^
+||newir3ltyug79aiman.com^
 ||tuleceti.com^
 ||bitterlythread.com^
 ||srvpcn.com^
@@ -4059,7 +4061,6 @@
 ||ejapwfpftwvl.com^
 ||weemauge.com^
 ||trestonclop.com^
-||acscdn.com^
 ||epwurecbhwtt.com^
 ||thaudray.com^
 ||cdn4ads.com^
@@ -8302,6 +8303,7 @@
 ||acresupervision.com^
 ||acronycgrimes.com^
 ||acrossgained.com^
+||acscdn.com^
 ||acticantly.club^
 ||actio.systems^
 ||activemetering.com^
