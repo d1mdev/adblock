@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-06T22:00:10.839Z
+! Last modified: 2022-10-07T22:00:10.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kejasosy.com^
 ||cdn.neon.click^
 ||news.truth.delivery^
 ||swfly744.info^
@@ -4025,6 +4026,12 @@
 !
 !
 !
+||taboizo.mom^
+||qa24ljic4i.com^
+||privatespace.click^
+||bg4nxu2u5t.com^
+||aopdqdrkgqbtgci.com^
+||chautchy.net^
 ||modichytdc.com^
 ||mndsrv.com^
 ||brazzerssurvey.com^
@@ -5539,6 +5546,8 @@
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||mobidriven.com^
+||liftoff-creatives.io^
 ||shalltry.com^
 ||everestop.io^
 ||mmp001.scalemonk.com^
@@ -7046,6 +7055,7 @@
 ||ab913aa797e78b3.com^
 ||abakys.ru^
 ||abandonrecommendationwars.com^
+||abange.com^
 ||abasgimental.com^
 ||abasir.com^
 ||abattoirpleatsprinkle.com^
@@ -7123,6 +7133,7 @@
 ||acacdn.com^
 ||acareewitu.com^
 ||acaupail.net^
+||acc5a261f3.com^
 ||accedebuzz.com^
 ||accedednews.com^
 ||accedenonre.club^
@@ -9167,7 +9178,6 @@
 ||bfwckgmgkaq.com^
 ||bfxytxdpnk.com^
 ||bfypvmnytobqyn.xyz^
-||bg4nxu2u5t.com^
 ||bg6s0.com^
 ||bgaxgjre.xyz^
 ||bgektxiadljflu.xyz^
@@ -10013,6 +10023,7 @@
 ||celeb-ads.com^
 ||celeritascdn.com^
 ||celiberald.xyz^
+||celign.com^
 ||cellaraudacityslack.com^
 ||cellojapanel.one^
 ||cellsquickie.com^
@@ -11657,6 +11668,7 @@
 ||domccktop.com^
 ||domdex.com^
 ||domeleco.top^
+||domestich.xyz^
 ||domicileperil.com^
 ||dominoeds.com^
 ||domnlk.com^
@@ -12760,6 +12772,7 @@
 ||fd555b2faf5a40c.com^
 ||fd5orie8e.com^
 ||fd7qz88ckd.com^
+||fddf7d58ea.com^
 ||fdelphaswcealifornica.com^
 ||fdf1aacd86.com^
 ||fdf4.com^
@@ -12877,6 +12890,7 @@
 ||fiftis.com^
 ||figddlderciy.com^
 ||figgynudest.com^
+||figuis.com^
 ||figuredcurrantcroak.com^
 ||figuredprovocative.com^
 ||fiinann.com^
@@ -13517,6 +13531,7 @@
 ||ghcncwmm.com^
 ||ghettoschanse.com^
 ||ghfsegbrj.com^
+||ghlyrecome.xyz^
 ||ghmofgpoyafnref.xyz^
 ||ghostedridotto.com^
 ||ghosthis.review^
@@ -14628,6 +14643,7 @@
 ||ideliv.net^
 ||idelv.net^
 ||identads.com^
+||idesce.com^
 ||idiafix.com^
 ||idiarb.com^
 ||idiothungryensue.com^
@@ -14753,6 +14769,7 @@
 ||impril.com^
 ||improveapesbates.com^
 ||improvedevictpanther.com^
+||improviserelenthousing.com^
 ||imptywcjfvhqru.com^
 ||imstks.com^
 ||imuppvykdsys.xyz^
@@ -14894,6 +14911,7 @@
 ||instinctiveprotectionso.com^
 ||instivate.com^
 ||instraffic.com^
+||instructorstudied.com^
 ||instylekuman.com^
 ||insumber.com^
 ||insurancedeletemillion.com^
@@ -15066,6 +15084,7 @@
 ||itrustzone.site^
 ||itseedotor.com^
 ||itskiddoan.club^
+||itthatsheis.one^
 ||ittorchicer.com^
 ||itweedler.com^
 ||itweepinbelltor.com^
@@ -17194,6 +17213,7 @@
 ||multileaguebookstore.com^
 ||multimater.com^
 ||mumosy.com^
+||mumuendakuthyfo.xyz^
 ||mungfali.com^
 ||municalcurit.xyz^
 ||munori.com^
@@ -26631,6 +26651,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||t.c-rtb.com^
 ||testingmetriksbre.ru^
 ||t.ssp.hinet.net^
 ||bb8.aotter.net^
@@ -29997,6 +30018,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||farmerfireman.com^
 ||protestcopy.com^
 ||pointlesshour.com^
 ||cosmosjackson.com^
@@ -31075,6 +31097,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.seotraff.team^
 ||stats.landingi.com^
 ||trek.powtoon.com^
 ||biv.gazeta.pl^
@@ -36959,6 +36982,7 @@ vkcdnservice.appspot.com^
 ||d824d7f5cbcb0e00.com^
 ||d95d1c685a.6c142df43a.com^
 ||dearerfonder.info^
+||ducmiptu.net^
 ||e7393e33565ce805.com^
 ||edomz.com^
 ||edspectsm.fun^
