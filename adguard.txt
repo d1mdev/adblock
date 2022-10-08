@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-07T22:00:10.246Z
+! Last modified: 2022-10-08T22:00:11.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6409,6 +6409,7 @@
 ||01d0c91c0d.com^
 ||0210bb49cd.com^
 ||0265331.com^
+||028708717f.com^
 ||02aa19117f396e9.com^
 ||02b57bb965.com^
 ||0346420d60.com^
@@ -8348,6 +8349,7 @@
 ||arrnaught.com^
 ||arshelmeton.com^
 ||arshineensnarl.com^
+||arsnivyr.com^
 ||arsonexchangefly.com^
 ||arsonunemployedcask.com^
 ||arswabluchan.com^
@@ -9461,6 +9463,7 @@
 ||booknower.com^
 ||bookwormapricotconcealment.com^
 ||boom-boom-vroom.com^
+||boorishregt.com^
 ||boosirad.net^
 ||boost-next.co.jp^
 ||boostcdn.net^
@@ -10705,6 +10708,7 @@
 ||conumal.com^
 ||conurs.com^
 ||convdlink.com^
+||conventforgotten.com^
 ||conventionforgetful.com^
 ||convers.link^
 ||conversationsingerof.com^
@@ -11841,6 +11845,7 @@
 ||dubvacasept.com^
 ||ducina.com^
 ||duckswillsmoochyou.com^
+||ducmiptu.net^
 ||ducmissy.com^
 ||ductclickjl.com^
 ||ductquest.com^
@@ -16211,6 +16216,8 @@
 ||littlecutecats.com^
 ||littlecutedogs.com^
 ||littlecutelions.com^
+||littleneptunenews.com^
+||littlmarsnews22.com^
 ||litusher.com^
 ||livecheersharder.com^
 ||livelihoodpracticaloperating.com^
@@ -17617,6 +17624,7 @@
 ||nnxugnisebisq.xyz^
 ||no2veeamggaseber.com^
 ||noagliph.com^
+||noahparroty.com^
 ||noamiscience.pro^
 ||noanawie.com^
 ||noaon2.com^
@@ -18714,6 +18722,7 @@
 ||pegablackjal.com^
 ||pegasuson.com^
 ||peggedolga.com^
+||peggedperfins.com^
 ||peirs5tbakchios.com^
 ||peitet.com^
 ||pejqoq4cafo3bg9yqqqtk5e6s6.com^
@@ -25175,6 +25184,7 @@
 ||zxxds.net^
 ||zy16eoat1w.com^
 ||zybrdr.com^
+||zycaphede.com^
 ||zychologla.com^
 ||zyfufuge.com^
 ||zygrophochi.com^
@@ -35914,6 +35924,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.readme.io^
+||metrics.redgifs.com^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
 ||metrixlablw.customers.luna.net^
@@ -35983,6 +35994,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pub.sheknows.com^
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
+||px.redgifs.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
@@ -36982,7 +36994,6 @@ vkcdnservice.appspot.com^
 ||d824d7f5cbcb0e00.com^
 ||d95d1c685a.6c142df43a.com^
 ||dearerfonder.info^
-||ducmiptu.net^
 ||e7393e33565ce805.com^
 ||edomz.com^
 ||edspectsm.fun^
