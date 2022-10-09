@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-08T22:00:11.358Z
+! Last modified: 2022-10-09T22:00:12.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,10 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||fartmoda.com^
+||feneteko.com^
+||fiobio.ru^
+||forcelebrb.online^
 ||kejasosy.com^
 ||cdn.neon.click^
 ||news.truth.delivery^
@@ -4026,6 +4030,9 @@
 !
 !
 !
+||uii.io^
+||lebinaphy.com^
+||coinad.org^
 ||taboizo.mom^
 ||qa24ljic4i.com^
 ||privatespace.click^
@@ -6658,6 +6665,7 @@
 ||3daed168ad.com^
 ||3ec9b1217d.com^
 ||3ed671e3c0.com^
+||3fdcd25c24.com^
 ||3gporn.biz^
 ||3i1cx7b9nupt.com^
 ||3lr67y45.com^
@@ -6752,6 +6760,7 @@
 ||5b20a42861.com^
 ||5b5a93686577c13.com^
 ||5c577fc74618431b.com^
+||5c8877b0af.com^
 ||5c904214ff.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
@@ -8755,6 +8764,7 @@
 ||b13481647cf775c5.com^
 ||b13stop.com^
 ||b18a21ab3c9cb53.com^
+||b1de17f978.com^
 ||b1f6fe5e3f0c3c8ba6.com^
 ||b1f72fc1be.com^
 ||b1fb813dc806b7d.com^
@@ -8972,6 +8982,7 @@
 ||bcf8fbea24.com^
 ||bckcdquvbscu.com^
 ||bclheggx.com^
+||bclikeqt.com^
 ||bcloudhost.com^
 ||bcuuipewdz.com^
 ||bcxamyjtnzuf.com^
@@ -11122,6 +11133,7 @@
 ||dana123.com^
 ||dandelionbypasstestimony.com^
 ||dandiesvicua.com^
+||dandyblondewinding.com^
 ||dangerinsignificantinvent.com^
 ||danmeneldur.com^
 ||dantbritingd.club^
@@ -11135,6 +11147,7 @@
 ||dargtabet.com^
 ||daribahactaea.com^
 ||dariolunus.com^
+||darkerillegimateillegimateshade.com^
 ||darleygamball.cfd^
 ||dartarscuspids.casa^
 ||dartg665moetyor.com^
@@ -11171,6 +11184,7 @@
 ||daz3rw5a5k4h.com^
 ||dazhantai.com^
 ||db52cc91beabf7e8.com^
+||dbaujmgikas.com^
 ||dbbsrv.com^
 ||dbcache.fun^
 ||dbclix.com^
@@ -11262,6 +11276,7 @@
 ||deferencedilutemurmur.com^
 ||defetohi.com^
 ||defiantinfluencedtrustworthy.com^
+||defilt.com^
 ||definedlaunching.com^
 ||definitial.com^
 ||deformconversionorthodox.com^
@@ -11348,6 +11363,7 @@
 ||desabrator.com^
 ||desadu.com^
 ||descendantmystery.com^
+||descow.com^
 ||descrepush.com^
 ||descz.ovh^
 ||desekansr.com^
@@ -12758,6 +12774,7 @@
 ||favourablequickdelve.com^
 ||favouritesuitable.com^
 ||fb-plus.com^
+||fb332fdc0d.com^
 ||fb3aace890.com^
 ||fbcdn2.com^
 ||fbfd396918c60838.com^
@@ -13506,6 +13523,7 @@
 ||getsurv2you.org
 ||getsurv2you.org^
 ||getterobes.cam^
+||gettine.com^
 ||gettraffnews.com^
 ||getxml.org^
 ||geudtdngkums.com^
@@ -14243,6 +14261,7 @@
 ||heyad.xyz^
 ||hfc195b.com^
 ||hfmvtjpcd.com^
+||hfvamxbcfccycm.com^
 ||hg-bn.com^
 ||hg8dc7bm.com^
 ||hgbasics.com^
@@ -14508,6 +14527,7 @@
 ||hubzozo.com^
 ||hucolt.com^
 ||hududushy.com^
+||hufwitew.com^
 ||hugeincome.cf^
 ||hugelyantony.com^
 ||hugelyimmovable.com^
@@ -14686,6 +14706,7 @@
 ||ihfmftmhdfw.com^
 ||ihhscjskwht.com^
 ||ihjtrncfoha.com^
+||ihzuephjxb.com^
 ||iicheewi.com^
 ||iicsxxkdcy.com^
 ||iiueuenutuhaf.com^
@@ -16224,6 +16245,7 @@
 ||liveredwilton.com^
 ||livetalisay.com^
 ||livetellsspatter.com^
+||liveunderestimate.com^
 ||livezombymil.com^
 ||livwrite.com^
 ||lizivaje.xyz^
@@ -16938,6 +16960,7 @@
 ||minismss.xyz^
 ||minotaur107.com^
 ||minsistetricket.xyz^
+||mintsdrouket.com^
 ||minunetclose.com^
 ||mipism.com^
 ||miraclenecklace.com^
@@ -17069,6 +17092,7 @@
 ||moneymakercdn.com^
 ||monkeybroker.net^
 ||monksentrance.com^
+||monocotwhorry.com^
 ||monopolypenitentiarynegligence.com^
 ||monsterofnews.com^
 ||montafp.top^
@@ -18105,12 +18129,14 @@
 ||omenreally.com^
 ||omeroyoccu.xyz^
 ||omg2.com^
+||omggxbcdqj.com^
 ||omgpm.com^
 ||omgt4.com^
 ||omgt5.com^
 ||omitbailey.com^
 ||omitneitherrover.com^
 ||omkaaqtwzvc.com^
+||omlktdqrzwrtn.com^
 ||ommeowthor.com^
 ||omnan.com^
 ||omni-ads.com^
@@ -20419,6 +20445,7 @@
 ||rhtgyvbv.com^
 ||rhubarbsnagtip.com^
 ||rhudsplm.com^
+||rhuxbdcvncuufo.com^
 ||rhvdsplm.com^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
@@ -21656,6 +21683,7 @@
 ||specificmedia.com^
 ||specifiedinspector.com^
 ||specifypunkeventful.com^
+||specimenspeekzone.com^
 ||speckdiversitypiety.com^
 ||spectacleopinionatedminds.com^
 ||spectacularidentifiers.com^
@@ -22437,6 +22465,7 @@
 ||theraprecramp.com^
 ||therubiqube.com^
 ||thesaurussurf.com^
+||thesesooey.com^
 ||thesvicefgg.com^
 ||thetarhaw.com^
 ||thetaweblink.com^
@@ -22901,6 +22930,7 @@
 ||truefilen32.com^
 ||truernewlywait.com^
 ||truesweb.com^
+||trumphjardon.com^
 ||trunkmafia.com^
 ||trustaffs.com^
 ||trustbummler.com^
@@ -25648,6 +25678,7 @@
 ||bitcoset.com^
 ||bitonclick.com^
 ||bitraffic.com^
+||bitspush.io^
 ||bittads.com^
 ||bittraffic.io^
 ||bizx.info^
@@ -33818,6 +33849,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nimbleswan.io^
 ||notifpush.com^
 ||nxakpj4ac8gkd53.info^
+||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
 ||ostrichesica.com^
