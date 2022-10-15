@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-14T22:00:11.630Z
+! Last modified: 2022-10-15T22:00:11.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11185,6 +11185,7 @@
 ||dealsfor.life^
 ||dealtsowbite.com^
 ||dearestimmortality.com^
+||dearwbdikfecdvc.com^
 ||debadu.com^
 ||debatenell.com^
 ||debitswiping.com^
@@ -13078,6 +13079,7 @@
 ||formfulerses.com^
 ||formingcunninghump.com^
 ||formulacountess.com^
+||forognal.com^
 ||forsarrooving.com^
 ||fortaillowon.com^
 ||forthcomingpropelwho.com^
@@ -13846,6 +13848,7 @@
 ||gritchuw.com^
 ||grivupie.net^
 ||grjjngkemtpjqp.com^
+||grjywdbqepxhcc.com^
 ||grmtas.com^
 ||grmtmuabcrss.xyz^
 ||groajert.com^
@@ -14463,6 +14466,7 @@
 ||humejylu.com^
 ||humiliateirresistiblesore.com^
 ||humorshieldrecede.com^
+||humpdecompose.com^
 ||humpzip.com^
 ||humsoolt.net^
 ||hunchbackimpulse.com^
@@ -15778,6 +15782,7 @@
 ||kybladfrtfc.com^
 ||kychajuza.com^
 ||kykelped.com^
+||kylkmpenyjv.top^
 ||kymagachu.pro^
 ||kyriod.com^
 ||kythodoby.pro^
@@ -19222,6 +19227,7 @@
 ||proeroclips.pro^
 ||profbigo.com^
 ||professionallycloudlessbarber.com^
+||professionalsly.com^
 ||profi-para.com^
 ||profileknee.com^
 ||profitablecpmgate.com^
@@ -19858,6 +19864,7 @@
 ||rawasy.com^
 ||rawjeansadvertising.com^
 ||rawoarsy.com^
+||rawxgnuwolda.com^
 ||rayingburiat.com^
 ||raylnk.com^
 ||rayrecollect.com^
@@ -21493,6 +21500,7 @@
 ||spirliesalse.com^
 ||spirub.com^
 ||spitzerpfunde.com^
+||spiuft.com^
 ||spkcmgydiuin.com^
 ||spklmis.com^
 ||spkoevngk.com^
@@ -21865,6 +21873,7 @@
 ||suozmtcc.com^
 ||superadbid.com^
 ||superbdolly.com^
+||superbisle.com^
 ||superfastcdn.com^
 ||superfolder.net^
 ||superintendfancystrangely.com^
@@ -29793,6 +29802,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||retargetapp.com^
 ||crashchance.com^
 ||handsomehose.com^
 ||secondhandfall.com^
@@ -36374,7 +36384,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
-||torimochi.line-apps.com^
 ||track.thebase.in^
 ||tracker.520call.me^
 ||userdive.com^
