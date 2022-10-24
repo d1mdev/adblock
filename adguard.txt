@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-23T22:00:11.452Z
+! Last modified: 2022-10-24T22:00:12.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,9 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||zpcode11.com^
+||zpgetworker11.com^
+||fpzpmx.com^
 ||nkstkp.com^
 ||riseup-t-code.com^
 ||fartmoda.com^
@@ -4024,6 +4027,8 @@
 !
 !
 !
+||cosatoos.com^
+||jcdhgpqglpjwh.xyz^
 ||favorable-sample.com^
 ||wrigin.com^
 ||yljyjadlx.com^
@@ -6733,6 +6738,7 @@
 ||4c935d6a244f.com^
 ||4d4ac172b7.com^
 ||4dex.io^
+||4dfdf752cc.com^
 ||4dsbanner.net^
 ||4dtrk.com^
 ||4e37b45877.com^
@@ -16195,6 +16201,7 @@
 ||legerikath.com^
 ||legime.com^
 ||leginsi2leopard1oviy1hf.com^
+||legrea.com^
 ||lehechapunevent.com^
 ||lehtymns.com^
 ||leigunfax.com^
@@ -16434,6 +16441,7 @@
 ||locomotiveconvenientriddle.com^
 ||loctic.com^
 ||lodder6.biz^
+||loddingtoto.one^
 ||loedtamanac.com^
 ||loeingroost.com^
 ||loftiernucule.com^
@@ -16526,6 +16534,7 @@
 ||loxedchazan.com^
 ||loxitdat.com^
 ||loxtk.com^
+||lphkquhbxakveo.com^
 ||lplimjxiyx.com^
 ||lpnottech.com^
 ||lpuhcdnyejf.com^
@@ -18196,6 +18205,7 @@
 ||ofnumeltor.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
+||ofthecathedral.xyz^
 ||oftheussi.one^
 ||ogercron.com^
 ||oggifinogi.com^
@@ -20219,7 +20229,6 @@
 ||rayrecollect.com^
 ||razdvabm.com^
 ||razuphyju.com^
-||rb.gy^
 ||rboundgypster.com^
 ||rbyewcokbqlc.com^
 ||rcblkkhfvrxyn.com^
@@ -21955,6 +21964,7 @@
 ||spuezain.com^
 ||spurproteinopaque.com^
 ||spyafoepeyddb.xyz^
+||spybuildsoccasional.com^
 ||spzqxefawfeubq.com^
 ||sq2trk2.com^
 ||sqacbhlngoxw.com^
@@ -22677,6 +22687,7 @@
 ||thepopads.com^
 ||therapistpopulationcommentary.com^
 ||theraprecramp.com^
+||thereuponcanadian.com^
 ||therubiqube.com^
 ||thesaurussurf.com^
 ||thesesooey.com^
@@ -23292,6 +23303,7 @@
 ||tyjawhesu.com^
 ||tykinggowd.com^
 ||tylistedpro.xyz^
+||tylocinpechan.com^
 ||tylosischewer.com^
 ||tyluslandmil.com^
 ||tymukyno.xyz^
@@ -24263,6 +24275,7 @@
 ||watchercasketremained.com^
 ||watchingthat.com^
 ||watchingthat.net^
+||watchlivesports4k.club^
 ||watchmytopapp.top^
 ||watchtaro.com^
 ||waterproofmanipulativereunion.com^
@@ -26251,6 +26264,7 @@
 ||javbuzz.com^
 ||jewishcontentnetwork.com^
 ||jivox.com^
+||jobbio.com^
 ||jubna.com^
 ||juicyads.com^
 ||kaprila.com^
@@ -26338,6 +26352,7 @@
 ||movie-streams-online.com^
 ||mp3zik.net^
 ||multiview.com^
+||musody.com^
 ||myaffiliates.com^
 ||myopenads.com^
 ||n2s.co.kr^
@@ -26505,6 +26520,7 @@
 ||referback.com^
 ||registered-spotters-build.com^
 ||relytec.com^
+||resetoff.pl^
 ||revenueflex.com^
 ||revenuegiants.com^
 ||reyden-x.com^
@@ -26824,6 +26840,7 @@
 ||webgains.com^
 ||weborama.fr^
 ||weborama.io^
+||webshark.pl^
 ||webtrafic.ru^
 ||webwap.org^
 ||whatfinger.com^
@@ -26925,6 +26942,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pixel.ipinfo.io^
+||f4cebacks.com^
 ||pixmg.com^
 ||serveipqs.com^
 ||insights-collector.newrelic.com^
@@ -27781,7 +27800,6 @@
 ||analytics.jst.ai^
 ||freshmarketer.com^
 ||pepperjam.com^
-||pj.l.a8723.com^
 ||causecherry.com^
 ||agreeabletouch.com^
 ||popt.in^
@@ -31388,6 +31406,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mxpl.9gag.com^
+||click.e.change.org^
 ||cryo.socialblade.com^
 ||sp.welcometothejungle.com^
 ||analytics.evolution-x.org^
@@ -33999,6 +34019,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
+||a8723.com^
 ||aaxwall.com^
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
@@ -37365,9 +37386,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Oct 2022 17:48 UTC+7
-! Version: 2210231748
-! Blocked: 1.544 rules
+! Last modified: 24 Oct 2022 10:04 UTC+7
+! Version: 2210241004
+! Blocked: 1.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37822,6 +37843,7 @@ vkcdnservice.appspot.com^
 ||eurowin.top^
 ||f8bet0.com^
 ||f8bet5.com^
+||f8betaa.com^
 ||fa88.win^
 ||fabet.com^
 ||fabet.me^
