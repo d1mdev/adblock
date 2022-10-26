@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-25T22:00:11.820Z
+! Last modified: 2022-10-26T22:00:10.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||dominantroute.com^
 ||zpcode11.com^
 ||zpgetworker11.com^
 ||fpzpmx.com^
@@ -121,7 +122,6 @@
 ||mkkoifnukk.com^
 ||tobaltoyon.com^
 ||major-t-code.com^
-||viaqoo.tech^
 ||chicgar.info^
 ||iwe.ktvgv.com^
 ||mowunai.ru^
@@ -4027,6 +4027,10 @@
 !
 !
 !
+||sonic-ui.highereducation.com^
+||appalspowters.com^
+||htthereflewove.xyz^
+||viaqoo.tech^
 ||hisurnhuh.com^
 ||scentedindication.com^
 ||eiyoatxbrbyu.com^
@@ -6988,6 +6992,7 @@
 ||8dc832e7e4.com^
 ||8dfaa2dc76855.com^
 ||8eca555d94.com^
+||8f28049c79.com^
 ||8ff01bde37db289d5.com^
 ||8gs4unh05aq6.com^
 ||8jay04c4q7te.com^
@@ -10229,6 +10234,7 @@
 ||cheno3yp5odt7iume.com^
 ||chepsigrade.pro^
 ||cherniy2sviter11j.com^
+||chestfoollo.one^
 ||chestors.com^
 ||cheumy.com^
 ||chewsrompedhemp.com^
@@ -11188,6 +11194,7 @@
 ||dairyabreast.com^
 ||daischerendragkur.ga^
 ||daisycontroversy.com^
+||daitoase.com^
 ||daizoode.com^
 ||dakolk.com^
 ||dalarorganic.casa^
@@ -11761,7 +11768,6 @@
 ||domeleco.top^
 ||domestich.xyz^
 ||domicileperil.com^
-||dominantroute.com^
 ||dominoeds.com^
 ||domnlk.com^
 ||domslc.com^
@@ -12377,6 +12383,7 @@
 ||emmermyotic.com^
 ||emolah.com^
 ||emolapnay.com^
+||emostbeautif.xyz^
 ||emphen.com^
 ||empill.com^
 ||empirelayer.club^
@@ -12800,6 +12807,7 @@
 ||faithcollarhook.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyfridge.com^
+||faitis.com^
 ||fakeallow.com^
 ||fakeerupriser.com^
 ||fakesorange.com^
@@ -18902,6 +18910,7 @@
 ||pc2ads.com^
 ||pcdnlt.com^
 ||pclk.name^
+||pclrwuqv.com^
 ||pcmclks.com^
 ||pctlwm.com^
 ||pctsrv.com^
@@ -22056,6 +22065,7 @@
 ||ssyajuhvf.com^
 ||st-rdirect.com^
 ||st1net.com^
+||stabbr.com^
 ||stabilityvatinventory.com^
 ||stackattacka.com^
 ||stadiumembezzlementoil.com^
@@ -23209,6 +23219,7 @@
 ||truthfulstem.com^
 ||trybulgingcoefficient.com^
 ||trymynewspirit.com^
+||trymysadoroh.site^
 ||tryq.xyz^
 ||trytipemo.com^
 ||trzi30ic.com^
@@ -24186,6 +24197,7 @@
 ||vtfdfrxfxktq.xyz^
 ||vth05dse.com^
 ||vubihowhe.com^
+||vucdmuvavnu.com^
 ||vuclmvrq.xyz^
 ||vudoutch.com^
 ||vueqfdry.com^
@@ -26979,6 +26991,10 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracking3.vnncdn.net^
+||analytics.dap-networks.de^
+||analytics.algolia.com^
+||t.360.audion.fm^
 ||withcabin.com^
 ||pixel.ipinfo.io^
 ||f4cebacks.com^
@@ -31444,6 +31460,12 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||lists.ccmbg.com^
+||track-srv.vietnamnet.vn^
+||stats.zone-telechargement.
+||stats.tirexo.blue^
+||cnt.streamz.ws^
+||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
@@ -33032,8 +33054,6 @@
 ||stats.wwd.com^
 ||stats.ynet.co.il^
 ||stats.zmags.com^
-||stats.zone-telechargement.click^
-||stats.zone-telechargement.work^
 ||stats01.20min.ch^
 ||stats1.wpmudev.com^
 ||stats2.arstechnica.com^
@@ -36250,7 +36270,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||insights.plista.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
-||intake-analytics.wikimedia.org^
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||ipapi.tmbi.com^
@@ -36288,6 +36307,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||lore.circulate.com^
 ||lucid.mjhassoc.com^
 ||lunametrics.wpengine.netdna-cdn.com^
+||m.stripe.com^
 ||ma.logsss.com^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
@@ -36375,6 +36395,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
+||r.stripe.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||refer.ccbill.com^
@@ -36838,6 +36859,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affiliation.planethoster.info^
 ||analytics.freespee.com^
 ||analytics.valiuz.com^
+||at.360.audion.fm^
 ||btstats.devtribu.fr^
 ||calotag.com^
 ||collect-v6.51.la^
@@ -37425,8 +37447,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Oct 2022 09:36 UTC+7
-! Version: 2210250936
+! Last modified: 26 Oct 2022 15:18 UTC+7
+! Version: 2210261518
 ! Blocked: 1.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -37649,7 +37671,6 @@ vkcdnservice.appspot.com^
 ||tracking.tv.zing.vn^
 ||tracking.vnncdn.net^
 ||tracking2.vnncdn.net^
-||tracking3.vnncdn.net^
 ||trk-pcweb.api.zaloapp.com^
 ||urekamedia.com^
 ||v20.cnnd.vn^
@@ -38842,7 +38863,6 @@ vkcdnservice.appspot.com^
 ||toppage.vn^
 ||tr.topdevvn.com^
 ||tracer.concung.com^
-||track-srv.vietnamnet.vn^
 ||track.adshay.vn^
 ||track.icheck.com.vn^
 ||track.kyna.vn^
