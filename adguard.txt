@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-26T22:00:10.228Z
+! Last modified: 2022-10-27T22:00:11.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3744,6 +3744,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||relap.mail.ru^
 ||api.ucheba.ru^
 ||banners.tapclap.com^
 ||compare.meteoservice.ru^
@@ -3962,6 +3963,7 @@
 ! Bad:  ||smi24.kz/banners/ (should be in specific.txt)
 !
 !
+||ini.sm-nat.com^
 ||smi24.kz^
 ||virtonnews.com^
 ||top-js-metrics.top.my.ua^
@@ -4027,6 +4029,9 @@
 !
 !
 !
+||grootcho.com^
+||zausosti.net^
+||kwyuivlaychxe.com^
 ||sonic-ui.highereducation.com^
 ||appalspowters.com^
 ||htthereflewove.xyz^
@@ -6700,6 +6705,7 @@
 ||3daed168ad.com^
 ||3ec9b1217d.com^
 ||3ed671e3c0.com^
+||3fab5e7874.com^
 ||3fdcd25c24.com^
 ||3gporn.biz^
 ||3i1cx7b9nupt.com^
@@ -6870,6 +6876,7 @@
 ||6bgaput9ullc.com^
 ||6c25910c97.com^
 ||6d79qh7j.com^
+||6e3ee87ff2.com^
 ||6f0a737559.com^
 ||6f2tjr26.top^
 ||6fe24753fb.com^
@@ -9706,6 +9713,7 @@
 ||bsbaduacvwoeee.com^
 ||bshrdr.com^
 ||bsjltmrejgnlk.com^
+||bslpbucu.com^
 ||bst-offers.com^
 ||bszmpfaj.com^
 ||btagmedia.com^
@@ -10015,6 +10023,7 @@
 ||catwenbat.com^
 ||catwrite.com^
 ||catynydy.com^
+||caugs.com^
 ||causerestrainrecorder.com^
 ||causlesscauslessswanmidday.com^
 ||cauthaushoas.com^
@@ -10958,6 +10967,7 @@
 ||crestfallenwall.com^
 ||cretgate.com^
 ||crewelkain.com^
+||crhneation.xyz^
 ||criantsleck.com^
 ||cribbolts.com^
 ||cribut.com^
@@ -12418,6 +12428,7 @@
 ||enebut.com^
 ||enemieshemisphere.com^
 ||energeticholder.com^
+||eneverthewin.xyz^
 ||engagedthicketforeman.com^
 ||engagementpolicelick.com^
 ||enginedriverflexible.com^
@@ -12525,6 +12536,7 @@
 ||erihj.com^
 ||erimal.com^
 ||erinitesorchin.com^
+||erjpbcielh.com^
 ||erlier.com^
 ||erm5aranwt7hucs.com^
 ||ermitteedi.biz^
@@ -14061,7 +14073,6 @@
 ||groomoub.com^
 ||grooptie.com^
 ||grooseem.net^
-||grootcho.com^
 ||groowzer.com^
 ||gropsanyda.com^
 ||grosseaffiche.com^
@@ -14132,6 +14143,7 @@
 ||gunzblazingpromo.com^
 ||gupffyba.com^
 ||gurimix.com^
+||gurliecghpjbw.com^
 ||guro2.com^
 ||gurswdsyuah.xyz^
 ||gussame.com^
@@ -16059,6 +16071,7 @@
 ||labourmuttering.com^
 ||labourpushed.com^
 ||labsappland.com^
+||lacquerreddeform.com^
 ||lacredentialsupplies.com^
 ||ladbrokesaffiliates.com.au^
 ||ladnet.co^
@@ -16303,6 +16316,7 @@
 ||li2meh6eni3tis.com^
 ||libcdn.xyz^
 ||libedgolart.com^
+||libedt.com^
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libertywallow.com^
@@ -17360,6 +17374,7 @@
 ||mpk01.com^
 ||mpkwleyxkmt.com^
 ||mployeesihi.xyz^
+||mpnoqwbkz.com^
 ||mpnrs.com^
 ||mpnvhuokd.com^
 ||mpoagbhupufon.com^
@@ -19871,6 +19886,7 @@
 ||purpleflag.net^
 ||purplepatch.online^
 ||purpreine.co^
+||pursedistraught.com^
 ||pursuitnauseousinvalid.com^
 ||purveystiralee.com^
 ||puscxnhsksnunxs.com^
@@ -21088,6 +21104,7 @@
 ||sailcovertend.com^
 ||sailif.com^
 ||sailorbottleaskew.com^
+||saimifoa.net^
 ||saipel.com^
 ||saishait.net^
 ||saiveewe.net^
@@ -24613,6 +24630,7 @@
 ||wizhumpgyros.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
+||wjhstylq.com^
 ||wjjjmruwucuibfj.com^
 ||wjjsskhcqrsbg.com^
 ||wkfdymfxmyckr.com^
@@ -25328,6 +25346,7 @@
 ||zangocash.com^
 ||zaomavzcoww.com^
 ||zaparena.com^
+||zapdescendant.com^
 ||zapunited.com^
 ||zationserv.one^
 ||zatnoh.com^
@@ -26991,6 +27010,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||extole.io^
 ||tracking3.vnncdn.net^
 ||analytics.dap-networks.de^
 ||analytics.algolia.com^
@@ -31460,6 +31480,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track1.avplayer.com^
+||sgtm.simoahava.com^
 ||lists.ccmbg.com^
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
@@ -34495,7 +34517,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||evorra.net^
 ||excited.me^
 ||exorigos.com^
-||extole.io^
 ||f92j5.com^
 ||faktor.io^
 ||fdxstats.xyz^
@@ -34600,7 +34621,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iqdata.ai^
 ||iqm.com^
 ||ironbeast.io^
-||iterable.com^
 ||ithinkthereforeiam.net^
 ||itrac.it^
 ||itracker360.com^
@@ -37447,8 +37467,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Oct 2022 15:18 UTC+7
-! Version: 2210261518
+! Last modified: 27 Oct 2022 13:53 UTC+7
+! Version: 2210271353
 ! Blocked: 1.545 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
