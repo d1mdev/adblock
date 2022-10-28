@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-27T22:00:11.634Z
+! Last modified: 2022-10-28T22:00:11.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -34155,6 +34155,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fastgull.io^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
+||ffe390afd658c19dcbf707e0597b846d.de^
 ||fixel.ai^
 ||fn-pz.com^
 ||fpapi.io^
@@ -34162,6 +34163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fpavx.net^
 ||fpaxu.net^
 ||fpcdn.io^
+||fptls.com^
 ||fpxau.net^
 ||fzlnk.com^
 ||g11686975765.co^
