@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-10-31T23:00:12.089Z
+! Last modified: 2022-11-01T23:00:11.490Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31727,6 +31727,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.etoday.co.kr^
+||u.zhugeapi.net^
+||ubak.zhugeapi.net^
+||zgsdk.zhugeio.com^
 ||track1.avplayer.com^
 ||sgtm.simoahava.com^
 ||lists.ccmbg.com^
@@ -34594,6 +34598,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ampush.io^
 ||analitycs.net^
 ||analytically.net^
+||analytics-helper.com^
 ||analyticschecker.com^
 ||analyticson.com^
 ||angorch-cdr7.com^
@@ -35110,6 +35115,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||simpleheatmaps.com^
+||sirdata.eu^
 ||sirdata.io^
 ||siteimproveanalytics.io^
 ||siteplug.com^
@@ -36337,6 +36343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beacon.flow.io^
 ||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
+||beacon.sftoaa.com^
 ||beacon.squixa.net^
 ||beacon.statful.com^
 ||beacon.viewlift.com^
@@ -37718,8 +37725,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 31 Oct 2022 09:17 UTC+7
-! Version: 2210310917
+! Last modified: 01 Nov 2022 09:55 UTC+7
+! Version: 2211010955
 ! Blocked: 1.552 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
