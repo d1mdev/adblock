@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-06T23:00:10.565Z
+! Last modified: 2022-11-07T23:00:11.413Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4031,6 +4031,10 @@
 !
 !
 !
+||ojqbnqdwycws.com^
+||mpmqqbinaakpsqu.xyz^
+||fensough.xyz^
+||heptaneleaner.com^
 ||updatemobilee.com^
 ||ocwagmlizb.com^
 ||owkuwquf.com^
@@ -4041,7 +4045,6 @@
 ||monkeysloveyou.com^
 ||robsardri.com^
 ||morningglory101.io^
-||3c5.com^
 ||kzsfip3v.cfd^
 ||lephaush.net^
 ||grootcho.com^
@@ -17256,6 +17259,7 @@
 ||klixfeed.com^
 ||klkus.xyz^
 ||klmwrwnvdjje.com^
+||kloperd.com^
 ||kloynfsag.com^
 ||klruiogdkhgtha.com^
 ||kmeukiygmr.com^
@@ -28840,6 +28844,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||tracking-api.hotmart.com^
 ||tag.statshop.fr^
 ||extole.io^
 ||tracking3.vnncdn.net^
@@ -35456,6 +35461,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||analytics.kongregate.io^
 -spiky.clevertap-prod.com^
 ||logs.gshopper.com^
 ||airlytics.airlock.twcmobile.weather.com^
@@ -36037,6 +36043,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||idx.lat^
 ||impactcdn.com^
 ||impactradius-event.com^
+||ineed2s.ro^
 ||innerskinresearch.com^
 ||instantfox.co^
 ||intellimizeio.com^
@@ -39275,8 +39282,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Nov 2022 23:02 UTC+7
-! Version: 2211062302
+! Last modified: 07 Nov 2022 08:55 UTC+7
+! Version: 2211070855
 ! Blocked: 1.552 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
