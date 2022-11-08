@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-07T23:00:11.413Z
+! Last modified: 2022-11-08T23:00:11.322Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3745,6 +3745,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
 ||api.ucheba.ru^
@@ -4031,6 +4032,7 @@
 !
 !
 !
+||maturecodes.com^
 ||ojqbnqdwycws.com^
 ||mpmqqbinaakpsqu.xyz^
 ||fensough.xyz^
@@ -6482,6 +6484,7 @@
 ||0a81d7e23a.com^
 ||0azx1.com^
 ||0b07d5f0b1.com^
+||0b4cdd5af5.com^
 ||0c257610de.com^
 ||0c4bc6060b.com^
 ||0c6fb44787.com^
@@ -6632,6 +6635,7 @@
 ||27417130d3.com^
 ||2748cfaad3.com^
 ||277ryf6nabi0.com^
+||27a25cc598.com^
 ||27f51e5610.com^
 ||27vckaccbto7p761.pro^
 ||2803e11a21.com^
@@ -9067,6 +9071,7 @@
 ||atokefissure.com^
 ||atombearable.com^
 ||atomex.net^
+||atomieswidener.com^
 ||atonato.de^
 ||atonementimmersedlacerate.com^
 ||atpanchama.com^
@@ -9312,6 +9317,7 @@
 ||awjljftjplprdml.com^
 ||awjvnfncw.com^
 ||awkwardtelegram.com^
+||awledconside.xyz^
 ||awlnqqackjkixk.com^
 ||awmbed.com^
 ||awmdelivery.com^
@@ -10273,6 +10279,7 @@
 ||blessingsome.com^
 ||blewtheleledm.one^
 ||bligqrrlglcmw.com^
+||blindlydutra.com^
 ||blindlyidle.com^
 ||blindlytinsel.com^
 ||blinkadr.com^
@@ -13554,6 +13561,7 @@
 ||embodimentabstain.com^
 ||embogsoarers.com^
 ||embtrk.com^
+||embuebreme.com^
 ||emccgujavc.xyz^
 ||emediate.dk^
 ||ememoricane.info^
@@ -14043,6 +14051,7 @@
 ||farteniuson.com^
 ||fascinatedgreetedgerminate.com^
 ||fascinatingappraisalunderestimate.com^
+||fashionablegangsterexplosion.com^
 ||faskoleb.com^
 ||fast2click.ru^
 ||fastapi.net^
@@ -14184,6 +14193,7 @@
 ||feyl4mh5to.com^
 ||feyxyguwy.com^
 ||ff5bd8d9f8df.com^
+||ff9ffc838f.com^
 ||ffbrfjnhhf.com^
 ||ffcbynqble.xyz^
 ||ffkdxymyji.com^
@@ -15979,6 +15989,7 @@
 ||huckauhy.com^
 ||hucolt.com^
 ||hudggknrylp.com^
+||hudsongivin.com^
 ||hududushy.com^
 ||hugeincome.cf^
 ||hugelyantony.com^
@@ -16529,6 +16540,7 @@
 ||iqzgqivb.com^
 ||irardijjyawmool.xyz^
 ||iratelyveinlet.com^
+||irbtiaybbjrule.com^
 ||irchincsp.com^
 ||irecid.com^
 ||iredirect.net^
@@ -16730,6 +16742,7 @@
 ||jebure.com^
 ||jechesmacaltont.info^
 ||jeckiqcdfbmcxa.xyz^
+||jeckoort.com^
 ||jecoglegru.com^
 ||jecumapu.com^
 ||jeehathu.com^
@@ -18208,6 +18221,7 @@
 ||mantledonager.com^
 ||mantlefluent.com^
 ||manualcasketlousy.com^
+||manufacturerexpandedagrarian.com^
 ||manysoftlink.ru^
 ||mapaupotting.com^
 ||mapekony.com^
@@ -20076,6 +20090,7 @@
 ||ouftukoo.net^
 ||ouftuthy.net^
 ||oughtbuilding.com^
+||ougnauls.com^
 ||ougribot.net^
 ||ouhavebe.xyz^
 ||ouibsuutweahb.top^
@@ -20933,6 +20948,7 @@
 ||popxperts.com^
 ||popxyz.com^
 ||porase.com^
+||porbed.com^
 ||porcelainfurtherties.com^
 ||poredii.com^
 ||pornaqua.com^
@@ -21196,6 +21212,7 @@
 ||prosecutorcessationdial.com^
 ||prospecttunaante.com^
 ||prospergenerosityperformance.com^
+||prosthong.com^
 ||prostotds.ru^
 ||prosumsit.com^
 ||protagcdn.com^
@@ -21312,6 +21329,7 @@
 ||ptaimpeerte.com^
 ||ptainses.com^
 ||ptaissud.com^
+||ptapephygli.com^
 ||ptapjmp.com^
 ||ptarepjx.com^
 ||ptaulratch.com^
@@ -21951,6 +21969,7 @@
 ||recurseagin.com^
 ||recyclingbees.com^
 ||redads.biz^
+||redanludb.xyz^
 ||reddenjaguarsuitcase.com^
 ||reddenmusician.com^
 ||reddsdainful.com^
@@ -22324,6 +22343,8 @@
 ||riskoccur.com^
 ||risolk.com^
 ||risopsuphu.com^
+||rissianpotiche.com^
+||riteseated.com^
 ||rithimyphu.com^
 ||ritualwarily.com^
 ||riverhit.com^
@@ -22639,6 +22660,7 @@
 ||rycuvaphy.com^
 ||rydresa.info^
 ||ryeeffortoccupy.com^
+||ryeqnyvbncdvg.com^
 ||ryminos.com^
 ||rynlrkqgyjqfaxs.com^
 ||ryntmyhahy.com^
@@ -22977,6 +22999,7 @@
 ||serbianstonish.com^
 ||serch26.biz^
 ||serdaive.com^
+||sereanstanza.com^
 ||serenityspokenrust.com^
 ||serfle.com^
 ||serialwarning.com^
@@ -23605,6 +23628,7 @@
 ||spinaleighth.com^
 ||spinbiased.com^
 ||spinbox.net^
+||spinsterremnantstooped.com^
 ||spirab.com^
 ||spiralstab.com^
 ||spiritedirreparablemiscarriage.com^
@@ -23925,6 +23949,7 @@
 ||studentstunnel.com^
 ||stuffedprofessional.com^
 ||stuffpotencydisciple.com^
+||stugsoda.com^
 ||stumbledmadeiraselfcontrol.com^
 ||stunninglover.com^
 ||stunningruin.com^
@@ -24246,6 +24271,7 @@
 ||tdsrotations.ru^
 ||tdtxjhel.com^
 ||tdufdcnjatnj.top^
+||tdugvspdnq.com^
 ||teambetaffiliates.com^
 ||tearoomruchbah.com^
 ||tearpilotzoo.com^
@@ -24602,6 +24628,7 @@
 ||tkgcldjmegxn.com^
 ||tkgiqyqyyxku.com^
 ||tkickhhylnvm.com^
+||tkieqbqxgxrvhqe.xyz^
 ||tklaxrrzzo.com^
 ||tkonyrkc.com^
 ||tksgjhukenbcu.com^
@@ -26228,6 +26255,7 @@
 ||wesicuros.com^
 ||westerdayeol.site^
 ||wetfailjwt.com^
+||wetlan.com^
 ||wetpeachcash.com^
 ||wewon.to^
 ||wezathejy.pro^
@@ -26950,6 +26978,7 @@
 ||ygudtbdnhkhlmkd.xyz^
 ||yguuoibdsscki.com^
 ||ygzkedoxwhqlzp.com^
+||yhdvbkqweuxa.com^
 ||yhhtmdvuubnbtbp.com^
 ||yhiddehfqrrkp.xyz^
 ||yhmgqevtybbku.com^
@@ -33316,6 +33345,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||client-analytics.mts.ru^
 ||analytics-wcms.joins.net^
 ||as.tarnkappe.info^
 ||analytics.mall.tv^
@@ -39282,9 +39312,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Nov 2022 08:55 UTC+7
-! Version: 2211070855
-! Blocked: 1.552 rules
+! Last modified: 08 Nov 2022 23:28 UTC+7
+! Version: 2211082328
+! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39822,6 +39852,7 @@ vkcdnservice.appspot.com^
 ||i99903.com^
 ||i99906.com^
 ||i99908.com^
+||i9bet102.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
