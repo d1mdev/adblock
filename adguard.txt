@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-08T23:00:11.322Z
+! Last modified: 2022-11-09T23:00:12.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4032,6 +4032,22 @@
 !
 !
 !
+||tegronews.com^
+||guesswhatnews.com^
+||luronews.com^
+||deeginews.com^
+||gofenews.com^
+||jemonews.com^
+||rookinews.com^
+||sifenews.com^
+||huronews.com^
+||selornews.com^
+||loopanews.com^
+||xymhdmqrjxwl.com^
+||ujvidekck.com^
+||facaltow.net^
+||zeofnuvzsh.com^
+||iigmlx.com^
 ||maturecodes.com^
 ||ojqbnqdwycws.com^
 ||mpmqqbinaakpsqu.xyz^
@@ -10608,6 +10624,7 @@
 ||brighteroption.com^
 ||brightonclick.com^
 ||brightshare.com^
+||brigi-jar.com^
 ||brillspedlars.com^
 ||briolenproc.pics^
 ||brioletredeyes.com^
@@ -39312,8 +39329,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Nov 2022 23:28 UTC+7
-! Version: 2211082328
+! Last modified: 09 Nov 2022 11:50 UTC+7
+! Version: 2211091150
 ! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39341,7 +39358,6 @@ vkcdnservice.appspot.com^
 ||adsbanner.game.zing.vn^
 ||adsota.com^
 ||adsplay.net^
-||adsplay.xyz^
 ||adstracking.apps.zing.vn^
 ||adtima-common.zadn.vn^
 ||adtima-common.zascdn.me^
@@ -39443,7 +39459,6 @@ vkcdnservice.appspot.com^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
 ||matomo.*.vn^
-||mautic.*.com.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
@@ -39702,6 +39717,7 @@ vkcdnservice.appspot.com^
 ||bigwinvietnam.com^
 ||bk8.live^
 ||bk8c.com^
+||bk8p.com^
 ||bk8vietnam.com^
 ||bk8vnd.com^
 ||bogcuoc.com^
@@ -39754,6 +39770,7 @@ vkcdnservice.appspot.com^
 ||dk8.games^
 ||dk8.link^
 ||dk802.com^
+||dk8815.com^
 ||dola88.info^
 ||ebet.com^
 ||eclbet02.com^
