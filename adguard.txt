@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-13T23:00:11.450Z
+! Last modified: 2022-11-14T23:00:11.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4032,6 +4032,8 @@
 !
 !
 !
+||push-sdk.net^
+||anzu.io^
 ||compulsionspotsbeacon.com^
 ||searchmarquis.com^
 ||tegronews.com^
@@ -7044,6 +7046,7 @@
 ||823bc1a6cd3f1657.com^
 ||82448dceaaa13034.com^
 ||827fa7c868b4b.com^
+||82a89f6527.com^
 ||82dbb7897b.com^
 ||82eb361582.com^
 ||840df00e08.com^
@@ -9260,6 +9263,7 @@
 ||automaticallyindecisionalarm.com^
 ||autopsycarrel.com^
 ||autopsyglossy.com^
+||autsaisu.xyz^
 ||autsapsu.net^
 ||auuayepftovx.com^
 ||auudcptpkpfdu.top^
@@ -10005,6 +10009,7 @@
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
 ||besteasyclick.com^
+||bestexp1.com^
 ||bestialjames.com^
 ||bestloans.tips^
 ||bestnewsoft.ru^
@@ -10635,6 +10640,7 @@
 ||brfddmrfb.com^
 ||brftedjb.com^
 ||brgvlyaccixnbnu.xyz^
+||bridalspottagy.com^
 ||bridgerbristle.com^
 ||briefcasebuoyduster.com^
 ||briefsupbuoy.com^
@@ -11092,6 +11098,7 @@
 ||ccn08sth.de^
 ||ccqoeqerehkhsj.com^
 ||ccrmyenu.xyz^
+||cd1ca3a884.com^
 ||cd239ecf15.com^
 ||cd490573c64f3f.com^
 ||cd828.com^
@@ -11431,6 +11438,7 @@
 ||cisheeng.com^
 ||cismovernm.com^
 ||cistusbram.website^
+||citary.com^
 ||citatumpity.com^
 ||cituasacrals.website^
 ||citydsp.com^
@@ -11485,6 +11493,7 @@
 ||claspluke.com^
 ||class2deal.com^
 ||classionreactice.info^
+||clauge.com^
 ||clavklnaluwxxf.com^
 ||claxonmedia.com^
 ||clayierglaiks.com^
@@ -13963,6 +13972,7 @@
 ||f688add167.com^
 ||f6c456a438.com^
 ||f6d56854f2.com^
+||f78f9d3fc2.com^
 ||f8260adbf8558d6.com^
 ||f853150605ccb.com^
 ||f86c0f6c3b.com^
@@ -14306,6 +14316,7 @@
 ||fixsirrod.site^
 ||fizzesilicic.com^
 ||fizzythick.com^
+||fjaxplid.com^
 ||fjioh.com^
 ||fjiruslmc.xyz^
 ||fjklmfhhmsoebjg.com^
@@ -17096,6 +17107,7 @@
 ||kdwwiejwhhwbxny.com^
 ||kdzjjoolf.com^
 ||keaklelwwpfkx.com^
+||keamateorski.xyz^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
 ||kechacecha.com^
@@ -17166,6 +17178,7 @@
 ||kgua0o66bcw8.com^
 ||khaate.com^
 ||khandragthresh.com^
+||khanjeeyapness.website^
 ||khayatarai.com^
 ||khedarigel.com^
 ||khellinturkish.com^
@@ -18037,6 +18050,7 @@
 ||lwullghht.com^
 ||lx2rv.com^
 ||lxdrddeomww.com^
+||lxfsimoastsiite.xyz^
 ||lxgerdcitg.com^
 ||lxgmgalmrxqlj.xyz^
 ||lxphwibrkt.xyz^
@@ -18897,6 +18911,7 @@
 ||mydailynewz.com^
 ||mydiethub.com^
 ||mydisuho.pro^
+||myeasetrack.com^
 ||myfastcdn.com^
 ||myfrank.xyz^
 ||mygoodlives.com^
@@ -18938,6 +18953,7 @@
 ||mzcsuuuwox.com^
 ||mzlscqarnm.com^
 ||mzol7lbm.com^
+||mzunuvof.com^
 ||n0299.com^
 ||n0355.com^
 ||n0400.com^
@@ -18969,6 +18985,7 @@
 ||naigristoa.com^
 ||naisoops.net^
 ||naivetebibbed.com^
+||naiviteusuress.com^
 ||najsdnkdqpsd.com^
 ||nakamasweb.com^
 ||nakedfulfilhairy.com^
@@ -19365,7 +19382,6 @@
 ||notifypicture.info^
 ||notifysrv.com^
 ||notionnalisent.xyz^
-||notix.io^
 ||notorietycheerypositively.com^
 ||noucoush.net^
 ||nougacoush.com^
@@ -20763,6 +20779,7 @@
 ||pluffdoodah.com^
 ||plugerr.com^
 ||pluggednow.com^
+||plugmenrapists.com^
 ||plugs.co^
 ||plumbingcurlproximity.com^
 ||plumbummoca.com^
@@ -23061,6 +23078,7 @@
 ||shoizifjwosvk.com^
 ||shokala.com^
 ||sholombombic.com^
+||shonalanital.com^
 ||shooksap.net^
 ||shoop4.com^
 ||shootoax.com^
@@ -23698,6 +23716,7 @@
 ||statisticsdemandeddeficit.com^
 ||statsforads.com^
 ||statsmobi.com^
+||staturereactioncollect.com^
 ||staureez.net^
 ||staurtur.net^
 ||stauru.com^
@@ -24138,6 +24157,7 @@
 ||tattepush.com^
 ||tattid.com^
 ||taunhhcx.com^
+||tawrzic.com^
 ||taxedborley.com^
 ||taxmartbrevity.com^
 ||taxodiu2m2dis7tichum.com^
@@ -24597,6 +24617,7 @@
 ||tookimookin.com^
 ||toonikab.com^
 ||toonoost.net^
+||toorebutheh.xyz^
 ||tootseloin.com^
 ||tooviolatesymptom.com^
 ||top-offers1.com^
@@ -25893,6 +25914,7 @@
 ||vt894axs16.com^
 ||vtfdfrxfxktq.xyz^
 ||vth05dse.com^
+||vtmspnvk.com^
 ||vtrnpueqtqke.xyz^
 ||vubihowhe.com^
 ||vucdmuvavnu.com^
@@ -26362,6 +26384,7 @@
 ||wnhlsqfxnn.com^
 ||wnllmofqxsziio.com^
 ||wnp.com^
+||wnpladv.com^
 ||woafoame.net^
 ||woakcayapo.com^
 ||woaneezy.com^
@@ -26512,6 +26535,7 @@
 ||wwbelehf.com^
 ||wwfepjszewf.com^
 ||wwfx.xyz^
+||wwhgb5.com^
 ||wwija.com^
 ||wwjijoywqiu.xyz^
 ||wwlipxritaoo.com^
@@ -27049,6 +27073,7 @@
 ||ywbcdeyqgfzx.com^
 ||ywgcbcibz.com^
 ||ywguxlwjbxnj.com^
+||ywobqrhsh.com^
 ||ywodpsbzl.com^
 ||ywxigvzbkqg.com^
 ||yxajqsrsij.com^
@@ -33238,6 +33263,12 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||real-feedback.toros.daum.net^
+||pingback.giphy.com^
+||utsssl.auction.co.kr^
+||uts.auction.co.kr
+||montelena-rcv.auction.co.kr^
+||analytics.zoomit.ir^
 ||prd-collector-platform.ex.co^
 ||pixel.ex.co^
 ||ad*.ettoday.net^
@@ -35971,7 +36002,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||glimr.io^
 ||glookup.info^
 ||googleoptimize.com^
-||gsght.com^
 ||hdmtools.com^
 ||hsadspixel.net^
 ||hsleadflows.net^
@@ -36032,6 +36062,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||raac33.net^
 ||rapidpanda.io^
 ||rapidzebra.io^
+||realtimely.io^
 ||rezync.com^
 ||rfpx1.com^
 ||rigill.com^
@@ -36356,6 +36387,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gotrk.net^
 ||granify.com^
 ||grumrt.com^
+||gsght.com^
 ||gweini.com^
 ||haloscan.com^
 ||havasedge.com^
@@ -36862,6 +36894,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||notify.solutions^
 ||notiks.io^
 ||notiksio.com^
+||notix.io^
 ||olgtex.com^
 ||on-push.com^
 ||onepush.app^
@@ -37642,6 +37675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sambaads.com^
 ||shoptarget.com.br^
 ||trugaze.io^
+||voxus.com.br^
 ! Romanian
 ||2222.ro^
 ||2parale.ro^
@@ -38442,6 +38476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! cloudfront
 ||d10gj7yjsfriaj.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^
+||d12m6l63zd9etp.cloudfront.net^
 ||d15kdaxu5c0hfw.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d1733r3id7jrw5.cloudfront.net^
@@ -38906,7 +38941,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Vietnamese
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
-||za.zdn.vn^
 
 !
 ! Source name: AdGuard Base filter cryptominers
@@ -39234,9 +39268,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Nov 2022 17:45 UTC+7
-! Version: 2211131745
-! Blocked: 1.551 rules
+! Last modified: 14 Nov 2022 16:31 UTC+7
+! Version: 2211141631
+! Blocked: 1.552 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39777,6 +39811,7 @@ vkcdnservice.appspot.com^
 ||i99908.com^
 ||i9bet102.com^
 ||i9bet109.com^
+||i9bet111.com^
 ||i9bet444.com^
 ||i9bet5.com^
 ||ibet889.com^
