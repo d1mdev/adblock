@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-15T23:00:12.632Z
+! Last modified: 2022-11-16T23:00:11.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2458,7 +2458,6 @@
 ||maus77.ru^
 ||maxato.com^
 ||maxforta.com^
-||maxpark.com^
 ||maxplan.ru^
 ||maxtrust.ru^
 ||maxwino.ru^
@@ -4033,6 +4032,8 @@
 !
 !
 !
+||b094e3477d.com^
+||banhq.com^
 ||masturbaseinvegas.com^
 ||internalpound.com^
 ||concernedcommon.com^
@@ -7509,6 +7510,7 @@
 ||adbuyer.com^
 ||adbxixxrqyrh.com^
 ||adcade.com^
+||adcannyxml.com^
 ||adcastplus.net^
 ||adcde.com^
 ||adcdnx.com^
@@ -7608,6 +7610,7 @@
 ||adjustedminglecamouflage.com^
 ||adjustmentmonarch.com^
 ||adjustmentstraightenstartle.com^
+||adjux.com^
 ||adkaora.space^
 ||adktosrtbyj.com^
 ||adlane.info^
@@ -7618,6 +7621,7 @@
 ||adme-net.com^
 ||admenhost.com^
 ||admez.com^
+||admidainsight.com^
 ||administrationpreviewfoolproof.com^
 ||administratorclassy.com^
 ||admirableviolinniece.com^
@@ -9478,6 +9482,7 @@
 ||b-m.xyz^
 ||b014381c95cb.com^
 ||b05ac36841.com^
+||b0c9248dab.com^
 ||b0oie4xjeb4ite.com^
 ||b0omr3wn6u4b.com^
 ||b11stop.com^
@@ -10176,6 +10181,7 @@
 ||bidadx.com^
 ||bidbadlyarsonist.com^
 ||bidder.dev^
+||bidderads.com^
 ||biddingquarrel.com^
 ||biddyfungussaps.com^
 ||bidfkxafw.com^
@@ -11701,6 +11707,7 @@
 ||cmrdr.com^
 ||cms100.xyz^
 ||cmtrsrlyyiche.com^
+||cn-rtb.com^
 ||cncflpfw.com^
 ||cndeccsqtmjyh.com^
 ||cngcpy.com^
@@ -12712,6 +12719,7 @@
 ||detrimentaljigsaw.com^
 ||deturbcordies.com^
 ||deulderby.com^
+||deulspoorn.com^
 ||deuror.com^
 ||deuted.com^
 ||dev0.buzz^
@@ -12892,6 +12900,7 @@
 ||disguisesirrational.com^
 ||disgustedmanipulation.com^
 ||dishesha.net^
+||dishphysics.com^
 ||disillusioninventorsoften.com^
 ||disingenuoussuccessfulformal.com^
 ||disintegrateapprenticedistribute.com^
@@ -14055,10 +14064,12 @@
 ||f1a75ead16.com^
 ||f250b19813.com^
 ||f270d8d863.com^
+||f2bdeb5c8c.com^
 ||f329cba40e.com^
 ||f338113ad0.com^
 ||f3551539d6565853.com^
 ||f35bb81112.com^
+||f37d6b16c3.com^
 ||f3f1317bda.com^
 ||f3udfa7nfguhni.com^
 ||f451b7f622.com^
@@ -14134,6 +14145,7 @@
 ||falsemulticultural.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
+||familiarkindlyshuffle.com^
 ||familyborn.com^
 ||familyliar.com^
 ||faminedealergirl.com^
@@ -16895,6 +16907,7 @@
 ||jeravagy.com^
 ||jerkindeducer.com^
 ||jerrcotch.com^
+||jerupt.com^
 ||jesaifie.com^
 ||jessieemys.com^
 ||jestbiases.com^
@@ -18021,6 +18034,7 @@
 ||loctic.com^
 ||lodder6.biz^
 ||loddingtoto.one^
+||lodrug.com^
 ||loedtamanac.com^
 ||loeingroost.com^
 ||loftiernucule.com^
@@ -19705,6 +19719,7 @@
 ||nxqxhthxn.xyz^
 ||nxtpsh.top^
 ||nxuktkuoazvizd.com^
+||nxunnmhiieuibv.com^
 ||nxwipuoybxc.com^
 ||nxzmphowpnb.com^
 ||nyadmcncserve-05y06a.com^
@@ -20213,6 +20228,7 @@
 ||osspalkiaom.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||oswerebage.xyz^
 ||otbuzvqq8fm5.com^
 ||otcrcccgdt.xyz^
 ||otdsngganpsgru.com^
@@ -20903,6 +20919,7 @@
 ||pjjpp.com^
 ||pjwwvpcgbvbyyka.com^
 ||pjx1ky4xhwip.com^
+||pkajhaxf.com^
 ||pkfyelxxpbisf.com^
 ||pkgebysm.com^
 ||pkhhyool.com^
@@ -25424,6 +25441,7 @@
 ||ukhkcxmzesi.com^
 ||ukhongswrd.com^
 ||uknsyenerg.co^
+||ukqgrxlxvockj.xyz^
 ||ukrauw.com^
 ||ukrnment.one^
 ||ukulelead.com^
@@ -25760,6 +25778,7 @@
 ||uyooouxjcngyuvc.com^
 ||uytwvgrshiakd.xyz^
 ||uywpjhwagfj.com^
+||uyyksmmlipvcvj.com^
 ||uzcdnzta.com^
 ||uzehen.com^
 ||v11media.com^
@@ -31592,6 +31611,7 @@
 ||onestat.com^
 ||onetag-sys.com^
 ||ongsono.com^
+||online-metrix.net^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
 ||opbandit.com^
@@ -33563,6 +33583,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.tn.kz^
+||counter.tengrinews.kz^
 ||inlog01.hket.com^
 ||event.hket.com^
 ||genesis.malwarebytes.com^
@@ -35727,6 +35749,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||api.data-analytics.pokemon.com^
+||arcspire.io^
 ||t.adx.opera.com^
 ||sensors.snaptube.app^
 ||analytics.kongregate.io^
@@ -36252,6 +36276,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cvlb.dev^
 ||cybba.solutions^
 ||czx5eyk0exbhwp43ya.biz^
+||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
 ||dlxpix.net^
@@ -39575,9 +39600,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Nov 2022 16:31 UTC+7
-! Version: 2211141631
-! Blocked: 1.552 rules
+! Last modified: 16 Nov 2022 09:20 UTC+7
+! Version: 2211160920
+! Blocked: 1.553 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40117,6 +40142,7 @@ vkcdnservice.appspot.com^
 ||i99906.com^
 ||i99908.com^
 ||i9bet102.com^
+||i9bet105.com^
 ||i9bet109.com^
 ||i9bet111.com^
 ||i9bet444.com^
