@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-16T23:00:11.964Z
+! Last modified: 2022-11-17T23:00:11.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6515,6 +6515,7 @@
 ||090a7ee361.com^
 ||0926a687679d337e9d.com^
 ||09399d89cc.com^
+||095c32183c.com^
 ||0a81d7e23a.com^
 ||0a8d87mlbcac.top^
 ||0azx1.com^
@@ -6695,6 +6696,7 @@
 ||2c3a97984f45.com^
 ||2c5f9ab9f4.com^
 ||2c6bcbbb82ce911.com^
+||2cb2df849a.com^
 ||2ce506d192.com^
 ||2cnjuh34jb.com^
 ||2cnjuh34jbhub.com^
@@ -6962,6 +6964,7 @@
 ||6b5c418918ebb008cc6.com^
 ||6b5dfbc74e.com^
 ||6ba65e1438.com^
+||6bbd7f9440.com^
 ||6bc4bde2a7.com^
 ||6bgaput9ullc.com^
 ||6c25910c97.com^
@@ -8097,6 +8100,7 @@
 ||aglaulou.com^
 ||agle21xe2anfddirite.com^
 ||agletmagilp.com^
+||aglhacmmjq.com^
 ||aglocobanners.com^
 ||agloowie.com^
 ||agmnamucqoe.com^
@@ -13300,6 +13304,7 @@
 ||dwetwdstom1020.com^
 ||dwightadjoining.com^
 ||dwirow.com^
+||dwrdjfdxtoel.com^
 ||dwugpwfgi.com^
 ||dxmjyxksvc.com^
 ||dxpxlt.com^
@@ -13915,6 +13920,7 @@
 ||eugway.com^
 ||euizhltcd6ih.com^
 ||euosicjxjv.com^
+||euouaeslurped.com^
 ||eurckherngh.com^
 ||eurekaddl.cyou^
 ||europacash.com^
@@ -15282,6 +15288,7 @@
 ||goercoshes.com^
 ||goergleeds.com^
 ||gogglemessenger.com^
+||gogglerespite.com^
 ||gogiersan.com^
 ||gogoplexer.com^
 ||gohere.pl^
@@ -16428,7 +16435,6 @@
 ||incitetagala.com^
 ||incloak.com^
 ||includemodal.com^
-||incolumitas.com^
 ||incomethoroughabjure.com^
 ||incomprehensibleacrid.com^
 ||inconceivableascertained.com^
@@ -17935,6 +17941,7 @@
 ||linnechaya.com^
 ||linurk.com^
 ||liofypwnko.com^
+||lionelimburse.com^
 ||liongetme.com^
 ||lipemicgears.com^
 ||lipinstott.com^
@@ -18724,6 +18731,7 @@
 ||minotaur107.com^
 ||mintmanunmanly.com^
 ||mintsdrouket.com^
+||minued.com^
 ||minunetclose.com^
 ||mipism.com^
 ||miraclenecklace.com^
@@ -18907,6 +18915,7 @@
 ||more1.biz^
 ||moregamers.com^
 ||moriceprich.com^
+||moried.com^
 ||moritava.com^
 ||morninguglychampionship.com^
 ||moronghumaner.com^
@@ -20509,6 +20518,7 @@
 ||parcrescentimportantly.com^
 ||pardnergam.com^
 ||pardongaskins.com^
+||pardonsuccessionassassin.com^
 ||parimpiables.com^
 ||paripartners.ru^
 ||parishleft.com^
@@ -20641,6 +20651,7 @@
 ||pedisp.com^
 ||peefeehu.com^
 ||peekipaiw.com^
+||peekslap.com^
 ||peelismsenoras.com^
 ||peemee.com^
 ||peensthapes.cam^
@@ -20890,6 +20901,7 @@
 ||pindenspat.com^
 ||pineycaids.com^
 ||ping-traffic.info^
+||pinprickplums.com^
 ||pinwalerompers.com^
 ||piolonwpkwrg.com^
 ||pioneersuspectedjury.com^
@@ -22144,6 +22156,7 @@
 ||redirnewsoft.ru^
 ||redistedi.com^
 ||redlele.com^
+||redlmewheni.xyz^
 ||redonetype.com^
 ||redoutcomecomfort.com^
 ||redouthicks.com^
@@ -22492,6 +22505,7 @@
 ||riminghoggoofy.com^
 ||rimpirbtmxg.com^
 ||rimstipulatedeputy.com^
+||ringairs.xyz^
 ||ringexpressbeach.com^
 ||ringingmandyas.com^
 ||ringsnutdaze.com^
@@ -22796,6 +22810,7 @@
 ||rushpushy.com^
 ||rusinsonatas.cam^
 ||russiaroman.com^
+||rustgenerations.com^
 ||rusticswollenbelonged.com^
 ||ruthcraveastray.com^
 ||ruthowhagi.com^
@@ -23398,6 +23413,7 @@
 ||sicklefinding.com^
 ||sickmakes.com^
 ||sicknessfestivity.com^
+||sicsanopsh.com^
 ||sidanarchy.com^
 ||sidanarchy.net^
 ||sidebyx.com^
@@ -23749,6 +23765,7 @@
 ||sousefulhea.buzz^
 ||souvamoo.net^
 ||souvenirsattachedcountenance.com^
+||souvoana.xyz^
 ||souwhair.com^
 ||spaceshipads.com^
 ||spaderonium.com^
@@ -25094,6 +25111,7 @@
 ||trftopp.biz^
 ||triadmedianetwork.com^
 ||triariihurtled.com^
+||tributeipseity.com^
 ||trickylongaffliction.com^
 ||tridentpercy.com^
 ||triedecu.com^
@@ -26872,6 +26890,7 @@
 ||wyeartxqomvw.com^
 ||wyfxgvxxi.xyz^
 ||wyhwcgvchpmdf.com^
+||wyjaxvuejinse.com^
 ||wynather.com^
 ||wynvalur.com^
 ||wyorrmuftjp.com^
@@ -29108,6 +29127,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||i.tct-rom.com^
 ||js.glossom.jp^
 ||trackad.cz^
 ||segmenthub.com^
@@ -33485,6 +33505,10 @@
 ||zbwp6ghm.com^
 !
 ! TikTok
+||rtc-logger-va.tiktokv.com^
+||rtlog.tiktokv.com^
+||mon-*.tiktokv.com^
+||mon.tiktokv.com^
 ||xlog.tiktokv.com^
 ||xlog-va.tiktokv.com^
 ||xlog*-*.tiktokv.com^
@@ -35749,6 +35773,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||tracking-widget.fillr.com^
 ||api.data-analytics.pokemon.com^
 ||arcspire.io^
 ||t.adx.opera.com^
@@ -38637,6 +38662,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.auditedmedia.org.au^
 ||t.bimvid.com^
 ||t.brand-server.com^
+||t.buyist.app^
 ||t.cfjump.com^
 ||t.dgm-au.com^
 ||t.jobsyn.org^
@@ -39600,9 +39626,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Nov 2022 09:20 UTC+7
-! Version: 2211160920
-! Blocked: 1.553 rules
+! Last modified: 17 Nov 2022 15:20 UTC+7
+! Version: 2211171520
+! Blocked: 1.494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -40554,7 +40580,6 @@ vkcdnservice.appspot.com^
 ||zo.game^
 ||zowinvn.vip^
 ||12signup.com^
-||247vi-bank.com^
 ||360.anatic.net^
 ||a.ladipage.com^
 ||a.vtvdigital.vn^
@@ -40720,7 +40745,6 @@ vkcdnservice.appspot.com^
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||app.sbz.workers.dev^
-||atspace.tv^
 ||avoadsservices.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
 ||banhtv.org^
@@ -40732,25 +40756,18 @@ vkcdnservice.appspot.com^
 ||bgadx.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
-||bloodleian.club^
 ||bluemaulpuffs.com^
-||bluvenie.com^
 ||btrack.homedy.com^
 ||campaign.gitiho.com^
-||campxanh.info^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
 ||cdn.rongzhouxing.com^
 ||cdn2.cache.vn^
-||celerantatters.com^
-||cettiarl.com^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||click.vieon.vn^
 ||clicker.chiaki.vn^
 ||clientinfo.phimmoizz.net^
 ||clix.vn^
-||code-garena-vn.com^
-||code-lienquan-vn.com^
 ||collect.ovp.vn^
 ||core.vchat.vn^
 ||core.vnecdn.com^
@@ -40774,59 +40791,32 @@ vkcdnservice.appspot.com^
 ||demopage.me^
 ||deqik.com^
 ||digi.vinut.com.vn^
-||drakeesh.com^
 ||dt.vnecdn.com^
 ||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||ema.hostvn.net^
 ||event.filum.ai^
 ||event.headlines.pw^
-||eventlqvn.com^
 ||fa.fpt.shop^
 ||facebookinbox-omni-onapp.haravan.com^
 ||fbuser.ovp.vn^
-||ff-member-ganena.com^
-||ff-member-gazeza.com^
-||ff-members-garena.vn^
-||ff-membership-garena.com^
-||ff-membersship-garrena.com^
-||ff-memnber-garena.com^
-||ff-menber-garena.vn^
 ||ff.imacdn.com^
-||ff.member.garenae.vn^
 ||file-subiz.com^
 ||financial-agent.headlines.pw^
 ||follow.vnay.vn^
-||freefire-membershipvn-garena.com^
-||gaerena.vn^
 ||gamma.cachefly.net^
-||garaena.vn^
-||garane.vn^
-||garean.vn^
-||gareena.vn^
-||garena-members.com^
-||garena.fan^
-||garena.mobi^
-||garenaa.vn^
-||garenaj.vn^
-||garenalqm.com^
 ||ghimc.vn^
-||giftcode-lienquanmobile-vn.com^
-||giftcode-mobilelienquan.com^
 ||go.vnecdn.com^
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||hexapinow.xyz^
 ||hit.123c.vn^
-||https-apple.com^
 ||iads.staticscdn.net^
 ||imgcdnbet.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||intranet.dcorp.com.vn^
 ||invite.baomoi.com^
-||irduwhojas.ga^
 ||k8trangphim.com^
-||kaurroot.com^
 ||ketquaxosotoancau.org^
 ||kh.suno.vn^
 ||kv-analytics.kiotviet.vn^
@@ -40837,16 +40827,11 @@ vkcdnservice.appspot.com^
 ||la3.vnecdn.net^
 ||lamthong.net^
 ||landingpagelagi.vn^
-||larpollicwilli.club^
 ||lg.lotus.vn^
-||lib1.biz^
-||lienquan-garena-giftcode.com^
-||lienquanmobilequatang.com^
 ||link.cado.pro^
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||lmht-membership.com^
 ||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
@@ -40912,10 +40897,6 @@ vkcdnservice.appspot.com^
 ||mautic.teky.edu.vn^
 ||media.dabong247.com^
 ||mega1.yeah1.com^
-||member-gaarena.com^
-||memberr-garenaa.com^
-||membershipsgarenavn-ff.com^
-||menberships-ff-garrena.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
@@ -40925,7 +40906,6 @@ vkcdnservice.appspot.com^
 ||nct1.logging.nextsmarty.com^
 ||newlog.daidoanket.vn^
 ||ng-vn-notice.gameitop.com^
-||nhanquaffob31.com^
 ||nstat.headlines.pw^
 ||offerwall.headlines.pw^
 ||onapp.haravan.com^
@@ -40945,7 +40925,6 @@ vkcdnservice.appspot.com^
 ||qcao.happyskin.vn^
 ||qctt24h.24h.com.vn^
 ||qcv5.blogtruyen.vn^
-||qualienquan.vn^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.fff.com.vn^
@@ -40957,7 +40936,6 @@ vkcdnservice.appspot.com^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
-||rituationscardb.info^
 ||s.baomoi.xdn.vn^
 ||s.cntqk.com^
 ||s.cntqk.vn^
@@ -40967,17 +40945,14 @@ vkcdnservice.appspot.com^
 ||s.soha.vn^
 ||s.tuoitre.vn^
 ||s1.zzz.vn^
-||sacchaeleduk.com^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
 ||shop.vnay.vn^
-||simpliftsbefore.info^
 ||slm.dantri.com.vn^
 ||smetrics.kone.vn^
-||smilitygorb.club^
 ||socialloginplus-apps.haravan.com^
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
@@ -41003,7 +40978,6 @@ vkcdnservice.appspot.com^
 ||stockbook-ads.firebaseapp.com^
 ||stockbook-ads.firebaseio.com^
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
-||support-maps.live^
 ||support.tenten.vn^
 ||sv-api-event.headlines.pw^
 ||sv-api-lottery.headlines.pw^
@@ -41012,15 +40986,12 @@ vkcdnservice.appspot.com^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
-||tammenaa.com^
-||thegioididong.me^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
 ||thongke.bookingcare.vn^
 ||thongke.opencps.vn^
 ||thongke.tcdulichtphcm.vn^
 ||thongke99.baogiaothong.vn^
-||thseaeing.fun^
 ||tkpopup.asia^
 ||tkpopup.vn^
 ||toppage.vn^
@@ -41071,7 +41042,6 @@ vkcdnservice.appspot.com^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvnotice.kg.garena.vn^
-||ucesreferre.club^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
@@ -41080,12 +41050,9 @@ vkcdnservice.appspot.com^
 ||vieon-tracking.vieon.vn^
 ||vietbuzzad.com^
 ||vietdorje.com^
-||vietnammoi.biz^
 ||vinaads.vn^
 ||vlxx.host^
 ||vnadssb.com^
-||vongquay-pubgmobilevn-zing.com^
-||vongquaymienphi.net^
 ||web-analytic.ghtk.vn^
 ||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
