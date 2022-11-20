@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-19T23:00:12.377Z
+! Last modified: 2022-11-20T23:00:12.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12257,6 +12257,7 @@
 ||culettswonken.com^
 ||cullflitted.com^
 ||culmedmaumee.com^
+||cultay.com^
 ||cultergoy.com^
 ||culttolerant.com^
 ||cumydixy.com^
@@ -12518,6 +12519,7 @@
 ||dbkhhkzhdjkhqh.com^
 ||dblchymhlbcvot.xyz^
 ||dbnghpxnbqpquh.com^
+||dbooksbysecon.com^
 ||dbouhtqfxafn.com^
 ||dbuadjcelk.com^
 ||dbutilovetr.xyz^
@@ -14273,6 +14275,7 @@
 ||featassuage.com^
 ||featbooksterile.com^
 ||feathersaloof.com^
+||featm.com^
 ||featoutline.com^
 ||featuredusers.com^
 ||featurelink.com^
@@ -17578,6 +17581,7 @@
 ||kuntlgsdinwp.com^
 ||kupharlutetia.com^
 ||kuptabachy.com^
+||kuqdtug.com^
 ||kurlipush.com^
 ||kuroid.com^
 ||kursatarak.com^
@@ -18303,6 +18307,7 @@
 ||machogodynamis.com^
 ||machosupupoid.space^
 ||macouwou.com^
+||macroschauth.com^
 ||maculedfalls.com^
 ||madampassenger.com^
 ||madcpms.com^
@@ -20565,6 +20570,7 @@
 ||parrssulk.com^
 ||parth2enerocis9tsust2ricus7pidata.com^
 ||parthanonstatue.com^
+||particinepartm.com^
 ||particularantler.com^
 ||partieseclipse.com^
 ||partion-ricism.xyz^
@@ -22090,6 +22096,7 @@
 ||raylnk.com^
 ||rayrecollect.com^
 ||razdvabm.com^
+||razingvexable.store^
 ||razuphyju.com^
 ||rbkxbrtoaxhc.com^
 ||rboundgypster.com^
@@ -23300,6 +23307,7 @@
 ||shakeegi.com^
 ||shakydeploylofty.com^
 ||shalleda.com^
+||shamelessmessengerdescription.com^
 ||shamelessnullneutrality.com^
 ||shammarfinew.com^
 ||shampooattackalways.com^
@@ -26030,6 +26038,7 @@
 ||vibuin.com^
 ||vic-m.co^
 ||vichycobourg.com^
+||viciasoprani.com^
 ||viciousdepartment.com^
 ||vickovules.com^
 ||victoriousbanker.com^
@@ -27494,6 +27503,7 @@
 ||zbnfhsk.com^
 ||zbwkapoit.com^
 ||zcode7.me^
+||zcoptry.com^
 ||zcpmenyq.com^
 ||zctibmvmbmev.com^
 ||zcuuqnrb.com^
