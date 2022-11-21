@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-20T23:00:12.752Z
+! Last modified: 2022-11-21T23:00:12.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4032,6 +4032,9 @@
 !
 !
 !
+||rubymillsnpro.com^
+||itecoust.com^
+||pasbaqxxact.com^
 ||jaelejgwiu.xyz^
 ||nyfoknamlrqxc.com^
 ||daudejuw.com^
@@ -5329,6 +5332,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rek5.savefrom.net^
 ||creative.live.missav.com^
 ||ad.apl164.me^
 ||ad.mediaprimaplus.com.my^
@@ -5633,6 +5637,9 @@
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||thecatmachine.com^
+||blueduckredapple.com^
+||cdn.mobilefuse.com^
 ||ad.mobiuspace.net^
 ||api-ad-callback.mobiuspace.net
 ||hb.rayjump.com^
@@ -6585,6 +6592,7 @@
 ||148dfe140d0f3d5e.com^
 ||14a3d6c4df.com^
 ||14a5cd0cd8.com^
+||14badb5195.com^
 ||14i8trbbx4.com^
 ||15306ad0e1.com^
 ||153105c2f9564.com^
@@ -6596,6 +6604,7 @@
 ||167f8c4133.bar^
 ||16dcc05513.com^
 ||1731d04ba1.com^
+||18113407f3.com^
 ||1821e9a2d9.com^
 ||188cc81551.com^
 ||188server.com^
@@ -7398,6 +7407,7 @@
 ||accustomparkedcrave.com^
 ||accustomreview.com^
 ||acdn01.vidox.net^
+||acduyqwnz.com^
 ||aceekroo.net^
 ||acelacien.com^
 ||aceporntube.com^
@@ -8685,6 +8695,7 @@
 ||antirobotsystem.com^
 ||antiterroristqueenjolly.com^
 ||antrumsregrind.com^
+||antufirjuapk.com^
 ||antyoubelike.buzz^
 ||anubinbrewed.tech^
 ||anvilcompetitivepills.com^
@@ -9539,6 +9550,7 @@
 ||b7d735280b.com^
 ||b7om8bdayac6at.com^
 ||b81oidrmy82w.com^
+||b852e3606e.com^
 ||b88f1c5cda.com^
 ||b8cf0fd3179ef.com^
 ||b8e437d3a3.com^
@@ -10702,6 +10714,7 @@
 ||brftedjb.com^
 ||brgvlyaccixnbnu.xyz^
 ||bridalspottagy.com^
+||bridesmaidcleft.com^
 ||bridgerbristle.com^
 ||briefcasebuoyduster.com^
 ||briefsupbuoy.com^
@@ -12690,6 +12703,7 @@
 ||denseplatter.com^
 ||densgauche.com^
 ||densouls.com^
+||dentcontrader.com^
 ||dentofinauk.shop^
 ||deorganizati.co^
 ||deostr.com^
@@ -12913,6 +12927,7 @@
 ||discountwound.com^
 ||discourageconcurrenceantibiotic.com^
 ||discoverapp.xyz^
+||discriminationprovide.com^
 ||discussmercurydifferently.com^
 ||discuteeves.com^
 ||disembarkadmonishment.com^
@@ -13183,6 +13198,7 @@
 ||drinkergenys.com^
 ||drious.com^
 ||driptfrancs.com^
+||drishneheqn.com^
 ||drivecareveryday.com^
 ||driverpartially.com^
 ||drjgjngf.com^
@@ -13468,6 +13484,7 @@
 ||ebuzzing.com^
 ||ebxjitaa.com^
 ||ec73ce0ab9.com^
+||eca578b203.com^
 ||ecae03ea3d.com^
 ||ecched.com^
 ||ecgmdxoucsnrmq.com^
@@ -13947,6 +13964,7 @@
 ||europacash.com^
 ||europertsticke.site^
 ||euros4click.de^
+||euscarosheaf.com^
 ||euscaroversing.com^
 ||eussianeduke.xyz^
 ||eutehj.com^
@@ -14668,6 +14686,7 @@
 ||fpywtdotsq.xyz^
 ||fqrqgaeqcmbjihq.xyz^
 ||fqvvgjvjn.com^
+||fqwrpfpf.com^
 ||fqxrhwsk.com^
 ||fracs.xyz^
 ||fragba.com^
@@ -14777,6 +14796,7 @@
 ||fultraightdec.xyz^
 ||fumarinpest.com^
 ||funcats.info^
+||funconsistency.com^
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
@@ -15468,6 +15488,7 @@
 ||grepeiros.com^
 ||gresic.com^
 ||gresokie.com^
+||grewquartersupporting.com^
 ||grichewoza.pro^
 ||grideawkwarddepth.com^
 ||grifictuberal.site^
@@ -15635,6 +15656,7 @@
 ||haftersfrutify.com^
 ||hagcmdhrfmwo.com^
 ||hagdonsplacque.com^
+||haggisgoyana.com^
 ||haghalra.com^
 ||haglance.com^
 ||hagqlhroomwjew.com^
@@ -15775,6 +15797,7 @@
 ||heassi.com^
 ||heathertravelledpast.com^
 ||heatporno.com^
+||heavig.com^
 ||heavyrnews.name^
 ||hebcpjvghsctfn.com^
 ||hecticpassenger.com^
@@ -16092,6 +16115,7 @@
 ||howoverlapsuspicious.com^
 ||howtubray.com^
 ||hoydenlooms.website^
+||hparldoai.top^
 ||hpjhmgip.com^
 ||hpljupfyb.com^
 ||hplose.de^
@@ -16372,6 +16396,7 @@
 ||illegalprotected.com^
 ||illegimateillegimatetolerablepushy.com^
 ||illicitdandily.cam^
+||illief.com^
 ||illigh.com^
 ||illishrastus.com^
 ||illiticguiding.com^
@@ -16385,6 +16410,7 @@
 ||ilstcnaeuhso.com^
 ||ilukbynqpbevqtn.com^
 ||ilusors.com^
+||ilwqmelpdpq.xyz^
 ||ilxhsgd.com^
 ||ilyf4amifh.com^
 ||ilyxkuxkhfpujf.com^
@@ -17645,6 +17671,7 @@
 ||lacquerreddeform.com^
 ||lacredentialsupplies.com^
 ||ladbrokesaffiliates.com.au^
+||ladiathdefinishe.com^
 ||ladnet.co^
 ||ladnova.info^
 ||ladsabs.com^
@@ -18252,6 +18279,7 @@
 ||luxupcdnb.com^
 ||luxupcdnc.com^
 ||luxuriouspickpocketsmuggle.com^
+||luxuryexercisemiddleaged.com^
 ||luydark.com^
 ||luyten-98c.com^
 ||luzulabeguile.com^
@@ -18458,6 +18486,7 @@
 ||maternalhi.com^
 ||mathads.com^
 ||mathafuda.pro^
+||mathcountryside.com^
 ||mathneedle.com^
 ||matildawu.online^
 ||mation.xyz^
@@ -19155,6 +19184,7 @@
 ||myhvmudzmrbl.com^
 ||myhypestories.com^
 ||myimagetracking.com^
+||myjevkjiumtbrq.com^
 ||mykennettnow.com^
 ||mykhtesikvuz.com^
 ||mykiger.com^
@@ -19287,6 +19317,7 @@
 ||nckwgmbfdwrj.xyz^
 ||ncncu.xyz^
 ||nctylivpwhpby.com^
+||ncuwtufam.com^
 ||ncyveuecqsan.com^
 ||ndbegantoti.xyz^
 ||ndbriolenproc.buzz^
@@ -20192,6 +20223,7 @@
 ||opposedcream.com^
 ||oppositehometowndrunken.com^
 ||opposs.com^
+||opqdwihq.com^
 ||opshuckleor.com^
 ||opsivesh.net^
 ||opsoomet.net^
@@ -21313,6 +21345,7 @@
 ||preqoaojsdgmmc.xyz^
 ||prerogativefranticinfractructure.com^
 ||presentlyarch.com^
+||preservationpalsy.com^
 ||presidentrestoration.com^
 ||presidentscaredlow.com^
 ||pressingequation.com^
@@ -21774,6 +21807,7 @@
 ||puzzlementevolve.com^
 ||puzzlepursued.com^
 ||pvclouds.com^
+||pvdhgqdueqic.com^
 ||pvefyasgsa.xyz^
 ||pvjscfhlt.com^
 ||pvobumsfxacarh.com^
@@ -22445,6 +22479,7 @@
 ||revimedia.com^
 ||revincenizam.com^
 ||revivestar.com^
+||revoketypes.com^
 ||revoltelfwife.life^
 ||revolutionarydrillprotective.com^
 ||revolutionpersuasive.com^
@@ -24427,6 +24462,7 @@
 ||tabledownstairsprovocative.com^
 ||tablequantity.com^
 ||tabloidsuggest.com^
+||tabularriders.com^
 ||tacskivthnfgvad.com^
 ||tacticmarshannouncing.com^
 ||tadadamads.com^
@@ -25470,6 +25506,7 @@
 ||ugyplysh.com^
 ||uh3ye6ux.com^
 ||uh9qulew9rjj.com^
+||uhalrubfub.com^
 ||uhdokoq5ocmk.com^
 ||uhdqyskwzqjh.com^
 ||uhedsplo.com^
@@ -33656,6 +33693,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pclog.3u.com^
 ||udgrbq.malwarebytes.com^
 ||analytics.tn.kz^
 ||counter.tengrinews.kz^
@@ -34445,6 +34483,7 @@
 ||eum*.instana.io^
 ||ev.api.bdg.com^
 ||ev.kck.st^
+||events.popinfo.jp^
 ||event-action.popinfo.jp^
 ||event-collector.analytics.onedio.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -35823,6 +35862,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
+||ets.easybrain.com^
 ||tracking-widget.fillr.com^
 ||api.data-analytics.pokemon.com^
 ||arcspire.io^
@@ -36594,6 +36635,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||audio.sex^
 ||autoline-top.com^
 ||avapartner.com^
+||axiom.co^
 ||azointel.com^
 ||b1js.com^
 ||baremetrics.com^
@@ -39676,8 +39718,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Nov 2022 11:13 UTC+7
-! Version: 2211181113
+! Last modified: 21 Nov 2022 10:40 UTC+7
+! Version: 2211211040
 ! Blocked: 1.494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
