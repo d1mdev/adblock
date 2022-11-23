@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-22T23:00:11.654Z
+! Last modified: 2022-11-23T23:00:11.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,8 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||adservob.com^
+||adnitro.pro^
 ||courteous-development.com^
 ||planet-news.ru^
 ||hunterers.com^
@@ -4033,6 +4035,9 @@
 !
 !
 !
+||upset.xsuffer.com^
+||anorrecenturybr.com^
+||thomasbarlowpro.com^
 ||ovalfunny.com^
 ||rubymillsnpro.com^
 ||itecoust.com^
@@ -6778,6 +6783,7 @@
 ||349c3c0859.com^
 ||34c2f22e9503ace.com^
 ||34pavouhj7.com^
+||3574fd3373.com^
 ||35caec29d1.com^
 ||360popads.com^
 ||360protected.com^
@@ -7106,6 +7112,7 @@
 ||866e69bc8e.com^
 ||86b16730f8.com^
 ||86cb1dcb13ba5a1a.com^
+||8739792a55.com^
 ||8761f9f83613.com^
 ||88035affc1.com^
 ||8858de83b4.com^
@@ -9163,6 +9170,7 @@
 ||atkugfdgwayliw.com^
 ||atlasfledbeheld.com^
 ||atmalinks.com^
+||atmandilo.com^
 ||atmasroofy.com
 ||atmetagrossan.com^
 ||atmnjcinews.pro^
@@ -9562,6 +9570,7 @@
 ||b81oidrmy82w.com^
 ||b852e3606e.com^
 ||b88f1c5cda.com^
+||b89d654db3.com^
 ||b8cf0fd3179ef.com^
 ||b8e437d3a3.com^
 ||b8pfulzbyj7h.com^
@@ -11071,6 +11080,7 @@
 ||cantpastelli.one^
 ||cantripmorian.com^
 ||canvassblanketjar.com^
+||canzoscomply.com^
 ||caoinelining.com^
 ||cap-cap-pop.com^
 ||capaciouslistless.com^
@@ -11135,6 +11145,7 @@
 ||casualproof.com^
 ||casulatoyon.com^
 ||catalpaaxillae.com^
+||cataractencroach.com^
 ||cataractoutputprogramming.com^
 ||cataractsallydeserves.com^
 ||catastropheillusive.com^
@@ -11275,6 +11286,7 @@
 ||cemukentha.xyz^
 ||cenaclesuccoth.com^
 ||cenceevent.club^
+||ceneicons.com^
 ||cennter.com^
 ||censusmiles.com^
 ||centauruspopyou.com^
@@ -12317,6 +12329,7 @@
 ||curriculture.com^
 ||currierfrank.com^
 ||currol.com^
+||curseintegralproduced.com^
 ||cursormedicabnormal.com^
 ||curtainsimplicitycoast.com^
 ||curtisfrierson.com^
@@ -13667,6 +13680,7 @@
 ||ejghgjhhgadcdchjaada.ru.^
 ||ejipaifaurga.com^
 ||ejkwgeanhw.com^
+||ejrhgbuhb.com^
 ||ejurzsax.com^
 ||ejwxiuhjxep.com^
 ||ekansovi.com^
@@ -15171,6 +15185,7 @@
 ||gixiluros.com^
 ||gizzenaceric.com^
 ||gjimhoiucmipo.xyz^
+||gjofwbjtvdfylt.com^
 ||gjonfartyb.com^
 ||gkdmqvqj.com^
 ||gkefsixxlzhn.com^
@@ -15511,6 +15526,7 @@
 ||grewquartersupporting.com^
 ||grichewoza.pro^
 ||grideawkwarddepth.com^
+||gridriwe.xyz^
 ||grifictuberal.site^
 ||griksoud.net^
 ||grillcheekunfinished.com^
@@ -15723,6 +15739,7 @@
 ||haribdathesea.com^
 ||harmlesstacticalhonorable.com^
 ||harmonycanyon.com^
+||harmoutguereza.com^
 ||harnesssuccessorspray.com^
 ||harolddebris.com^
 ||harpiesong8.com^
@@ -15857,6 +15874,7 @@
 ||helvesgraian.com^
 ||hemasejereeds.com^
 ||hematalmicast.com^
+||hematinsquark.com^
 ||hemicalcov.com^
 ||hemiolajobson.website^
 ||hemispherekitchenafforded.com^
@@ -16308,6 +16326,7 @@
 ||iatmaihn.xyz^
 ||iaxibctn.com^
 ||iaxsmxdwokken.com^
+||iayuqfkerhs.xyz^
 ||ibanwatch.com^
 ||ibatom.com^
 ||ibbkuhwgqawhvt.com^
@@ -17935,6 +17954,7 @@
 ||lgiufpmd.com^
 ||lgkwytmgkcwgsa.com^
 ||lgpihaml.com^
+||lgpjasye.com^
 ||lgtdkpfnor.com^
 ||lgxoyjjdunlwrhp.xyz^
 ||lhacgsdvkrm.com^
@@ -18964,6 +18984,7 @@
 ||monitorinflictmotivation.com^
 ||monkeybroker.net^
 ||monksentrance.com^
+||monksplatane.com^
 ||monkyank.com^
 ||monocotwhorry.com^
 ||monopolypenitentiarynegligence.com^
@@ -19548,6 +19569,7 @@
 ||nipwaghue.com^
 ||nirifude.com^
 ||nirisrutin.store^
+||nitheemp.net^
 ||nitrogendetestable.com^
 ||nitrogenpleahierarchy.com^
 ||nitytolearnan.biz^
@@ -22341,6 +22363,7 @@
 ||relappro.com^
 ||relapsereflectedreplace.com^
 ||relationshipregard.com^
+||relativelyweptcurls.com^
 ||relaxtime24.biz^
 ||relentfrance.com^
 ||relestar.com^
@@ -23254,6 +23277,7 @@
 ||selfservicefabricdisdain.com^
 ||selfswayjay.com^
 ||sellerbackstagejolly.com^
+||sellilorien.com^
 ||sellingprostituteinformant.com^
 ||selvaexposit.com^
 ||selvil.com^
@@ -24262,6 +24286,7 @@
 ||stunthedge.com^
 ||stupidsluice.com^
 ||sturea.com^
+||sturteheaping.com^
 ||stustogagly.com^
 ||stvkr.com^
 ||styjpqqvafcl.com^
@@ -24406,6 +24431,7 @@
 ||sviter2s1olenyami1.com^
 ||svkmxwssih.com^
 ||svkxlfhrdrn.com^
+||svrvcnynsv.xyz^
 ||svsjfwwgatdxqr.com^
 ||svvcudoocwud.com^
 ||svyksa.info^
@@ -24487,6 +24513,7 @@
 ||t5lxz7dtq4iz.com^
 ||ta3nfsordd.com^
 ||ta5ast2ffeyvhjitde.com^
+||tabaxirwelly.com^
 ||tabici.com^
 ||tabledownstairsprovocative.com^
 ||tablequantity.com^
@@ -24770,6 +24797,7 @@
 ||thepopads.com^
 ||therapistpopulationcommentary.com^
 ||theraprecramp.com^
+||therebelfasters.com^
 ||thereuponcanadian.com^
 ||therubiqube.com^
 ||thesaurussurf.com^
@@ -24862,6 +24890,7 @@
 ||thuqqyggwc.com^
 ||thurag.com^
 ||thurch.com^
+||thurgirerobe.com^
 ||thurnflfant.com^
 ||thurniafetal.com^
 ||thursailso.com^
@@ -25370,6 +25399,7 @@
 ||turacousequent.com^
 ||turbanmadman.com^
 ||turboadv.com^
+||turdsarnatta.com^
 ||turgh.com^
 ||turinxmw.com^
 ||turkeybossbare.com^
@@ -26463,6 +26493,7 @@
 ||wardgrazeunarmed.com^
 ||warefulbesogne.com^
 ||warfareblameless.com^
+||warhui.com^
 ||warilyaggregation.com^
 ||warmlyusher.com^
 ||warswhitawe.com^
@@ -26672,6 +26703,7 @@
 ||whihauve.net^
 ||whilar.com^
 ||whilefitsaltered.com^
+||whilol.com^
 ||whilot.com^
 ||whimsoplynx.com^
 ||whippedfreezerbegun.com^
@@ -26862,6 +26894,7 @@
 ||woofheapverdure.com^
 ||woogoust.com^
 ||woohoobiolith.com^
+||woolenabled.com^
 ||wootmedia.net^
 ||wooyehnunmi.com^
 ||wopsedoaltuwipp.com^
@@ -27045,6 +27078,7 @@
 ||xbcnvj2mdk1dn1.com^
 ||xbirmkzpgcnb.com^
 ||xbouyazk.com^
+||xbuiqhrbjlum.com^
 ||xbxhulfp.xyz^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
@@ -27162,10 +27196,12 @@
 ||xrdkktrdgkvcpn.com^
 ||xrfabakydcwngov.xyz^
 ||xrqnhnxoj.xyz^
+||xruonpmunan.com^
 ||xryecggeczcvpk.com^
 ||xsrs.com^
 ||xsusmtvgvxp.xyz^
 ||xsvvmrhjztro.com^
+||xsvwvyewrlqdgw.com^
 ||xswvytnxkzkzq.com^
 ||xteedehi.com^
 ||xtfycjyzoqit.com^
@@ -27260,6 +27296,7 @@
 ||yajvdoporjtz.com^
 ||yakqgvuxijveh.com^
 ||yallboen.com^
+||yampxuxrjyhv.com^
 ||yamspunkdew.com^
 ||yanend.com^
 ||yantrasbarges.com^
@@ -27267,6 +27304,7 @@
 ||yardperformedtraumatize.com^
 ||yardr.net^
 ||yarerescalin.com^
+||yarmtangled.com^
 ||yashi.com^
 ||yasiwngdihnfe.com^
 ||yasmwesikz.com^
@@ -29248,6 +29286,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||counter.dev^
 ||pro-web-metrics.alias.s24cloud.net^
 ||i.tct-rom.com^
 ||js.glossom.jp^
@@ -29484,7 +29523,6 @@
 ||adcontroll.com^
 ||log.medietall.no^
 ||uqd.io^
-||dygassets.dygdigital.com^
 ||ukw.jp^
 ||api.trueaudience.io^
 ||analytics-egain.com^
@@ -33729,6 +33767,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.htmedia.in^
 ||xp.apple.com^
 ||tracking.immobilienscout24.de^
 ||pclog.3u.com^
@@ -34021,7 +34060,6 @@
 ||analytics.gorillanation.com^
 ||analytics.hashnode.com^
 ||analytics.histmag.org^
-||analytics.htmedia.in^
 ||analytics.ifood.tv^
 ||analytics.iraiser.eu^
 ||analytics.islamicfinder.org^
@@ -36760,7 +36798,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||conversionfly.com^
 ||convertcart.com^
 ||cookieless-data.com^
-||counter.dev^
 ||cphalk.com^
 ||crazyclickstats.com^
 ||crtx.info^
@@ -39757,9 +39794,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Nov 2022 10:09 UTC+7
-! Version: 2211221009
-! Blocked: 1.494 rules
+! Last modified: 23 Nov 2022 16:36 UTC+7
+! Version: 2211231636
+! Blocked: 1.495 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39775,6 +39812,7 @@ vkcdnservice.appspot.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||adnetwork.vn^
+||adp.vnecdn.net^
 ||ads-admin.hubs.vn^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
@@ -39866,6 +39904,9 @@ vkcdnservice.appspot.com^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
+||la.vnecdn.net^
+||la2.vnecdn.net^
+||la3.vnecdn.net^
 ||lavamedia.vn^
 ||lavanetwork.net^
 ||log-vietnamplus-vn.cdn.ampproject.org^
@@ -40953,9 +40994,6 @@ vkcdnservice.appspot.com^
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
 ||la.vnbusiness.vn^
-||la.vnecdn.net^
-||la2.vnecdn.net^
-||la3.vnecdn.net^
 ||lamthong.net^
 ||landingpagelagi.vn^
 ||lg.lotus.vn^
