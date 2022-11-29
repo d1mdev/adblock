@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-28T23:00:11.980Z
+! Last modified: 2022-11-29T23:00:12.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4038,6 +4038,7 @@
 !
 !
 !
+||jpivxtsxpkn.com^
 ||interviewdegenerateperspective.com^
 ||agraffesalps.com^
 ||stannyltatusia.com^
@@ -7386,6 +7387,7 @@
 ||abostimp.com^
 ||abothe.com^
 ||abouixgccbne.com^
+||abould.com^
 ||abouzune.net^
 ||aboveredirect.top^
 ||abpikwhnom.com^
@@ -9780,6 +9782,7 @@
 ||bankingconcede.com^
 ||bankingfiginland.com^
 ||banneradsday.com^
+||banquetsemina.com^
 ||banquetunarmedgrater.com^
 ||bantercubicle.com^
 ||bantgoau.com^
@@ -10790,6 +10793,7 @@
 ||brfddmrfb.com^
 ||brftedjb.com^
 ||brgvlyaccixnbnu.xyz^
+||briareddollier.com^
 ||bridalspottagy.com^
 ||bridesmaidcleft.com^
 ||bridgerbristle.com^
@@ -11172,6 +11176,7 @@
 ||cardiwersg.com^
 ||carememachera.com^
 ||careuropecreatures.com^
+||carfulsranquel.com^
 ||cargonurture.com^
 ||carguedquannet.com^
 ||caridashrover.com^
@@ -12917,6 +12922,7 @@
 ||dhilyjdw.com^
 ||dhkwxpzgvqgr.com^
 ||dhonon.com^
+||dhprokejr.com^
 ||dhtmesmxjblb.com^
 ||dhundora.com^
 ||dhvary.com^
@@ -13621,6 +13627,7 @@
 ||edassiumw.xyz^
 ||edchargina.pro^
 ||edconside.com^
+||edcritessuspi.com^
 ||eddiclucilia.com^
 ||eddoesenwraps.com^
 ||ederiorbrit.xyz^
@@ -14519,6 +14526,7 @@
 ||figddlderciy.com^
 ||figgynudest.com^
 ||fightingcowardlycoffin.com^
+||fightingleatherconspicuous.com^
 ||figuis.com^
 ||figuredcurrantcroak.com^
 ||fiinann.com^
@@ -14923,6 +14931,7 @@
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
+||fungalsbooger.com^
 ||fungus.online^
 ||funkerpep.com^
 ||funklicks.com^
@@ -15022,6 +15031,7 @@
 ||galoshanseis.com^
 ||galyra.com^
 ||gamblingliquidate.com^
+||gambolspumicer.com^
 ||gameads.com^
 ||gameads.io^
 ||gamersad.com^
@@ -17729,6 +17739,7 @@
 ||krnhplalugndkkf.com^
 ||kronervisile.com^
 ||kronosspell.com^
+||krubisstratic.com^
 ||ksdlzcmvmj.com^
 ||ksdqhiaythajdv.com^
 ||ksehinkitw.hair^
@@ -18691,6 +18702,7 @@
 ||mbiifzdvhexj.com^
 ||mbiizkzics.com^
 ||mbitag.com^
+||mbledeparatea.com^
 ||mblink.in^
 ||mblyjustin.work^
 ||mbmrwxdwq.com^
@@ -18872,6 +18884,7 @@
 ||mfa4cgad6ahmiaaz.com^
 ||mfcewkrob.com^
 ||mfemqcarptdwtg.com^
+||mfigxlan.com^
 ||mfjxdfkge.com^
 ||mfmejnhte.com^
 ||mfrvydlyrfgrqx.xyz^
@@ -19483,6 +19496,7 @@
 ||ncugaxoxh.com^
 ||ncuwtufam.com^
 ||ncyveuecqsan.com^
+||ndandinter.hair^
 ||ndbegantoti.xyz^
 ||ndbriolenproc.buzz^
 ||ndbspfpgynbt.com^
@@ -20218,6 +20232,7 @@
 ||ollops.com^
 ||olmsoneenh.info^
 ||olpfeere.com^
+||olqhulfpezp.com^
 ||omafaren.pw^
 ||omanala.com^
 ||omareeper.com^
@@ -22093,6 +22108,7 @@
 ||qiyascoolth.com^
 ||qjcdnpv.com^
 ||qjezukyqwj.com^
+||qjfokdzhkyjf.com^
 ||qkdbufas.com^
 ||qksrv.net^
 ||qksz.net^
@@ -22582,6 +22598,7 @@
 ||resawsmas.com^
 ||rescuephrase.com^
 ||researchers.pw^
+||reseelysin.com^
 ||resemblanceilluminatedcigarettes.com^
 ||reservehearingmissing.com^
 ||resetmascara.com^
@@ -22863,6 +22880,7 @@
 ||robspabah.com^
 ||robustcutlery.com^
 ||rocces.com^
+||roceau.com^
 ||rocexovo.com^
 ||rockcloudspace.com^
 ||rocketdashedjoining.com^
@@ -25577,12 +25595,14 @@
 ||tusilh.com^
 ||tusno.com^
 ||tut-64.com^
+||tutfuqc.com^
 ||tutlyinlaik.com^
 ||tutvp.com^
 ||tuuyvmtkmj.com^
 ||tuvene.com^
 ||tuwhuthoru.com^
 ||tuxbpnne.com^
+||tuxedochard.com^
 ||tuyves.com^
 ||tuzaanotto.com^
 ||tv1s4d6klh4n.com^
@@ -26235,6 +26255,7 @@
 ||veesspot.com^
 ||veewhaiw.com^
 ||vehese.com^
+||veilsuccessfully.com^
 ||veimmy.com^
 ||veinnotionmariner.com^
 ||velmedia.net^
@@ -27880,6 +27901,7 @@
 ||zigzaggodmotheragain.com^
 ||zijaipse.com^
 ||zikroarg.com^
+||zilchesmoated.com^
 ||zim-zim-zam.com^
 ||zimank.com^
 ||zincdatawipe.com^
@@ -28831,6 +28853,7 @@
 ||lockerdome.com^
 ||logo-net.co.uk^
 ||looksmart.com^
+||loopaautomate.com^
 ||love-banner.com^
 ||lyricsmint.red^
 ||mad-adz.com^
@@ -29474,6 +29497,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||cdn.mavi.digital^
+||tieszhu.com^
 ||sensorsdata.cn^
 ||counter.dev^
 ||pro-web-metrics.alias.s24cloud.net^
@@ -33956,6 +33981,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trc.gpcdn.pl^
+||web-device-id.banggood.com^
 ||dotcounter.douyucdn.cn^
 ||dotserver.douyucdn.cn^
 ||sensorsdata*.read.duokan.com^
@@ -36988,7 +37015,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cloudiq.com^
 ||cnwebperformance.biz^
 ||cobaltgroup.com^
-||coefficy.com^
 ||cognativex.com^
 ||cognitivlabs.com^
 ||cohesionapps.com^
@@ -37407,6 +37433,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||siteplug.com^
 ||siteswithcontent.com^
 ||smadex.com^
+||smart-data-systems.com^
 ||smart-dmp.com^
 ||smartclip-services.com^
 ||smartology.co^
@@ -38711,6 +38738,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.queryly.com^
 ||data.woosmap.com^
 ||datadog-service.mvfglobal.com^
+||dcinfos-cache.abtasty.com^
 ||demandmedia.s3.amazonaws.com^
 ||dep.hmgroup.com^
 ||deprecated-custom-domains.b-cdn.net^
@@ -38875,6 +38903,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mts.mansion.com^
 ||myscoop-tracking.googlecode.com^
 ||neocounter.neoworx-blog-tools.net^
+||net-tracker.notolytix.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
@@ -39004,6 +39033,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.gifs.com^
 ||stats.inergizedigitalmedia.com^
 ||stats.itweb.co.za^
+||stats.ksearchnet.com^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
 ||stats.mpthemes.net^
@@ -40003,8 +40033,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Nov 2022 22:39 UTC+7
-! Version: 2211272239
+! Last modified: 29 Nov 2022 16:54 UTC+7
+! Version: 2211291654
 ! Blocked: 1.508 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
