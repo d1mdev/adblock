@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-11-30T23:00:12.079Z
+! Last modified: 2022-12-01T23:00:11.647Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7281,6 +7281,7 @@
 ||a67z.com^
 ||a6dbb52634.com^
 ||a752b63c6b.com^
+||a81ae971fb.com^
 ||a8c171db33.com^
 ||a8rm1m4msbbh.com^
 ||a91dcb249b.click^
@@ -9654,6 +9655,7 @@
 ||babydogandcat.com^
 ||babyniceshark.com^
 ||babysitterdeadlockjuly.com^
+||bac23cfb5b.com^
 ||backetkidlike.com^
 ||backfireaccording.com^
 ||backfirefever.com^
@@ -9990,6 +9992,7 @@
 ||beddinginset.com^
 ||bedevilaspirinromance.com^
 ||bedevilglare.com^
+||bedmantaximan.com^
 ||bedrapiona.com^
 ||bedriddenbare.com^
 ||bedsideetc.com^
@@ -11050,8 +11053,8 @@
 ||c2e6bd3f02.com^
 ||c2fbd5c6ba.com^
 ||c3113b90b1.com^
-||c3ecfc3556.com^
 ||c3daf7c22c.com^
+||c3ecfc3556.com^
 ||c3t-system-err.club^
 ||c43a3cd8f99413891.com^
 ||c44wergiu87heghoconutdx.com^
@@ -12935,6 +12938,7 @@
 ||dhyallache.space^
 ||diagnosedifferentlycompute.com^
 ||dialgold.com^
+||dialoguemarvellouswound.com^
 ||diamondmodapk.com^
 ||diamondtraff.com^
 ||dianomioffers.co.uk^
@@ -14370,6 +14374,7 @@
 ||fatebbc.pro^
 ||fatherceremony.com^
 ||fathuntsgall.com^
+||fatowzsis.com^
 ||fatsosjogs.com^
 ||fatstepn.click^
 ||fattem.com^
@@ -14467,6 +14472,7 @@
 ||fer2oxheou4nd.com^
 ||ferdictivesone.xyz^
 ||feridgiuntelic.com^
+||fermacyupplow.com^
 ||fermentsinewencase.com^
 ||fermolo.info^
 ||feroffer.com^
@@ -15506,6 +15512,7 @@
 ||gomusic.info^
 ||gondangwicopy.com^
 ||gonews2.com^
+||goniforas.com^
 ||gooblesdd.com^
 ||goodbusinesspark.com^
 ||goodcache.ml^
@@ -17841,6 +17848,7 @@
 ||labelnayarit.com^
 ||labelsapotas.space^
 ||labfrsmdxqj.xyz^
+||labortiontrifee.com^
 ||labourmuttering.com^
 ||labporno.com^
 ||labsappland.com^
@@ -18925,6 +18933,7 @@
 ||mhxxescmv.xyz^
 ||mi82ltk3veb7.com^
 ||miamribud.com^
+||mibafara.com^
 ||micakidaugust.com^
 ||micghiga2n7ahjnnsar0fbor.com^
 ||michealmoyite.com^
@@ -19699,6 +19708,7 @@
 ||nightceramicoutgoing.com^
 ||nighter.club^
 ||nightfallroad.com^
+||nigner.com^
 ||niholaev.com^
 ||nihxigmalrkfov.com^
 ||nikkiexxxads.com^
@@ -19775,8 +19785,8 @@
 ||noclef.com^
 ||noddingdilutionradish.com^
 ||nodecrisp.com^
-||nodowd.com^
 ||nodouslover.com^
+||nodowd.com^
 ||nodrmcxjevtuc.xyz^
 ||noeire.com^
 ||noelsdoc.cam^
@@ -20454,6 +20464,7 @@
 ||opvanillishan.com^
 ||oqhedrmfet.com^
 ||oqieibkoqxwt.com^
+||oqnvtoxbsgp.com^
 ||oqsujyxbsl.xyz^
 ||oqwhzgimuvxpd.com^
 ||orahmaggi.xyz^
@@ -21755,6 +21766,7 @@
 ||psazamajy.pro^
 ||pscfammuw.com^
 ||psclicks.com^
+||psdn.xyz^
 ||pseekree.com^
 ||pseekseecm.com^
 ||pseepsie.com^
@@ -22503,6 +22515,7 @@
 ||refutationexcessiveglamour.com^
 ||refutationoverwhelming.com^
 ||refutationtiptoe.com^
+||refutu.com^
 ||regadspro.com^
 ||regadsworld.com^
 ||regardedsaid.com^
@@ -23812,6 +23825,7 @@
 ||siterdm.com^
 ||sitisaoukn.com^
 ||sitiveadditio.biz^
+||sitpotpdluiphgj.com^
 ||sitreleastme.info^
 ||sittingfoot.com^
 ||situmn.com^
@@ -24530,6 +24544,7 @@
 ||suitcasesimbue.com^
 ||suitsoon.com^
 ||sulcateeclogue.com^
+||suldansspikes.com^
 ||sulfitevariola.com^
 ||sulkydozeperceive.com^
 ||sulkypowerheads.com^
@@ -24884,6 +24899,7 @@
 ||teracent.net^
 ||terats.com^
 ||terciogouge.com^
+||terialnevitiesini.com^
 ||termadodad.com^
 ||terminargal.com^
 ||terminuspaganscience.com^
@@ -25206,6 +25222,7 @@
 ||tmmkhspf.xyz^
 ||tmmkjvphbawgul.com^
 ||tmrjmp.com^
+||tmyzer.com^
 ||tncomg.com^
 ||tncred.com^
 ||tneca.com^
@@ -26003,6 +26020,7 @@
 ||uojjpevjusfoidc.com^
 ||uomsogicgi.com^
 ||uopmcdnpad.com^
+||uoxhxwrttmmq.com^
 ||uozrikpw.com^
 ||up4u.me^
 ||uparceuson.com^
@@ -27563,6 +27581,7 @@
 ||ye185hcamw.com^
 ||yealnk.com^
 ||yeaonesad.com^
+||yearbookhobblespinal.com^
 ||yearil.com^
 ||yearlingpreferablyperiods.com^
 ||yearlylight.com^
@@ -27678,7 +27697,6 @@
 ||yogyn.com^
 ||yoiprqtykkhhfq.com^
 ||yokeeroud.com^
-||yukonearshot.com^
 ||yomeno.xyz^
 ||yonabrar.com^
 ||yonhelioliskor.com^
@@ -27773,6 +27791,7 @@
 ||yucwqrqlf.com^
 ||yugout.com^
 ||yuhvjuedhcu.com^
+||yukonearshot.com^
 ||yulanoltunna.store^
 ||yuluna.name^
 ||yulunanews.name^
@@ -34007,6 +34026,13 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collect.nature.com^
+||analytics-api.dvdfab.*^
+||servo-report.dvdfab.*^
+||collector.xhwide8.com^
+||collector.xhamster*.*^
+||anonym.data.funkedigital.de^
+||analytics.makeitmeme.com^
 ||harvester.cms.markiza.sk^
 ||trc.gpcdn.pl^
 ||web-device-id.banggood.com^
@@ -34578,8 +34604,6 @@
 ||collector.tescocompare.com^
 ||collector.trendmd.com^
 ||collector.wawlabs.com^
-||collector.xhamster.com^
-||collector.xhamster*.desi^
 ||collector.xhwide1.com^
 ||collector1.xhamster.com^
 ||comet.sputniknews.com^
@@ -35311,7 +35335,8 @@
 ||pixel.wp.pl^$important
 ||pixel.yabidos.com^
 ||pixelappcollector.thesun.co.uk^
-||pixelg.adswizz.com^
+||pixel*.adswizz.com
+||pixel.randi.adswizz.com
 ||pixelhere.com^
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
@@ -35826,7 +35851,6 @@
 ||track.qcri.org^
 ||track.realtimeboard.com^
 ||track.searchiq.co^
-||track.securedvisit.com^
 ||track.slideshare.net^
 ||track.sohu.com^
 ||track.spots.im^
@@ -36142,7 +36166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! smotrim.ru
 ||rumstat.cdnvideo.ru^
 !
-! Swiftkey(Microsoft) Keyboard 
+! Swiftkey(Microsoft) Keyboard
 ||telemetry.api.swiftkey.com^
 ||telemetry.swiftkey.com^
 !
@@ -36192,6 +36216,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||mon*-platform-*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -36684,6 +36709,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 !
 ! Non-flagged (Generic blocks)
+||00px.net^
 ||1cros.net^
 ||2l6ddsmnm.de^
 ||2smt6mfgo.de^
@@ -36850,6 +36876,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||salsify-ecdn.com^
 ||sbgsodufuosmmvsdf.info^
 ||seadform.net^
+||securedvisit.com^
 ||site24x7rum.eu^
 ||sitedataprocessing.com^
 ||sixtrk.com^
@@ -37401,6 +37428,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
+||researchnow.com^
 ||resetdigital.co^
 ||resulticks.com^
 ||retargettracker.com^
@@ -37604,6 +37632,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wgsas.com^
 ||whizstats.com^
 ||wickedreports.com^
+||wideangle.co^
 ||wirewuss.com^
 ||withcubed.com^
 ||wmcdp.io^
@@ -38015,6 +38044,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fastenfather.com^
 ||fifthborder.com^
 ||foretellfifth.com^
+||fortunatemark.com^
 ||frailfruit.com^
 ||frantictrail.com^
 ||fronttoad.com^
@@ -40058,8 +40088,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Nov 2022 10:26 UTC+7
-! Version: 2211301026
+! Last modified: 01 Dec 2022 11:19 UTC+7
+! Version: 2212011119
 ! Blocked: 797 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -40817,6 +40847,7 @@ vkcdnservice.appspot.com^
 ||cnt.vivatube.com^
 ||collect.sas.com^
 ||collect2.sas.com^
+||collector.xhamster.com^
 ||log.optimizely.com^
 ||log.prezi.com^
 ||logdev.openload.co^
