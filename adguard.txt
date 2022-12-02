@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-12-01T23:00:11.647Z
+! Last modified: 2022-12-02T23:00:12.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4039,6 +4039,14 @@
 !
 !
 !
+||svfwyyxzbjrd.com^
+||ythjhk.com^
+||crpcruynxxc.com^
+||pyvqoaoeeen.com^
+||oxlfhifzfynll.com^
+||rsntcgoowyxsu.com^
+||vpnsafebrowsing.com^
+||qwtag.com^
 ||dnhyakcwoedah.com^
 ||meebofoo.com^
 ||arthwhilearthu.com^
@@ -6663,6 +6671,7 @@
 ||167f8c4133.bar^
 ||16dcc05513.com^
 ||1731d04ba1.com^
+||177c156af9.com^
 ||18113407f3.com^
 ||1821e9a2d9.com^
 ||188cc81551.com^
@@ -7161,6 +7170,7 @@
 ||860d713f6e.com^
 ||864db374c6.com^
 ||864feb57ruary.com^
+||86521e18d4.com^
 ||8659c84895.com^
 ||866e69bc8e.com^
 ||86b16730f8.com^
@@ -8041,6 +8051,7 @@
 ||aezhvlybcijv.com^
 ||afa9bdfa63bf7.com^
 ||afaaugct.com^
+||afcnuchxgo.com^
 ||afcontent.net^
 ||afcyhf.com^
 ||afdads.com^
@@ -8406,6 +8417,7 @@
 ||albertonne.com^
 ||albireo.xyz^
 ||albraixentor.com^
+||albumsignaturerequested.com^
 ||albumsliv.com^
 ||alcaicsaplasia.casa^
 ||alcaidloggers.com^
@@ -8651,6 +8663,7 @@
 ||amyrfvjqhy.com^
 ||amyrinunshoed.com^
 ||amysaghurtful.com^
+||amzpzylzo.com^
 ||anaguahoagies.com^
 ||anaklbjjw.com^
 ||analogydid.com^
@@ -12087,6 +12100,7 @@
 ||contentclick.co.uk^
 ||contentdigital.info^
 ||contentjs.com^
+||contentmentweek.com^
 ||contentr.net^
 ||contentwidgets.net^
 ||contextendless.com^
@@ -15136,6 +15150,7 @@
 ||gecl.xyz^
 ||geddshippy.com^
 ||gedkfwnfn.com^
+||gedspecificano.com^
 ||gedutsou.com^
 ||geedoovu.net^
 ||geejooji.com^
@@ -16815,6 +16830,7 @@
 ||intacthomicidal.com^
 ||intactscattered.com^
 ||intechads.com^
+||integrityprinciplesthorough.com^
 ||intellectualcontradictstuck.com^
 ||intellibanners.com^
 ||intelligenceadx.com^
@@ -18233,6 +18249,7 @@
 ||lkoqbgyin.com^
 ||lkpmprksau.com^
 ||lkqd.net^
+||lkxntavfbftgl.com^
 ||llahnch259.com^
 ||llbapvoave.com^
 ||llentmatchw.xyz^
@@ -22187,6 +22204,7 @@
 ||qqgcxmviljcu.com^
 ||qqjexqbjaq.com^
 ||qqjfwixfiubkc.com^
+||qqnrwkfcuxk.com^
 ||qqrxvafepbjclcd.com^
 ||qrctbsfk.com^
 ||qrlsx.com^
@@ -22700,6 +22718,7 @@
 ||revarynookier.com^
 ||revbikecrept.com^
 ||revdepo.com^
+||revdsjmpxmmdmlc.com^
 ||revealedsolid.com^
 ||revealingserious.com^
 ||revealoverheadearth.com^
@@ -22983,6 +23002,7 @@
 ||rouinfernapean.com^
 ||roujonoa.net^
 ||roulediana.com^
+||rounts.com^
 ||rounty.com^
 ||rouonixon.com^
 ||rouseindecentworth.com^
@@ -25093,6 +25113,7 @@
 ||throughdfp.com^
 ||throughlavish.com^
 ||throun.com^
+||thrtle.com^
 ||thrube.com^
 ||thrustlumpypulse.com^
 ||thtugernvd.com^
@@ -25429,6 +25450,7 @@
 ||transferowen.com^
 ||transientspecialowl.com^
 ||translatecomicloss.com^
+||transportationgelatinecontingent.com^
 ||trantshargar.com^
 ||traost.com^
 ||trapasol.com^
@@ -25863,6 +25885,7 @@
 ||umentrandings.xyz^
 ||umgangrubbler.com^
 ||umidqysrw.com^
+||ummerciseha.com^
 ||umpteenimpave.guru^
 ||umtnycoscl.xyz^
 ||umyaewhdok.com^
@@ -25988,6 +26011,7 @@
 ||unsternrelease.com^
 ||unsuccessfulpensive.com^
 ||unsulf.com^
+||unsult.com^
 ||unswingfluvial.com^
 ||untaryes.online^
 ||untidyquestion.com^
@@ -26701,6 +26725,7 @@
 ||waitressinaugurate.com^
 ||waitressunequal.com^
 ||waiwodemanila.com^
+||wajshnsggokocd.com^
 ||wakiupswacken.com^
 ||walkamorous.com^
 ||walkinghonoured.com^
@@ -27070,6 +27095,7 @@
 ||wjjjmruwucuibfj.com^
 ||wjjsskhcqrsbg.com^
 ||wjqeyonsiaw.com^
+||wjrcjcpsuqng.com^
 ||wkfdymfxmyckr.com^
 ||wkihmvgilwj.com^
 ||wknaczrxjrj.com^
@@ -29543,6 +29569,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||data.hicloud.com^
 ||cdn.mavi.digital^
 ||tieszhu.com^
 ||sensorsdata.cn^
@@ -30115,7 +30142,6 @@
 ||tracking.atreemo.com^
 ||collector-*.pxchk.net^
 ||collector-*.px-cdn.net^
-||thrtle.com^
 ||imhd.io^
 ||atom-log.3.cn^
 ||ezodn.com^
@@ -32938,6 +32964,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||threetruck.com^
 ||superficialspring.com^
 ||retargetapp.com^
 ||crashchance.com^
@@ -34026,6 +34053,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||zc.adswizz.com^
 ||collect.nature.com^
 ||analytics-api.dvdfab.*^
 ||servo-report.dvdfab.*^
@@ -38179,7 +38207,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||teststocking.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
-||threetruck.com^
 ||tinytendency.com^
 ||trapteaching.com^
 ||tzwaw.pw^
@@ -38613,6 +38640,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
 ||analytics.foresee.com^
+||analytics.googlepeer.cloud^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
@@ -39280,7 +39308,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
-||data.hicloud.com^
 ||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
@@ -39514,6 +39541,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.leadplace.fr^
 ||track.byzon.swelen.net^
 ||track.kyoads.com^
+||track.myli.io^
 ||tracking.ecookie.fr^
 ||trk.adbutter.net^
 ||visitping.rossel.be^
@@ -40088,8 +40116,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Dec 2022 11:19 UTC+7
-! Version: 2212011119
+! Last modified: 02 Dec 2022 11:59 UTC+7
+! Version: 2212021159
 ! Blocked: 797 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
