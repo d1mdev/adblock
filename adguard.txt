@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-12-02T23:00:12.786Z
+! Last modified: 2022-12-03T23:00:12.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8907,6 +8907,7 @@
 ||appsprelandlab.com^
 ||apptdvibrate.com^
 ||apptechnewz.com^
+||apptjmp.com^
 ||appwebview.com^
 ||appzeyland.com^
 ||apricotaimless.com^
@@ -27118,6 +27119,7 @@
 ||wmlleyjtj.com^
 ||wmnejndvberrd.com^
 ||wmonthsaft.biz^
+||wmptctl.com^
 ||wmruzfvtg.com^
 ||wmvlivmdnvy.com^
 ||wmzrmmlgqe.com^
@@ -36164,6 +36166,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
+!
+! For apps
+||pangle-b.io^
 ||track.*.roku.com^
 ||traces.sr.roku.com^
 ||analytics.kidoz.net^
@@ -37251,7 +37256,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||innertrends.com^
 ||innomdc.com^
 ||instant.page^
-||intelligems.io^
 ||interact-analytics.com^
 ||invisioncloudstats.com^
 ||io1g.net^
@@ -40116,8 +40120,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Dec 2022 11:59 UTC+7
-! Version: 2212021159
+! Last modified: 03 Dec 2022 22:06 UTC+7
+! Version: 2212032206
 ! Blocked: 797 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
