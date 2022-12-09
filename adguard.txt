@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-12-08T23:00:11.883Z
+! Last modified: 2022-12-09T23:00:11.790Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||temporarympay.com^
 ||hjheaijhafgfgbaaaei.ru^
 ||hjcbehchdddcegcfaaei.ru^
 ||pb.plat.services^
@@ -242,7 +243,6 @@
 ||zkbkat.com^
 ||uqystk.com^
 ||j1oxqq05ry.ru^
-||temporarympay.com^
 ||1qi.info^
 ||elonreptiloid.com^
 ||aomngb.com^
@@ -4036,6 +4036,13 @@
 !
 !
 !
+||goomaphy.com^
+||whoumtip.xyz^
+||vmzqwmbrip.com^
+||theupgradedata.com^
+||theloveapproach.com^
+||neeladou.net^
+||blfoddifghcmeyc.com^
 ||tauwoumo.net^
 ||wisehowronspar.com^
 ||ld.myrciawaapa.com^
@@ -6692,11 +6699,13 @@
 ||19528681.com^
 ||19805d2bcb.com^
 ||19bk5lo5q2.com^
+||1aa3097b7b.com^
 ||1affmedia.com^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
 ||1c09d36b99.com^
 ||1c204c05d2898056fd.com^
 ||1c2e32f165.com^
+||1ca47a451d.com^
 ||1ccbt.com^
 ||1ce86868bf.com^
 ||1d354c1645.com^
@@ -6818,6 +6827,7 @@
 ||2jmis11eq.de^
 ||2jod3cl3j.de^
 ||2llmonds4ehcr93nb.com^
+||2lqcd8s9.de^
 ||2lwlh385os.com^
 ||2m3gdt0gc.de^
 ||2m55gqleg.de^
@@ -7143,6 +7153,7 @@
 ||75abf77682.com^
 ||75bb9a4031.com^
 ||75f7e171e0.com^
+||7676f1cc6c.com^
 ||76a7doiet256.com^
 ||76b9011198.com^
 ||76d1f732d1.com^
@@ -8416,6 +8427,7 @@
 ||aj2397.online^
 ||aj2430.online^
 ||aj2495.online^
+||aj2526.bid^
 ||ajaltoly.com^
 ||ajastlyirf.com^
 ||ajavivmahpuk.com^
@@ -8594,6 +8606,7 @@
 ||allusionpressed.com^
 ||allwownewz.com^
 ||allyes.com^
+||almapa2.com^
 ||almareepom.com^
 ||almostspend.com^
 ||aloftliquid.com^
@@ -10230,6 +10243,7 @@
 ||berchsoda.com^
 ||berhima.xyz^
 ||berkshiretoday.xyz^
+||bermpnrtcuwls.com^
 ||berthsorry.com^
 ||berunhtdfrxp.com^
 ||berush.com^
@@ -10315,6 +10329,7 @@
 ||beturtwiga.com^
 ||betxerneastor.club^
 ||betzapdoson.com^
+||beunblkd.xyz^
 ||beuotljevsrkq.com^
 ||bevcaktfipehvtb.com^
 ||beveledcorkir.com^
@@ -11022,6 +11037,7 @@
 ||btvhdscr.com^
 ||btwasinlovewit.xyz^
 ||btwuegndru.com^
+||btwwiwmhfhh.com^
 ||btxxxnav.com^
 ||bu3le2lp4t45e6i.com^
 ||buatorchel.com^
@@ -11745,6 +11761,7 @@
 ||chyxaxegre.com^
 ||chyxyrothi.com^
 ||cialanaly.club^
+||cicelysewans.com^
 ||cictivesmuha.xyz^
 ||cidbulmkwtaxe.xyz^
 ||cieetphiwwbbueu.com^
@@ -12096,6 +12113,7 @@
 ||coltseaman.com^
 ||coluim.com^
 ||columnisterror.com^
+||columnsremembrancesoap.com^
 ||coluth.com^
 ||com-wkejf32ljd23409system.net^
 ||comacantha.com^
@@ -12332,6 +12350,7 @@
 ||coupleairplane.com^
 ||couplergavot.casa^
 ||coupsonu.net^
+||courageous-lead.pro^
 ||courierregistered.com^
 ||couriersticky.com^
 ||courthouseworseflaw.com^
@@ -12744,6 +12763,7 @@
 ||daphnews.com^
 ||daphnidepoch.com^
 ||dapper.net^
+||daqhdxacckufkwv.com^
 ||daredstrapelinor.com^
 ||darersan.co^
 ||darghinruskin.com^
@@ -13120,6 +13140,7 @@
 ||didpuprat.com^
 ||diedpractitionerplug.com^
 ||dienesasides.com^
+||dieolyhld.com^
 ||dieselhircine.com^
 ||dietalmatax.com^
 ||dievel.com^
@@ -13584,6 +13605,7 @@
 ||dulcormutated.com^
 ||dulillipupan.com^
 ||dulogav.com^
+||dulojet.com^
 ||dulombwwfm.com^
 ||dulosislimmata.com^
 ||dumbclerkwow.com^
@@ -13840,6 +13862,7 @@
 ||edstever.com^
 ||edstrastco.com^
 ||edstylistepro.xyz^
+||edtaojhaavnt.com^
 ||edua29146y.com^
 ||educationaldetachblob.com^
 ||educivesakti.com^
@@ -14096,6 +14119,7 @@
 ||enlightenedinterest.pro^
 ||enlnks.com^
 ||enmassstraits.com^
+||enmekedwahin.com^
 ||enmvnowpx.com^
 ||enodiarahnthedon.com^
 ||enoughts.info^
@@ -14293,6 +14317,7 @@
 ||evealm.com^
 ||eveckstuns.com^
 ||evemasoil.com^
+||eventhenherthisi.com^
 ||eventsancientreject.com^
 ||eventsbands.com^
 ||eventuallybraid.com^
@@ -15176,6 +15201,7 @@
 ||fuuctxrrvw.com^
 ||fuxoasim.link^
 ||fuzeelamby.com^
+||fvcwqkkqmuv.com^
 ||fvvwcrkqxppc.com^
 ||fvxgpnlvxo.com^
 ||fwbntw.com^
@@ -15218,6 +15244,7 @@
 ||gadslimz.com^
 ||gadspmz.com^
 ||gagaribber.casa^
+||gaghxppirqo.com^
 ||gaghygienetheir.com^
 ||gagpetwet.com^
 ||gaietyastonished.com^
@@ -15731,7 +15758,6 @@
 ||goods2you.net^
 ||goofypismica.com^
 ||goohimom.net^
-||goomaphy.com^
 ||gooods4you.com^
 ||goosebomb.com^
 ||goosedetectives.com^
@@ -15757,6 +15783,7 @@
 ||gotjobbs.com^
 ||gotohouse1.club^
 ||gotonewsoftik.ru^
+||goupeecy.com^
 ||gourdycortes.com^
 ||gouryvouster.com^
 ||gousouse.com^
@@ -16007,6 +16034,7 @@
 ||gytychuna.com^
 ||gyvesmutic.com^
 ||gywugloje.com^
+||gyzqswxly.com^
 ||gyzyphepsu.pro^
 ||gzbwdbipemilou.com^
 ||gzlmknzeifjfyp.com^
@@ -16041,6 +16069,7 @@
 ||hagqlhroomwjew.com^
 ||haihaime.net^
 ||haijosho.net^
+||hailstonenerve.com^
 ||hairoak.com^
 ||hairwqxnpkxfphd.xyz^
 ||haithoaz.net^
@@ -16186,6 +16215,7 @@
 ||heavig.com^
 ||heavyrnews.name^
 ||hebcpjvghsctfn.com^
+||hecherthepar.com^
 ||hecticpassenger.com^
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
@@ -17176,6 +17206,7 @@
 ||irksomeshamefarrier.com^
 ||irmcjtqdzrp.com^
 ||iroble.com^
+||ironcladmemory.pro^
 ||ironerrooser.com^
 ||ironerswhse.digital^
 ||ironicfolks.com^
@@ -17366,6 +17397,7 @@
 ||jcrlrwwosud.xyz^
 ||jcyunk2.com^
 ||jdbzurmhiixqm.com^
+||jderchgfoi.com^
 ||jdmsdyuoltpgby.xyz^
 ||jdoqocy.com^
 ||jdufvnoytl.com^
@@ -18445,6 +18477,7 @@
 ||liliy9aydje10.com^
 ||lilureem.com^
 ||limberkilnman.cam^
+||limeclassycaption.com^
 ||limelightcopper.com^
 ||limelightdecent.com^
 ||limevisitedinaugurate.com^
@@ -18511,6 +18544,7 @@
 ||livetellsspatter.com^
 ||liveunderestimate.com^
 ||livezombymil.com^
+||lividtrash.pro^
 ||livorbarbes.com^
 ||lizivaje.xyz^
 ||lizvojebj.com^
@@ -18694,6 +18728,7 @@
 ||lqcdn.com^
 ||lqgbqafvfga.xyz^
 ||lqpbkobabvfqvil.com^
+||lqubvnyhuk.com^
 ||lqw.me^
 ||lr-in.com^
 ||lrhahgsiqustw.xyz^
@@ -18859,6 +18894,7 @@
 ||maharbandi.tech^
 ||mahdicrofter.com^
 ||maholinoticed.com^
+||mahqymbesm.com^
 ||maibaume.com^
 ||maidenseadescription.com^
 ||maidishcubbing.com^
@@ -20436,6 +20472,7 @@
 ||obnoxiousstackderide.com^
 ||obscureforum.com^
 ||obscus.com^
+||obsers.com^
 ||observativus.com^
 ||obsessionthree.com^
 ||obsessivepetsbean.com^
@@ -20658,6 +20695,7 @@
 ||onastydrum.com^
 ||onaugan.com^
 ||onautcatholi.xyz^
+||onbimcjvlvfjj.com^
 ||oncertaino.xyz^
 ||onclarck.com^
 ||onclasrv.com^
@@ -20748,6 +20786,7 @@
 ||oomsoapt.net^
 ||oomtexoa.com^
 ||oopsowhi.com^
+||oopxngbna.com^
 ||ooq5z.com^
 ||ooredi.com^
 ||oorierenegue.com^
@@ -20888,6 +20927,7 @@
 ||oswerebage.xyz^
 ||otbuzvqq8fm5.com^
 ||otcrcccgdt.xyz^
+||otdopkz.com^
 ||otdsngganpsgru.com^
 ||othandhadb.xyz^
 ||othbhe2.com^
@@ -21185,6 +21225,7 @@
 ||parkurl.com^
 ||parlinggodded.com^
 ||parmackdormice.com^
+||parolropmo.com^
 ||paroup.com^
 ||parralltaxator.com^
 ||parrecleftne.com^
@@ -22705,6 +22746,7 @@
 ||raggedselsyn.com^
 ||raglogripsa.com^
 ||raicabuy.net^
+||raigns.com^
 ||railroadfatherenlargement.com^
 ||railroadtomato.com^
 ||rainbending.com^
@@ -22714,7 +22756,9 @@
 ||raisedmanatee.com^
 ||rajabets.xyz^
 ||rakamu.com^
+||rakhukarc.com^
 ||ralijqugghwqil.com^
+||rallydisprove.com^
 ||rallynabdoomed.com^
 ||ralphabnegation.com^
 ||rammishruinous.com^
@@ -22847,6 +22891,7 @@
 ||rechaptalisent.xyz^
 ||recheatputs.com^
 ||reciar.com^
+||recids.com^
 ||recipesunny.com^
 ||reciprocaldandy.com^
 ||reckinbuttiten.pro^
@@ -23097,6 +23142,7 @@
 ||retauwhu.com^
 ||retcyy.com^
 ||retentrhason.com^
+||rethowilmari.com^
 ||retiremely.com^
 ||retirementlash.com^
 ||retiringvarieties.com^
@@ -23329,6 +23375,7 @@
 ||robotadserver.com^
 ||robovoiz.com^
 ||robsbogsrouse.com^
+||robsedgeone.com^
 ||robsoaks.com^
 ||robspabah.com^
 ||robustcutlery.com^
@@ -23957,6 +24004,7 @@
 ||separatecolonist.com^
 ||separationreverttap.com^
 ||separenujilo.club^
+||separine.com^
 ||sepknotting.xyz^
 ||septetsfactor.com^
 ||septfd2em64eber.com^
@@ -24377,6 +24425,7 @@
 ||smaato.net^
 ||smagod.com^
 ||smaleo.com^
+||smallel.com^
 ||smallerfords.com^
 ||smallfunnybears.com^
 ||smalltiberbridge.com^
@@ -24683,6 +24732,7 @@
 ||spotxcdn.com^
 ||spoutable.com^
 ||sprayswisha.com^
+||spreau.com^
 ||sprinterchance.com^
 ||sprkl.io^
 ||sprm4xcn.top^
@@ -25686,6 +25736,7 @@
 ||tivgxuzimt.com^
 ||tiwhaiph.net^
 ||tjgasbjinlx.xyz^
+||tjhpsylyxdfov.xyz^
 ||tjhtclwubg.xyz^
 ||tjisenap.com^
 ||tkbo.com^
@@ -26242,6 +26293,7 @@
 ||uapekkgmhjxponr.com^
 ||uavsgklwxsx.xyz^
 ||uawcuelnjioc.com^
+||uaxadlpttku.com^
 ||ubbfpm.com^
 ||ubewpjbfo.com^
 ||ubgkvsjnbjtk.com^
@@ -26386,6 +26438,7 @@
 ||unacceptablepit.com^
 ||unaces.com^
 ||unallowferae.com^
+||unanimouslyrejectproperly.com^
 ||unarbokor.com^
 ||unavailablebackedwaved.com^
 ||unawakegaleus.com^
@@ -27600,6 +27653,7 @@
 ||wirial.com^
 ||wirratailage.com^
 ||wirsauco.com^
+||wishesantennarightfully.com^
 ||wishjus.com^
 ||wistfulcomet.com^
 ||wistot.com^
@@ -27613,6 +27667,7 @@
 ||withoutmotivation.com^
 ||witlingdandie.com^
 ||witnessfeast.com^
+||wittf.com^
 ||wittilyfrogleg.com^
 ||wivesdandyemulation.com^
 ||wizardmarndl.com^
@@ -27785,6 +27840,7 @@
 ||wrxqupnusmdewe.com^
 ||wrygraphicstheme.com^
 ||wryweirdy.com^
+||wsgbfgtjxv.com^
 ||wsidfmckbwmlwao.xyz^
 ||wsjlbbqemr23.com^
 ||wslqgslkuv.com^
@@ -34621,6 +34677,11 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||s.360.cn^
+||sp*.baidu.com^
+||analytics.map.qq.com^
+||zhihu-web-analytics.zhihu.com^
+||sugar.zhihu.com^
 ||trace.51jingying.com^
 ||ss.webdock.io^
 ||events.webdock.io^
@@ -36986,7 +37047,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
 ||api.telemetry.watchabc.go.com^
-||browser.events.data.microsoft.com^
 ||analytics.rover.io^
 ||events-collector-api.viacom.tech^
 ||pipe.aria.microsoft.com^
@@ -39390,6 +39450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||d.shareaholic.com^
+||d2wa5sea6guof0.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.alexa.com^
 ||data.circulate.com^
@@ -41508,6 +41569,9 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/136509
+! Blocked by CNAME c.msn.com
+@@||c.office.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
 @@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
