@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-12-24T23:00:11.434Z
+! Last modified: 2022-12-25T23:00:11.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4037,6 +4037,9 @@
 !
 !
 !
+||5754909.com^
+||impresivedate.com^
+||neeladou.net^
 ||datingmeetnet.com^
 ||aubergearise.com^
 ||admanmedia.com^
@@ -4075,7 +4078,6 @@
 ||vmzqwmbrip.com^
 ||theupgradedata.com^
 ||theloveapproach.com^
-||neeladou.net^
 ||blfoddifghcmeyc.com^
 ||tauwoumo.net^
 ||wisehowronspar.com^
@@ -25991,6 +25993,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||trk.adbutter.net^
 ||oribi.io^
 ||eoapxl.com^
 ||improving.duckduckgo.com^
@@ -35955,7 +35958,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.kyoads.com^
 ||track.myli.io^
 ||tracking.ecookie.fr^
-||trk.adbutter.net^
 ||visitping.rossel.be^
 ||wrapper.lemde.fr^
 ||ws3.smartp.com^
@@ -36524,9 +36526,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Dec 2022 10:33 UTC+7
-! Version: 2212231033
-! Blocked: 803 rules
+! Last modified: 25 Dec 2022 22:36 UTC+7
+! Version: 2212252236
+! Blocked: 804 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -36615,6 +36617,7 @@ vkcdnservice.appspot.com^
 ||eva-ad.24hstatic.com^
 ||ezca.asia^
 ||ff.imacdn.com^
+||fly-ads.net^
 ||flygame.io^
 ||gammadsp.com^
 ||gammaplatform.com^
