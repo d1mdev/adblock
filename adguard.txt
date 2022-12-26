@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2022-12-25T23:00:11.365Z
+! Last modified: 2022-12-26T23:00:16.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -25993,6 +25993,10 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||gateway.foresee.com^
+||analytics.foresee.com^
+||hatmiso.net^
+||t.influ2.com^
 ||trk.adbutter.net^
 ||oribi.io^
 ||eoapxl.com^
@@ -29397,6 +29401,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||chubbycreature.com^
 ||restrainstorm.com^
 ||sugarfriction.com^
 ||fortunatemark.com^
@@ -30490,6 +30495,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.crea.ca^
+||stat.airdroid.com^
 ||tracker.ranker.com^
 ||unagi*.amazon.
 ||c.salon24.pl^
@@ -35089,7 +35096,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.foresee.com^
 ||analytics.googlepeer.cloud^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
@@ -35334,7 +35340,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ga-beacon.appspot.com^
 ||ga.webdigi.co.uk^
 ||ganon.yahoo.com^
-||gateway.foresee.com^
 ||gemius.mgr.consensu.org^
 ||geo.ertya.com^
 ||geo.gorillanation.com^
@@ -36526,8 +36531,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Dec 2022 22:36 UTC+7
-! Version: 2212252236
+! Last modified: 26 Dec 2022 12:08 UTC+7
+! Version: 2212261208
 ! Blocked: 804 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -37349,6 +37354,9 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! TSB Bank mobile banking app - broken push notifications
+! Blocked by CNAME online-metrix.net
+@@||check2.tsb.co.uk^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
