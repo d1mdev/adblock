@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-02T23:00:11.547Z
+! Last modified: 2023-01-03T23:00:11.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,6 +20,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||adwist.ru^
 ||advertronic.io^
 ||ieggdijjfccaffgdafb.ru^
 ||temporarympay.com^
@@ -4037,6 +4038,8 @@
 !
 !
 !
+||currentaccountadv.com^
+||myreqdcompany.com^
 ||vstvstsa.com^
 ||gfxkxbai.com^
 ||puxonsir.net^
@@ -7146,6 +7149,7 @@
 ||69ed4fcc9d.com^
 ||69oxt4q05.com^
 ||6a21c55f67.com^
+||6a288eb054.com^
 ||6a40eae4b3.com^
 ||6a4b31ec3b.com^
 ||6ab77a3dad.com^
@@ -7551,6 +7555,7 @@
 ||accoul.com^
 ||accountsadultssane.com^
 ||accountsdead.com^
+||accruefierceheartache.com^
 ||accusationankle.com^
 ||accusationcollegeload.com^
 ||accusationloop.com^
@@ -9011,6 +9016,7 @@
 ||ationsuchasr.xyz^
 ||atjigglypuffor.com^
 ||atlasfledbeheld.com^
+||atlgensxfnqtw.com^
 ||atmalinks.com^
 ||atmandilo.com^
 ||atmasroofy.com
@@ -9282,6 +9288,7 @@
 ||b014381c95cb.com^
 ||b05ac36841.com^
 ||b06fcca6fd.com^
+||b0aed10e06.com^
 ||b0c9248dab.com^
 ||b0fea47e81.com^
 ||b0oie4xjeb4ite.com^
@@ -9420,6 +9427,7 @@
 ||bam-bam-slam.com^
 ||bamagamalama.com^
 ||bambluagamgona.com^
+||banagonatural.tech^
 ||bananastouching.com^
 ||banclip.com^
 ||bancmuriel.space^
@@ -10047,6 +10055,7 @@
 ||bodhihause.space^
 ||bodiff.com^
 ||bodilywondering.com^
+||bodisc.com^
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||boftogro.net^
@@ -10743,6 +10752,7 @@
 ||chersoat.com^
 ||chestfoollo.one^
 ||cheumy.com^
+||chevetoelike.com^
 ||chewsrompedhemp.com^
 ||chiasephim.xyz^
 ||chicanowaffing.digital^
@@ -12549,6 +12559,7 @@
 ||eetseemp.net^
 ||eetsooso.net^
 ||eetyed.com^
+||eewheeds.com^
 ||eexaitie.net^
 ||eezavops.net^
 ||eezegrip.net^
@@ -12602,6 +12613,7 @@
 ||eiryabba.com^
 ||eisual.com^
 ||eiteribesshaints.com^
+||eitics.com^
 ||ejcet5y9ag.com^
 ||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
@@ -12806,6 +12818,7 @@
 ||ernestindeedtradition.com^
 ||erniphiq.com^
 ||ernoddenkn.pics^
+||ernrscvob.com^
 ||erokimooki.com^
 ||erosionexception.com^
 ||erosyndc.com^
@@ -15066,6 +15079,7 @@
 ||indold.com^
 ||indooritalian.com^
 ||indoorsbeliefgrew.com^
+||inebartotandodw.lol^
 ||inediblepollingbuzz.com^
 ||inestimabletrifling.com^
 ||inexhaustiblepatient.com^
@@ -15933,6 +15947,7 @@
 ||kubicadza.xyz^
 ||kubicserves.icu^
 ||kudrunoptime.com^
+||kughouft.net^
 ||kukachesy.pro^
 ||kukrosti.com^
 ||kukury2hf8nd09.com^
@@ -15965,6 +15980,7 @@
 ||kwhenspokento.info^
 ||kwkjsqmy.xyz^
 ||kwnq4hg2n9.com^
+||kwtalwwxj.com^
 ||kwtnhdrmbx.com^
 ||kxclorpruisyo.com^
 ||kxldvcytb.xyz^
@@ -16386,6 +16402,7 @@
 ||logicalmodelvisible.com^
 ||logilyavie.digital^
 ||logniz.com^
+||logoestulles.com^
 ||logoscollection.com^
 ||logystowtencon.info^
 ||lojapanelmo.com^
@@ -16610,6 +16627,7 @@
 ||maharbandi.tech^
 ||mahdicrofter.com^
 ||maholinoticed.com^
+||mahsirlaurite.guru^
 ||maibaume.com^
 ||maidenseadescription.com^
 ||maiglair.net^
@@ -16642,6 +16660,7 @@
 ||malect.com^
 ||malinesmanses.com^
 ||malthustutball.com^
+||malvbvmvquxlr.com^
 ||mambkooocango.com^
 ||mamblubamblua.com^
 ||mambobuyback.com^
@@ -17642,6 +17661,7 @@
 ||nmwnlbeiykxina.xyz^
 ||nndiscov.cfd^
 ||nnewllink.ga^
+||nnosmwhckdgneqo.com^
 ||nnxugnisebisq.xyz^
 ||no2veeamggaseber.com^
 ||noamiscience.pro^
@@ -17927,6 +17947,7 @@
 ||obvhiojpse.xyz^
 ||oc2tdxocb3ae0r.com^
 ||ocated.com^
+||occept.com^
 ||occludebetray.uno^
 ||occultcreed.com^
 ||occupis.com^
@@ -18282,11 +18303,13 @@
 ||ortslucres.com^
 ||orvilletourer.guru^
 ||osaceikmxsm.com^
+||oscarredwith.xyz^
 ||oscism.com^
 ||oshxhofaf.com^
 ||osifelanseante.lol^
 ||ositic.com^
 ||oskiwood.com^
+||osmondcichar.com^
 ||osmoticchalah.com^
 ||ospicalad.buzz^
 ||ossacmaw.com^
@@ -18316,6 +18339,7 @@
 ||otqjtkbkftehq.com^
 ||otqxvqzdgl.com^
 ||otrwaram.com^
+||ouchojig.xyz^
 ||oudccdjvh.com^
 ||oudseroa.com^
 ||oufauthy.net^
@@ -18609,6 +18633,7 @@
 ||patalogs.com^
 ||patchovercome.com^
 ||pathosacetals.com^
+||patinesgaulin.com^
 ||patiotheoretical.com^
 ||patithatspartal.pro^
 ||patodonalgomball.store^
@@ -18823,6 +18848,7 @@
 ||phirgese.com^
 ||phirozeon.com^
 ||phivotal.com^
+||phloemsbonk.com^
 ||phloxsub73ulata.com^
 ||phoakrun.net^
 ||phoalard.net^
@@ -18835,6 +18861,7 @@
 ||phohothiptu.pro^
 ||phokruhefeki.com^
 ||phokukse.com^
+||pholcusdecamp.com^
 ||phonefilamentembarrassment.com^
 ||phonenow.net^
 ||phonestar.info^
@@ -19236,6 +19263,7 @@
 ||preonesetro.com^
 ||prepayproceedingsground.com^
 ||prepenseprepensedefiance.com^
+||prepinkisl.com^
 ||preposterousdecidedfollowing.com^
 ||preposterousgoody.com^
 ||preqoaojsdgmmc.xyz^
@@ -19839,6 +19867,7 @@
 ||rantsundaydish.com^
 ||rapgasyogin.com^
 ||raphidewakener.com^
+||raphra.com^
 ||rapid-sugar.pro^
 ||rapiet.com^
 ||rapite.com^
@@ -20057,6 +20086,7 @@
 ||reliable-watch.pro^
 ||reliablespecified.com^
 ||reliantatomtradition.com^
+||reliantwearied.com^
 ||relivesovereign.com^
 ||relkconka.com^
 ||reloci.com^
@@ -20453,6 +20483,7 @@
 ||rqhere.com^
 ||rreauksofthecom.xyz^
 ||rreleaseavailan.xyz^
+||rriedstronugos.xyz^
 ||rrtwda9.com^
 ||rs-stripe.com^
 ||rsalcau.com^
@@ -21183,6 +21214,7 @@
 ||slahpxqb6wto.com^
 ||slammederasepolicy.com^
 ||slashstar.net^
+||slaughtergarageparttime.com^
 ||slaveforgetfulsneak.com^
 ||slavesenviablegrammar.com^
 ||slavizesoften.com^
@@ -21522,6 +21554,7 @@
 ||squeezedthoughtfully.com^
 ||squeezemicrowave.com^
 ||squeezeutteredcertainty.com^
+||squetanonym.com^
 ||squett.com^
 ||squinbested.com^
 ||squineeyuck.com^
@@ -21699,6 +21732,7 @@
 ||strangelyfaintestgreenhouse.com^
 ||strangersincentive.com^
 ||strangesweet.com^
+||strapbets.com^
 ||strategicattacksstudied.com^
 ||strategicperplexanswered.com^
 ||straticjustice.com^
@@ -22040,6 +22074,7 @@
 ||teasacomsys.xyz^
 ||teasfwda.com^
 ||teasimilarman.com^
+||teazledbyes.com^
 ||tebadu.com^
 ||tebo0o2xw4.com^
 ||techahv.com^
@@ -22772,6 +22807,7 @@
 ||txmboigodejgj.xyz^
 ||txzaazmdhtw.com^
 ||tybdpggaw.xyz^
+||tydiearsacid.com^
 ||tydouke.com^
 ||tyessulfone.com^
 ||tygotwakinrollet.xyz^
@@ -23065,6 +23101,7 @@
 ||upsidecopiedcraft.com^
 ||upskittyan.com^
 ||upspinarakor.com^
+||upswingmethyl.com^
 ||uptimecdn.com^
 ||uptodatefinishconference.com^
 ||uptodatefinishconferenceroom.com^
@@ -23441,6 +23478,7 @@
 ||voipnewswire.net^
 ||voivoderageful.website^
 ||volatintptr.com^
+||volcanoimplement.com^
 ||voldarinis.com^
 ||volna2babla1dh1.com^
 ||volthamfondue.com^
@@ -23506,6 +23544,7 @@
 ||vuksew.com^
 ||vuksew10.com^
 ||vuksew12.com^
+||vukticlataf.com^
 ||vulgartaivert.website^
 ||vulguspyemic.com^
 ||vuuwd.com^
@@ -30509,6 +30548,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||idat.production.ippen.space^
 ||p-events.ivideosmart.com^
 ||snowy.bellroy.com^
 ||res.regoo.com^
@@ -33746,7 +33786,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||iplist.cc^
 ||iplogger.org^
 ||ipnoid.com^
-||ippen.space^
 ||iproanalytics.com^
 ||iprotrk.com^
 ||iptrack.io^
@@ -35341,6 +35380,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||events.medio.com^
 ||events.realgravity.com^
 ||events.shareably.net^
+||events.ubembed.com^
 ||events.yourcx.io^
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
@@ -35557,6 +35597,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
 ||solutions.invocacdn.com^
+||sonar.viously.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||speedtrap.shopdirect.com^
 ||ssa.stepstone.com^
@@ -35975,6 +36016,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||compteur.websiteout.net^
 ||core.unit-sense.net^
 ||events.sk.ht^
+||ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws^
 ||nws.naltis.com^
 ||offer.slgnt.eu^
 ||osd.oxygem.it^
