@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-05T23:00:12.268Z
+! Last modified: 2023-01-06T23:00:12.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4037,6 +4037,9 @@
 !
 !
 !
+||oftheseveryh.xyz^
+||salwaysesureto.info^
+||d1bioqbsunwnrb.cloudfront.net^
 ||js.download-apk-i.com^
 ||xvideos00.sbs^
 ||currentaccountadv.com^
@@ -6712,6 +6715,7 @@
 ||110380d053f716c4.com^
 ||1111supjavcom.xyz^
 ||111supjav.xyz^
+||113aa22d76.com^
 ||118bfe5b01.com^
 ||11f1b925c4.com^
 ||11hrcnll.com^
@@ -6850,6 +6854,7 @@
 ||2803e11a21.com^
 ||2859933b6d.com^
 ||2932cceca4.com^
+||29471decb9.com^
 ||294e463a18.com^
 ||299f70c6b2.com^
 ||29apfjmg2.de^
@@ -8435,6 +8440,7 @@
 ||almareepom.com^
 ||almightypush.com^
 ||almostspend.com^
+||alnuinkwintra.com^
 ||aloftliquid.com^
 ||alogationa.co^
 ||alogiz.com^
@@ -8497,6 +8503,7 @@
 ||amberdub.com^
 ||ambersvelars.com^
 ||ambientplatform.vn^
+||ambiliarcarwin.com^
 ||ambitious-upstairs.pro^
 ||ambolicrighto.com^
 ||ambra.com^
@@ -10459,6 +10466,7 @@
 ||cabbingpolynya.cam^
 ||cableddaffed.com^
 ||cabnnr.com^
+||caboclonymphly.com^
 ||cabord.com^
 ||cachoustewing.com^
 ||cadbitff.com^
@@ -10697,6 +10705,7 @@
 ||certainalmostcontent.com^
 ||certaintysurroundingcab.com^
 ||certified-apps.com^
+||cesiumsemboite.com^
 ||cesprinciple.com^
 ||ceteembathe.com^
 ||ceuypqenwmmtrfh.xyz^
@@ -11556,6 +11565,7 @@
 ||cutlersbahaism.com^
 ||cuttooscete.com^
 ||cutworkbanago.cam^
+||cuurldrf.com^
 ||cvastico.com^
 ||cvogttseoqnld.xyz^
 ||cvqgnkeqme.com^
@@ -11597,6 +11607,7 @@
 ||d2h2t5pll64zl8.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
+||d34opff713c3gh.cloudfront.net^
 ||d37aacdbcc.com^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3n9c6iuvomkjk.cloudfront.net^
@@ -11957,6 +11968,7 @@
 ||dgzhbvifnjo.com^
 ||dh956.com^
 ||dharmaashman.com^
+||dheirtvd.com^
 ||dhhixhjeroqljtl.xyz^
 ||dhowsptelea.com^
 ||dhtyhncayav.com^
@@ -12008,6 +12020,7 @@
 ||diktatslopseed.com^
 ||dilacteorma.info^
 ||dilemmatryingless.com^
+||dillsloppy.com^
 ||dilruwha.net^
 ||dimensionuptown.com^
 ||dimessing-parker.com^
@@ -12028,6 +12041,7 @@
 ||dinosaurrestore.com^
 ||dinterperson.xyz^
 ||dinvergne.space^
+||diploisaloofly.com^
 ||dipobeds.com^
 ||dippingearlier.com^
 ||diptaich.com^
@@ -12387,6 +12401,7 @@
 ||durhou.com^
 ||duried.com^
 ||durief.com^
+||duriff.com^
 ||durind.com^
 ||duringsiam.com^
 ||durits.com^
@@ -13156,6 +13171,7 @@
 ||faggrim.com^
 ||fagywalu.pro^
 ||faidoud.com^
+||faigna.com^
 ||faigroas.net^
 ||fairadsnetwork.com^
 ||fairfaxgeorgianayourself.com^
@@ -13292,6 +13308,7 @@
 ||fegrofaxe.pro^
 ||feinthonouredadornment.com^
 ||fejla.com^
+||fellap.com^
 ||felonlosel.com^
 ||feltlonelyand.xyz^
 ||femefaih.com^
@@ -13488,6 +13505,7 @@
 ||flushhouseholdvisited.com^
 ||fluskcheir.com^
 ||fluxads.com^
+||fluxertabetic.com^
 ||fluxy.xyz^
 ||flyingsquirellsmooch.com^
 ||flylikeaguy.com^
@@ -13826,6 +13844,7 @@
 ||gaused.com^
 ||gaut-hil.com^
 ||gauvaiho.net^
+||gauzedisparage.com^
 ||gavnogeeygaika.com^
 ||gawaingemmule.website^
 ||gayadpros.com^
@@ -13977,6 +13996,7 @@
 ||ginepija.com^
 ||gingercompute.com^
 ||ginningsteri.com^
+||gipostart-1.co^
 ||girdlespittle.com^
 ||girise.com^
 ||girl7y.com^
@@ -14591,6 +14611,7 @@
 ||hehadinqu.info^
 ||hehighursoo.com^
 ||heinndoo.one^
+||heinndoorhises.info^
 ||heiqirelle.com^
 ||heirchurchill.com^
 ||heiressplane.com^
@@ -14842,6 +14863,7 @@
 ||howoverlapsuspicious.com^
 ||howtubray.com^
 ||hoydenlooms.website^
+||hpijkah.com^
 ||hpk42r7a.de^
 ||hplose.de^
 ||hpmarzhnny.com^
@@ -14851,6 +14873,7 @@
 ||hpzdwnkb.com^
 ||hq3x.com^
 ||hqawqssuvqyl.xyz^
+||hqmavhsorp.com^
 ||hqoadthspnju.com^
 ||hqpass.com^
 ||hqtbnelkvax.com^
@@ -15239,6 +15262,7 @@
 ||inoculatemention.com^
 ||inoquqxxeuji.xyz^
 ||inoradde.com^
+||inosinetimpana.com^
 ||inpage-push.com^
 ||inpage-push.net^
 ||inpagepush.com^
@@ -16888,6 +16912,7 @@
 ||mawmishtrior.com^
 ||mawsewtow.com^
 ||maxbounty.com^
+||maxcache.ml^
 ||maxim.pub^
 ||maximus-time.net^
 ||maxonclick.com^
@@ -17777,6 +17802,7 @@
 ||nizationsuch.com^
 ||njmkilpqzibv.com^
 ||nkewmih.com^
+||nkhjioewwc.xyz^
 ||nkindthatmade.xyz^
 ||nkmsite.com^
 ||nknowledcon.one^
@@ -18323,6 +18349,7 @@
 ||onwasrv.com^
 ||oo00.biz^
 ||oocdqgado.xyz^
+||oodnaturedf.xyz^
 ||oodraune.com^
 ||oodroglu.net^
 ||oodsauns.net^
@@ -19557,6 +19584,7 @@
 ||proximic.com^
 ||prpopss.com^
 ||prtrackings.com^
+||pruare.com^
 ||prudencebeyondfalter.com^
 ||prudenttruthfulcarter.com^
 ||pruneslustremind.com^
@@ -20348,6 +20376,7 @@
 ||restorationpencil.com^
 ||restrictbench.com^
 ||restrictionsempty.com^
+||resulf.com^
 ||resultedmundconceal.com^
 ||resultlinks.com^
 ||resultsz.com^
@@ -20440,6 +20469,7 @@
 ||rhythmxchange.com^
 ||ribsaiji.com^
 ||ribunews.com^
+||ribworkstylus.com^
 ||ric-ric-rum.com^
 ||ricead.com^
 ||ricettadellanonna.com^
@@ -21796,11 +21826,13 @@
 ||stargamesaffiliate.com^
 ||starkhelperidentifier.com^
 ||starkshrewd.com^
+||starrybitter.pro^
 ||start-xyz.com^
 ||start3dd0wnload.com^
 ||starterplaicebrow.com^
 ||startpagea.com^
 ||starvards.com^
+||starvardsee.xyz^
 ||starvationdefence.com^
 ||stastips.net^
 ||stat-rock.com^
@@ -21827,6 +21859,7 @@
 ||stealcalmgenus.com^
 ||stealthlockers.com^
 ||steamlargelyjustified.com^
+||steeltour.pro^
 ||steep-opening.com^
 ||steep-secretary.pro^
 ||steepedgoofed.com^
@@ -22609,6 +22642,7 @@
 ||tobwcdovmfthb.xyz^
 ||todaysbestsellers.com^
 ||todhamilton.pro^
+||todidaedeboner.com^
 ||toenailtrishaw.com^
 ||toftheca.buzz^
 ||toftsrollers.digital^
@@ -23292,6 +23326,7 @@
 ||uponhariyamar.com^
 ||uponsurskita.com^
 ||uppardjets.com^
+||upperched.com^
 ||uppilt.com^
 ||uppoin.com^
 ||uppsyduckan.com^
@@ -23553,6 +23588,7 @@
 ||vfvdsati.com^
 ||vfyxjsclor.com^
 ||vg4u8rvq65t6.com^
+||vgntevtkbntb.com^
 ||vgtsmwlwlcui.xyz^
 ||vgw35hwr4w6x.com^
 ||vhildeiygwnwoo.com^
@@ -23819,6 +23855,7 @@
 ||wallpapersfacts.com^
 ||wallstrads.com^
 ||walruscheers.com^
+||walrusintroducing.com^
 ||wamnetwork.com^
 ||wandererbashful.com^
 ||wangfenxi.com^
@@ -24244,6 +24281,7 @@
 ||wp20.ru^
 ||wpadmngr.com^
 ||wpncdn.com^
+||wpnetwork.eu^
 ||wpnjs.com^
 ||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
@@ -26279,6 +26317,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
 ||posthog.com^
 ||crossees.com^
