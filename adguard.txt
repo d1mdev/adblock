@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-08T23:00:12.173Z
+! Last modified: 2023-01-09T23:00:11.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3965,13 +3965,6 @@
 ! Source name: AdGuard Russian filter news exchange servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
 !
-!
-! This section contains the list of the base rules that block news teasers.
-!
-! Good: ||smi24.kz^$third-party
-! Bad:  ||smi24.kz/banners/ (should be in specific.txt)
-!
-!
 ||ini.sm-nat.com^
 ||smi24.kz^
 ||virtonnews.com^
@@ -4038,6 +4031,9 @@
 !
 !
 !
+||xmvftaoz.com^
+||egikoilnbwk.com^
+||iuudbgnvgyswen.com^
 ||losepipegoes.live^
 ||olineman.pro^
 ||oftheseveryh.xyz^
@@ -4704,7 +4700,6 @@
 ||pop.dojo.cc^
 ||delivery.sexyxxx.biz^
 ||red12flyw2.site^
-||cdn.vlyby.com^
 ||cdn.allsportsflix.best^
 ||calamityfortuneaudio.com^
 ||inedibleproductiveunbelievable.com^
@@ -6940,6 +6935,7 @@
 ||35caec29d1.com^
 ||360popads.com^
 ||360protected.com^
+||360yield-basic.com^
 ||362b643a66026e.com^
 ||364a426c46.com^
 ||3688e59262.com^
@@ -9458,6 +9454,7 @@
 ||baledenseabbreviation.com^
 ||baleiambwee.com^
 ||baletingo.com^
+||balkscaked.com^
 ||balldevelopedhangnail.com^
 ||balloonnails.com^
 ||ballroomexhibitionmid.com^
@@ -10353,6 +10350,7 @@
 ||bukash2jf8jfpw09.com^
 ||buksaiss.net^
 ||bulcqmteuc.com^
+||bulgae.com^
 ||bulium.com^
 ||bulkybawler.com^
 ||bull3t.co^
@@ -12127,6 +12125,7 @@
 ||disparagethence.com^
 ||disparitydegenerateconstrict.com^
 ||dispbaktun.com^
+||disperserepeatedly.com^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
 ||displayfly.com^
@@ -12954,6 +12953,7 @@
 ||esmentbrads.com^
 ||esmystem.com^
 ||esopertyva.shop^
+||espionagegardenerthicket.com^
 ||espotl.com^
 ||esseza.com^
 ||establishbrightestsavvy.com^
@@ -15628,6 +15628,7 @@
 ||jgxotftsrfux.xyz^
 ||jheelsplotch.com^
 ||jhfvuawpyymykh.com^
+||jhoncj.com^
 ||jhzotqafwgb.com^
 ||jiawen88.com^
 ||jibmenbebloom.com^
@@ -16656,6 +16657,7 @@
 ||loxtk.com^
 ||lp-preview.net^
 ||lplimjxiyx.com^
+||lqcaznzllnrfh.com^
 ||lqcdn.com^
 ||lqgbqafvfga.xyz^
 ||lqw.me^
@@ -19278,6 +19280,7 @@
 ||poetryintendedverdict.com^
 ||pogothere.xyz^
 ||poined.com^
+||poinsk.com^
 ||pointeretards.com^
 ||pointlimitedzen.online^
 ||pointroll.com^
@@ -22940,6 +22943,7 @@
 ||troild.com^
 ||trokemar.com^
 ||trolleydryerfunds.com^
+||trollsvide.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
 ||troncomelets.com^
@@ -24465,6 +24469,7 @@
 ||xipheglipy.com^
 ||xissidearm.com^
 ||xkdijkdiefu.com^
+||xkesalwueyz.com^
 ||xkpbcd.com^
 ||xkpgguajr.com^
 ||xkybwner.xyz^
@@ -26261,6 +26266,7 @@
 ||videologygroup.com^
 ||videoplaza.com^
 ||vitalads.net^
+||vlyby.com^
 ||voodoo.com^
 ||vupulse.com^
 ||w00tmedia.net^
@@ -26372,6 +26378,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||px*.mediahills.ru^
 ||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
 ||posthog.com^
@@ -30875,6 +30882,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mtm.walls.io^
 ||analytics.slidesai.io^
 ||idat.production.ippen.space^
 ||p-events.ivideosmart.com^
@@ -33781,7 +33789,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trackclicks.info^
 ||trkbc.com^
 ||truffle.bid^
-||trust-provider.com^
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
@@ -34352,7 +34359,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shoelace.com^
 ||shoptimally.com^
 ||showheroes.com^
-||sift.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||sirdata.eu^
@@ -35621,6 +35627,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
+||commerce.bing.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
@@ -36197,6 +36204,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d3bj8nkfly20uo.cloudfront.net^
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
+||d3gi6isrskhoq.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
@@ -36934,8 +36942,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Jan 2023 21:57 UTC+7
-! Version: 2301052157
+! Last modified: 09 Jan 2023 22:10 UTC+7
+! Version: 2301092210
 ! Blocked: 795 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
