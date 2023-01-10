@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-09T23:00:11.480Z
+! Last modified: 2023-01-10T23:00:12.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4031,6 +4031,11 @@
 !
 !
 !
+||babchristen.xyz^
+||wooden-comfort.com^
+||datingarea.life^
+||dkohudoflh.com^
+||kmyamhowpj.com^
 ||xmvftaoz.com^
 ||egikoilnbwk.com^
 ||iuudbgnvgyswen.com^
@@ -8774,6 +8779,7 @@
 ||apus.tech^
 ||apvdr.com^
 ||apxlv.com^
+||apzcudhwu.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqfwigotem.xyz^
 ||aqjdigkqvmakz.com^
@@ -9164,6 +9170,7 @@
 ||aurallyhypaton.com^
 ||aurdosti.com^
 ||aureigabelle.com^
+||aureneceriman.com^
 ||aurjueeh.com^
 ||ausoafab.net^
 ||ausomsup.net^
@@ -9379,6 +9386,7 @@
 ||babadnmak.com^
 ||babanmak.com^
 ||babbnrs.com^
+||babssata.com^
 ||babun.club^
 ||babyniceshark.com^
 ||babysitterdeadlockjuly.com^
@@ -10254,6 +10262,7 @@
 ||brigi-jar.com^
 ||brillspedlars.com^
 ||brinishancress.website^
+||brinyregrant.com^
 ||briolenproc.pics^
 ||brioletredeyes.com^
 ||briskedmiskept.com^
@@ -10384,6 +10393,7 @@
 ||burporess.pro^
 ||burringspor.com^
 ||bursa33.xyz^
+||burseglueman.com^
 ||bursulasnags.com^
 ||burtiz.com^
 ||burydibase.com^
@@ -10589,6 +10599,7 @@
 ||cataractencroach.com^
 ||cataractoutputprogramming.com^
 ||cataractsallydeserves.com^
+||cataractweedcove.com^
 ||catastropheillusive.com^
 ||catbeardx.com^
 ||catclawvines.com^
@@ -10788,6 +10799,7 @@
 ||cheeltee.net^
 ||cheemtoo.com^
 ||cheeradvise.com^
+||cheerfullycling.com^
 ||cheerlessfunnelconcealed.com^
 ||cheerseeftapps.com^
 ||cheerysequelhoax.com^
@@ -11087,6 +11099,7 @@
 ||cmdsdkekfhavlv.xyz^
 ||cmfads.com^
 ||cmkxvhgtgonfglg.xyz^
+||cmlbromins.com^
 ||cmnfybfjn.xyz^
 ||cmpgns.net^
 ||cmrdr.com^
@@ -11346,6 +11359,7 @@
 ||corkysegment.com^
 ||corneey.com^
 ||cornuspurfled.com^
+||corolskerret.com^
 ||cosenflame.com^
 ||cosetswaragi.website^
 ||cosherymudejar.com^
@@ -11386,6 +11400,7 @@
 ||cowbumply.com^
 ||cowerarmament.com^
 ||cowmanvampyre.uno^
+||coxalscyth.com^
 ||coyanhybrida.website^
 ||coyerbarrets.com^
 ||coysotown.com^
@@ -11508,6 +11523,7 @@
 ||ctiavxtakmw.com^
 ||ctm-media.com^
 ||ctoatwoxxnk.com^
+||ctoziphius.com^
 ||ctrlaltdel99.com^
 ||ctsccrxfaqiq.xyz^
 ||ctsjackupspete.com^
@@ -11560,10 +11576,12 @@
 ||curseintegralproduced.com^
 ||cursormedicabnormal.com^
 ||curtainsenslavewash.com^
+||curtissonancy.com^
 ||curtlychit.com^
 ||curupeymaceman.com^
 ||cuseccharm.com^
 ||cusecwhitten.com^
+||cushawsdizens.com^
 ||customads.co^
 ||customapi.top^
 ||cuteasiangirl.net^
@@ -11800,6 +11818,8 @@
 ||declinetongarage.com^
 ||decoctionembedded.com^
 ||decordingaudied.site^
+||decurvepon.com^
+||deddsunland.com^
 ||dedicatedmedia.com^
 ||deductsgnostic.com^
 ||deecqem892bg5er.com^
@@ -12024,6 +12044,7 @@
 ||digadser.com^
 ||digitaldsp.com^
 ||digitalmediapp.com^
+||digitalscance.com^
 ||digressremarkableconfide.com^
 ||diguver.com^
 ||dikeletwhelk.cam^
@@ -12849,6 +12870,7 @@
 ||enrilov.info^
 ||enrobeddhuti.space^
 ||enseelgrippy.com^
+||ensueswill.com^
 ||entalsindust.one^
 ||entativesath.one^
 ||entertainedshook.com^
@@ -13213,6 +13235,7 @@
 ||falsenalice.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
+||faltchecattle.com^
 ||falytjfsydnxstr.xyz^
 ||familiarkindlyshuffle.com^
 ||familyborn.com^
@@ -13277,6 +13300,7 @@
 ||fbmedia-ckl.com^
 ||fbmklibvrroltd.com^
 ||fccinteractive.com^
+||fcompsepd.com^
 ||fcxcubtkahif.xyz^
 ||fd5orie8e.com^
 ||fd7qz88ckd.com^
@@ -13526,6 +13550,7 @@
 ||fluxads.com^
 ||fluxertabetic.com^
 ||fluxy.xyz^
+||flyblowfilippi.com^
 ||flyingsquirellsmooch.com^
 ||flylikeaguy.com^
 ||flymob.com^
@@ -14609,6 +14634,7 @@
 ||hearfromyou.biz^
 ||hearingyukkel.store^
 ||heartbrokendilapidation.com^
+||heartedicefall.com^
 ||heathertravelledpast.com^
 ||heavenly-test.pro^
 ||heavig.com^
@@ -14788,6 +14814,7 @@
 ||hoanaijo.com^
 ||hoanoola.net^
 ||hoarseairy.com^
+||hoazinangles.com^
 ||hobfadbig.com^
 ||hockeyhavoc.com^
 ||hocoas.com^
@@ -14868,6 +14895,7 @@
 ||hotideiasnetwork.ga^
 ||hotnews1.me^
 ||hotterenvisage.com^
+||hotzoneunspeed.com^
 ||houdodoo.net^
 ||houjachy.com^
 ||houldthinkhi.buzz^
@@ -15109,6 +15137,7 @@
 ||ikunselt.com^
 ||ildwicqrqazgjz.com^
 ||ilgwuqgvdzl.com^
+||iliajohnny.com^
 ||iliifmido.xyz^
 ||ilinouck.net^
 ||ilkmawgod.site^
@@ -15159,6 +15188,7 @@
 ||impactserving.com^
 ||impalevapory.website^
 ||impatientlyastonishing.com^
+||impavidcircean.com^
 ||impertinentitaliangeological.com^
 ||imperturbablesum.com^
 ||implacableapproximatereseptivereseptive.com^
@@ -15269,6 +15299,7 @@
 ||inhonedgean.com^
 ||ininanceen.co^
 ||ininmacerad.pro^
+||initiallycoffee.com^
 ||initiatehighlyrenewedtheproduct.vip^
 ||injectlocum.com^
 ||injuredcandy.com^
@@ -15545,6 +15576,7 @@
 ||janitoraccrue.com^
 ||janufa.com^
 ||japanbros.com^
+||japersuncials.com^
 ||japhapee.net^
 ||japhezul.com^
 ||japxwifgmu.com^
@@ -16381,10 +16413,12 @@
 ||lessonis.com^
 ||lessonpunk.com^
 ||letchooz.net^
+||lethesepiola.com^
 ||leucan3thegm6um.com^
 ||leukemianarrow.com^
 ||leukemiarussianarmies.com^
 ||levemyiasis.tech^
+||leveragetypicalreflections.com^
 ||leveryone.club^
 ||levityprogramming.com^
 ||levmtppgzoq.com^
@@ -16452,6 +16486,7 @@
 ||limitsillusive.com^
 ||limmatabaculum.com^
 ||limorev.com^
+||limpishdroning.com^
 ||limpomut.com^
 ||limpstronglyer.com^
 ||limurol.com^
@@ -16890,6 +16925,7 @@
 ||marphezis.com^
 ||marriageappetiteillegimateillegimate.com^
 ||marryrapidlypursuing.com^
+||marshagalea.com^
 ||marshalmosquito.com^
 ||marspearelct.com^
 ||martafatass.pro^
@@ -17795,6 +17831,7 @@
 ||nicknameuntie.com^
 ||nicksstevmark.com^
 ||niececordthrone.com^
+||nielliquasses.com^
 ||nieveni.com^
 ||nifiel.com^
 ||niforniadistollie.info^
@@ -18586,6 +18623,7 @@
 ||outcheeh.com^
 ||outelectrodean.com^
 ||outensootier.guru^
+||outflueoxfly.com^
 ||outgateniceish.com^
 ||outgivefaculae.store^
 ||outgra.com^
@@ -18765,6 +18803,7 @@
 ||panelmono.com^
 ||pangrespectfully.com^
 ||paniccursor.com^
+||pannamdashee.com^
 ||pansymerbaby.com^
 ||pantafives.com^
 ||pantomimethat.com^
@@ -18994,6 +19033,7 @@
 ||petfoppew.com^
 ||petoscruder.digital^
 ||petrifacius.com^
+||petwoodfustet.com^
 ||peukasrsihav.xyz^
 ||peweesfluer.website^
 ||pexuvais.net^
@@ -19311,6 +19351,7 @@
 ||poltarimus.com^
 ||poltbassa.com^
 ||polydarth.com^
+||polyserbdom.com^
 ||pompouseruptionrang.com^
 ||pon-prairie.com^
 ||ponderouscentigradecredit.com^
@@ -19676,6 +19717,7 @@
 ||psoorgou.com^
 ||psoorsen.com^
 ||psootchu.net^
+||psoothie.xyz^
 ||psoptopi.com^
 ||psossoot.com^
 ||psothoms.com^
@@ -20175,6 +20217,7 @@
 ||rebakedenosist.com^
 ||rebel.ai^
 ||rebelliousinflame.com^
+||rebindskayoes.com^
 ||rebiraert.com^
 ||reblownwinare.website^
 ||rebrickstowp.com^
@@ -20341,6 +20384,7 @@
 ||reople.co.kr^
 ||repairedbringstale.com^
 ||repaul.com^
+||repealamintor.com^
 ||repeatresolve.com^
 ||repentancematernity.com^
 ||repentbits.com^
@@ -20353,6 +20397,7 @@
 ||report2.biz^
 ||reportinghosieryniche.com^
 ||reportsnail.com^
+||reposemarshknot.com^
 ||reposesyaffil.live^
 ||reposetemptarraignment.com^
 ||reprak.com^
@@ -20968,6 +21013,7 @@
 ||saurug.com^
 ||saushoag.net^
 ||sautemoo.net^
+||sauvecybele.com^
 ||sauwonie.com^
 ||savagedsolary.website^
 ||savefromad.net^
@@ -21017,6 +21063,7 @@
 ||sciadopi5tysverticil1lata.com^
 ||sciencepoints.com^
 ||scillathemons.com^
+||sciniphruffin.com^
 ||scissorstenantplot.com^
 ||scmqhshjvgcw.xyz^
 ||scnd-tr.com^
@@ -21210,6 +21257,7 @@
 ||sgrupontihecliff.xyz^
 ||sgsincentlyse.xyz^
 ||sgswuesocfr.com^
+||shacksigning.com^
 ||shaickox.com^
 ||shaidolt.com^
 ||shailreeb.com^
@@ -21556,6 +21604,7 @@
 ||snatchweedswimsuit.com^
 ||sneakyinfected.com^
 ||snealp.com^
+||snebbubbled.com^
 ||snickchangesolder.com^
 ||snickunfairtheatres.com^
 ||snippystowstool.com^
@@ -21952,6 +22001,7 @@
 ||stixeepou.com^
 ||stizoolr.com^
 ||stkhmkpav.xyz^
+||stoaltaw.net^
 ||stoaphalti.com^
 ||stoapoothu.com^
 ||stoashou.net^
@@ -22019,6 +22069,7 @@
 ||stroveraved.com^
 ||strowedatellan.com^
 ||strownstramp.cam^
+||strungglancedrunning.com^
 ||stuckencouragedscalpel.com^
 ||studabsently.com
 ||studentcrevice.com^
@@ -22390,6 +22441,7 @@
 ||tenthsfrumpy.com^
 ||tentmess.com^
 ||teracent.net^
+||terbaru.cyou^
 ||terciogouge.com^
 ||terhousoopeuk.work^
 ||terialnevitiesini.com^
@@ -23327,6 +23379,7 @@
 ||unsaltyalemmal.com^
 ||unseamlocrian.com^
 ||unseenreport.com^
+||unshinykerite.com^
 ||unsigilyphor.com^
 ||unskilfulpossession.com^
 ||unskilledanna.com^
@@ -23341,6 +23394,7 @@
 ||untidyquestion.com^
 ||untiledhaldu.com^
 ||untimburra.com^
+||untonedrisus.com^
 ||untrendenam.com^
 ||untria.com^
 ||untrol.com^
@@ -23655,6 +23709,7 @@
 ||viaphioner.com^
 ||viapizza.online^
 ||viaticaledged.com^
+||vibgyorvolte.com^
 ||vibrateapologiesshout.com^
 ||vic-m.co^
 ||viciousdepartment.com^
@@ -23830,6 +23885,7 @@
 ||vsumkfxpwqwea.xyz^
 ||vsyaiejmfooba.com^
 ||vt894axs16.com^
+||vtaov.lol^
 ||vth05dse.com^
 ||vtmspnvk.com^
 ||vtrnpueqtqke.xyz^
@@ -23914,6 +23970,7 @@
 ||waninusty.com^
 ||wanjul.com^
 ||wanmolamchoor.store^
+||wannestfooled.com^
 ||wantopticalfreelance.com^
 ||wantsindulgencehum.com^
 ||wantsstruckhall.com^
@@ -26378,6 +26435,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||d2ezz24t9nm0vu.cloudfront.net^
 ||px*.mediahills.ru^
 ||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
@@ -30882,6 +30940,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracker.hdtvcloud.com^
 ||mtm.walls.io^
 ||analytics.slidesai.io^
 ||idat.production.ippen.space^
@@ -35456,6 +35515,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
 ||aan.amazon.com^
+||actioniq.mr-in.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
 ||adfox.yandex.ru^
@@ -36076,6 +36136,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
+||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking.*.miui.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -36942,8 +37003,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jan 2023 22:10 UTC+7
-! Version: 2301092210
+! Last modified: 10 Jan 2023 11:48 UTC+7
+! Version: 2301101148
 ! Blocked: 795 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
