@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-12T23:00:13.085Z
+! Last modified: 2023-01-13T23:00:11.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3753,6 +3753,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
@@ -4032,6 +4033,9 @@
 !
 !
 !
+||xzvfyowf.com^
+||tygsqtkyiwxb.com^
+||goplayhere.com^
 ||stedsous.xyz^
 ||wvnuubmothth.com^
 ||squhtdqggvpx.xyz^
@@ -5774,6 +5778,7 @@
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||im.ov.yahoo.co.jp^
 ||sitewithg.me^
 ||bugs2022.com^
 ||adx-*.dbankcloud.
@@ -6645,6 +6650,7 @@
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 !
 ! Non-flagged (Generic blocks)
+|vaikijie.net^
 ||0-000.store^
 ||004809f9da.com^
 ||00aaa2d81c1d174.com^
@@ -8854,6 +8860,7 @@
 ||arheth.com^
 ||ariadnethreadmin.com^
 ||arielpri2nce8ss09.com^
+||arikhwglvc.xyz^
 ||aripplebeluga.com^
 ||arisedammiral.com^
 ||arithmeticshovel.com^
@@ -10862,6 +10869,7 @@
 ||chevetoelike.com^
 ||chewsrompedhemp.com^
 ||chiasephim.xyz^
+||chibaigo.com^
 ||chicanowaffing.digital^
 ||chichosebook.com^
 ||chicks4date.com^
@@ -11607,6 +11615,7 @@
 ||culmedmaumee.com^
 ||cultay.com^
 ||cultergoy.com^
+||cumuda.com^
 ||cumydixy.com^
 ||cundumbagroom.com^
 ||cunoff.com^
@@ -12402,6 +12411,7 @@
 ||dptlxjkvblw.com^
 ||dpyaareaqv.xyz^
 ||dpypzvjarj.com^
+||dqdyxysrjvkcw.com^
 ||dqjqpaelbirjs.xyz^
 ||dqlgpnljfgmlqs.xyz^
 ||draggedgram.com^
@@ -14709,6 +14719,7 @@
 ||hbfulzie.life^
 ||hbgwiakics.xyz^
 ||hbsjqogt.xyz^
+||hbwfcuruuwkqeeh.com^
 ||hbzhrxdmm.com^
 ||hconsukulti.co^
 ||hcthguce.xyz^
@@ -14764,6 +14775,7 @@
 ||heirchurchill.com^
 ||heiressplane.com^
 ||heisalw.xyz^
+||heisttablier.com^
 ||hejeyoke.xyz^
 ||hekowutus.com^
 ||heleric.com^
@@ -15459,9 +15471,11 @@
 ||instantnewzz.com^
 ||instantresp.com^
 ||instauser.tk^
+||insteadprincipleshearted.com^
 ||instealt.com^
 ||instinctiveachievement.com^
 ||instinctiveads.com^
+||institutepigeonsfinger.com^
 ||instraffic.com^
 ||instructorstudied.com^
 ||insumber.com^
@@ -15516,6 +15530,7 @@
 ||investmentstar.org^
 ||invibravaa.com^
 ||invisedspill.com^
+||invisiblepine.com^
 ||invitewingorphan.com^
 ||invitingdoubloons.com^
 ||involveclank.com^
@@ -16079,6 +16094,7 @@
 ||keterrehepren.xyz^
 ||ketobeparto.xyz^
 ||ketoo.com^
+||kevelandean.com^
 ||kewhulawi.com^
 ||keydawnawe.com^
 ||keypush.net^
@@ -16392,6 +16408,7 @@
 ||landscapedeputyirreparable.com^
 ||landscapeuproar.com^
 ||landslidechoreloft.com^
+||landupoatour.com.ua^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lankychaosrun.com^
@@ -18357,6 +18374,7 @@
 ||oddsresemble.com^
 ||odhwfjrwlcq.xyz^
 ||odinistromneya.com^
+||odipjwipwwyus.xyz^
 ||odourprop.com^
 ||odoursguard.website^
 ||odovydyp.xyz^
@@ -19171,6 +19189,7 @@
 ||perplexkutch.guru^
 ||perryvolleyball.com^
 ||persesgnetum.com^
+||persistentadequate.com^
 ||perstago.pro^
 ||pertfair.com^
 ||pertyvaluati.com^
@@ -19842,6 +19861,7 @@
 ||prytrainer.com^
 ||ps7894.com^
 ||psaighid.com^
+||psaiksou.xyz^
 ||psaiptoh.net^
 ||psairees.net^
 ||psairtoo.com^
@@ -20523,6 +20543,7 @@
 ||relapsereflectedreplace.com^
 ||relatf.com^
 ||relationshipregard.com^
+||relationsquiver.com^
 ||relativelyweptcurls.com^
 ||relaxkubera.tech^
 ||relaxtime24.biz^
@@ -21231,7 +21252,9 @@
 ||scalpaccomplishedliving.com^
 ||scamblefeedman.com^
 ||scammereating.com^
+||scapid.com^
 ||scarcecomplicate.com^
+||scarflaremorally.com^
 ||scarl.shop^
 ||scarletcashwi5.com^
 ||scarofnght.com^
@@ -22853,6 +22876,7 @@
 ||thyourretyequ.com^
 ||ti583.com^
 ||tibacta.com^
+||tibbujo.com^
 ||tic-tic-bam.com^
 ||tic-tic-toc.com^
 ||ticaframeofm.xyz^
@@ -24947,6 +24971,7 @@
 ||yjuydihly.com^
 ||ykjwjvxofc.xyz^
 ||ykxfcsqdobyuw.com^
+||ylasthepoityelthens.com.ua^
 ||ylavjbljpt.com^
 ||ylbxaesyjj.com^
 ||yldmgrimg.net^
@@ -31190,6 +31215,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||d24rtvkqjwgutp.cloudfront.net^
+||collect.rtl.lu^
+||s.sofoot.com^
 ||tracker.hdtvcloud.com^
 ||mtm.walls.io^
 ||analytics.slidesai.io^
@@ -34472,6 +34500,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||livesegmentservice.com^
 ||livesession.io^
 ||livetrafficfeed.com^
+||llanalytics.com^
 ||locotrack.net^
 ||logicsfort.com^
 ||loginhood.io^
@@ -36492,7 +36521,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d23pi6hvdpcc5i.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net
 ||d24cze5sab2jwg.cloudfront.net^
-||d24rtvkqjwgutp.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
@@ -37251,8 +37279,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2023 12:04 UTC+7
-! Version: 2301121204
+! Last modified: 13 Jan 2023 12:16 UTC+7
+! Version: 2301131216
 ! Blocked: 795 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
