@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-13T23:00:11.420Z
+! Last modified: 2023-01-14T23:00:11.355Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6650,7 +6650,6 @@
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 !
 ! Non-flagged (Generic blocks)
-|vaikijie.net^
 ||0-000.store^
 ||004809f9da.com^
 ||00aaa2d81c1d174.com^
@@ -6661,6 +6660,7 @@
 ||028708717f.com^
 ||02aa19117f396e9.com^
 ||02b57bb965.com^
+||0398067ebe.com^
 ||03ed9035a0801f.com^
 ||03f128fb44.com^
 ||04-f-bmf.com^
@@ -8208,6 +8208,7 @@
 ||agavanilliteom.com^
 ||agazil.com^
 ||agazis.com^
+||agazpeppily.live^
 ||agcdn.com^
 ||agcm.xyz^
 ||ageacavnrnwijh.xyz^
@@ -10101,6 +10102,7 @@
 ||bmcdn3.com^
 ||bmcdn4.com^
 ||bmkz57b79pxk.com^
+||bmybkeo.com^
 ||bn5x.net^
 ||bncloudfl.com^
 ||bnfoeabisp.com^
@@ -12583,6 +12585,7 @@
 ||e376ef28103177cc.com^
 ||e44150775e.site^
 ||e4d3c228c4.com^
+||e4f820396d.com^
 ||e4nglis56hcoo5nhou6nd.com^
 ||e55cdcbcd2.com^
 ||e5asyhilodice.com^
@@ -13563,6 +13566,7 @@
 ||firelnk.com^
 ||firescorrelationprodigy.com^
 ||firexclamation.com^
+||firine.com^
 ||firist.com^
 ||firmenia.com^
 ||firon.xyz^
@@ -14202,6 +14206,7 @@
 ||glecmaim.net^
 ||gleebsex.net^
 ||gleechie.net^
+||gleefulwaflib.com^
 ||gleejoad.net^
 ||gleemsomto.com^
 ||gleitmappy.com^
@@ -15173,6 +15178,7 @@
 ||ibanwatch.com^
 ||ibatom.com^
 ||ibbkuhwgqawhvt.com^
+||ibdjdtmkq.xyz^
 ||ibexcacaoboy.com^
 ||ibhxmxuwb.xyz^
 ||ibikini.cyou^
@@ -16303,6 +16309,7 @@
 ||kustaucu.com^
 ||kutjilsi.com^
 ||kuttarmufti.com^
+||kvcyoiwy.xyz^
 ||kvecc.com^
 ||kveii.com^
 ||kvemm.com^
@@ -16480,6 +16487,7 @@
 ||lcreatessque.xyz^
 ||lcsfctlhhwiq.xyz^
 ||lcxpvidcs.com^
+||ldimnveryldgittl.com.ua^
 ||lead1.pl^
 ||leadadvert.info^
 ||leadbolt.net^
@@ -16547,6 +16555,7 @@
 ||leontius-eli.com^
 ||leotumal.com^
 ||leoyard.com^
+||leptaasellus.digital^
 ||lerrdoriak.com^
 ||les7andla4.cfd^
 ||lesrepresws.one^
@@ -16569,6 +16578,7 @@
 ||lexicoggeegaw.website^
 ||lfg5jnbi.com^
 ||lfjaqwwsgyu.com^
+||lflzcaskpkfhi.com^
 ||lfport.com^
 ||lgbxelnukhsil.xyz^
 ||lgtdkpfnor.com^
@@ -17170,6 +17180,7 @@
 ||mczbf.com^
 ||mdadx.com^
 ||mdcytqwnbr.com^
+||mdfbrsfkufamsr.com^
 ||mdn2015x1.com^
 ||mdqiieoiqvn.xyz^
 ||meadowleader.com^
@@ -17287,6 +17298,7 @@
 ||merterpazar.com^
 ||meryjane.pro^
 ||merzostueru2hu8jr09.com^
+||mesalplayboy.com^
 ||meshagreeable.com^
 ||meshpetrols.com^
 ||messagereceiver.com^
@@ -17394,6 +17406,7 @@
 ||miragederbend.com^
 ||mirishkeeps.com^
 ||misbornsubitem.space^
+||misear.com^
 ||misguidedstork.com^
 ||mishishoka.pro^
 ||misreputyso.xyz^
@@ -17555,6 +17568,7 @@
 ||mopnatrestriction.com^
 ||mopnixhem.com^
 ||moradu.com^
+||morbidlocally.com^
 ||morbitempus.com^
 ||mordieuweeshee.com^
 ||mordoops.com^
@@ -17623,6 +17637,7 @@
 ||mr2cnjuh34jb.com^
 ||mrcoviu.pics^
 ||mrjb7hvcks.com^
+||mrnrkogtxb.com^
 ||mrtbbnrdip.com^
 ||mrtpcfegryfgqtbuvksbaebneewer.com^
 ||mrvio.com^
@@ -18859,6 +18874,7 @@
 ||ovsliqrcwqsqfxf.xyz^
 ||ovvwunawrt.com^
 ||ovxeeiuhjoenoeb.xyz^
+||owbroinothiermon.com.ua^
 ||owenexposure.com^
 ||owewary.com^
 ||owhoogryinfo.com^
@@ -22819,6 +22835,7 @@
 ||thoamike.xyz^
 ||thoartuw.com^
 ||thofandew.com^
+||tholedfubbery.com^
 ||thompaur.com^
 ||thongaspredo.com^
 ||thongrooklikelihood.com^
@@ -23804,6 +23821,7 @@
 ||vaebard.com^
 ||vaeesspot.com^
 ||vaifopooface.com^
+||vaikijie.net^
 ||vailedapetaly.com^
 ||vainfulkmole.com^
 ||vaipsona.com^
@@ -25161,6 +25179,7 @@
 ||zer1ads.com^
 ||zerg.pro^
 ||zeroidtech.com^
+||zestedmalays.com^
 ||zestekygri.com^
 ||zesty-beer.pro^
 ||zetadeo.com^
@@ -25186,6 +25205,7 @@
 ||zilchesmoated.com^
 ||zillahhayers.com^
 ||zim-zim-zam.com^
+||zimg.jp^
 ||zimill.com^
 ||zincdatawipe.com^
 ||zinmnubj1cfr.com^
@@ -33946,6 +33966,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affvantage.com^
 ||altopd.com^
 ||analys.live^
+||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
@@ -34002,6 +34023,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fpaxu.net^
 ||fpcdn.io^
 ||fptls.com^
+||fptls2.com^
 ||fpxau.net^
 ||fzlnk.com^
 ||g10300385420.co^
@@ -35918,6 +35940,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||botdetection.hbrsd.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
+||c.bazo.io^
 ||c.live.com^
 ||c.wen.ru^
 ||c3metrics.medifast1.com^
@@ -36186,9 +36209,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||onespot-tracking.herokuapp.com^
 ||open.delivery.net^
 ||openxcdn.net^
+||optimeeze.appspot.com^
 ||optimizely.appspot.com^
 ||orts.wixawin.com^
 ||p.delivery.net^
+||p.typekit.net^
 ||page-events-ustats.udemy.com^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
@@ -36395,6 +36420,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||track.vscash.com^
 ||track.wayin.com^
 ||track.yfret.com^
+||tracker-dot-optimeeze.appspot.com^
 ||tracker.affiliate.iqoption.com^
 ||tracker.beezup.com^
 ||tracker.data-vp.com^
@@ -37197,6 +37223,7 @@ vkcdnservice.appspot.com^
 ||9icmzvn6.website^
 ||a63t9o1azf.com^
 ||abrts.pro^
+||adeumssp.com^
 ||afbcashidr.com^
 ||ahcnxuepput.com^
 ||aopxnvrugx.com^
