@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-14T23:00:11.355Z
+! Last modified: 2023-01-15T23:00:12.279Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7564,6 +7564,7 @@
 ||acacdn.com^
 ||acaciaarraydebate.com^
 ||academyenrage.com^
+||acalraiz.xyz^
 ||acareewitu.com^
 ||acaupail.net^
 ||acc5a261f3.com^
@@ -8147,6 +8148,7 @@
 ||affordspoonsgray.com^
 ||affpa.top^
 ||affplanet.com^
+||affsuhgiyd.com^
 ||afftrack.com^
 ||afftrackr.com^
 ||afftrk.online^
@@ -9597,6 +9599,7 @@
 ||batesafraidacquit.com^
 ||batespecializecoal.com^
 ||batheattendancewreck.com^
+||batheunits.com^
 ||batmenmessily.website^
 ||batsdivannab.com^
 ||battepush.com^
@@ -11671,6 +11674,7 @@
 ||cwnfkbio.xyz^
 ||cwqljsecvr.com^
 ||cwwvbqwexbitnb.xyz^
+||cxfteuryfjdg.com^
 ||cxovwczosr.com^
 ||cyan92010.com^
 ||cybertronads.com^
@@ -12069,6 +12073,7 @@
 ||dfpstitialtag.com^
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
+||dgemanowhot.com.ua^
 ||dgmaplain.club^
 ||dgmatix.com^
 ||dgmaustralia.com^
@@ -12303,6 +12308,7 @@
 ||doddassagai.com^
 ||dodouhoa.com^
 ||dodurantom.com^
+||doeisjyhqtqsy.com^
 ||doerscharre.com^
 ||doffingiceboat.com^
 ||dogcollarnearest.com^
@@ -13428,6 +13434,7 @@
 ||febadu.com^
 ||februarynip.com^
 ||februaryreductionapplet.com^
+||federalcertainty.com^
 ||fedethezo.pro^
 ||fedrocou.net^
 ||fedsit.com^
@@ -13759,6 +13766,7 @@
 ||founct.com^
 ||foundfroshelves.com^
 ||fouptebu.net^
+||fourwhenstatistics.com^
 ||fovykaxo.pro^
 ||fowlsfunctions.com^
 ||foxcdn.life^
@@ -13844,6 +13852,7 @@
 ||fttwin.icu^
 ||ftv-publicite.fr^
 ||ftxabddarlo.xyz^
+||fublkelpi.com^
 ||fubsoucm.com^
 ||fudeidsoanadthe.info^
 ||fudsrakh.com^
@@ -13875,6 +13884,7 @@
 ||furnishedleggysoak.com^
 ||fuse-cloud.com^
 ||fuseplatform.net^
+||fusionwishful.com^
 ||fusoidactuate.com^
 ||futiledrugstore.com^
 ||futsoksu.com^
@@ -15709,6 +15719,7 @@
 ||jangonetwork.com^
 ||janitoraccrue.com^
 ||janufa.com^
+||japact.com^
 ||japanbros.com^
 ||japersuncials.com^
 ||japhapee.net^
@@ -15900,6 +15911,7 @@
 ||jpmpuxglivupwy.com^
 ||jqcache.ml^
 ||jqcgyjwidktu.xyz^
+||jqeyvtgelo.com^
 ||jquerycdn.host^
 ||jqueryoi.com^
 ||jqueryserve.org^
@@ -16541,6 +16553,7 @@
 ||leisurejust.com^
 ||leisurelydepended.com^
 ||leisurelypizzascarlet.com^
+||lejlchnxlrsdfev.com^
 ||lekqfxeydurktr.xyz^
 ||leljecxd.xyz^
 ||lemetri.info^
@@ -18317,6 +18330,7 @@
 ||oaksafta.com^
 ||oalsauwy.net^
 ||oalselry.com^
+||oalsoagn.com^
 ||oamoatch.com^
 ||oamtorsa.net^
 ||oanimsen.net^
@@ -18532,6 +18546,7 @@
 ||onads.com^
 ||onakasulback.autos^
 ||onalskillsexkc.com^
+||onandeggsiswe.com.ua^
 ||onastydrum.com^
 ||onaugan.com^
 ||onautcatholi.xyz^
@@ -18881,6 +18896,7 @@
 ||owlcongratulate.com^
 ||owlerydominos.cam^
 ||owlunimmvn.com^
+||owncdrfpv.com^
 ||owncutone.com^
 ||owndata.network^
 ||ownerfacinglung.com^
@@ -19258,6 +19274,7 @@
 ||phaudree.com^
 ||phaurtuh.net^
 ||phca85g3n400.com^
+||phdwxsui.xyz^
 ||pheasantcardboardcohort.com^
 ||pheasantgobetweenyearbook.com^
 ||phee1oci.com^
@@ -20313,6 +20330,7 @@
 ||raglogripsa.com^
 ||raicabuy.net^
 ||raidnarcotic.com^
+||raiglihi.net^
 ||raigns.com^
 ||railroadfatherenlargement.com^
 ||railroadtomato.com^
@@ -20927,6 +20945,8 @@
 ||roommatespacioushrs.com^
 ||roosteem.net^
 ||ropeanres.com^
+||ropemoon.com^
+||roqmerdeuro.com^
 ||roredi.com^
 ||rorgoops.com^
 ||rorserdy.com^
@@ -21349,6 +21369,7 @@
 ||secondunderminecalm.com^
 ||secrecysatisfy.com^
 ||secrud.com^
+||secruz.com^
 ||sectordisturb.com^
 ||sectsenior.com^
 ||secure-12.com^
@@ -22831,6 +22852,7 @@
 ||thispositionw.biz^
 ||thitsiryke.live^
 ||thizamocu.pro^
+||thkxtvklfdeget.com^
 ||thoaltie.net^
 ||thoamike.xyz^
 ||thoartuw.com^
@@ -24483,6 +24505,7 @@
 ||whoutsog.net^
 ||whouvike.com^
 ||whowhipi.net^
+||whpqvmaxr.xyz^
 ||whs82908.com^
 ||whukroal.net^
 ||whulsaux.com^
@@ -24779,6 +24802,7 @@
 ||xcsypkknp.com^
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
+||xddsuxmfvi.com^
 ||xdeqhxqu.com^
 ||xdirectx.com^
 ||xdkvvtucvbqhv.xyz^
@@ -25009,6 +25033,7 @@
 ||yoc-adserver.com^
 ||yodr.net^
 ||yofdifferents.biz^
+||yogacomplyfuel.com^
 ||yogawrite.com^
 ||yoginsnorland.com^
 ||yoifjfbzrkcz.com^
@@ -25302,6 +25327,7 @@
 ||zypenetwork.com^
 ||zyugar.com^
 ||zzdb5p4upiug.com^
+||zzoluickymwz.com^
 ||vpn-offers.org^
 ! Third-party
 ||123date.me^
@@ -34176,6 +34202,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||aapsis.com^
 ||aaxdetect.com^
 ||ablsrv.com^
+||ablyft.com^
 ||abtrcking.com^
 ||abtshield.com^
 ||accdab.net^
@@ -36969,6 +36996,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Thai
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+! Turkish
 ! Ukranian
 ||informers.sinoptik.ua^
 ! Vietnamese
