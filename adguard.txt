@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-25T23:00:11.624Z
+! Last modified: 2023-01-26T23:00:11.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4035,17 +4035,19 @@
 !
 !
 !
+||omjitjlhx.com^
+||gnenuelnn.com^
+||pusishegre.com^
+||kcddjusnew.com^
+||koabouch.net^
+||beinri.com^
 ||wyoxmklaa.xyz^
 ||phaithoo.xyz^
 ||bbangads.b-cdn.net^
 ||ukrait.com^
-||qnytqafoxu.com^
-||xpblitgpg.com^
 ||whychymithy.com^
 ||efully.info^
-||davzwyavjm.com^
 ||nezuel.com^
-||ptiftols.net^
 ||fikccnef.top^
 ||buqkrzbrucz.com^
 ||styrianauf.com^
@@ -4127,7 +4129,6 @@
 ||glefeesh.net^
 ||vlcdownloads.com^
 ||trqs.vip^
-||goomaphy.com^
 ||theupgradedata.com^
 ||theloveapproach.com^
 ||blfoddifghcmeyc.com^
@@ -4159,7 +4160,6 @@
 ||oobuthie.net^
 ||wugabts.com^
 ||flaxim.com^
-||booptuwa.net^
 ||mtdkhfguafqijx.com^
 ||oodrampi.com^
 ||sameplace.lol^
@@ -7207,6 +7207,7 @@
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mmtv.top^
 ||7two0.rocks^
 ||80055404.vtt^
 ||800c7864eb.com^
@@ -9576,6 +9577,7 @@
 ||bearerassistance.com^
 ||bearingpreoccupationadmonish.com^
 ||bearoner.com^
+||bearpawclouty.com^
 ||bearsdisdainmathematics.com^
 ||beassilentasaf.xyz^
 ||beastintruder.com^
@@ -9659,6 +9661,7 @@
 ||belaya2shu1ba1.com^
 ||belfarewes.buzz^
 ||belgrekblackad.com^
+||belgud.com^
 ||belickitungchan.com^
 ||beliet.com^
 ||believerillegible.com^
@@ -10116,6 +10119,7 @@
 ||booleanfalces.website^
 ||boom-boom-vroom.com^
 ||boonsbarcas.uno^
+||booptuwa.net^
 ||booshout.com^
 ||boost-next.co.jp^
 ||boostcdn.net^
@@ -10660,6 +10664,7 @@
 ||ceneicons.com^
 ||cennter.com^
 ||censelysoviell.xyz^
+||censorcolonizegreatness.com^
 ||centauruspopyou.com^
 ||centeredfailinghotline.com^
 ||centimetresnappeddock.com^
@@ -10727,6 +10732,7 @@
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
+||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -13067,6 +13073,7 @@
 ||exposuremixed.com^
 ||expressalike.com^
 ||expressvampire.com^
+||expwyredocks.com^
 ||exrtbsrv.com^
 ||extend.tv^
 ||extendedcocktailchapel.com^
@@ -13192,6 +13199,7 @@
 ||falconisleclip.com^
 ||falkag.net^
 ||falsemulticultural.com^
+||falsenalice.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
 ||falytjfsydnxstr.xyz^
@@ -14199,6 +14207,7 @@
 ||goofypismica.com^
 ||googleapi.club^
 ||goohimom.net^
+||goomaphy.com^
 ||gooods4you.com^
 ||goosebomb.com^
 ||goostist.com^
@@ -14874,6 +14883,7 @@
 ||hqawqssuvqyl.xyz^
 ||hqoadthspnju.com^
 ||hqpass.com^
+||hqqulwygpq.com^
 ||hrahdmon.com^
 ||hreerfdfgourg.com.ua^
 ||hrmationeng.xyz^
@@ -15349,6 +15359,7 @@
 ||introfykeeler.tech^
 ||intrudeaccess.com^
 ||intrudesome.com^
+||intuitspisan.com^
 ||inuapixndextq.xyz^
 ||inurneddoggish.com^
 ||invadedwherevoluntary.com^
@@ -15389,6 +15400,7 @@
 ||ipsowrite.com^
 ||iptautup.com^
 ||iqtest365.online^
+||iqyqqfduxeql.com^
 ||irardijjyawmool.xyz^
 ||iratelyveinlet.com^
 ||irchincsp.com^
@@ -15507,6 +15519,7 @@
 ||jadeepso.net^
 ||jads.co^
 ||jaftouja.net^
+||jafwmixumww.com^
 ||jagged-yellow.pro^
 ||jaggiertridii.com^
 ||jailabridge.com^
@@ -15592,6 +15605,7 @@
 ||jestbiases.com^
 ||jestinvaderspeedometer.com^
 ||jetgatem.com^
+||jetsomkhulda.com^
 ||jetsowilk.com^
 ||jettrujole.com^
 ||jetx.info^
@@ -16357,6 +16371,7 @@
 ||lexicoggeegaw.website^
 ||lfg5jnbi.com^
 ||lfport.com^
+||lfpthkipndval.com^
 ||lgbxelnukhsil.xyz^
 ||lgtdkpfnor.com^
 ||lgxoyjjdunlwrhp.xyz^
@@ -16474,6 +16489,7 @@
 ||livezombymil.com^
 ||lividtrash.pro^
 ||livorbarbes.com^
+||lixmperta.com^
 ||lizivaje.xyz^
 ||ljyajgjvuv.com^
 ||lkdvvxvtsq6o.com^
@@ -17076,6 +17092,7 @@
 ||methodrumour.com^
 ||methoxyunpaled.com^
 ||methree-salien.icu^
+||metingsaeta.com^
 ||metopeharriet.com^
 ||metosk.com^
 ||metresetbackbayonet.com^
@@ -17182,6 +17199,7 @@
 ||miswirewittall.uno^
 ||miszonepionic.space^
 ||mitosesgawking.com^
+||mittylargen.com^
 ||mixandfun.com^
 ||mixnewsbest.com^
 ||mixpo.com^
@@ -19677,6 +19695,7 @@
 ||ptewarin.net^
 ||ptewauta.net^
 ||ptidsezi.com^
+||ptiftols.net^
 ||ptinouth.com^
 ||ptipsixo.com^
 ||ptipsout.net^
@@ -19934,6 +19953,7 @@
 ||qn-5.com^
 ||qnsr.com^
 ||qnudcjkud.xyz^
+||qnytqafoxu.com^
 ||qoaaa.com^
 ||qofowyki.xyz^
 ||qomuchorindownlo.xyz^
@@ -20288,6 +20308,7 @@
 ||remarkablyson.com^
 ||remedyeloise.com^
 ||remembercompetitioninexplicable.com^
+||remexpeeks.com^
 ||remeyr.com^
 ||reminews.com^
 ||remintrex.com^
@@ -20299,6 +20320,7 @@
 ||renormaliseras.xyz^
 ||rentingimmoderatereflecting.com^
 ||reople.co.kr^
+||reoreexpresi.xyz^
 ||repairedbringstale.com^
 ||repaul.com^
 ||repealamintor.com^
@@ -20646,6 +20668,7 @@
 ||rothoglyro.pro^
 ||rotondahogs.com^
 ||rouar.com^
+||roucoutaivers.com^
 ||roudoduor.com^
 ||rouinfernapean.com^
 ||roujonoa.net^
@@ -21254,6 +21277,7 @@
 ||shinglelatitude.com^
 ||shinyshock.pro^
 ||shinyspiesyou.com^
+||shipsmotorw.xyz^
 ||shiryharu.pro^
 ||shisnwatcher.digital^
 ||shitcustody.com^
@@ -21429,6 +21453,7 @@
 ||skilyake.net^
 ||skinnerinadmissiblegreeted.com^
 ||skinneroverturn.com^
+||skinsdefinitely.com^
 ||skipdearbeautify.com^
 ||skipwaywurzel.com^
 ||skivesdaggles.com^
@@ -22519,6 +22544,7 @@
 ||thingrealtape.com^
 ||thingschemesforester.com^
 ||thinkseducation.com^
+||thinksuggest.org^
 ||thinnerconcha.com^
 ||thirawogla.com^
 ||third-tracking.com^
@@ -23381,6 +23407,7 @@
 ||uponhariyamar.com^
 ||uponsurskita.com^
 ||uppardjets.com^
+||upperched.com^
 ||uppoin.com^
 ||uppsyduckan.com^
 ||upregisteelon.com^
@@ -24152,6 +24179,7 @@
 ||whuptaiz.net^
 ||wibtntmvox.com^
 ||wickedlongingbelfry.com^
+||wickiupcopalms.com^
 ||widaimty.com^
 ||wideeyedlady.pro^
 ||wideliber.com^
@@ -24332,6 +24360,7 @@
 ||woymebsi.com^
 ||wp20.ru^
 ||wpadmngr.com^
+||wphmavwgay.xyz^
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjs.com^
@@ -24491,6 +24520,7 @@
 ||xo28pclotovi.com^
 ||xoalt.com^
 ||xoktditxsmr.xyz^
+||xpblitgpg.com^
 ||xpctraffic.com^
 ||xpectthatmy.shop^
 ||xpollo.com^
@@ -24520,9 +24550,11 @@
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
 ||xwqvytuiko.com^
+||xwujifnpt.com^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxecldsp.xyz^
+||xxfejeacw.com^
 ||xxlargepop.com^
 ||xxltr.com^
 ||xxxadv.com^
@@ -24600,6 +24632,7 @@
 ||yepsobtax.com^
 ||yepteaswont.com^
 ||yeqinu.xyz^
+||yerto.info^
 ||yes-messenger.com^
 ||yesmessenger.com^
 ||yespetor.com^
@@ -24938,6 +24971,7 @@
 ||zypenetwork.com^
 ||zyugar.com^
 ||zzdb5p4upiug.com^
+||zzoluickymwz.com^
 ||vpn-offers.org^
 ! Third-party
 ||123date.me^
@@ -26360,6 +26394,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||track.my1elitclub.com^
+||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||optimeeze.appspot.com^
 ||tracker-dot-optimeeze.appspot.com^
@@ -30871,6 +30907,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.aklamio.com^
 ||collect.hollisterco.com^
 ||d17tqr44y57o31.cloudfront.net^
 ||a.pikabu.ru^
@@ -33738,7 +33775,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||nimbleswan.io^
 ||notifpush.com^
 ||nxakpj4ac8gkd53.info^
-||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
 ||optistats.ovh^
@@ -33800,6 +33836,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||vpdcp.com^
+||wct-2.com^
 ||widgetbe.com^
 ||wknd.ai^
 ||wmgroup.us^
@@ -36936,9 +36973,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jan 2023 12:16 UTC+7
-! Version: 2301131216
-! Blocked: 795 rules
+! Last modified: 26 Jan 2023 22:35 UTC+7
+! Version: 2301262235
+! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37074,6 +37111,7 @@ vkcdnservice.appspot.com^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
+||mda.zadn.vn^
 ||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
@@ -37161,6 +37199,7 @@ vkcdnservice.appspot.com^
 ||tebrand.asia^
 ||tebrand.vn^
 ||testcentre.vn^
+||tjme.io^
 ||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracker-mw-zlivestream.zapps.vn^
@@ -37520,6 +37559,7 @@ vkcdnservice.appspot.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
+||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -37561,6 +37601,7 @@ vkcdnservice.appspot.com^
 ||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
+||s.zzcdn.me^
 ||s1.zzz.vn^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
