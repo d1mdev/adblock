@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-01-26T23:00:11.496Z
+! Last modified: 2023-01-27T23:00:12.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4035,6 +4035,7 @@
 !
 !
 !
+||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
 ||pusishegre.com^
@@ -5376,10 +5377,12 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d25m254rjp3rii.cloudfront.net^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
+||creative.live.missav.com^
 ||ad.apl164.me^
 ||ad.mediaprimaplus.com.my^
 ||cdnads.geeksforgeeks.org^
@@ -6739,6 +6742,7 @@
 ||1ts19.top^
 ||1web.me^
 ||1xdtscudjemp.com^
+||200088d4e2.com^
 ||2020mustang.com^
 ||20239be1ae.com^
 ||2036369798.com^
@@ -8402,6 +8406,7 @@
 ||almostspend.com^
 ||almsmanmalthe.com^
 ||aloftliquid.com^
+||aloftrecedestatistics.com^
 ||alogationa.co^
 ||alogiz.com^
 ||aloha-news.net^
@@ -9567,6 +9572,7 @@
 ||bdced8843e.com^
 ||bdettywfxbcb.xyz^
 ||bdkduroy.xyz^
+||bdrbmfnxuhcdaxp.com^
 ||be642e072e.com^
 ||beakedpissod.com^
 ||beambroth.com^
@@ -10402,6 +10408,7 @@
 ||c10ed2b8b417880.com^
 ||c12bleue.com^
 ||c17b4e420d.com^
+||c212a79d53.com^
 ||c2370c7aa8.com^
 ||c265f8e1e3.com^
 ||c2e6bd3f02.com^
@@ -10732,7 +10739,6 @@
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
-||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -10929,6 +10935,7 @@
 ||ckrf1.com^
 ||ckwlurries.com^
 ||clackavarian.com^
+||clackderiver.com^
 ||cladp.com^
 ||cladupius.com^
 ||claggeduniter.com^
@@ -11461,6 +11468,7 @@
 ||crossroaddividerecorded.com^
 ||crottlerennin.com^
 ||crowdgravity.com^
+||crpcruynxxc.com^
 ||crptentry.com^
 ||crptgate.com^
 ||crrepo.com^
@@ -11959,6 +11967,7 @@
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgpcdn.org^
+||dgqlwqedzowhqb.com^
 ||dgxmvglp.com^
 ||dh956.com^
 ||dharmaashman.com^
@@ -12494,6 +12503,7 @@
 ||eagernessstrongergreet.com^
 ||eagleapi.io^
 ||eagletskoku.com^
+||eaglid.com^
 ||ealeo.com^
 ||eanddrsgankru.com.ua^
 ||eapdypexshbrps.com^
@@ -14263,6 +14273,7 @@
 ||grairtoorgey.com^
 ||graivaik.com^
 ||graizoah.com^
+||grammarselfish.com^
 ||gramrebecca.com^
 ||granarybroughtfun.com^
 ||grandchildfee.com^
@@ -14965,6 +14976,8 @@
 ||hwaawsh.com^
 ||hwchvgpc.xyz^
 ||hwpnocpctu.com^
+||hxgqqxopf.com^
+||hxlvqndylyoi.xyz^
 ||hxoewq.com^
 ||hycikesty.pro^
 ||hydnoraraasch.tech^
@@ -15620,6 +15633,7 @@
 ||jgqskdjkorwvh.xyz^
 ||jgxotftsrfux.xyz^
 ||jheelsplotch.com^
+||jhoncj.com^
 ||jhzotqafwgb.com^
 ||jiawen88.com^
 ||jibmenbebloom.com^
@@ -16499,6 +16513,7 @@
 ||lkpmprksau.com^
 ||lkqd.net^
 ||llantynethebrav.xyz^
+||lleadupthere.xyz^
 ||llentmatchw.xyz^
 ||llevenmanis.xyz^
 ||llq9q2lacr.com^
@@ -17184,7 +17199,6 @@
 ||misguidedstork.com^
 ||mishishoka.pro^
 ||misreputyso.xyz^
-||missav.com^
 ||missgrand.beauty^
 ||missionarymargaret.com^
 ||missiondues.com^
@@ -18251,6 +18265,7 @@
 ||omclyzyapf.com^
 ||omding.com^
 ||omegatrak.com^
+||omervagant.com^
 ||omfiydlbmy.com^
 ||omg2.com^
 ||omgeihxpmwcn.xyz^
@@ -19400,6 +19415,7 @@
 ||pportunitytos.xyz^
 ||pppbr.com^
 ||pprq7.com^
+||pqxbcydpv.xyz^
 ||practitionermonsieurstable.com^
 ||practthreat.club^
 ||praght.tech^
@@ -19915,6 +19931,7 @@
 ||qa24ljic4i.com^
 ||qadservice.com^
 ||qajigu.xyz^
+||qalruhvcoa.com^
 ||qamwm5o8dlgijte.com^
 ||qanatn.com^
 ||qarewien.com^
@@ -20757,6 +20774,7 @@
 ||rubiestagaty.com^
 ||rubymillsnpro.com^
 ||ruckletawpy.com^
+||rudderaxis.com^
 ||rudimentarynuisancesynchronize.com^
 ||rufadses.net^
 ||rufflycouncil.com^
@@ -21117,6 +21135,7 @@
 ||selfreliantboot.pro^
 ||selfservicefabricdisdain.com^
 ||sellingprostituteinformant.com^
+||selsattherean.xyz^
 ||selvil.com^
 ||selwrite.com^
 ||semalinkar.com^
@@ -22154,6 +22173,7 @@
 ||surge.systems^
 ||surgermystem.xyz^
 ||surnamesubqueryaloft.com^
+||surroundingsliftingstubborn.com^
 ||surv2you.com^
 ||surv2you.net^
 ||surv2you.org^
@@ -22710,6 +22730,7 @@
 ||toahooka.com^
 ||toapodazoay.com^
 ||toaprefool.com^
+||toasterbutler.com^
 ||toateeli.net^
 ||tobaitsie.com^
 ||tobleronchiko.com^
@@ -22967,6 +22988,7 @@
 ||trlxcf05.com^
 ||trmnsite.com^
 ||trmobc.com^
+||trochaboozing.com^
 ||trodpigbays.com^
 ||troild.com^
 ||trokemar.com^
@@ -23181,6 +23203,7 @@
 ||ugekq.icu^
 ||ughhimtoy.com^
 ||ughtcallmeoo.xyz^
+||ugkmjojhgtqcohf.com^
 ||uglycotsjade.casa^
 ||uglypath.pro^
 ||ugostlyhewo.xyz^
@@ -23226,6 +23249,7 @@
 ||ulngtppm.com^
 ||ulourgaz.net^
 ||ulried.com^
+||ulrzovfukgkljw.com^
 ||ultanceev.com^
 ||ultimowraxle.com^
 ||ultingcoempa.xyz^
@@ -24743,6 +24767,7 @@
 ||youtubecenter.net^
 ||youtubem.shop^
 ||yovenbugsha.com^
+||yovqnwnmpzz.com^
 ||yowledwarm.website^
 ||yoyadsdom.com^
 ||ypmadserver.com^
@@ -26394,6 +26419,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||nakanohito.jp^
 ||track.my1elitclub.com^
 ||openfpcdn.io^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -30907,6 +30933,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||a.opmnstr.com^
 ||analytics.aklamio.com^
 ||collect.hollisterco.com^
 ||d17tqr44y57o31.cloudfront.net^
@@ -34257,7 +34284,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mynsystems.com^
 ||mytrack.pro^
 ||myvisitorcounter.com^
-||nakanohito.jp^
 ||natero.com^
 ||navigator.io^
 ||ncaudienceexchange.com^
@@ -35656,6 +35682,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||collect.rewardstyle.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -36973,9 +37000,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Jan 2023 22:35 UTC+7
-! Version: 2301262235
-! Blocked: 800 rules
+! Last modified: 27 Jan 2023 16:06 UTC+7
+! Version: 2301271606
+! Blocked: 801 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37538,6 +37565,7 @@ vkcdnservice.appspot.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
