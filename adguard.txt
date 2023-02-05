@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-04T23:00:11.943Z
+! Last modified: 2023-02-05T23:00:11.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8943,6 +8943,7 @@
 ||assuremath.com^
 ||ast2ya4ee8wtnax.com^
 ||astaicheedie.com^
+||astandhei.com^
 ||astarboka.com^
 ||astaticglib.com^
 ||astespurra.com^
@@ -10789,6 +10790,7 @@
 ||chestucoso.pro^
 ||chethgentman.live^
 ||chevetoelike.com^
+||chevisefancy.com^
 ||chewsrompedhemp.com^
 ||chiasephim.xyz^
 ||chibaigo.com^
@@ -11013,6 +11015,7 @@
 ||clicksor.net^
 ||clicksvenue.com^
 ||clickterra.net^
+||clickthruhost.com^
 ||clickthruserver.com^
 ||clicktrace.info^
 ||clicktraceclick.com^
@@ -11596,6 +11599,7 @@
 ||d1b9b1cxai2c03.cloudfront.net^
 ||d1bcb5ca9f.com^
 ||d1z2jf7jlzjs58.cloudfront.net^
+||d1zy4z3rd7svgh.cloudfront.net^
 ||d24ak3f2b.top^
 ||d25ee3531d.com^
 ||d29gqcij.com^
@@ -13273,6 +13277,7 @@
 ||fbwaikol.com^
 ||fccinteractive.com^
 ||fcdwrdjx.com^
+||fcompsepd.com^
 ||fcxcubtkahif.xyz^
 ||fd5orie8e.com^
 ||fd7qz88ckd.com^
@@ -13799,6 +13804,7 @@
 ||gakinibe.pro^
 ||galacticmenueasier.com^
 ||galaks.io^
+||galanasorra.com^
 ||galaxyvandas.website^
 ||galeaeevovae.com^
 ||galeidnursy.com^
@@ -14605,6 +14611,7 @@
 ||hearfromyou.biz^
 ||hearingyukkel.store^
 ||heartbrokendilapidation.com^
+||heartedicefall.com^
 ||heartilyscales.com^
 ||heathertravelledpast.com^
 ||heavenly-test.pro^
@@ -15596,6 +15603,7 @@
 ||jeisl.com^
 ||jellifytayer.com^
 ||jellyclick.com^
+||jeltoocm.xyz^
 ||jelulymy.pro^
 ||jennyblockademark.com^
 ||jennyunfit.com^
@@ -19913,6 +19921,7 @@
 ||pythoncareens.tech^
 ||pyvqoaoeeen.com^
 ||pyxidiaimmerit.com^
+||pyxiscablese.com^
 ||pziacchirov.com^
 ||q1-tdsge.com^
 ||q15homgeneral.com^
@@ -21390,6 +21399,7 @@
 ||sillyflowermachine.com^
 ||silsautsacmo.com^
 ||silverundergofold.com^
+||simeonolympia.com^
 ||similarfrustration.com^
 ||simoolkankrej.com^
 ||simpan.online^
@@ -24577,6 +24587,7 @@
 ||yahorokoz.com^
 ||yahuu.org^
 ||yaiser.com^
+||yakmakutopia.com^
 ||yamspunkdew.com^
 ||yankpainkiller.com^
 ||yantrasbarges.com^
@@ -24787,6 +24798,7 @@
 ||zaglushkaaa.com^
 ||zagtertda.com^
 ||zagvee.com^
+||zakaheggment.com^
 ||zamiasbrouze.com^
 ||zangocash.com^
 ||zaparena.com^
@@ -25203,6 +25215,7 @@
 ||adsparc.net^
 ||adspeed.com^
 ||adspruce.com^
+||adsquirrel.ai^
 ||adsring.com^
 ||adsrvmedia.com^
 ||adssend.net^
@@ -26937,7 +26950,6 @@
 ||contentsfeed.com^
 ||zz.bdstatic.com^
 ||agorahtag.tech^
-||cdn.adsquirrel.ai^
 ||b90.yahoo.co.jp^
 ||mc-ya.ru^
 ||srmdata.com^
