@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-07T23:00:11.868Z
+! Last modified: 2023-02-08T23:00:11.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4028,6 +4028,18 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+||xszcdn.com^
 ||myownshop.at^
 ||uads.store^
 ||toromclick.com^
@@ -9874,6 +9886,7 @@
 ||bigrourg.net^
 ||bigsport.today^
 ||biinminigihi.com^
+||bijitsoa.com^
 ||bijwawr.com^
 ||bikrurda.net^
 ||bilecontagiousswine.com^
@@ -9915,6 +9928,7 @@
 ||bitads.io^
 ||bitbeat7.com^
 ||bitcoin-news.vip^
+||bitdiko.com^
 ||biteburied.com^
 ||bitesizedtreat.pro^
 ||biticesar.com^
@@ -11361,6 +11375,7 @@
 ||counciladvertising.net^
 ||councilcoveauto.com^
 ||counda.com^
+||coundt.com^
 ||countertrck.com^
 ||countessbridge.com^
 ||countilde.online^
@@ -11745,6 +11760,7 @@
 ||dchoseitfromt.com.ua^
 ||dcovesaysh.xyz^
 ||dcpxroykfpnnpm.xyz^
+||dcuonsugikrma.com^
 ||dcynwezfon.com^
 ||dd09af1279.com^
 ||dd8af8726c.com^
@@ -15512,6 +15528,7 @@
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||itzekromom.com^
+||iuclpbgxyfddk.xyz^
 ||iupot.com^
 ||iuprhjal.com^
 ||iuwzdf.com^
@@ -15837,6 +15854,7 @@
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
 ||jwycmuozlpu.com^
+||jyaneuan.com^
 ||jyarkinhechershedt.xyz^
 ||jygotubvpyguak.com^
 ||jyjgtpurrwg.xyz^
@@ -16243,6 +16261,7 @@
 ||landscapeuproar.com^
 ||landslidechoreloft.com^
 ||landupoatour.com.ua^
+||landupoatouwe.xyz^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lankychaosrun.com^
@@ -16826,6 +16845,7 @@
 ||majorinryesop.lol^
 ||majorityevaluatewiped.com^
 ||majorworkertop.com^
+||makemehappy.pro^
 ||makesboundlessvirtue.com^
 ||makespram.com^
 ||makingnude.com^
@@ -17570,6 +17590,7 @@
 ||mysleepds.com^
 ||mysoftbox.ru^
 ||mysweetteam.com^
+||myteamdev.com^
 ||mythincredibly.com^
 ||mytrackf73.com^
 ||mywondertrip.com^
@@ -18412,6 +18433,7 @@
 ||oorwithabitofst.info^
 ||ootchaig.xyz^
 ||ootchoft.com^
+||ootibsay.xyz^
 ||oovilsol.com^
 ||ooxookrekaun.com^
 ||oozyunmix.com^
@@ -19981,6 +20003,7 @@
 ||qaykb.com^
 ||qbkzvophvva.com^
 ||qcffrrsyaxcccx.xyz^
+||qctnglnhfkhcjue.com^
 ||qdagihwi.xyz^
 ||qdatasales.com^
 ||qdmil.com^
@@ -21167,6 +21190,7 @@
 ||sefsdvc.com^
 ||sefuge.com^
 ||sefytiavhavrds.com^
+||seibertspart.com^
 ||seinpounday.com^
 ||seizecrashsophia.com^
 ||seizedorientationenrich.com^
@@ -21596,6 +21620,7 @@
 ||smg8oo4njst45oene.com^
 ||smigro.info^
 ||smileoffennec.com^
+||smirkscapos.com^
 ||smises.com^
 ||smisit.com^
 ||smists.com^
@@ -22884,6 +22909,7 @@
 ||totogetica.com^
 ||touchycart.com^
 ||touglesy.net^
+||toumnahrafale.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
@@ -23453,6 +23479,7 @@
 ||unwarydebite.com^
 ||unwillingsnick.com^
 ||unwisecommence.com^
+||unwoobater.com^
 ||unwroteorcinus.com^
 ||uod2quk646.com^
 ||up4u.me^
@@ -24417,6 +24444,7 @@
 ||worred.com^
 ||worriesteapotairborne.com^
 ||worrycrevicewholly.com^
+||worseobscureplastic.com^
 ||worthconesquadron.com^
 ||worthersefim.club^
 ||worthless-living.pro^
@@ -25563,6 +25591,7 @@
 ||cluep.com^
 ||cogocast.net^
 ||coguan.com^
+||coinads.io^
 ||coinmedia.co^
 ||cointraffic.io^
 ||coinzilla.io^
@@ -26440,6 +26469,7 @@
 !
 ! The list of bug-tracker services(Sentry, etc.)
 ! Add as commented rules. Will be used in additional list and/or strict DNS
+! ||rum.cronitor.io^$third-party
 ! ||in.appcenter.ms^
 ! ||api.loganalytics.io^
 ! ||crashlyticsreports-pa.googleapis.com^
@@ -32900,6 +32930,7 @@
 ||tracker.cdnbye.com^
 ||tracker.cpapath.com^
 ||tracker.downdetector.com^
+||tracker.files.fm^
 ||tracker.giftd.ru^
 ||tracker.joongang.co.kr^
 ||tracker.joost.com^
