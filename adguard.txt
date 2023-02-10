@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-09T23:00:11.551Z
+! Last modified: 2023-02-10T23:00:11.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4039,6 +4039,13 @@
 !
 !
 !
+||acsshufxnu.com^
+||qtspkqzn.com^
+||skeetads.com^
+||rhoeomanid.space^
+||gervasdonatee.guru^
+||frocogue.store^
+||tembetachasmic.guru^
 ||lifesoonersoar.org^
 ||dpipel.com^
 ||xszcdn.com^
@@ -8449,6 +8456,7 @@
 ||altynamoan.com^
 ||aluationiam.com^
 ||alulimprowess.com^
+||alunitemoste.com^
 ||alwayspainfully.com^
 ||alwaysxup.com^
 ||alwsbnvialll.com^
@@ -8934,6 +8942,7 @@
 ||aspignitean.com^
 ||aspiredcapitol.com^
 ||assailusefullyenemies.com^
+||assaystalonic.com^
 ||assembledscout.com^
 ||assembleservers.com^
 ||assentproduct.com^
@@ -9378,6 +9387,7 @@
 ||backpub.mom^
 ||backseatabundantpickpocket.com^
 ||backseatincredible.com^
+||backseatrunners.com^
 ||backstageconfide.com^
 ||backstagedeputy.com^
 ||backstagefreakish.com^
@@ -9621,6 +9631,7 @@
 ||becomingcrackingragged.com^
 ||becond.com^
 ||becorsolaom.com^
+||becramblunger.com^
 ||becrustleom.com^
 ||becuboneor.com^
 ||bedaslonej.com^
@@ -10242,10 +10253,12 @@
 ||breedtagask.com^
 ||breemi.com^
 ||brereairsome.com^
+||brewseryngo.com^
 ||briareddollier.com^
 ||bricius-ing.com^
 ||bridae.com^
 ||bridesmaidcleft.com^
+||bridespiraya.com^
 ||briefcasebuoyduster.com^
 ||brighteroption.com^
 ||brightonclick.com^
@@ -11227,6 +11240,7 @@
 ||compassionateblackthirst.com^
 ||compassionorb.com^
 ||comperesuccessive.com^
+||competitivepopcheerleader.com^
 ||complainfriendshipperry.com^
 ||completedmisunderstand.com^
 ||complicatedincite.com^
@@ -11237,6 +11251,7 @@
 ||comprehensiveunconsciousblast.com^
 ||compromiseplot.com^
 ||compulsionspotsbeacon.com^
+||comradeglorious.com^
 ||comunicazio.com^
 ||comwgi.com^
 ||conative.network^
@@ -11400,6 +11415,7 @@
 ||cowbumply.com^
 ||cowerarmament.com^
 ||cowmanvampyre.uno^
+||coxalscyth.com^
 ||coyanhybrida.website^
 ||coyerbarrets.com^
 ||coysotown.com^
@@ -11632,6 +11648,7 @@
 ||d25ee3531d.com^
 ||d29gqcij.com^
 ||d2e48d0dce.com^
+||d2oy22m6xey08r.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
@@ -12829,6 +12846,7 @@
 ||en-continue.site^
 ||enaceanspection.com^
 ||enactmedic.com^
+||enactsbasiate.com^
 ||enacttournamentcute.com^
 ||enamberchivies.com^
 ||enarmuokzo.com^
@@ -13428,6 +13446,7 @@
 ||fifteenthfeeding.com^
 ||figgleimpregn.com^
 ||figgynudest.com^
+||fighla.com^
 ||fightingcowardlycoffin.com^
 ||fightingleatherconspicuous.com^
 ||figuredcurrantcroak.com^
@@ -14693,6 +14712,7 @@
 ||hellocaterersomeone.com^
 ||helltraffic.com^
 ||helodesdhoni.com^
+||helpedhandwritingintestine.com^
 ||helperate.net^
 ||helpfulwrap.com^
 ||hemasejereeds.com^
@@ -14841,6 +14861,7 @@
 ||hoanoola.net^
 ||hoareddepulse.com^
 ||hoarseairy.com^
+||hoazinangles.com^
 ||hobfadbig.com^
 ||hockeyhavoc.com^
 ||hocoas.com^
@@ -14884,6 +14905,7 @@
 ||hoothaglow.com^
 ||hoowooze.net^
 ||hopedwishfulpercent.com^
+||hopefullyactively.com^
 ||hopefulserversnecklace.com^
 ||hopghpfa.com^
 ||hopilos.com^
@@ -15587,6 +15609,7 @@
 ||jailershowmen.com^
 ||jainaritzily.com^
 ||jaleepsorous.website^
+||jaletemetia.com^
 ||jaloppystudy.life^
 ||jambultoxamin.com^
 ||jamdomn.pro^
@@ -15820,6 +15843,7 @@
 ||jugcontainer.com^
 ||jugerfowells.com^
 ||juggledcample.website^
+||jugixgjqx.xyz^
 ||jugnaglo.com^
 ||jugust.com^
 ||juiceadv.net^
@@ -16723,6 +16747,7 @@
 ||lucretius-ada.com^
 ||ludesthat.club^
 ||ludicroussignify.com^
+||ludocsbho.com^
 ||ludwigreseise.tech^
 ||lufbogazixz.com^
 ||lukpush.com^
@@ -19032,6 +19057,7 @@
 ||pervasivebacksrate.com^
 ||pervertmine.com^
 ||pervialinagile.com^
+||perviv.com^
 ||peskyclarifysuitcases.com^
 ||pestgermagriculture.com^
 ||pestilenttidefilth.org^
@@ -20904,6 +20930,7 @@
 ||runtedforcut.com^
 ||runtnc.net^
 ||runwaff.com^
+||ruogesfshygsj.com^
 ||ruokareseptit.online^
 ||ruperparverew.xyz^
 ||rurate.com^
@@ -21361,6 +21388,7 @@
 ||sheerdaulpusher.com^
 ||sheeroop.com^
 ||sheetchi.net^
+||sheetvibe.com^
 ||sheglach.net^
 ||shelvesdeserve.com^
 ||shelvesendorsebloom.com^
@@ -21900,6 +21928,7 @@
 ||spoutable.com^
 ||sprayswisha.com^
 ||spreau.com^
+||sprettyruckus.com^
 ||sprintainokeg.xyz^
 ||sprinterchance.com^
 ||sprkl.io^
@@ -21920,6 +21949,7 @@
 ||squeezemicrowave.com^
 ||squeezesharedman.com^
 ||squeezeutteredcertainty.com^
+||squetanonym.com^
 ||squett.com^
 ||squhtdqggvpx.xyz^
 ||squinbested.com^
@@ -21949,6 +21979,7 @@
 ||sswmmjpiiqreswb.xyz^
 ||st-rdirect.com^
 ||st1net.com^
+||stabam.com^
 ||stabbr.com^
 ||stabilecordy.com^
 ||stabilityvatinventory.com^
@@ -22153,6 +22184,7 @@
 ||sturea.com^
 ||stuted.com^
 ||stvkr.com^
+||stylliyote.com^
 ||stypaphupse.com^
 ||sub2.avgle.com^
 ||subeditatresic.com^
@@ -22416,6 +22448,7 @@
 ||tapsirsa.net^
 ||taracareewitu.xyz^
 ||taroads.com^
+||tarokbien.com^
 ||tarotien.com^
 ||tarrilyathenee.com^
 ||tartarsharped.com^
@@ -22576,6 +22609,7 @@
 ||thagic.com^
 ||thaickoo.net^
 ||thaidapps.com^
+||thaignax.net^
 ||thaiguxu.com^
 ||thaistiboa.com^
 ||thaninncoos.com^
@@ -23759,6 +23793,7 @@
 ||verbalconnoisseurstoppage.com^
 ||verblife-5.co^
 ||verdictdisingenuousfruitless.com^
+||vereyhinders.com^
 ||verifychocolate.com^
 ||veryinterestvids.xyz^
 ||veryn1ce.com^
@@ -23812,6 +23847,7 @@
 ||videovideee771.com^
 ||videovideee881.com^
 ||videovideee991.com^
+||vidscity.info^
 ||vidsfun.info^
 ||vidsofdream.today^
 ||vidsservices.info^
@@ -24148,6 +24184,7 @@
 ||webclickengine.com^
 ||webclickmanager.com^
 ||webcontentassessor.com^
+||webfeetdaidled.com^
 ||webhit-now.com^
 ||webmadeblog.com^
 ||webpinp.com^
@@ -24609,6 +24646,7 @@
 ||xfxssqakis.com^
 ||xgraph.net^
 ||xgrwjbui.top^
+||xgsgougog.com^
 ||xhaeuubhi.xyz^
 ||xhr0.xyz^
 ||xhuwypebxqlt.com^
@@ -27179,7 +27217,6 @@
 ||retargeter.com.br^
 ||shopback.net^
 ||shopconvert.com.br^
-||neemu.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||mci1.co.kr^
 ||analytics.sitewit.com^
@@ -29904,6 +29941,7 @@
 ||xtremline.com^
 ||xxxcounter.com^
 ||xyztraffic.com^
+||x.clearbit.com^
 ||y-track.com^
 ||yadro.ru^
 ||yamanoha.com^
@@ -31050,6 +31088,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.ensonhaber.com^
 ||l.traxmag.com^
 ||pixel-*.rubiconproject.com^
 ||pixel.rubiconproject.com^
@@ -31967,6 +32006,7 @@
 ||frog.yuanfudao.com^
 ||front.optimonk.com^
 ||funn.graphiq.com^
+||ga.clearbit.com^
 ||gak.webtoons.com^
 ||gather.donga.com^
 ||gdm1.toner.fr^
@@ -32453,6 +32493,7 @@
 ||recs.atgsvcs.com^
 ||referrer.disqus.com^
 ||repdata.usatoday.com^
+||reveal.clearbit.com^
 ||revi.rcs.it^
 ||rps-uk.rockpapershotgun.com^
 ||rrss.abc.es^
@@ -34136,7 +34177,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cintnetworks.com^
 ||cityadstrack.com^
 ||clarium.io^
-||clearbit.com^
 ||clearbitjs.com^
 ||clickferret.com^
 ||clickguard.com^
@@ -36140,6 +36180,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||stas.outbrain.com^
+||stat.absolutist.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
 ||stat.moevideo.net^
