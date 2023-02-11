@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-10T23:00:11.148Z
+! Last modified: 2023-02-11T23:00:08.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12590,6 +12590,7 @@
 ||easygoinglengthen.com^
 ||easygoingtouchybribe.com^
 ||easylist-to.xyz^
+||easypics.info^
 ||eatcppcsmnkpdfk.xyz^
 ||eatinerhitles.xyz^
 ||eationslieem.xyz^
@@ -12801,6 +12802,7 @@
 ||elizaguarapo.com^
 ||elkbahtax.com^
 ||elkconsistbirch.com^
+||ellaysad.live^
 ||ellcurvth.com^
 ||ellpaniers.com^
 ||eloquencer.com^
@@ -18202,6 +18204,7 @@
 ||observedlily.com^
 ||obsessiondiscourteous.com^
 ||obsessivepetsbean.com^
+||obsors.com^
 ||obspkoirhnvq.xyz^
 ||obssiyjiachvh.xyz^
 ||obstructionsaint.com^
@@ -20005,6 +20008,7 @@
 ||pvxvazbehd.com^
 ||pvykihatcb.com^
 ||pweaatek.com^
+||pweocgzutri.com^
 ||pwigekcyr.com^
 ||pwmctl.com^
 ||pwrads.net^
@@ -20045,6 +20049,7 @@
 ||qawpicxuca.com^
 ||qaykb.com^
 ||qbkzvophvva.com^
+||qbxucdgggl.com^
 ||qcffrrsyaxcccx.xyz^
 ||qctnglnhfkhcjue.com^
 ||qdagihwi.xyz^
@@ -21834,6 +21839,7 @@
 ||spaign.com^
 ||spannercopyright.com^
 ||spanuletubings.com^
+||spaped.com^
 ||sparedmallet.com^
 ||spargegytling.com^
 ||sparkle-industries-i-205.site^
@@ -21924,6 +21930,7 @@
 ||spotrails.com^
 ||spotscenered.info^
 ||spottt.com^
+||spotunworthycoercive.com^
 ||spotxcdn.com^
 ||spoutable.com^
 ||sprayswisha.com^
@@ -23195,7 +23202,6 @@
 ||tuberay.com^
 ||tuberise.com^
 ||tubestrap.com^
-||tubesweet.com^
 ||tubetry.com^
 ||tubeultra.com^
 ||tuboaxen.com^
@@ -24767,6 +24773,7 @@
 ||yavli.com^
 ||yawcoynag.com^
 ||yazcash.com^
+||ybandwhwscrcyf.com^
 ||ybmnptiuj.xyz^
 ||ycadenevery.xyz^
 ||yceml.net^
@@ -26112,6 +26119,7 @@
 ||ppcwebspy.com^
 ||prebid.org^
 ||prebidwrapper.com^
+||primis-amp.tech^
 ||promo-reklama.ru^
 ||proper.io^
 ||pubdirecte.com^
@@ -35109,6 +35117,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beginnerpancake.com^
 ||begintrain.com^
 ||bizarrebaseball.com^
+||blushingbread.com^
 ||bouncyfront.com^
 ||burstblade.com^
 ||bustlingbath.com^
@@ -36623,6 +36632,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
 ||epro.sogou.com^
+||experiments.sparanoid.net^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
