@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-11T23:00:08.779Z
+! Last modified: 2023-02-12T23:00:12.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4039,6 +4039,9 @@
 !
 !
 !
+||poflix.com^
+||egikoilnbwk.com^
+||xmvftaoz.com^
 ||acsshufxnu.com^
 ||qtspkqzn.com^
 ||skeetads.com^
@@ -4106,7 +4109,6 @@
 ||datingarea.life^
 ||dkohudoflh.com^
 ||kmyamhowpj.com^
-||egikoilnbwk.com^
 ||iuudbgnvgyswen.com^
 ||losepipegoes.live^
 ||olineman.pro^
@@ -5695,10 +5697,6 @@
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
-!
-! com.kakao.talk
-.ad.kakaocorp.com^
-.ad.kakao.com^
 !
 ||api-ad-adapter.wps.com^
 ||jtbo*.nqxvevk.cn^
@@ -7744,7 +7742,6 @@
 ||adherencestated.com^
 ||adhoc4.net^
 ||adhub.digital^
-||adhunt.net^
 ||adiquity.com^
 ||adjectivedollaralmost.com^
 ||adjoincomprise.com^
@@ -25239,6 +25236,7 @@
 ||adhese.net^
 ||adhigh.net^
 ||adhostingsolutions.com^
+||adhunt.net^
 ||adicate.com^
 ||adikteev.com^
 ||adimise.com^
@@ -25787,6 +25785,7 @@
 ||geo-idm.fr^
 ||geopromos.com^
 ||geovisite.com^
+||geozo.com^
 ||germaniavid.com^
 ||gestionpub.com^
 ||get.com^
@@ -31096,6 +31095,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.dashboard.fingerprint.com^
 ||tracking.ensonhaber.com^
 ||l.traxmag.com^
 ||pixel-*.rubiconproject.com^
