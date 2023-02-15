@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-14T23:00:11.348Z
+! Last modified: 2023-02-15T23:00:12.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3761,6 +3761,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||banner.kaktus.media^
 ||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
@@ -4041,6 +4042,9 @@
 !
 !
 !
+||befirstcdn.com^
+||crific.com^
+||offvmuf.com^
 ||iyfbodn.com^
 ||omxriphi.com^
 ||poflix.com^
@@ -5205,7 +5209,6 @@
 ||motosal.net^
 ||dopor.info^
 ||tjfot.com^
-||befirstcdn.com^
 ||bleua.ecefibwja.xyz^
 ||earnco.in^
 ||data.adwombat.com^
@@ -5392,6 +5395,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||newrevive.detik.com^
 ||ad.serv1for.pro^
 ||cdn.aanetwork.vn^
 ||res.adx.opera.com^
@@ -7526,6 +7530,7 @@
 ||abyamaskor.com^
 ||abyssesbathman.com^
 ||acacdn.com^
+||acacdn.xyz^
 ||acaciaarraydebate.com^
 ||academyenrage.com^
 ||acalraiz.xyz^
@@ -8132,6 +8137,7 @@
 ||afssdmin.com^
 ||aftapbscyx.com^
 ||afteen.com^
+||aftenn.com^
 ||aftent.com^
 ||afterdownload.com^
 ||afterdownloads.com^
@@ -8695,6 +8701,7 @@
 ||apavskmykcm.xyz^
 ||apearkcan.club^
 ||apeartalb.site^
+||aperchwagered.com^
 ||aperushmo.cam^
 ||apexwantstar.com^
 ||apglinks.net^
@@ -9270,6 +9277,7 @@
 ||awwvbwym.xyz^
 ||awxczujifw.com^
 ||awxoddnhl.xyz^
+||axaixhputktc.com^
 ||axeldivision.com^
 ||axelsermit.com^
 ||axfeicjfp.com^
@@ -9802,6 +9810,7 @@
 ||bestsafefast.com^
 ||bestssn.com^
 ||besttracksolution.com^
+||bestvenadvertising.com^
 ||bestwinterclck.name^
 ||besty-deals.com^
 ||bestzba.com^
@@ -10195,6 +10204,7 @@
 ||bostopago.com^
 ||bosuch.com^
 ||bot-checker.com^
+||bothererune.com^
 ||bottlerobust.com^
 ||boudja.com^
 ||boudutoo.net^
@@ -10391,6 +10401,7 @@
 ||bunnymediaserver.com^
 ||buoyant-force.pro^
 ||buoyantmanufacturer.pro^
+||buoydeparturediscontent.com^
 ||bupatp.com^
 ||buphoolo.net^
 ||buqokcv.com^
@@ -11471,6 +11482,7 @@
 ||cqbahflp.com^
 ||cqekuodanlchkr.com^
 ||cqfbrnzsgns.com^
+||cqkxloadw.com^
 ||cqlupb.com^
 ||cqpcjoelfb.xyz^
 ||cqrvwq.com^
@@ -11622,6 +11634,7 @@
 ||curupeymaceman.com^
 ||cuseccharm.com^
 ||cusecwhitten.com^
+||cushawsdizens.com^
 ||customads.co^
 ||customapi.top^
 ||cuteasiangirl.net^
@@ -11634,6 +11647,7 @@
 ||cvkvtsjjrs.xyz^
 ||cvogttseoqnld.xyz^
 ||cvqgnkeqme.com^
+||cwejnszakvvvu.com^
 ||cwhsasrwne.xyz^
 ||cwknqqsjgboycim.xyz^
 ||cwkuki.com^
@@ -12812,6 +12826,7 @@
 ||elaboratehall.pro^
 ||elasticad.net^
 ||elbertmemoria.com^
+||eldestcontribution.com^
 ||eldestequivalentdrain.com^
 ||eleavers.com^
 ||electnext.com^
@@ -13003,6 +13018,7 @@
 ||ernestindeedtradition.com^
 ||erniphiq.com^
 ||ernoddenkn.pics^
+||ernshawing.com^
 ||erokimooki.com^
 ||erosionexception.com^
 ||erosyndc.com^
@@ -13988,6 +14004,7 @@
 ||gdmconvtrck.com^
 ||gdmdigital.com^
 ||gdmgsecure.com^
+||gdrisajx.com^
 ||gearsora.com^
 ||gebadu.com^
 ||gecl.xyz^
@@ -14905,6 +14922,7 @@
 ||hoanaijo.com^
 ||hoanoola.net^
 ||hoareddepulse.com^
+||hoaredsavates.com^
 ||hoarseairy.com^
 ||hoazinangles.com^
 ||hobfadbig.com^
@@ -15153,6 +15171,7 @@
 ||ibryte.com^
 ||ibugreeza.com^
 ||ibwxpbcytaps.com^
+||icciqhuw.com^
 ||iccompanzens.fun^
 ||icdirect.com^
 ||icedewear.site^
@@ -15221,6 +15240,7 @@
 ||ijspro-code.com^
 ||ijtomh.com^
 ||ijwfyirxx.xyz^
+||ikahnruntx.com^
 ||ikajeoes.com^
 ||ikcaru.com^
 ||iklghjooyj.com^
@@ -15517,6 +15537,7 @@
 ||iodideeyebath.cam^
 ||iodinegerminateplayer.com^
 ||ioheiy.com^
+||iokenattharmiinl.xyz^
 ||iolenproces.asia^
 ||ionakasulba.xyz^
 ||ioniaukmla.xyz^
@@ -15593,6 +15614,7 @@
 ||itemolgaer.com^
 ||itemperrycreek.com^
 ||itenvalve.uno^
+||itespurrom.com^
 ||itgiblean.com^
 ||itheatmora.com^
 ||itheatmoran.com^
@@ -15856,6 +15878,7 @@
 ||jpesfzcjob.com^
 ||jpmpuxglivupwy.com^
 ||jqcache.ml^
+||jqeyvtgelo.com^
 ||jqjqiksmjhtku.com^
 ||jqtree.com^
 ||jquerycdn.host^
@@ -16523,6 +16546,7 @@
 ||levulinmoble.space^
 ||lexicoggeegaw.website^
 ||lfg5jnbi.com^
+||lfjaqwwsgyu.com^
 ||lfport.com^
 ||lgbxelnukhsil.xyz^
 ||lgtdkpfnor.com^
@@ -17043,6 +17067,7 @@
 ||masslistener.com^
 ||masstech.info^
 ||mastermilligram.com^
+||masterthoroughfarepiercing.com^
 ||mastfiguredrussell.com^
 ||masticsvorlage.website^
 ||masture.mobi^
@@ -17072,6 +17097,7 @@
 ||maudamee.net^
 ||maulupoa.com^
 ||maumetsvowers.com^
+||maurejee.com^
 ||mavq.net^
 ||maw5r7y9s9helley.com^
 ||mawlaybob.com^
@@ -17364,6 +17390,7 @@
 ||mixnewsbest.com^
 ||mixpo.com^
 ||mixykails.com^
+||mjrhficjcbf.com^
 ||mjyhgt.xyz^
 ||mkhoj.com^
 ||mkifagon.com^
@@ -18302,6 +18329,7 @@
 ||ocmhood.com^
 ||octanmystes.com^
 ||octaviancontrast.com^
+||octavianflingpod.com^
 ||octicdsects.com^
 ||octkuhwuvxarsk.xyz^
 ||octopod.cc^
@@ -18901,6 +18929,7 @@
 ||palakahone.com^
 ||palama2.co^
 ||palama2.com^
+||palaverpageboy.com^
 ||paletteadulatory.com^
 ||palibs.tech^
 ||pallaliven.com^
@@ -19174,6 +19203,7 @@
 ||pfklopud.xyz^
 ||pftamvhajdqhps.xyz^
 ||pftservice.click^
+||pfuettchk.com^
 ||pgeejqisao.com^
 ||pgitpwovdh.xyz^
 ||pgmcdn.com^
@@ -19183,6 +19213,7 @@
 ||pgqrmhewdb.xyz^
 ||pgssl.com^
 ||phabycebe.com^
+||phague.com^
 ||phaikroo.net^
 ||phaiksul.net^
 ||phaisoaz.com^
@@ -19261,6 +19292,7 @@
 ||phumpauk.com^
 ||phuteheglu.com^
 ||phuttrice.com^
+||phychashowi.com^
 ||physicalblueberry.com^
 ||physicallyfinch.com^
 ||physiqueusualconsulting.com^
@@ -19280,6 +19312,8 @@
 ||pickinnimiety.com^
 ||pickytime.com^
 ||picnicnorthernincompetent.com^
+||picscaps.info^
+||picscity.info^
 ||picsofdream.today^
 ||picsservices.info^
 ||picsti.com^
@@ -19668,6 +19702,7 @@
 ||preparationstube.com^
 ||prepayproceedingsground.com^
 ||prepenseprepensedefiance.com^
+||preponderanttemple.com^
 ||preposterousdecidedfollowing.com^
 ||preposterousgoody.com^
 ||prerogativefranticinfractructure.com^
@@ -20014,6 +20049,7 @@
 ||purplepatch.online^
 ||purrbackground.com^
 ||pursedistraught.com^
+||pursualstums.com^
 ||pursuedfourteenth.com^
 ||pursuingconjunction.com^
 ||pursuitnauseousinvalid.com^
@@ -20464,6 +20500,7 @@
 ||reencoccous.store^
 ||reenginee.club^
 ||reerfdfgourgo.xyz^
+||reevoopt.com^
 ||refaucherais.site^
 ||refban.com^
 ||refbanners.com^
@@ -20611,6 +20648,7 @@
 ||residenceseeingstanding.com^
 ||residentialsize.com^
 ||residentshove.com^
+||resigndictationhorns.com^
 ||resistcorrectly.com^
 ||resistsarcasm.com^
 ||resnaulum.com^
@@ -21159,6 +21197,7 @@
 ||sakulyavoluspa.tech^
 ||sakura-traffic.com^
 ||sales1sales.com^
+||salestingoner.org^
 ||salinasbhut.com^
 ||salishcoenact.com^
 ||salloohoelike.website^
@@ -21304,6 +21343,7 @@
 ||sdbvveonb1.com^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||sdlocujcelv.com^
 ||sdnihyxlqiws.com^
 ||sdnygannce.com^
 ||sdprsvbnj.xyz^
@@ -22055,6 +22095,7 @@
 ||sprayswisha.com^
 ||spreau.com^
 ||sprettyruckus.com^
+||sprigsrecon.com^
 ||sprintainokeg.xyz^
 ||sprinterchance.com^
 ||sprkl.io^
@@ -22119,6 +22160,7 @@
 ||stainspun.com^
 ||stairtuy.com^
 ||staitchu.com^
+||staithecrinion.com^
 ||staixemo.com^
 ||staixooh.com^
 ||stallamenchisel.com^
@@ -22662,6 +22704,7 @@
 ||tefections.xyz^
 ||teflonterreen.com^
 ||tefuse.com^
+||tegrooxo.xyz^
 ||tehave.com^
 ||tehole.com^
 ||tehous.com^
@@ -22694,6 +22737,7 @@
 ||tenezratio.com^
 ||tengmoneron.com^
 ||tennubifaces.com^
+||tensagesic.com^
 ||tensorsbancos.com^
 ||tenthsfrumpy.com^
 ||tentionirreg.com^
@@ -23317,6 +23361,7 @@
 ||ttfpoyrbalyfigs.xyz^
 ||ttgmjfgldgv9ed10.com^
 ||tthefireanddrs.work^
+||ttidstfuqhj.xyz^
 ||ttigacl.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
@@ -23771,6 +23816,7 @@
 ||usuage.com^
 ||usualaurated.com^
 ||usurv.com^
+||uszaodwya.com^
 ||utantialcottish.xyz^
 ||utarget.co.uk^
 ||utarget.ru^
@@ -23915,6 +23961,8 @@
 ||veesspot.com^
 ||veewhaiw.com^
 ||vehead.com^
+||vehine.com^
+||vehjlsmsj.com^
 ||veilsuccessfully.com^
 ||veinnotionmariner.com^
 ||veinourd.buzz^
@@ -24114,6 +24162,7 @@
 ||voluumtrk3.com^
 ||vooculok.com^
 ||vooodkabelochkaa.com^
+||voosegou.xyz^
 ||vooshagy.net^
 ||voraciousthursdaydaughterinlaw.com^
 ||voredi.com^
@@ -24320,6 +24369,7 @@
 ||wci0jf62.cfd^
 ||wcmcs.net^
 ||wct.link^
+||wcyapvikap.com^
 ||wdeliv.net^
 ||wdt9iaspfv3o.com^
 ||wdtuxxjy.xyz^
@@ -24768,6 +24818,7 @@
 ||wysasys.com^
 ||wysyshypti.pro^
 ||wytyphoji.pro^
+||wzcntbnwegdbta.com^
 ||wzdzht7am5.com^
 ||wzelkaekmoman.com^
 ||wzogiwfapo.com^
@@ -24902,6 +24953,7 @@
 ||xxxwebtraffic.com^
 ||xydbpbnmo.com^
 ||xylansudra.cam^
+||xylaoppress.com^
 ||xyleticfrette.com^
 ||xyn1d4bjg4vr4m2qwypvuj.com^
 ||y41my.com^
@@ -24966,6 +25018,7 @@
 ||yesmessenger.com^
 ||yespetor.com^
 ||yfddaetiu.xyz^
+||yfedatherappeal.xyz^
 ||yfedatherappear.com.ua^
 ||yforaglasys.xyz^
 ||yfupfhqxmwvu.com^
@@ -31262,6 +31315,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||beacon.unext.jp^
+||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
 ||tracking.ensonhaber.com^
 ||l.traxmag.com^
@@ -33728,6 +33783,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monitoring-sdk.experimentation.intuit.com^
 ||logging.api.intuit.com^
 ||analytics.prod.mybuddy.ai^
+||dualstack-logs.amap.com^
 ||logs.amap.com^
 ||edmanalytics.pandahall.com^
 ||applogs.pixelfederation.com^
@@ -34052,6 +34108,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dratingmaject.com^
 ||dspx.tv^
 ||e1e.io^
+||easycompute.systems^
 ||efreecode.com^
 ||egoi.site^
 ||emycewiw.xyz^
@@ -34076,6 +34133,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fptls.com^
 ||fptls2.com^
 ||fpxau.net^
+||funnelserv.systems^
 ||fzlnk.com^
 ||g10300385420.co^
 ||g11686975765.co^
@@ -34127,6 +34185,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||loloclicks.biz^
 ||lsdm.co^
 ||maggieeatstheangel.com^
+||mb-tracking.com^
 ||mcangelus.com^
 ||mdhv.io^
 ||mediamathrdrt.com^
@@ -38194,6 +38253,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1221
+@@||app-cdn.minepi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
 ! Blocked by CNAME exponea.com
 @@||crm-cdn.peek-cloppenburg.com^|
