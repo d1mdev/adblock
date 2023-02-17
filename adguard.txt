@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-16T23:00:11.306Z
+! Last modified: 2023-02-17T23:00:12.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4042,6 +4042,11 @@
 !
 !
 !
+||pilgrimarduouscorruption.com^
+||affelseaeinera.org^
+||dgemanowhowe.xyz^
+||farasiverived.org^
+||bluffsouttore.com^
 ||adxfire.com^
 ||adxfire.in^
 ||befirstcdn.com^
@@ -8079,7 +8084,6 @@
 ||affectionatelypartiesdependant.com^
 ||affectionmimic.com^
 ||affectionsexterminate.com^
-||affelseaeinera.org^
 ||affelseaeineral.xyz^
 ||affiliate-robot.com^
 ||affiliate-wg.com^
@@ -12057,7 +12061,6 @@
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
 ||dgemanowhot.com.ua^
-||dgemanowhowe.xyz^
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgpcdn.org^
@@ -16034,6 +16037,7 @@
 ||kareaumatzot.com^
 ||karsauwi.xyz^
 ||karshagirdled.com^
+||kartingsoja.com^
 ||karvarcloit.com^
 ||kasheglesy.pro^
 ||kastafor.com^
@@ -17993,6 +17997,7 @@
 ||nicesthoarfrostsooner.com^
 ||nicheads.com^
 ||nichedlinks.com^
+||nichegreatunemployment.com^
 ||nichools.com^
 ||nichrnmxrlplt.com^
 ||nickeeha.net^
@@ -19999,6 +20004,7 @@
 ||ptoosteg.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
+||ptousteg.net^
 ||ptoutsexe.com^
 ||ptp22.com^
 ||ptp24.com^
@@ -26825,6 +26831,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||b.karte.io^
 ||cra.hum.works^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
@@ -27063,7 +27070,6 @@
 ||lightstep.medium.systems^
 ||cyberanalytics.nl^
 ||analytics.test.cheggnet.com^
-||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||sitealyse.de^
 ||wait.re^
 ||analytics-script.ad-shield.io^
@@ -27087,7 +27093,6 @@
 ||init.blackcrow.ai^
 ||taplytics.com^
 ||event-stream.spot.im^
-||1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz^
 ||track.swaptrap.live^
 ||triplewhale-pixel.web.app^
 ||tracking.hyros.com^
@@ -31353,6 +31358,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||b0.yahoo.co.jp^
 ||beacon.unext.jp^
 ||log.affiliate.rakuten.co.jp^
 ||analytics.dashboard.fingerprint.com^
@@ -33625,6 +33631,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||node.aibeacon.jp^
 ||wsmetrics.batch.com^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
@@ -37463,9 +37470,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Feb 2023 16:34 UTC+7
-! Version: 2302161634
-! Blocked: 820 rules
+! Last modified: 17 Feb 2023 15:56 UTC+7
+! Version: 2302171556
+! Blocked: 825 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37603,11 +37610,13 @@ vkcdnservice.appspot.com^
 ||logv2.mp3.zing.vn^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
+||m.zedcdn.me^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
 ||mda.zadn.vn^
+||me.zedcdn.me^
 ||media-ads.zaloapp.com^
 ||mediad.asia^
 ||mediaz.asia^
@@ -37616,6 +37625,7 @@ vkcdnservice.appspot.com^
 ||mepuzz.com^
 ||metaconex.io^
 ||metrics.coccoc.com^
+||mme.zedcdn.me^
 ||mobilead.vn^
 ||mobio.vn^
 ||modestsunf.com^
@@ -38001,6 +38011,7 @@ vkcdnservice.appspot.com^
 ||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
+||log.baobackan.com.vn^
 ||log.baocaobang.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
@@ -38023,6 +38034,7 @@ vkcdnservice.appspot.com^
 ||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
 ||log.ngaynay.vn^
+||log.nhandan.vn^
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
 ||log.plo.vn^
@@ -38047,6 +38059,7 @@ vkcdnservice.appspot.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.vovworld.vn^
 ||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
@@ -38070,7 +38083,6 @@ vkcdnservice.appspot.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
-||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
