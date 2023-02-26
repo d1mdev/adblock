@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-02-25T23:00:12.448Z
+! Last modified: 2023-02-26T23:00:12.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3997,6 +3997,9 @@
 !
 !
 !
+||truthfulsensor.com^
+||groopsie.net^
+||tonganserried.life^
 ||flvpcdnb.com^
 ||cndeccsqtmjyh.com^
 ||wknaczrxjrj.com^
@@ -5406,13 +5409,9 @@
 ||qontent.pomvideo.cc^
 ||ads.thetimes.co.uk^
 ||am.titsx.com^
-||d119hs7863lat.cloudfront.net^
-||d2bj2texxib1qg.cloudfront.net^
 ||d1cykymlllue3h.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
 ||d3iih5w7xp5hdg.cloudfront.net^
-||dvdsm0rlx65fo.cloudfront.net^
-||dk7rftbivnkgr.cloudfront.net^
 ||d1t4ekjh9ps4ob.cloudfront.net^
 ||d3a00ifauhjdp.cloudfront.net^
 ||d1lxhc4jvstzrp.cloudfront.net^
@@ -5420,17 +5419,14 @@
 ||d3pel2vlstnlu9.cloudfront.net^
 ||d1cw0c50l8jv65.cloudfront.net^
 ||d13qwbj37sfx89.cloudfront.net^
-||anti.allcryptoz.net^
 ||tagrec.sphdigital.com^
 ||adimage.sphdigital.com^
 ||creative.sphdigital.com^
 ||adtag.sphdigital.com^
-||eventreg.sphdigital.com^
 ||asg.faperoni.com^
 ||aa.pornvideotop.com^
 ||ads-partners.coupang.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
-||d1tpwjufge3qqa.cloudfront.net^
 ||nugh2om.txxx.com^
 ||d13nu0oomnx5ti.cloudfront.net^
 ||centent.steanplay.cc^
@@ -5438,8 +5434,6 @@
 ||spyglass.octanime.net^
 ||ad.aceplanet.co.kr^
 ||ad.phaserep.com^
-||tontent.pouvideo.cc^
-||a.streamoupload.com^
 ||vast.holmesmind.com^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
@@ -5476,9 +5470,7 @@
 ||osm-onead.cdn.hinet.net^
 ||d13jhr4vol1304.cloudfront.net^
 ||d2ho1n52p59mwv.cloudfront.net^
-||match.rundsp.com^
 ||dash.tmearn.com^
-||d1uanozc5el74n.cloudfront.net^
 ||drrcckbju3nd0.cloudfront.net^
 ||ads.linkedin.com^
 ||banner.vatanclick.ir^
@@ -5502,12 +5494,10 @@
 ||d2wl3qmk54t3ha.cloudfront.net^
 ||dh0uktvqfaomb.cloudfront.net^
 ||d3p2b5qewrnsyv.cloudfront.net^
-||dbjnwpbqx5a6o.cloudfront.net^
 ||dwf6crl4raal7.cloudfront.net^
 ||cdn.welcome.pussysaga.com^
 ||d28g1fhp6rn9w3.cloudfront.net^
 ||d3iz6lralvg77g.cloudfront.net^
-||d6ummfe8aubt5.cloudfront.net^
 ||d1p7elpjrt6qav.cloudfront.net^
 ||adn.porndig.com^
 ||d3elm8wezzwg42.cloudfront.net^
@@ -5553,17 +5543,10 @@
 ||d19182vyfoustz.cloudfront.net^
 ||d1dli2tyorled9.cloudfront.net^
 ||d240937yockcdo.cloudfront.net^
-||d2xsy1lxezptdm.cloudfront.net^
-||d2ymkpxi1rgldj.cloudfront.net^
 ||d2z0gqc8sv0l7p.cloudfront.net^
 ||d32r49xyei4vz6.cloudfront.net^
 ||d36sxvmjoflc2i.cloudfront.net^
-||d3ax6xygyb5hn9.cloudfront.net^
-||d3id4jppiyyek8.cloudfront.net^
-||d3noqwmgo39at7.cloudfront.net^
 ||d6swopgiplmy0.cloudfront.net^
-||d9rj2sdxjer5v.cloudfront.net^
-||dk2mvwe4uw0z3.cloudfront.net^
 
 !
 ! Source name: AdGuard Mobile Ads filter ad servers
@@ -37501,6 +37484,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
+||d1uanozc5el74n.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
@@ -38267,9 +38251,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 Feb 2023 16:42 UTC+7
-! Version: 2302221642
-! Blocked: 826 rules
+! Last modified: 26 Feb 2023 16:55 UTC+7
+! Version: 2302261656
+! Blocked: 828 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38896,6 +38880,8 @@ vkcdnservice.appspot.com^
 ||production-tracking.riviu.co^
 ||promotion.haravan.com^
 ||proof.sudo.vn^
+||px-cdn.saostar.vn^
+||px.saostar.vn^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||qc.5giay.vn^
 ||qc.designervn.net^
