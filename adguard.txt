@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-10T15:17:05.068Z
+! Last modified: 2023-05-10T22:00:12.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6043,6 +6043,7 @@
 ||accusationloop.com^
 ||accustomedinaccessible.com^
 ||accustomreview.com^
+||acdbidoxmfu.com^
 ||acdcdn.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
@@ -6529,6 +6530,7 @@
 ||adventurercraft.com^
 ||adventureurgently.com^
 ||adventurouscomprehendhold.com^
+||adventurouscondensedrebuff.com^
 ||adverbwaist.com^
 ||adverpub.com^
 ||adversaldisplay.com^
@@ -7220,6 +7222,7 @@
 ||amntx1.net^
 ||amoddishor.com^
 ||amonar.com^
+||amonor.com^
 ||amountdonutproxy.com^
 ||amourmelilot.com^
 ||amouroachoo.com^
@@ -7236,6 +7239,7 @@
 ||amre.work^
 ||amrtbbnr.com^
 ||amshirethfne.xyz^
+||amshroomishan.com^
 ||amstkqlvcitds.com^
 ||amsvplhvxipufkp.xyz^
 ||amtcwixpdsjurjm.com^
@@ -7420,6 +7424,7 @@
 ||aoredi.com^
 ||aosmicdossety.website^
 ||aosmicvirago.com^
+||aowykupwwnqrg.xyz^
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apartblot.com^
@@ -7884,7 +7889,9 @@
 ||atripplotx.com^
 ||atroer.com^
 ||atservineor.com^
+||atshroomisha.com^
 ||atsocmotcar.com^
+||atsuhrvfppyk.com^
 ||attacheastely.com^
 ||attachedt.xyz^
 ||attachtranquilizer.com^
@@ -11428,6 +11435,7 @@
 ||degeronium.com^
 ||degmfmog.xyz^
 ||degrainbro.website^
+||degutu.xyz^
 ||dehornstrigged.live^
 ||dehornuplock.com^
 ||deiligejenter.com^
@@ -11809,6 +11817,7 @@
 ||displeasurepigeons.com^
 ||disploot.com^
 ||dispop.com^
+||dispositiondata.com^
 ||disqualifybatesclung.com^
 ||disregardbuymigrant.com^
 ||disreputablegenuinelyhonorary.com^
@@ -13158,6 +13167,7 @@
 ||f9pennsy3glvkm6ania.com^
 ||fa3f0c1e3f.com^
 ||fa9123763f.com^
+||fa9b667e4e.com^
 ||faa39957a3.com^
 ||fabrkrup.com^
 ||facaltow.net^
@@ -13232,6 +13242,7 @@
 ||familyborn.com^
 ||familyliar.com^
 ||faminedealergirl.com^
+||famoot.com^
 ||famousletterss.online^
 ||famousremainedshaft.com^
 ||fampfage.com^
@@ -13792,6 +13803,7 @@
 ||fpofvdovrk.com^
 ||fppmnvrubgl.xyz^
 ||fpskctncgj.xyz^
+||fqanulluixeis.com^
 ||fqqxpudpmuo.xyz^
 ||fqtfwulmcdw.com^
 ||frabwiccy.com^
@@ -16242,6 +16254,7 @@
 ||jfivafkigju.com^
 ||jgqskdjkorwvh.xyz^
 ||jgszymcphwcege.com^
+||jguepxraix.xyz^
 ||jheelsplotch.com^
 ||jhoncj.com^
 ||jhxqfgbj.com^
@@ -16559,6 +16572,7 @@
 ||kegsandremembrance.com^
 ||kehalim.com^
 ||keidweneth.com^
+||keihel.com^
 ||keikh.com^
 ||kektds.com^
 ||kekw.website^
@@ -17270,6 +17284,7 @@
 ||liquorsswouned.com^
 ||lispingwraths.space^
 ||listeraislatory.site^
+||listguineaelementary.com^
 ||literacysufficientlymicroscope.com^
 ||literalcorpulent.com^
 ||literallisten.com^
@@ -19256,6 +19271,7 @@
 ||objectstutted.store^
 ||objureexamen.life^
 ||oblivionwatcherrebellious.com^
+||oblong-pool.pro^
 ||oblongseller.com^
 ||obmnimarmos.com^
 ||obnarium.com^
@@ -19387,6 +19403,7 @@
 ||ogle-0740lb.com^
 ||ogleskys.live^
 ||oglooque.com^
+||ognimyjm.com^
 ||ograuwih.com^
 ||ogrltiahldr.com^
 ||ogskle.com^
@@ -20463,6 +20480,7 @@
 ||phatchoa.net^
 ||phaucmoa.net^
 ||phaudree.com^
+||phauftee.xyz^
 ||phaurtuh.net^
 ||phca85g3n400.com^
 ||phdwxsui.xyz^
@@ -20497,7 +20515,6 @@
 ||phirgese.com^
 ||phirozeon.com^
 ||phloxsub73ulata.com^
-||phncdn.com^
 ||phoaglee.com^
 ||phoalard.net^
 ||phoapsoo.com^
@@ -20982,6 +20999,7 @@
 ||ppclinking.com^
 ||ppcnt.pro^
 ||ppfrlfe.com^
+||ppgjebhcyu.com^
 ||pphauantic.com^
 ||ppikhedas.com^
 ||pplferio.com^
@@ -21644,6 +21662,7 @@
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
 ||qgoqkcpw.xyz^
+||qgpmpaohkcrx.com^
 ||qgxbluhsgad.com^
 ||qhnwj.com^
 ||qibkkioqqw.com^
@@ -22938,6 +22957,7 @@
 ||sawsdaggly.com^
 ||sawyerbravery.com^
 ||saycasksabnegation.com^
+||sayelo.xyz^
 ||saylnk.com^
 ||sb-stat1.com^
 ||sb4you1.com^
@@ -23288,6 +23308,7 @@
 ||shieldthanks.com^
 ||shiftclang.com^
 ||shihewoo.com^
+||shijoorg.xyz^
 ||shikroux.net^
 ||shillivee.pro^
 ||shimmedlocated.com^
@@ -23963,6 +23984,7 @@
 ||squirtburpimplore.com^
 ||srcsmrtgs.com^
 ||sreamyourvids.online^
+||sreamyourvids.space^
 ||srgev.com^
 ||sridujhkagpe.com^
 ||srkhbdjgxyys.xyz^
@@ -24111,6 +24133,7 @@
 ||sticmilt.xyz^
 ||sticmoar.com^
 ||stiffenshave.com^
+||stiflerivers.com^
 ||stifletunnelsang.com^
 ||stigat.com^
 ||stilaikr.com^
@@ -26397,6 +26420,7 @@
 ||visiblemeasures.com^
 ||visitingdeandwell.com^
 ||visitmightyethnic.com^
+||visitplaywrightlyrical.com^
 ||visitsfunk.com^
 ||visitstats.com^
 ||visitstrack.com^
@@ -26418,6 +26442,7 @@
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vkrvjvpqcqk.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
@@ -26673,6 +26698,7 @@
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
+||watchyourvids.online^
 ||waterlinesheet.org^
 ||waterproofmanipulativereunion.com^
 ||watwait.com^
@@ -27434,6 +27460,7 @@
 ||xmvftaoz.com^
 ||xmxgvfjyrvr.xyz^
 ||xne3wmanew.com^
+||xnkjlnyefuohbgn.xyz^
 ||xnlehgdpvsslk.xyz^
 ||xo28pclotovi.com^
 ||xoalt.com^
@@ -27749,6 +27776,7 @@
 ||yvoria.com^
 ||yvzgazds6d.com^
 ||ywasnothyc.buzz^
+||ywyeetvrjx.xyz^
 ||yx-ads6.com^
 ||yxajqsrsij.com^
 ||yxhkonfmbe.com^
@@ -37550,7 +37578,6 @@ inapps.appsflyersdk.com^
 ||itrac.it^
 ||itracker360.com^
 ||itracmediav4.com^
-||izatcloud.net^
 ||janrain.xyz^
 ||journera.com^
 ||journity.com^
