@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-10T22:00:12.550Z
+! Last modified: 2023-05-11T22:00:14.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3679,6 +3679,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||vast.playmatic.video^
 ||oba.rus-km.ru^
 ||dab.rus-km.ru^
 ||placeholder.treeum.net^
@@ -6021,6 +6022,7 @@
 ||accessorydistantdepths.com^
 ||accidentalinfringementfat.com^
 ||accidentallyrussian.com^
+||accids.com^
 ||acclaimcraftsman.com^
 ||accoladethoroughly.com^
 ||accommodatingremindauntie.com^
@@ -9261,6 +9263,7 @@
 ||bowlsolicitor.com^
 ||bowmoolog.com^
 ||bowpinfrow.com^
+||boxlikepavers.com^
 ||boxofficeliterally.com^
 ||boxofwhisper.com^
 ||boyalebut.site^
@@ -11593,6 +11596,7 @@
 ||deviatemysticallocking.com^
 ||devilaboundultimate.com^
 ||devilspanmute.com^
+||devofei.xyz^
 ||devoidsagacious.com^
 ||devotedfootprintsinterstate.com^
 ||devotedvarnish.com^
@@ -13457,6 +13461,7 @@
 ||fidelitybask.com^
 ||fieldofbachus.com^
 ||fiendrhythm.com^
+||fiercequips.com^
 ||fierysolemncow.com^
 ||fifishlbs.com^
 ||fifteenthfeeding.com^
@@ -14508,6 +14513,7 @@
 ||goozabooz.com^
 ||gophykopta.com^
 ||goplayhere.com^
+||goralogplumach.com^
 ||goralogsizers.store^
 ||goredi.com^
 ||gorgecollisioncovering.com^
@@ -14645,6 +14651,7 @@
 ||griffsunneat.com^
 ||grifictuberal.site^
 ||grignoaw.com^
+||grigrees.xyz^
 ||griksoud.net^
 ||grillcheekunfinished.com^
 ||grinchsycoses.tech^
@@ -16552,6 +16559,7 @@
 ||kbyjxhnweoi.com^
 ||kcdn.xyz^
 ||kcepfyzuna.com^
+||kdvewlabjokfoc.com^
 ||keamateorski.xyz^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
@@ -17558,6 +17566,7 @@
 ||luxupcdnb.com^
 ||luxupcdnc.com^
 ||luxuryexercisemiddleaged.com^
+||luxusbowboy.com^
 ||luyten-98c.com^
 ||luzulabeguile.com^
 ||lvecygampj.com^
@@ -17889,6 +17898,7 @@
 ||mczbf.com^
 ||mdadx.com^
 ||mdcytqwnbr.com^
+||mdfasisitslddxq.com^
 ||mdfbrsfkufamsr.com^
 ||mdkkbrbhlji.com^
 ||mdn2015x1.com^
@@ -23249,6 +23259,7 @@
 ||shakesanitaryaffairs.com^
 ||shakydeploylofty.com^
 ||shakywinningcarnival.com^
+||shaledpaidle.com^
 ||shallotuncord.com^
 ||shalse.com^
 ||shamelessmessengerdescription.com^
@@ -25759,6 +25770,7 @@
 ||unbriefnothous.com^
 ||unbroidsubtend.com^
 ||unbuiltteuchit.com^
+||unburstballist.com^
 ||unbuttondeferinstalment.com^
 ||unbuttontumorbaloney.com^
 ||uncavefertile.website^
@@ -26560,6 +26572,7 @@
 ||vukticlataf.com^
 ||vulgartaivert.website^
 ||vulguspyemic.com^
+||vungqwclop.xyz^
 ||vuuwd.com^
 ||vuwmxjusucnh.com^
 ||vv8h9vyjgnst.com^
@@ -26812,6 +26825,7 @@
 ||weibiaoju6.com^
 ||weighertutania.com^
 ||wel-wel-fie.com^
+||welchdecrier.com^
 ||welfarefit.com^
 ||wellhello.com^
 ||welllwrite.com^
@@ -27598,6 +27612,7 @@
 ||yellowacorn.net^
 ||yellowblue.io^
 ||yellowtaraph.live^
+||yellpeculiarities.com^
 ||yemecotum.com^
 ||yepsawomen.com^
 ||yepsobtax.com^
@@ -27821,6 +27836,7 @@
 ||zatnoh.com^
 ||zaubanel.com^
 ||zauglomo.net^
+||zaumaico.com^
 ||zausosti.net^
 ||zauthaus.net^
 ||zauthuvy.com^
@@ -29487,6 +29503,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stats.sprocketrocket.co^
 ||zcode11.me^
 ||mgtmod01.com^
 ||getlasso.co^
@@ -29840,6 +29857,7 @@
 ||analytics2.awsli.com.br^
 ||pgs.io^
 ||script-sh.d2cdm.jp^
+||browser-intake-*-datadoghq.com^
 ||browser-intake-datadoghq.com^
 ||cl*.k5a.io^
 ||analytics.superstructure.ai^
@@ -30133,7 +30151,6 @@
 ||bb.lekumo.jp^
 ||promostats.ru^
 ||growingio.com^
-||datayi.cn^
 ||giocdn.com^
 ||rum.conde.io^
 ||ana.mediable.info^
@@ -30402,7 +30419,6 @@
 ||g2178927685.co^
 ||eba-amadeus.netdna-ssl.com^
 ||ga-analytics.com^
-||recruitics.com^
 ||direct-events-collector.spot.im^
 ||metrics-logger.spot.im^
 ||adwstats.com^
@@ -36519,7 +36535,6 @@ inapps.appsflyersdk.com^
 ||dt.beyla.site^
 ||collect.analytics.unity3d.com^
 ||accscdn.m.taobao.com^
-||acs.m.taobao.com^
 ||apsrgeo.amap.com^
 ||confe.dc.oppomobile.com^
 ||conff.dc.oppomobile.com^
@@ -37754,6 +37769,7 @@ inapps.appsflyersdk.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
+||recruitics.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
