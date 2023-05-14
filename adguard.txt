@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-13T22:00:13.558Z
+! Last modified: 2023-05-14T22:00:13.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6765,6 +6765,7 @@
 ||ageacavnrnwijh.xyz^
 ||ageandinone.xyz^
 ||ageismvipery.com^
+||agency2.ru^
 ||agenduret.com^
 ||ageory.com^
 ||ageteexomis.com^
@@ -6998,6 +6999,7 @@
 ||alexasrandy.website^
 ||alexatracker.com^
 ||alezanlig.store^
+||alfasense.com^
 ||alfatraffic.com^
 ||alfonsino.top^
 ||alfpair.com^
@@ -11280,6 +11282,7 @@
 ||date2day.pro^
 ||date4sex.pro^
 ||dateddeed.com^
+||datemeup.top^
 ||dateszone.net^
 ||datherap.xyz^
 ||dating-banners.com^
@@ -12114,6 +12117,7 @@
 ||drugue.com^
 ||drwornspinster.com^
 ||dryinfestinsight.com^
+||ds3.biz^
 ||dsandmaroons.com^
 ||dsfhudbsyicvns.xyz^
 ||dsfjhfhyry2hh8jo09.com^
@@ -18834,6 +18838,7 @@
 ||new-incoming.email^
 ||new-new-years.com^
 ||new-park-hunt.ml^
+||new-programmatic.com^
 ||new17write.com^
 ||newadflown.com^
 ||newadflows.com^
@@ -23928,6 +23933,7 @@
 ||sperans-beactor.com^
 ||spewyelks.com^
 ||spicarhamn.website^
+||spicygirlshere.life^
 ||spideramebian.com^
 ||spidersprimary.com^
 ||spigotkafka.life^
@@ -27026,6 +27032,7 @@
 ||wickiupcopalms.com^
 ||widaimty.com^
 ||wideeyedlady.pro^
+||wideeyedsink.com^
 ||widelyuddercancelling.com^
 ||wideorganiz.xyz^
 ||widern.com^
@@ -28753,6 +28760,7 @@
 ||goutee.top^
 ||goverua.com^
 ||goviral-content.com^
+||gplinks.in^
 ||gpsecureads.com^
 ||gqqdlckj8y.com^
 ||grabmyads.com^
@@ -39208,6 +39216,7 @@ inapps.appsflyersdk.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -39412,6 +39421,7 @@ inapps.appsflyersdk.com^
 ||metering.pagesuite.com^
 ||metrics.api.drift.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -40139,6 +40149,7 @@ inapps.appsflyersdk.com^
 ||neurotrack.neurolake.io^
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
+||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||track.noddus.com^
 ||tracker.tolvnow.com^
@@ -40523,8 +40534,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 May 2023 13:20 UTC+7
-! Version: 2305101320
+! Last modified: 14 May 2023 23:14 UTC+7
+! Version: 2305142314
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
