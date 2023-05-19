@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-18T22:00:14.171Z
+! Last modified: 2023-05-19T22:00:12.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9746,6 +9746,7 @@
 ||can-get-some.net^
 ||candiruarf.com^
 ||canelastram.com^
+||canjacvinum.com^
 ||canjarltaox.com^
 ||canlistabbed.com^
 ||cannelcaimito.com^
@@ -9973,6 +9974,7 @@
 ||cellsquickie.com^
 ||celotexchalaze.website^
 ||celsiansnite.com^
+||cementadodunk.com^
 ||cementencourage.com^
 ||cemukentha.xyz^
 ||cenaclesuccoth.com^
@@ -9990,6 +9992,7 @@
 ||centralheat.net^
 ||centralnervous.net^
 ||centrexmeteor.com^
+||centureunornly.com^
 ||centwrite.com^
 ||cephalanthuseoccidu4entalis.com^
 ||cephasrewed.com^
@@ -11081,6 +11084,7 @@
 ||ctm-media.com^
 ||ctoatwoxxnk.com^
 ||ctoziphius.com^
+||ctqwlbxq.com^
 ||ctrlaltdel99.com^
 ||ctsau.xyz^
 ||ctsccrxfaqiq.xyz^
@@ -11209,6 +11213,7 @@
 ||czedgingtenges.com^
 ||czglcxlh.com^
 ||czh5aa.xyz^
+||d0870e04a5.com^
 ||d08q4os3homh.de^
 ||d0efb7d9aeb478d.com^
 ||d0f85db8ee56f5c6.com^
@@ -12236,6 +12241,7 @@
 ||duamilsyr.com^
 ||duanepearls.com^
 ||dubinexperienced.com^
+||dubiopintles.com^
 ||dubshub.com^
 ||dubvacasept.com^
 ||ducatglfez.com^
@@ -13369,6 +13375,7 @@
 ||fanza.cc^
 ||faotfobjefeaef.com^
 ||fapmeth.com^
+||faquirrelot.com^
 ||faracoon.com^
 ||farawayreel.com^
 ||farcedboccis.com^
@@ -14367,6 +14374,7 @@
 ||gibbousbalaic.com^
 ||gibeleftyeuro.com^
 ||gidaxlzi.com^
+||giesdon.com^
 ||gifttopsurvey.top^
 ||gigaads.xyz^
 ||gigabitadex.com^
@@ -15083,6 +15091,7 @@
 ||haymishlytta.com^
 ||haymowsbecker.life^
 ||haywarn.com^
+||hazairgo.net^
 ||hazardousschooloutcry.com^
 ||hazelmutenessorchard.com^
 ||hazelnutshighs.com^
@@ -15223,6 +15232,7 @@
 ||hey-brazil.org^
 ||hfc195b.com^
 ||hffdjxnyxckf.xyz^
+||hffxc.com^
 ||hfudugo.com^
 ||hfuostp.com^
 ||hg-bn.com^
@@ -17389,6 +17399,7 @@
 ||limberkilnman.cam^
 ||limeclassycaption.com^
 ||limelightcopper.com^
+||liminechests.com^
 ||limitagesdidjet.site^
 ||limitationvolleyballdejected.com^
 ||limitesrifer.com^
@@ -19509,6 +19520,7 @@
 ||octaviancontrast.com^
 ||octavianflingpod.com^
 ||octkuhwuvxarsk.xyz^
+||octoatesamhain.com^
 ||octopod.cc^
 ||octrib.com^
 ||ocumes.com^
@@ -19674,6 +19686,7 @@
 ||omatri.info^
 ||omazeiros.com^
 ||ombineukdwith.xyz^
+||ombtkqikm.com^
 ||omchanseyr.com^
 ||omchimcharchan.com^
 ||omciecoa37tw4.com^
@@ -20229,6 +20242,7 @@
 ||padspms.com^
 ||padsreds.com^
 ||padstm.com^
+||padujeph.xyz^
 ||pafnyfiexpe.com^
 ||paganrabbits.com^
 ||pageantbagauspice.com^
@@ -21904,6 +21918,7 @@
 ||qksz.net^
 ||qkyktywuvh.com^
 ||qlfqkjluvz.com^
+||qlspx.com^
 ||qlyunjqcyvx.xyz^
 ||qmihajdixr.com^
 ||qmkr7isp3o.com^
@@ -22459,6 +22474,7 @@
 ||rereddit.com^
 ||rereegny.net^
 ||reroplittrewheck.pro^
+||resailsgyse.com^
 ||resalag.com^
 ||resavethyme.com^
 ||resaveyobbo.com^
@@ -24205,6 +24221,7 @@
 ||spotxcdn.com^
 ||spotxchange.com^
 ||spoutable.com^
+||spouttheory.com^
 ||spratstatters.com^
 ||sprayswisha.com^
 ||spreebogbean.com^
@@ -26102,6 +26119,7 @@
 ||unevenregime.com^
 ||unfainfraseirs.org^
 ||unfaithfulmakeryearly.com^
+||unfieryneutral.com^
 ||unfinishedheir.com^
 ||unflamewandoo.com^
 ||unforgivablegrowl.com^
@@ -27439,6 +27457,7 @@
 ||woaneeti.com^
 ||woaneezy.com^
 ||woathail.net^
+||wobblyiroha.com^
 ||wobsneesty.space^
 ||wodojqcxwmix.xyz^
 ||wodycaha.com^
@@ -29818,6 +29837,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||b91.yahoo.co.jp^
+||services.brightline.tv^
 ||wct-2.com^
 ||code.r5hsid.ru^
 ||stats.sprocketrocket.co^
@@ -34447,6 +34468,7 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||metrics.svc.conholdate.cloud^
 ||mywedding-beacon.team-rec.jp^
 ||metrics.onewegg.com^
 ||stat.gc.my.games^
@@ -36708,8 +36730,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trackersimulator.org^
 !
 ! For apps
-||log.ngsm.nexon.com^
-||log.nexon.io^
 ||receiver.habby.mobi^
 ||pangle-b.io^
 ||track.*.roku.com^
@@ -39521,7 +39541,6 @@ inapps.appsflyersdk.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
-||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.sspinc.io^
@@ -39558,6 +39577,7 @@ inapps.appsflyersdk.com^
 ||crta.and.co.uk^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
+||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^
 ||ct.itbusinessedge.com^
@@ -40829,8 +40849,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 May 2023 23:14 UTC+7
-! Version: 2305142314
+! Last modified: 19 May 2023 14:38 UTC+7
+! Version: 2305191438
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
