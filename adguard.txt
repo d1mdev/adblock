@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-22T22:00:12.819Z
+! Last modified: 2023-05-23T22:00:13.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||vst.dfn-network.pro^
 ||mediasystems.am^
 ||adtcodepink.com^
 ||knowens.com^
@@ -4955,6 +4956,7 @@
 ||0582880609.com^
 ||05f568544e.com^
 ||05w0bq3nbq9b.top^
+||063f828cf2.com^
 ||0676el9lskux.top^
 ||0692e14e66.com^
 ||06a2b66f11.com^
@@ -7973,6 +7975,7 @@
 ||auberginecorny.com
 ||aubpfvvsiyf.xyz^
 ||auburn9819.com^
+||auchoocm.com^
 ||auchoons.net^
 ||auckledfathere.xyz^
 ||aucred.com^
@@ -14439,6 +14442,7 @@
 ||gladlycreator.com^
 ||glaichid.net^
 ||glaimtug.com^
+||glainsee.com^
 ||glaivoun.net^
 ||glaiweer.xyz^
 ||glaiwhee.net^
@@ -14546,6 +14550,7 @@
 ||gloushekra.com^
 ||gloustoa.net^
 ||glouxaih.net^
+||glovesusage.com^
 ||glowdot.com^
 ||glowingnews.com^
 ||glowingramblelobes.com^
@@ -15638,6 +15643,7 @@
 ||hyrewusha.pro^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
+||hyyeriplwth.com^
 ||hzkachqd.com^
 ||hzogncbobfb.com^
 ||hzzevwlmjji.com^
@@ -15758,6 +15764,7 @@
 ||ikcaru.com^
 ||ikcdhvbyg.com^
 ||ikeymutilla.space^
+||ikftkvrktbgt.com^
 ||ikholm.com^
 ||iklghjooyj.com^
 ||ikoptaud.com^
@@ -16055,7 +16062,6 @@
 ||intelligenceretarget.com^
 ||intellipopup.com^
 ||intellitxt.com^
-||intensedebate.com^
 ||intentanalysis.com^
 ||intentionallyathwart.com^
 ||intentionsplacingextraordinary.com^
@@ -19620,6 +19626,7 @@
 ||ofghaidarium.xyz^
 ||ofgogoatan.com^
 ||ofhappinyer.com^
+||ofhgkuopngw.com^
 ||ofhypnoer.com^
 ||ofktauggqtsckgw.xyz^
 ||ofphanpytor.com^
@@ -21760,6 +21767,7 @@
 ||punosy.best^
 ||punosy.com^
 ||punyvamos.com^
+||puoxpytcblqrti.xyz^
 ||pupilmudwort.com^
 ||pupsotdub.com^
 ||pupspu.com^
@@ -21960,6 +21968,7 @@
 ||qjpotvwljgw.xyz^
 ||qjwglnuwqvr.com^
 ||qkouawnjejedvno.xyz^
+||qkrjbtcvnkmh.com^
 ||qksrv.biz^
 ||qksrv.cc^
 ||qksrv.net^
@@ -23174,6 +23183,7 @@
 ||saggarmammon.com^
 ||saggrowledetc.com^
 ||sagonoll.com^
+||sagrew.com^
 ||sagroagh.com^
 ||sahandkeightg.xyz^
 ||saidflightmusician.com^
@@ -24130,6 +24140,7 @@
 ||somethingprecursorfairfax.com^
 ||sometimesfaith.com^
 ||somevermedea.com^
+||somvprqshxr.com^
 ||son-in-lawmorbid.com^
 ||soninlawalmighty.com^
 ||sonnerie.net^
@@ -25274,6 +25285,7 @@
 ||thomasbarlowpro.com^
 ||thompaur.com^
 ||thongaspredo.com^
+||thonggrassdependant.com^
 ||thongrooklikelihood.com^
 ||thoomsay.com^
 ||thoorest.com^
@@ -25316,6 +25328,7 @@
 ||thterras.com^
 ||ththinleavesofe.com^
 ||thuac.com^
+||thuah.com^
 ||thuanmimamsa.com^
 ||thuliagum.com^
 ||thulrlidos.com^
@@ -26684,6 +26697,7 @@
 ||versatileadvancement.com^
 ||versedeceitlocation.com^
 ||verseges.xyz^
+||versionlatticecheek.com^
 ||versusconsole.com^
 ||verticallydeserve.com^
 ||veryinterestvids.xyz^
@@ -26775,6 +26789,7 @@
 ||vidsfun.space^
 ||vidshouse.online^
 ||vidshouse.space^
+||vidsofdream.space^
 ||vidsofdream.today^
 ||vidsservices.info^
 ||viecfncwtkgiew.xyz^
@@ -27131,6 +27146,7 @@
 ||watchyourvids.space^
 ||waterlinesheet.org^
 ||waterproofmanipulativereunion.com^
+||waterypower.pro^
 ||watwait.com^
 ||waudeesestew.com^
 ||waufooke.com^
@@ -28322,6 +28338,7 @@
 ||zfoxhovh.com^
 ||zgazgluy.com^
 ||zhej78i1an8w6ceu.com^
+||zhhxxnfuxn.com^
 ||zhmpqpqna.com^
 ||zhmzsjvkii.com^
 ||zi8ivy4b0c7l.com^
@@ -29622,6 +29639,7 @@
 ||spolecznosci.net^
 ||sponsoredtweets.com^
 ||spotx.tv^
+||springify.io^
 ||sprintrade.com^
 ||sprout-ad.com^
 ||spyoff.com^
@@ -34545,6 +34563,8 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||st-5cva8vttppvjafpc7jvj.kodik.biz^
+||tracking.overwolf.com^
 ||d3-umami.up.railway.app^
 ||snoop.minecraft.net^
 ||metrics.svc.conholdate.cloud^
@@ -36951,6 +36971,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||logservice1.dbankcloud.cn^
 ||open.oneplus.net^
 ||analytics-api.samsunghealthcn.com^
 ||log.espn.com^
@@ -39000,6 +39021,7 @@ inapps.appsflyersdk.com^
 ||snakesstone.com^
 ||songssmoke.com^
 ||songsterritory.com^
+||soundstocking.com^
 ||sowlettuce.com^
 ||spadelocket.com^
 ||specialscissors.com^
