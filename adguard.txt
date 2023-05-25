@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-24T22:00:12.414Z
+! Last modified: 2023-05-25T22:00:13.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8874,6 +8874,7 @@
 ||bexxtnnhyjrww.xyz^
 ||beyanmaan.com^
 ||beyedortostr.info^
+||beylicbesmile.com^
 ||bezettescanner.com^
 ||bf-ad.net^
 ||bf358948d7.com^
@@ -9883,6 +9884,7 @@
 ||cavernousshift.pro^
 ||cawbarthe.com^
 ||cawhisevi.pro^
+||cawnielammy.com^
 ||cb9e43b2a0.com^
 ||cba-fed-igh.com^
 ||cbbdmxiiceagddn.com^
@@ -12191,6 +12193,7 @@
 ||drawbaroddly.com^
 ||drawingwheels.com^
 ||drawnperink.com^
+||drawx.xyz^
 ||draydaisbitch.com^
 ||draymanbaroni.uno^
 ||draystownet.com^
@@ -14944,6 +14947,7 @@
 ||guerrilla-links.com^
 ||guesteaten.com^
 ||guffawdecipher.com^
+||guidonsfeeing.com^
 ||guiltypattern.com^
 ||guineapilotage.com^
 ||guistspregna.xyz^
@@ -15752,6 +15756,7 @@
 ||idiafix.com^
 ||idiasmural.com^
 ||idiothungryensue.com^
+||idioticdeprint.com^
 ||idiotproprietary.com^
 ||idiotyet.com^
 ||idledifficulty.pro^
@@ -19640,6 +19645,7 @@
 ||ocumes.com^
 ||ocuwyfarlvbq.com^
 ||oddauthorscreative.com^
+||oddlyogeed.com^
 ||oddscornflower.com^
 ||oddsresemble.com^
 ||odeerofhisk.xyz^
@@ -21160,6 +21166,7 @@
 ||pointeddifference.com^
 ||pointlimitedzen.online^
 ||pointroll.com^
+||poiseplato.com^
 ||poisism.com^
 ||poisonencouragement.com^
 ||poisonoustrolleyenhance.com^
@@ -22081,6 +22088,7 @@
 ||quackexclusfdfjd.com^
 ||quadhu.com^
 ||quadrupleclick.com^
+||quaewit.com^
 ||quaint-mode.com^
 ||quakesalamat.com^
 ||quakingcalix.com^
@@ -25045,6 +25053,7 @@
 ||tarokbien.com^
 ||tarotien.com^
 ||tarrilyathenee.com^
+||tartanaanvils.com^
 ||tartarsharped.com^
 ||tartator.com^
 ||taryarguestio.com^
@@ -26773,6 +26782,7 @@
 ||venfioletadas.com^
 ||vengeful-egg.com^
 ||vengermeed.space^
+||veninslata.com^
 ||venisonhumridicule.com^
 ||venkrana.com^
 ||venmanisatio.work^
@@ -33527,6 +33537,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||crowdedmass.com^
 ||balloonbelieve.com^
 ||longingtrees.com^
 ||knottyswing.com^
@@ -34664,6 +34675,7 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||analytics.starlink.com^
 ||st-5cva8vttppvjafpc7jvj.kodik.biz^
 ||tracking.overwolf.com^
 ||d3-umami.up.railway.app^
@@ -38945,7 +38957,6 @@ inapps.appsflyersdk.com^
 ||considermice.com^
 ||cookchalk.com^
 ||coverapparatus.com^
-||crowdedmass.com^
 ||cuddlycake.com^
 ||curiouschalk.com^
 ||curlycannon.com^
@@ -39270,7 +39281,6 @@ inapps.appsflyersdk.com^
 ||mb-srv.com^
 ||megavisites.com^
 ||netvigie.com^
-||non.li^
 ||pingclock.net^
 ||rossel.tech^
 ||semiocast.com^
@@ -39818,6 +39828,8 @@ inapps.appsflyersdk.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
+||edge-hls.doppiocdn.com^
+||edge-hls.doppiocdn.org^
 ||edge.bredg.com^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
