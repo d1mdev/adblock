@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-25T22:00:13.758Z
+! Last modified: 2023-05-26T22:00:13.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4486,9 +4486,6 @@
 ||fjrkn.com^
 ||tongqing2015.com^
 ||pw.lpsxssm.com^
-||go.admost.com^
-||med-api.admost.com^
-||cdn-api.admost.com^
 ||bidsopt.com^
 ||tpbid.com^
 ||exe.bid^
@@ -7150,6 +7147,7 @@
 ||alreadyballetrenting.com^
 ||alrightastound.com^
 ||alrightconsulatevarying.com^
+||alsatiapolynia.com^
 ||alsfor.com^
 ||alsindustrateb.info^
 ||alsindustratebil.com^
@@ -8586,6 +8584,7 @@
 ||bdced8843e.com^
 ||bdettywfxbcb.xyz^
 ||bdkduroy.xyz^
+||bdpxghphiwykioy.com^
 ||bdqjqfqyw.xyz^
 ||bdudekfluh.com^
 ||be47f5d7a4.com^
@@ -8670,6 +8669,7 @@
 ||beewakiy.com^
 ||bef62233f1.com^
 ||befirstcdn.com^
+||befloutsneaks.com^
 ||beforehanddonkeyannouncement.com^
 ||beforehandeccentricinhospitable.com^
 ||befretscathood.com^
@@ -9507,6 +9507,7 @@
 ||bugs2022.com^
 ||buhatfjrk9dje10eme.com^
 ||buhftxfmqxdww.xyz^
+||buhlvain.com^
 ||buikolered.com^
 ||buildinghygienicfloating.com^
 ||buildnaq91.site^
@@ -9578,6 +9579,7 @@
 ||bustlemiszone.com^
 ||busychopdenounce.com^
 ||butalksuw9dj10.com^
+||butanesscag.com^
 ||butanoldatives.com^
 ||butashasp.site^
 ||butsenox.net^
@@ -10085,6 +10087,7 @@
 ||chameleostudios.com^
 ||chametzunbelt.com^
 ||chamib.com^
+||chamiteame.com^
 ||chancellorchainreason.com^
 ||chancellorharrowbelieving.com^
 ||chanelets-aurning.com^
@@ -11966,6 +11969,7 @@
 ||disturbedaccruesurfaces.com^
 ||disturbedincidentallysleazy.com^
 ||dit-dit-dot.com^
+||ditchesteenish.com^
 ||ditdotsol.com^
 ||ditwrite.com^
 ||divaduolite.com^
@@ -12923,6 +12927,7 @@
 ||entrerscab.com^
 ||entriflingw.xyz^
 ||entualkenti.buzz^
+||enuresdairi.com^
 ||envbsnnbyglvea.com^
 ||enviousforegroundboldly.com^
 ||enviousroom.pro^
@@ -13843,6 +13848,7 @@
 ||fogayeown.com^
 ||foggytube.com^
 ||fogpurply.website^
+||fogramokayed.com^
 ||fogvnoq.com^
 ||foheltou.com^
 ||foiblesretried.com^
@@ -15074,6 +15080,7 @@
 ||hamusprecony.com^
 ||handbagadequate.com^
 ||handbagcordial.com^
+||handbaggather.com^
 ||handingfama.com^
 ||handkerchiefpersonnel.com^
 ||handlegoatsperiod.com^
@@ -15095,6 +15102,7 @@
 ||happy-davinci-53144f.netlify.com^
 ||happypasteheat.com^
 ||haprjb.com^
+||haptenspopean.com^
 ||hapticswasher.com^
 ||harassinglateral.com^
 ||hardboiledraspexisting.com^
@@ -17268,6 +17276,7 @@
 ||laxallenopposed.com^
 ||laydcilck.com^
 ||layer-ad.org^
+||layeredseether.com^
 ||layerloop.com^
 ||layingprocuregather.com^
 ||lazypeacefullyutterly.com^
@@ -17920,6 +17929,7 @@
 ||magnificohec.xyz^
 ||magnounousa.com^
 ||mahaidroagra.com^
+||mahaplinths.com^
 ||maharbandi.tech^
 ||mahdicrofter.com^
 ||maholinoticed.com^
@@ -17972,6 +17982,7 @@
 ||mameyesmulemen.digital^
 ||mamluksburion.com^
 ||mammalbuy.com^
+||mammeysterrae.com^
 ||mammocksambos.com^
 ||mammoseoxanic.com^
 ||mamparagallnut.com^
@@ -21466,6 +21477,7 @@
 ||primevalrespectful.com^
 ||primevalstork.com^
 ||primevalsymphonymuttering.com^
+||princesinistervirus.com^
 ||princessallotgather.com^
 ||principlessilas.com^
 ||pringed.space^
@@ -22584,6 +22596,7 @@
 ||repentancematernity.com^
 ||repentbits.com^
 ||repercussionspoonsbuiltin.com^
+||rephaseeg.com^
 ||replacebarhandkerchief.com^
 ||replacementportugueserecollection.com^
 ||replacementreluctance.com^
@@ -22786,6 +22799,7 @@
 ||rhxdsplm.com^
 ||rhythmxchange.com^
 ||ribsaiji.com^
+||ribumpin.com^
 ||ribunews.com^
 ||ribworkstylus.com^
 ||ric-ric-rum.com^
@@ -22978,6 +22992,7 @@
 ||roripagrolier.com^
 ||rorserdy.com^
 ||rosafun.com^
+||roscoehanafi.com^
 ||rosebrandy.com^
 ||rosebudspeaks.com^
 ||rosellarecover.website^
@@ -24834,6 +24849,7 @@
 ||surelyconvinced.com^
 ||surewashedalphabet.com^
 ||surfcuegirlfriend.com^
+||surfedlattins.com^
 ||surfierunreel.com^
 ||surfmdia.com^
 ||surftraditioncommonplace.com^
@@ -25250,6 +25266,7 @@
 ||thaidapps.com^
 ||thaidrix.xyz^
 ||thaidsir.xyz^
+||thaighee.xyz^
 ||thaignax.net^
 ||thaiguxu.com^
 ||thaistiboa.com^
@@ -25523,6 +25540,7 @@
 ||tipcartoleron.com^
 ||tipcatscarola.com^
 ||tipcupids.com^
+||tiptoesstbd.com^
 ||tiptoptube.com^
 ||tiredbishop.com^
 ||tirescymlin.com^
@@ -27229,6 +27247,7 @@
 ||washabeach.com^
 ||washdaycalmly.com^
 ||washedinmate.com^
+||washergnome.com^
 ||washpiggyabdomen.com^
 ||wasoffspring.com^
 ||wasp-182b.com^
@@ -28764,6 +28783,7 @@
 ||admetricspro.com^
 ||admission.net^
 ||admjmp.com^
+||admost.com^
 ||admtpmp127.com^
 ||adnami.io^
 ||adnami2.io^
@@ -39828,8 +39848,6 @@ inapps.appsflyersdk.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
-||edge-hls.doppiocdn.com^
-||edge-hls.doppiocdn.org^
 ||edge.bredg.com^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
