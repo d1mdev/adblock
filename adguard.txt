@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-27T22:00:12.716Z
+! Last modified: 2023-05-28T22:00:13.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6113,6 +6113,7 @@
 ||acrossbrittle.com^
 ||acrosscrash.com^
 ||acrossheadquartersanchovy.com^
+||acrote.com^
 ||acrowl.com^
 ||acscdn.com^
 ||acsshufxnu.com^
@@ -6593,6 +6594,7 @@
 ||advisorded.com^
 ||adviva.net^
 ||advmaker.ru^
+||advojhszeat.com^
 ||advsmedia.net^
 ||advtrkone.com^
 ||adwalte.info^
@@ -6710,6 +6712,7 @@
 ||afftrackr.com^
 ||afftrk.online^
 ||affusekantars.uno^
+||affyrolo.info^
 ||afgfjdivrf.com^
 ||afgham.com^
 ||afgjbleiuoqt.com^
@@ -6838,6 +6841,7 @@
 ||agurgeed.net^
 ||agvmfgsdaotjmoq.com^
 ||agweaaf.net^
+||agweaaf.org^
 ||ahabcaca.com^
 ||ahadsply.com^
 ||ahagreatlypromised.com^
@@ -7512,6 +7516,7 @@
 ||appearancefingerprintabet.com^
 ||appearanceinjunctionwebsite.com^
 ||appearancepracticalparental.com^
+||appearedcrawledramp.com^
 ||appeaseinsolenceberry.com^
 ||appendad.com^
 ||appendixballroom.com^
@@ -8031,6 +8036,7 @@
 ||aumaupoy.net^
 ||aumeryyaruran.live^
 ||aumpoabi.com^
+||aumsarso.com^
 ||aumseewu.xyz^
 ||aumsookr.com^
 ||aumsoovy.net^
@@ -8557,6 +8563,7 @@
 ||baywednesday.com^
 ||baywoodkbps.space^
 ||bazamodov.ru^
+||bb1ba63212.com^
 ||bb63221b43.com^
 ||bb6dcc7e45.com^
 ||bbaannrr03.com^
@@ -14423,6 +14430,7 @@
 ||ggjcswb4rln4.com^
 ||ggkk.xyz^
 ||gglx.me^
+||ggrawwbi.xyz^
 ||ggsfq.com^
 ||ghableleader.xyz^
 ||ghastlyoffer.com^
@@ -17584,6 +17592,7 @@
 ||lixmperta.com^
 ||lizziefullrounded.com^
 ||ljyajgjvuv.com^
+||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
 ||lkfabkaliwk.xyz^
 ||lkoobbpti.com^
@@ -19544,6 +19553,7 @@
 ||oainternetservices.com^
 ||oaiweznjo.com^
 ||oajagroax.com^
+||oakaumou.xyz^
 ||oakchokerfumes.com^
 ||oakenboubous.com^
 ||oaksafta.com^
@@ -19650,6 +19660,7 @@
 ||octavianflingpod.com^
 ||octkuhwuvxarsk.xyz^
 ||octoatesamhain.com^
+||octobermindless.com^
 ||octopod.cc^
 ||octopuspop.com^
 ||octrib.com^
@@ -20073,7 +20084,6 @@
 ||orbsrv.com^
 ||orbthindicab.cc^
 ||orchestraanticipation.com^
-||orchestrator.strn.pl^
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
 ||orderfritter.com^
@@ -21689,6 +21699,7 @@
 ||psiwaphado.pro^
 ||pslnk.link^
 ||psma02.com^
+||psoaftob.xyz^
 ||psoageeb.com^
 ||psoageph.com^
 ||psoalreh.com^
@@ -22208,6 +22219,7 @@
 ||ragazzepotshot.com^
 ||ragbagsporcine.com^
 ||rageagainstthesoap.com^
+||ragged-weakness.pro^
 ||raglassofrum.cc^
 ||raglogripsa.com^
 ||rahltiqhosud.com^
@@ -24283,7 +24295,6 @@
 ||sotetahe.pro^
 ||sottagejalur.uno^
 ||soulfulinevitable.pro^
-||soulgen.net^
 ||soulsglovesacid.com^
 ||sounct.com^
 ||soundelktemper.com^
@@ -24913,6 +24924,7 @@
 ||sweetmoonmonth.com^
 ||sweetromance.life^
 ||swelltomatoesguess.com^
+||swepfa.com^
 ||sweptaboutlard.com^
 ||sweptpeculiar.com^
 ||sweredth.buzz^
@@ -26917,6 +26929,7 @@
 ||vidsofdream.space^
 ||vidsofdream.today^
 ||vidsservices.info^
+||vidsservices.space^
 ||viecfncwtkgiew.xyz^
 ||view-flix.com^
 ||viewablemedia.net^
@@ -27004,7 +27017,9 @@
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vlbeojnxhchl.com^
 ||vlitag.com^
+||vljwosnxfgi.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
 ||vmhzvqzx.com^
@@ -27092,6 +27107,7 @@
 ||vrtzads.com^
 ||vs3.com^
 ||vsdxwtvsxp.com^
+||vskfeduxg.xyz^
 ||vskngnldyl.xyz^
 ||vsnpfmoxb.xyz^
 ||vstvstsa.com^
@@ -27127,6 +27143,7 @@
 ||vungqwclop.xyz^
 ||vuuwd.com^
 ||vuvacu.xyz^
+||vuvoti.uno^
 ||vuvoti.xyz^
 ||vuwmxjusucnh.com^
 ||vv8h9vyjgnst.com^
@@ -27754,6 +27771,7 @@
 ||woredi.com^
 ||woreinformed.com^
 ||worersie.com^
+||worimu.uno^
 ||worimu.xyz^
 ||workerdisadvantageunrest.com^
 ||workhovdi.com^
@@ -29656,6 +29674,7 @@
 ||rhombusads.com^
 ||richaudience.com^
 ||roirocket.com^
+||rollercoin.com^
 ||rubyblu.com^
 ||salvador24.com^
 ||sape.ru^
@@ -30069,6 +30088,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||blueoyster.click^
 ||track.dobrnovosti.com^
 ||analytics.elegela.net^
 ||b91.yahoo.co.jp^
@@ -38871,7 +38891,6 @@ inapps.appsflyersdk.com^
 ||rand.com.ru^
 ||reauthenticator.com^
 ||rocks.io^
-||rollercoin.com^
 ||rtb-seller.com^
 ||s7ven.com^
 ||seed.bitcoin.sipa.be^
@@ -41083,9 +41102,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 May 2023 10:05 UTC+7
-! Version: 2305241005
-! Blocked: 833 rules
+! Last modified: 28 May 2023 22:22 UTC+7
+! Version: 2305282222
+! Blocked: 834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41607,6 +41626,7 @@ vkcdnservice.appspot.com^
 ||gamma.cachefly.net^
 ||ghimc.vn^
 ||go.vnecdn.com^
+||gtm.saostar.vn^
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||hexapinow.xyz^
