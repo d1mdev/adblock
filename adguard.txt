@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-28T22:00:13.098Z
+! Last modified: 2023-05-29T22:00:12.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||news.partners.ru.com^
 ||dqwzhseasq.com^
 ||vst.dfn-network.pro^
 ||mediasystems.am^
@@ -5972,6 +5973,7 @@
 ||aboveredirect.top^
 ||abovethecityo.com^
 ||abpjs23.com^
+||abrashteresa.com^
 ||abrasivematch.com^
 ||abridgeoverwhelmfireball.com^
 ||abrinchapper.com^
@@ -15247,6 +15249,7 @@
 ||heisalw.xyz^
 ||heistgust.com^
 ||hekowutus.com^
+||helaid.com^
 ||heleric.com^
 ||helesandoral.com^
 ||helic3oniusrcharithonia.com^
@@ -15907,6 +15910,7 @@
 ||immoxdzdke.com^
 ||immunepine.com^
 ||imnpkbxrf.xyz^
+||imobljkhqw.com^
 ||imp2aff.com^
 ||impactradius-go.com^
 ||impactradius.com^
@@ -19823,6 +19827,7 @@
 ||olmsoneenh.info^
 ||olongercrak.xyz^
 ||olongercrav.com.ua^
+||olpfeere.com^
 ||olqhulfpezp.com^
 ||olrbbwxkm.top^
 ||olympicsappointment.com^
@@ -20931,6 +20936,7 @@
 ||piasterpoleyns.com^
 ||picadmedia.com^
 ||picalchymic.uno^
+||picath.com^
 ||picbucks.com^
 ||pickaflick.co^
 ||pickaxewafters.com^
@@ -27998,6 +28004,7 @@
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xgraph.net^
+||xgstemmj.com^
 ||xhaeuubhi.xyz^
 ||xhlzokzxoxykxf.com^
 ||xhr0.xyz^
@@ -29358,7 +29365,6 @@
 ||hotwords.com^
 ||hover.in^
 ||hprofits.com^
-||hsoub.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
 ||icorp.ro^
@@ -30830,7 +30836,6 @@
 ||jg.wensixuetang.com^
 ||logger.eigene.io^
 ||receiver.eigene.io^
-||c-rings.net^
 ||t.felmat.net^
 ||k-analytix.com^
 ||tracdelight.io^
@@ -33577,6 +33582,8 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||tidymitten.com^
+||groovyornament.com^
 ||crowdedmass.com^
 ||balloonbelieve.com^
 ||longingtrees.com^
@@ -38011,6 +38018,7 @@ inapps.appsflyersdk.com^
 ||btncdn.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
+||c-rings.net^
 ||cactusglobal.io^
 ||cactusmedia.com^
 ||callreports.com^
@@ -38091,6 +38099,7 @@ inapps.appsflyersdk.com^
 ||dmxleo.com^
 ||doceree.com^
 ||dojomojo.com^
+||domdog.io^
 ||donreach.com^
 ||dotaki.com^
 ||dotjs.com^
@@ -38451,6 +38460,7 @@ inapps.appsflyersdk.com^
 ||shoelace.com^
 ||shoptimally.com^
 ||showheroes.com^
+||signalfx.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
 ||sirdata.eu^
@@ -39042,7 +39052,6 @@ inapps.appsflyersdk.com^
 ||glisteningsign.com^
 ||gorgeousedge.com^
 ||gripcorn.com^
-||groovyornament.com^
 ||grouchypush.com^
 ||grumpydrawer.com^
 ||guardeddirection.com^
@@ -39210,7 +39219,6 @@ inapps.appsflyersdk.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
 ||thunderingtendency.com^
-||tidymitten.com^
 ||tightpowder.com^
 ||tinytendency.com^
 ||trapteaching.com^
@@ -40011,7 +40019,6 @@ inapps.appsflyersdk.com^
 ||metrix.emagister.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
-||mon.domdog.io^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
 ||mts.mansion.com^
@@ -40185,6 +40192,7 @@ inapps.appsflyersdk.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.rentcafe.com^
+||t.screeb.app^
 ||t.sharethis.com^
 ||t.smile.eu^
 ||t.spot.im^
