@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-29T22:00:12.793Z
+! Last modified: 2023-05-30T22:00:13.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8914,6 +8914,7 @@
 ||bhcumsc.com^
 ||bhqhxbrmd.xyz^
 ||bhuvzyaqts.com^
+||biancasunlit.com^
 ||bibbybegazes.com^
 ||biblesausage.com^
 ||bicyclelistworst.com^
@@ -10126,6 +10127,7 @@
 ||chaussew.net^
 ||chautcho.com^
 ||chautchy.net^
+||chauwout.xyz^
 ||chazanscapita.com^
 ||chcapdxxqgwkve.xyz^
 ||chdikbghrosxa.xyz^
@@ -12987,6 +12989,7 @@
 ||eqads.com^
 ||equabilitythereupon.com^
 ||equesk.com^
+||equiptbrotula.com^
 ||equitydefault.com^
 ||equityjesusdisappointment.com^
 ||era67hfo92w.com^
@@ -13565,6 +13568,7 @@
 ||felonlosel.com^
 ||feltermopish.com^
 ||feltlonelyand.xyz^
+||feltmanarietid.com^
 ||femefaih.com^
 ||femin.online^
 ||femindexkilog.xyz^
@@ -15466,6 +15470,7 @@
 ||hoistchart.com^
 ||holdsoutset.com^
 ||holebnnjuom.xyz^
+||holemanwasco.com^
 ||holict.com^
 ||hollekeamboina.com^
 ||hollercatastrophe.co^
@@ -15534,6 +15539,7 @@
 ||hosity.com^
 ||hospicalada.xyz^
 ||hospitecrew.club^
+||hostalisegrim.com^
 ||hostave.net^
 ||hostave4.net^
 ||hostingcloud.racing^
@@ -17732,6 +17738,7 @@
 ||loungebearing.com^
 ||lounooch.net^
 ||lourdoueisienne.website^
+||lousedsomal.com^
 ||louses.net^
 ||lousyfastened.com^
 ||loutedpewing.com^
@@ -17862,6 +17869,7 @@
 ||lybunbacwf.com^
 ||lycheemosses.com^
 ||lycopinrekey.com^
+||lycopuscris.com^
 ||lycoty.com^
 ||lyemiatteffulrf.xyz^
 ||lyingdownt.xyz^
@@ -18311,6 +18319,7 @@
 ||mergaksi.net^
 ||mergedlava.com^
 ||mergerpep.com^
+||meritedgasser.com^
 ||mermaidcontemplateadjoining.com^
 ||mermenmanzil.life^
 ||mermiscoapted.com^
@@ -18651,6 +18660,7 @@
 ||monxserver.com^
 ||mooantink.com^
 ||moocauby.com^
+||moochbeacher.com^
 ||moochescramper.com^
 ||moodokay.com^
 ||moodunitsmusic.com^
@@ -19976,6 +19986,7 @@
 ||oodsauns.net^
 ||oodsotso.com^
 ||ooftauph.com^
+||oofyjigsaw.com^
 ||oogleaamentum.com^
 ||ooglootch.com^
 ||oogneenu.net^
@@ -20338,6 +20349,7 @@
 ||ownerfacinglung.com^
 ||ownsattrib.life^
 ||owoxauky.com^
+||owrkwilxbw.com^
 ||owwqacrfi.com^
 ||oxado.com^
 ||oxbbwikuttt.com^
@@ -20508,6 +20520,7 @@
 ||parrotspineparticipate.com^
 ||parrotwrapped.com^
 ||parrssulk.com^
+||parsecrosed.com^
 ||parsedgirnie.com^
 ||parsimoniousinvincible.net^
 ||parsonyquicken.com^
@@ -21302,6 +21315,7 @@
 ||porcelainfurtherties.com^
 ||poredii.com^
 ||porepoise.com^
+||porettginzo.com^
 ||porkinconceivable.com^
 ||pornaqua.com^
 ||pornhyip.com^
@@ -22250,6 +22264,7 @@
 ||rallydisprove.com^
 ||rallynabdoomed.com^
 ||ralphabnegation.com^
+||rameejour.com^
 ||rammishruinous.com^
 ||ramosz.lol^
 ||ramsonhunk.com^
@@ -22545,6 +22560,7 @@
 ||rejoineddivertoverwork.com^
 ||reklamko.pro^
 ||reklamz.com^
+||reknowfirbolg.com^
 ||relaissynced.com^
 ||relappro.com^
 ||relapsereflectedreplace.com^
@@ -23296,6 +23312,7 @@
 ||safesync.com^
 ||safetypcchain.com^
 ||safewarns.com^
+||saffianxenian.com^
 ||safkwesad.live^
 ||sagedeportflorist.com^
 ||saggarmammon.com^
@@ -23870,6 +23887,7 @@
 ||shubadubadlskjfkf.com^
 ||shubasairy.life^
 ||shuglaursech.com^
+||shugnais.net^
 ||shugohofo.pro^
 ||shugraithou.com^
 ||shukriya90.com^
@@ -24636,6 +24654,7 @@
 ||stipestilths.com^
 ||stiposclimath.com^
 ||stippennothing.guru^
+||stipulenibber.com^
 ||stithujogle.pro^
 ||stitly.com^
 ||stitue.com^
@@ -33582,6 +33601,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||tightpowder.com^
 ||tidymitten.com^
 ||groovyornament.com^
 ||crowdedmass.com^
@@ -34722,6 +34742,7 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||track.17goforward.com^
 ||analytics.starlink.com^
 ||st-5cva8vttppvjafpc7jvj.kodik.biz^
 ||tracking.overwolf.com^
@@ -38018,7 +38039,6 @@ inapps.appsflyersdk.com^
 ||btncdn.com^
 ||buildkiteanalytics.com^
 ||bunchbox.co^
-||c-rings.net^
 ||cactusglobal.io^
 ||cactusmedia.com^
 ||callreports.com^
@@ -39006,6 +39026,7 @@ inapps.appsflyersdk.com^
 ||considermice.com^
 ||cookchalk.com^
 ||coverapparatus.com^
+||crookedcreature.com^
 ||cuddlycake.com^
 ||curiouschalk.com^
 ||curlycannon.com^
@@ -39219,7 +39240,6 @@ inapps.appsflyersdk.com^
 ||therapeuticcars.com^
 ||thirstylettuce.com^
 ||thunderingtendency.com^
-||tightpowder.com^
 ||tinytendency.com^
 ||trapteaching.com^
 ||tumbleicicle.com^
@@ -41110,8 +41130,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 May 2023 22:22 UTC+7
-! Version: 2305282222
+! Last modified: 30 May 2023 15:46 UTC+7
+! Version: 2305301546
 ! Blocked: 834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
