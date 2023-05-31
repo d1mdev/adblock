@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-05-30T22:00:13.307Z
+! Last modified: 2023-05-31T22:00:13.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4144,6 +4144,10 @@
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||hybird.rayjump.com^
+||anythinktech.com^
+||d3hdbjtb1686tn.cloudfront.net^
+||s.hisp.in^
 ||toponadss.com^
 ||adcs-*.myappsget.com^
 ||adsassets.waze.com^
@@ -9970,6 +9974,7 @@
 ||cdsbnrs.com^
 ||cdtbox.rocks^
 ||cdtxqgal.xyz^
+||ceamtaaprhha.xyz^
 ||ceawoment.info^
 ||ceboidbusting.com^
 ||cebygijy.pro^
@@ -11066,6 +11071,7 @@
 ||cristianonaldo.com^
 ||critariatele.pro^
 ||criticismheadphoneprinting.com^
+||crjdgldmb.com^
 ||crjpgate.com^
 ||crjpingate.com^
 ||crm4d.com^
@@ -11794,6 +11800,7 @@
 ||dietalmatax.com^
 ||dietaryexpanded.com^
 ||dietslawine.com^
+||diettttoglf.com^
 ||dieved.com^
 ||differencedisinheritpass.com^
 ||differenchi.pro^
@@ -13440,6 +13447,7 @@
 ||fardingsoiling.com^
 ||fargoodgarotes.digital^
 ||faroff-painting.pro^
+||farrierbalmy.com^
 ||farteniuson.com^
 ||farthersuspicious.com^
 ||fashionablegangsterexplosion.com^
@@ -13856,6 +13864,7 @@
 ||fobeetch.net^
 ||focalex.com^
 ||focath.com^
+||fodderripeskyscraper.com^
 ||foetusconductfold.com^
 ||foflib.org^
 ||fogayeown.com^
@@ -13989,6 +13998,7 @@
 ||fovykaxo.pro^
 ||foxcdn.life^
 ||foxypp.com^
+||fpgedsewst.com^
 ||fpmaypyeegktq.com^
 ||fpnpmcdn.net^
 ||fpofvdovrk.com^
@@ -15011,6 +15021,7 @@
 ||gwcpdvojom.com^
 ||gweducelne.com^
 ||gwekzilagfux.com^
+||gwurinylw.com^
 ||gwwhheahisrtld.com^
 ||gx101.com^
 ||gxdrytainoxadwy.xyz^
@@ -15576,6 +15587,7 @@
 ||howledmintier.com^
 ||howningretoneand.com^
 ||howoverlapsuspicious.com^
+||howploymope.com^
 ||howtubray.com^
 ||hoydenlooms.website^
 ||hpijkah.com^
@@ -16564,6 +16576,7 @@
 ||jk4lmrf2.de^
 ||jkfdnofnz.com^
 ||jkha742.xyz^
+||jkkfnkxzf.com^
 ||jklbilitukyd.xyz^
 ||jkttvpoxmk.com^
 ||jkyondcubchu.com^
@@ -17292,6 +17305,7 @@
 ||lawsaddthoroughfare.com^
 ||lawyerceasing.com^
 ||laxallenopposed.com^
+||laxativepermissiblesensation.com^
 ||laydcilck.com^
 ||layer-ad.org^
 ||layeredseether.com^
@@ -19091,6 +19105,7 @@
 ||nehodyshy.pro^
 ||neigna.com^
 ||neilbl.com^
+||neitherpennylack.com^
 ||neitherpossessedset.com^
 ||nekaujoa.net^
 ||nelado.xyz^
@@ -20494,6 +20509,7 @@
 ||pardongaskins.com^
 ||pardonsuccessionassassin.com^
 ||parecyrclame.com^
+||parentlargevia.com^
 ||parifytraily.com^
 ||paripartners.ru^
 ||paris-lno.com^
@@ -20608,6 +20624,7 @@
 ||pauzajoo.net^
 ||pauzooty.xyz^
 ||paverscortaro.com^
+||paviourwese.com^
 ||pavymoieter.com^
 ||pawderstream.com^
 ||pawheatyous.com^
@@ -21892,6 +21909,7 @@
 ||punyvamos.com^
 ||puoxpytcblqrti.xyz^
 ||pupilmudwort.com^
+||pupilorgansmad.com^
 ||pupsotdub.com^
 ||pupspu.com^
 ||purchasefastidiouswindfall.com^
@@ -24111,7 +24129,9 @@
 ||sltvhyjthx.com^
 ||slugskashrut.com^
 ||sluiceliable.com^
+||slumid.com^
 ||slumsynchs.tech^
+||slvjxgchocnyt.com^
 ||slychicks.com^
 ||smaato.net^
 ||smachnakittchen.com^
@@ -24727,6 +24747,7 @@
 ||streetupwind.com^
 ||stremanp.com^
 ||strenuoustarget.com^
+||stressfulproperlyrestrain.com^
 ||stretchedcreepy.com^
 ||stretchingcognitioncommission.com^
 ||stretchingfervid.com^
@@ -25538,6 +25559,7 @@
 ||tighterstarringsinking.com^
 ||tightervarying.com^
 ||tightsaturdayi.com^
+||tignuget.net^
 ||tigrisbewray.life^
 ||tikbblove.com^
 ||tiledissipatelocum.com^
@@ -26535,6 +26557,7 @@
 ||upoveqbkia.xyz^
 ||uppardjets.com^
 ||upperched.com^
+||uppereugene.com^
 ||uppitypartie.website^
 ||uppsyduckan.com^
 ||upregisteelon.com^
@@ -27101,6 +27124,7 @@
 ||votemoodyexcavate.com^
 ||vouceeco.com^
 ||vouchanalysistonight.com^
+||vougreph.net^
 ||vouhecem.net^
 ||voujaizy.xyz^
 ||vounaipu.net^
@@ -28047,6 +28071,7 @@
 ||xkcgjkwjbmki.xyz^
 ||xkdijkdiefu.com^
 ||xkfogxtamlnn.com^
+||xkjnvehk.com^
 ||xkpbcd.com^
 ||xlirdr.com^
 ||xlivrdr.com^
@@ -28521,6 +28546,7 @@
 ||zidoudsa.net^
 ||zigansherpa.com^
 ||zighoacm.com^
+||zigighol.xyz^
 ||zigreroa.net^
 ||zigzag-ruin.pro^
 ||zigzaggodmotheragain.com^
@@ -30800,7 +30826,6 @@
 ||solutionshindsight.net^
 ||d.wi-fi.ru^
 ||simpleanalyticscdn.com^
-||api.ipdata.co^
 ||instapagemetrics.com^
 ||t.rainide.com^
 ||durationmedia.net^
@@ -36013,7 +36038,6 @@
 ||ls.srvcs.tumblr.com^
 ||lt*.tritondigital.com^
 ||lynn.zgsemi.cn^
-||m.addthisedge.com^
 ||m.adtiming.com^
 ||m.czbiw.com^
 ||m.dubcm.com^
@@ -38667,6 +38691,7 @@ inapps.appsflyersdk.com^
 ||googletagmanager-cn.com^
 ! Oracle
 ||addthis.com^
+||addthisedge.com^
 ! revprotect
 ||pphwrevr.com^
 ! Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
@@ -38856,7 +38881,6 @@ inapps.appsflyersdk.com^
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||goldoffer.online^
-||googleanalytcs.com^
 ||gramombird.com^
 ||gus.host^
 ||hashcoin.co^
@@ -38900,7 +38924,6 @@ inapps.appsflyersdk.com^
 ||moneroocean.stream^
 ||mutinyhq.com^
 ||nabaza.com^
-||nablabee.com^
 ||nametraff.com^
 ||nathetsof.com^
 ||nerohut.com^
@@ -39669,7 +39692,6 @@ inapps.appsflyersdk.com^
 ||analytics.agoda.com^
 ||analytics.amakings.com^
 ||analytics.apnewsregistry.com^
-||analytics.atomiconline.com^
 ||analytics.avanser.com.au^
 ||analytics.bestreviews.com^
 ||analytics.bitrix.info^
@@ -40009,7 +40031,6 @@ inapps.appsflyersdk.com^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
 ||log.cookieyes.com^
-||log.kibboko.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
@@ -40879,7 +40900,6 @@ vkcdnservice.appspot.com^
 ||premiumstats.xyz^
 ||projectpoi.com^
 ||questionfly.com^
-||xy.nullrefexcep.com^
 ! don't add `^` to these rules
 ||freecontent.date
 ||freecontent.stream
