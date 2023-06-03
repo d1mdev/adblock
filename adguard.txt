@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-02T22:00:18.676Z
+! Last modified: 2023-06-03T22:00:13.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ippcodepink.com^
 ||news.partners.ru.com^
 ||dqwzhseasq.com^
 ||vst.dfn-network.pro^
@@ -10609,6 +10610,7 @@
 ||clxtsxwjp.com^
 ||cm-trk3.com^
 ||cm-trk5.com^
+||cmadserver.de^
 ||cmasisrjbgfv.xyz^
 ||cmbestsrv.com^
 ||cmbvrtiikioce.xyz^
@@ -14226,6 +14228,7 @@
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
+||fundsbe.com^
 ||fungianjaggier.digital^
 ||fungus.online^
 ||funkerpep.com^
@@ -15686,6 +15689,7 @@
 ||hpk42r7a.de^
 ||hpmarzhnny.com^
 ||hppvkbfcuq.com^
+||hpychofen.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hq3x.com^
@@ -37932,6 +37936,7 @@ inapps.appsflyersdk.com^
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||ia-dmp.com^
 ||iconnode.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -38355,6 +38360,7 @@ inapps.appsflyersdk.com^
 ||heylink.com^
 ||hif.to^
 ||hira-meki.jp^
+||hit-360.com^
 ||hitsteps.com^
 ||hmstats.com^
 ||hockeystack.com^
@@ -38444,6 +38450,7 @@ inapps.appsflyersdk.com^
 ||madkudu.com^
 ||magicpixel.io^
 ||magnuum.com^
+||marketingcloudfx.com^
 ||marketperf.com^
 ||marketshot.com^
 ||marketshot.fr^
@@ -39879,6 +39886,7 @@ inapps.appsflyersdk.com^
 ||analytics.ziftsolutions.com^
 ||analytics1.vdo.ai^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticssec.overwolf.com^
 ||analyze.full-marke.com^
 ||ao-freegeoip.herokuapp.com^
 ||api.wipmania.com^
@@ -40014,6 +40022,7 @@ inapps.appsflyersdk.com^
 ||d2wa5sea6guof0.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
+||data.eetech.com^
 ||data.imakenews.com^
 ||data.minute.ly^
 ||data.nexxt.com^
@@ -40039,6 +40048,7 @@ inapps.appsflyersdk.com^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
 ||eq.userneeds.com^
+||era.easyvoyage.com^
 ||errors.snackly.co^
 ||et.educationdynamics.com^
 ||etl.springbot.com^
@@ -40470,6 +40480,8 @@ inapps.appsflyersdk.com^
 ||trends.newsmaxwidget.com^
 ||triggers.wfxtriggers.com^
 ||trk.clinch.co^
+||trx-cdn.zip.co^
+||trx.zip.co^
 ||uid.mediacorp.sg^
 ||us-central1-markuphero.cloudfunctions.net^
 ||user.userguiding.com^
@@ -40663,6 +40675,7 @@ inapps.appsflyersdk.com^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||retrack.q-divisioncdn.de^
+||sp.data.funkedigital.de^
 ||stat.clichehosting.de^
 ||statistics.klicktel.de^
 ||statistik.motorpresse.de^
@@ -41266,9 +41279,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 May 2023 15:46 UTC+7
-! Version: 2305301546
-! Blocked: 834 rules
+! Last modified: 03 Jun 2023 21:29 UTC+7
+! Version: 2306032129
+! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41877,6 +41890,7 @@ vkcdnservice.appspot.com^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||logv3.metric.vn^
 ||lottery.headlines.pw^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||marketing.hub-js.com^
