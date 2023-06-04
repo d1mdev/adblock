@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-03T22:00:13.695Z
+! Last modified: 2023-06-04T22:00:12.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6525,6 +6525,7 @@
 ||adsxyz.com^
 ||adt328.com^
 ||adt545.net^
+||adt567.net^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
@@ -30676,7 +30677,6 @@
 ||stats-iobit-com.us-east-1.elasticbeanstalk.com^
 ||zeustechnology.com^
 ||fwpixel.com^
-||cdn.adt567.net^
 ||smartlify.com^
 ||analytics.styria.hr^
 ||culturaltracking.ru^
@@ -39209,6 +39209,7 @@ inapps.appsflyersdk.com^
 ||farsnails.com^
 ||fastenfather.com^
 ||fifthborder.com^
+||flowerycreature.com^
 ||foretellfifth.com^
 ||frailfruit.com^
 ||frantictrail.com^
@@ -40065,6 +40066,7 @@ inapps.appsflyersdk.com^
 ||events.audiate.me^
 ||events.btw.so^
 ||events.devcycle.com^
+||events.flagship.io^
 ||events.jokerly.com^
 ||events.jotform.com^
 ||events.matterport.com^
