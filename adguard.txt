@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-04T22:00:12.327Z
+! Last modified: 2023-06-05T22:00:12.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -13018,6 +13018,7 @@
 ||entigatenturge.pro^
 ||entirelysacrament.com^
 ||entitledbalcony.com^
+||entjgcr.com^
 ||entrecard.s3.amazonaws.com^
 ||entreeselegist.com^
 ||entrepreneurrestorationthereby.com^
@@ -15535,6 +15536,7 @@
 ||histormedengi.xyz^
 ||hisurnhuh.com^
 ||hiswhelectu.xyz^
+||hitbip.com^
 ||hitchrational.com^
 ||hitcpm.com^
 ||hitlnk.com^
@@ -18100,6 +18102,7 @@
 ||makemehappy.space^
 ||makemyvids.com^
 ||makesboundlessvirtue.com^
+||makingdevil.com^
 ||makingnude.com^
 ||makoglassen.website^
 ||makotruong.live^
@@ -20338,6 +20341,7 @@
 ||oumtoujo.net^
 ||ouncillorswhow.info^
 ||oungimuk.net^
+||ounojushyxb.xyz^
 ||ounsoopt.xyz^
 ||oupaumul.net^
 ||oupe71eiun.com^
@@ -23655,6 +23659,7 @@
 ||sealedsimplicitynoun.com^
 ||sealeryshilpit.com^
 ||sealerysuppler.com^
+||sealthatleak.com^
 ||seamankidding.com^
 ||seamloring.life^
 ||seapolo.com^
@@ -25477,6 +25482,7 @@
 ||thecoolposts.com^
 ||thecred.info^
 ||thecurtainied.xyz^
+||theedrem.xyz^
 ||theelrou.net^
 ||theensos.xyz^
 ||theerdax.com^
@@ -25898,7 +25904,6 @@
 ||tossspecifytill.com^
 ||tosuicunea.com^
 ||totadblock.com^
-||totaladblock.com^
 ||totalcoolblog.com^
 ||totallegitimate.com^
 ||totallifeguru.com^
@@ -26824,6 +26829,7 @@
 ||vaccinationwear.com^
 ||vaccinegrownparliamentary.com^
 ||vacuolewhilter.com^
+||vacuomedogeys.com^
 ||vacuomehautain.tech^
 ||vacuts.com^
 ||vacwrite.com^
@@ -28108,6 +28114,7 @@
 ||wypydowhi.com^
 ||wysasys.com^
 ||wysyshypti.pro^
+||wytxjmow.com^
 ||wyypykoenie.xyz^
 ||wzdzht7am5.com^
 ||wzk5ndpc3x05.com^
@@ -28275,6 +28282,7 @@
 ||xvderylqps.xyz^
 ||xvika.com^
 ||xviperonec.com^
+||xvpqmcgf.com^
 ||xvuslink.com^
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
@@ -30264,6 +30272,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||events.flagship.io^
+||pixel.barion.com^
 ||blueoyster.click^
 ||track.dobrnovosti.com^
 ||analytics.elegela.net^
@@ -34887,6 +34897,7 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
 ||metrics.mdstrm.com^
@@ -34992,7 +35003,6 @@
 ||trj.valuecommerce.com^
 ||aml.valuecommerce.com^
 ||thoth.utyug.media^
-||prod.fennec.atp.fox^
 ||analytics.data.visenze.com^
 ||evs.proxy.analytics.shutterstock.com^
 ||gtm-server.healthline.com^
@@ -35049,7 +35059,6 @@
 ||analytics.crea.ca^
 ||stat.airdroid.com^
 ||tracker.ranker.com^
-||unagi*.amazon.
 ||c.salon24.pl^
 ||pixel.archive.
 ||cl.t3n.de^
@@ -39225,6 +39234,7 @@ inapps.appsflyersdk.com^
 ||grumpydrawer.com^
 ||guardeddirection.com^
 ||handyfireman.com^
+||harborcaption.com^
 ||hauntlist.com^
 ||healflowers.com^
 ||hearinglizards.com^
@@ -39242,6 +39252,7 @@ inapps.appsflyersdk.com^
 ||impulsejewel.com^
 ||incompetentjoke.com^
 ||infamousstream.com^
+||inputicicle.com^
 ||inquisitiveice.com^
 ||instrumentinsect.com^
 ||jailbulb.com^
@@ -39255,6 +39266,7 @@ inapps.appsflyersdk.com^
 ||legalleg.com^
 ||literatelight.com^
 ||livelyreward.com^
+||looseloaf.com^
 ||losslace.com^
 ||ludicrousarch.com^
 ||magicalmonth.com^
@@ -39376,6 +39388,7 @@ inapps.appsflyersdk.com^
 ||stockingsneeze.com^
 ||stretchsquirrel.com^
 ||stringsmile.com^
+||strivesquirrel.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
 ||swankysquare.com^
@@ -40066,7 +40079,6 @@ inapps.appsflyersdk.com^
 ||events.audiate.me^
 ||events.btw.so^
 ||events.devcycle.com^
-||events.flagship.io^
 ||events.jokerly.com^
 ||events.jotform.com^
 ||events.matterport.com^
@@ -40081,6 +40093,7 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
+||fennec.atp.fox^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
