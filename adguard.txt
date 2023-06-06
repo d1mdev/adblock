@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-05T22:00:12.385Z
+! Last modified: 2023-06-06T22:00:12.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12088,7 +12088,6 @@
 ||dkrbus.com^
 ||dkswptmwowowp.xyz^
 ||dkxwedcdky.com^
-||dl-protect.net^
 ||dl-rms.com^
 ||dledthebarrowb.xyz^
 ||dlfvgndsdfsn.com^
@@ -29391,6 +29390,7 @@
 ||digitalkites.com^
 ||digitalpush.org^
 ||digitalthrottle.com^
+||dl-protect.net^
 ||dochase.com^
 ||dollarsponsor.com^
 ||domainadvertising.com^
@@ -34897,6 +34897,7 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||stats.online-convert.com^
 ||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
 ||webtracking.fe.union-investment.de^
@@ -37691,6 +37692,7 @@ inapps.appsflyersdk.com^
 ||astat.bugly.qq.com^
 ||ios.bugly.qq.com^
 ||fdplttrk.com^
+||tracking-*.trnox.com^
 ||tracking.trnox.com^
 ||rts.mobula.sdk.duapps.com^
 ||omni-ads.omni.news^
@@ -37937,6 +37939,7 @@ inapps.appsflyersdk.com^
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
+||geotargetly-api-*.com^
 ||glimr.io^
 ||glookup.info^
 ||googleoptimize.com^
