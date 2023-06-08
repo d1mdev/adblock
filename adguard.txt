@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-07T22:00:12.926Z
+! Last modified: 2023-06-08T22:00:12.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,9 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ynlfpyeifc.com^
+||videoprodavec.ru^
+||doprodavec.ru^
 ||ippcodepink.com^
 ||news.partners.ru.com^
 ||dqwzhseasq.com^
@@ -2722,7 +2725,6 @@
 ||omynews.net^
 ||onadvert.ru^
 ||one-klick.ru^
-||onedrive.su^
 ||onelead.ru^
 ||onepixshare.ru^
 ||oneund.com^
@@ -3418,7 +3420,6 @@
 ||viboom.ru^
 ||vicepiter.ru^
 ||vidalak.com^
-||vidasys.ru^
 ||vidaugust.ru^
 ||videc10.com^
 ||video-invest.net^
@@ -4035,14 +4036,6 @@
 ||ad-splash.hktvmall.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/121846
 ||advil.waze.com^
-! FluBot / Cabassous malware
-! https://github.com/prodaft/malware-ioc/tree/master/FluBot
-||xjnwqdospderqtk.ru^
-||xawsnngjljanxof.su^
-||bdvwidxfiextwof.ru^
-||krvpsegjeukhoqk.su^
-||auqcmkubxjmeeyf.ru^
-||vloxaloyfmdqxti.ru^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/74651
 ! com.opera.app.newslite
 ||s-adx.op-mobile.opera.com^
@@ -4285,7 +4278,6 @@
 ||adpopcorn.com^
 ||pangle.io^
 ||pubnative.info^
-||bifjicdigchgihajabb.ru^
 ||ad.leap.app^
 ||cl-ad.x-flow.app^
 ||soundcloud-pax.pandora.com^
@@ -4454,9 +4446,7 @@
 ||cls.vrvm.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||abbott.vo.llnwd.net^
-||atkins.vo.llnwd.net^
 ||behance.vo.llnwd.net^
-||edwlifes.vo.llnwd.net^
 ||kjos.vo.llnwd.net^
 ||synthes.vo.llnwd.net^
 ||teachscape.vo.llnwd.net^
@@ -4764,7 +4754,6 @@
 ||mobilecore.com^
 ||mobiledl.adboe.com^
 ||mobon.com^
-||mobzver.ru^
 ||mofox.com^
 ||mojiva.com^
 ||mtburn.com^
@@ -4824,7 +4813,6 @@
 ||slb.gedawang.com^
 ||smaclick.com^
 ||smartadserver.com^
-||smarttds.ru^
 ||sonobi.com^
 ||splash.appsgeyser.com^
 ||sscefsol.com^
@@ -7634,6 +7622,7 @@
 ||areelbagwyn.com^
 ||areelektrosstor.com^
 ||arehen.com^
+||areiccastano.com^
 ||arejoysew.com^
 ||areliux.cc^
 ||arenalitteraccommodation.com^
@@ -7756,6 +7745,7 @@
 ||asev.xyz^
 ||asewlfjqwlflkew.com^
 ||asfofpfmu.com^
+||asgardrecatch.com^
 ||asgclickkl.com^
 ||asgclickpop.com^
 ||asgclickpp.com^
@@ -9336,6 +9326,7 @@
 ||bouqaiewfksqz.com^
 ||bourranuncurbs.com^
 ||boustahe.com^
+||bousyshock.com^
 ||bowed-common.pro^
 ||boweddemand.com^
 ||bowedsequence.com^
@@ -10076,6 +10067,7 @@
 ||certified-apps.com^
 ||cesfttajihif.top^
 ||cesiumsemboite.com^
+||cestibegster.com^
 ||cesurasfratchy.com^
 ||ceteembathe.com^
 ||cetichin.com^
@@ -15272,6 +15264,7 @@
 ||hauntcontribution.com^
 ||hauphuchaum.com^
 ||hausic.com^
+||hauthoun.xyz^
 ||hauufhgezl.com^
 ||havamedia.net^
 ||havan3eab9row2n.com^
@@ -17671,6 +17664,7 @@
 ||linkelevator.com^
 ||linkev.com^
 ||linkexchange.com^
+||linkmanglazers.com^
 ||linkmepu.com^
 ||linkoffers.net^
 ||linkonclick.com^
@@ -18404,6 +18398,7 @@
 ||mellodur.net^
 ||mellow-game.pro^
 ||melongetplume.com^
+||meltaigh.net^
 ||meltedacrid.com^
 ||meltpiratehamlet.com^
 ||membai.com^
@@ -23632,6 +23627,7 @@
 ||scrapethrillmostly.com^
 ||scratchy-deep.pro^
 ||scratchy-kind.pro^
+||scrazeunwaged.com^
 ||screechadulthood.com^
 ||screenov.site^
 ||scriptcdn.net^
@@ -24210,6 +24206,7 @@
 ||slantedsecno.com^
 ||slapclergymoth.com^
 ||slaqandsan.xyz^
+||slaresolidi.com^
 ||slartwomans.com^
 ||slashstar.net^
 ||slaughtergarageparttime.com^
@@ -25835,6 +25832,7 @@
 ||tolyafbnjt9dedjj10.com^
 ||tomawilea.com^
 ||tomekas.com^
+||tomeleafs.com^
 ||tomentaabac.com^
 ||tomladvert.com^
 ||tommiesuntewed.com^
@@ -26472,6 +26470,7 @@
 ||ulyhadchos.com^
 ||umedadelempanyi.info^
 ||umentrandings.xyz^
+||umiackscursors.com^
 ||ummerciseha.com^
 ||ummihaqhu.xyz^
 ||umnstoodthe.com^
@@ -26681,6 +26680,7 @@
 ||updateinfo2022.icu^
 ||updatepro.pro^
 ||updaterecomended.pro^
+||updiveufos.com^
 ||uperizeunoiled.com^
 ||upeyganpell.website^
 ||upffxs6.com^
@@ -27202,6 +27202,7 @@
 ||visualsteel.net^
 ||vitaminalcove.com^
 ||vitiumcranker.com^
+||vitrealmandola.com^
 ||viwthopfoakr.com^
 ||vixoafte.xyz^
 ||vizagtobfx.com^
@@ -34926,7 +34927,6 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
-||gae2-spclient.spotify.com^
 ||stats.online-convert.com^
 ||ss.azuremagazine.com^
 ||logger*.kma.go.kr^
@@ -37837,7 +37837,6 @@ inapps.appsflyersdk.com^
 ||sc-analytics.appspot.com^
 ||ssl-google-analytics.l.google.com^
 ||stat.duokanbox.com^
-||statistics.videofarm.daum.net^
 ||stats.popcap.com^
 ||stats.unity3d.com^
 ||tknet.rayjump.com^
@@ -39256,6 +39255,7 @@ inapps.appsflyersdk.com^
 ||foretellfifth.com^
 ||frailfruit.com^
 ||frantictrail.com^
+||freezingbuilding.com^
 ||frogtray.com^
 ||fronttoad.com^
 ||furryfork.com^
@@ -39355,6 +39355,7 @@ inapps.appsflyersdk.com^
 ||rainyrule.com^
 ||rangecake.com^
 ||rebelhen.com^
+||rebelswing.com^
 ||recommenddoor.com^
 ||reconditeprison.com^
 ||reconditerespect.com^
