@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-08T22:00:12.734Z
+! Last modified: 2023-06-09T22:00:12.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4098,8 +4098,6 @@
 ||ads-chunks.prod.ihrhls.com^
 ! Watch ABC
 ||api.ads.watchabc.go.com^
-! https://play.google.com/store/apps/details?id=fr.playsoft.teleloisirs
-||ad.prismamediadigital.com^
 ! Supership.jp (also mobile ads)
 ||socdm.com^
 ! Criteo mobile ads
@@ -4134,7 +4132,12 @@
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+! AfreecaTV
+||reqde.afreecatv.com^
+||adballoon.afreecatv.com^
+||deapi.afreecatv.com^
 !
+||mtag.mman.kr^
 ||hybird.rayjump.com^
 ||anythinktech.com^
 ||d3hdbjtb1686tn.cloudfront.net^
@@ -4172,7 +4175,6 @@
 ||nasimobi.com^
 ||wd.adcolony.xyz^
 ||im.ov.yahoo.co.jp^
-||sitewithg.me^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
 ||adx-*.dbankedge.cn^
@@ -4374,7 +4376,6 @@
 ||tapdaq-adverts.global.ssl.fastly.net^
 ||rtb.appbid.com^
 ||rtapi.abbi.io^
-||online-prod.zenmxapps.com^
 ||look.kfiopkln.com^
 ||adplex.co.kr^
 ||tveta.naver.net^
@@ -4516,7 +4517,6 @@
 ||ad.ohmyad.co^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
-||ad132m.com^
 ||ad6media.fr^
 ||adadvisor.net^
 ||adback.tango.me^
@@ -4601,9 +4601,7 @@
 ||adzmobi.com^
 ||am15.net^
 ||amobee.com^
-||api.appfireworks.com^
 ||api.fusepowered.com^
-||api.kiip.me^
 ||api.usebutton.com^
 ||appclick.co^
 ||appclick.net^
@@ -4622,7 +4620,6 @@
 ||astrsk.net^
 ||atti.com^
 ||axonix.com^
-||b.cpiera.com^
 ||bannerflow.com^
 ||banners.etermax.com^
 ||bannersnack.com^
@@ -4649,7 +4646,6 @@
 ||castplatform.com^
 ||cdn-image.com^
 ||cdn.ads.fotoable.net^
-||cdn.cpiera.com^
 ||cell.zhybzp.cn^
 ||celtra.com^
 ||ceppartner.com^
@@ -4658,7 +4654,6 @@
 ||chartboost.com^
 ||clk.taptica.com^
 ||clkfeed.com^
-||cntcash.ru^
 ||comscore.com^
 ||content.ad^
 ||cpmstar.com^
@@ -4687,10 +4682,8 @@
 ||friendlyduck.com^
 ||fyber.com^
 ||geede.info^
-||gigamega.su^
 ||go.mobstitialtag.com^
 ||googleadservices.com^
-||gsmtop.net^
 ||gts-ads.twistbox.com^
 ||gumgum.com^
 ||heyzap.com^
@@ -5795,6 +5788,7 @@
 ||9dmnv9z0gtoh.com^
 ||9eb10b7a3d04a.com^
 ||9f3f61c6a1.com^
+||9f50508b3c.com^
 ||9f62b6f6bf.com^
 ||9f84a22351.com^
 ||9fa16f5df4.com^
@@ -8413,6 +8407,7 @@
 ||balaganpgnttrp.com^
 ||balancedweakness.com^
 ||balcekonspn.com^
+||balconhoist.com^
 ||balconypeer.com^
 ||baldbaptismrisk.com^
 ||baldwhizhens.com^
@@ -8956,7 +8951,6 @@
 ||bigotpenniless.com^
 ||bigprizesonline.com^
 ||bigrourg.net^
-||bigsport.today^
 ||bijitsoa.com^
 ||bijwawr.com^
 ||bikehowfaded.com^
@@ -10167,6 +10161,7 @@
 ||cheatingagricultural.com^
 ||cheatoppressive.com^
 ||chebecsunsack.com^
+||checaigu.net^
 ||check-now.online^
 ||check-out-this.site^
 ||checkfilter.biz^
@@ -10469,7 +10464,6 @@
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
-||clickadu.com^
 ||clickagy.com^
 ||clickallow.net^
 ||clickaslu.com^
@@ -10629,6 +10623,7 @@
 ||coazuthu.net^
 ||cobalten.com^
 ||cobwebhauntedallot.com^
+||cobworksurview.com^
 ||cocaocravat.digital^
 ||cocath.com^
 ||cocklacock.com^
@@ -15159,6 +15154,7 @@
 ||haitingshospi.info^
 ||haiveegi.com^
 ||hakeyelled.website^
+||halachadivvers.com^
 ||halchludwig.com^
 ||halerugeogeny.com^
 ||halfhaled.com^
@@ -18228,6 +18224,7 @@
 ||mation.xyz^
 ||matiro.com^
 ||matmechanic.com^
+||matokeassyria.com^
 ||matrimonyfiles.com^
 ||matrix-news.net^
 ||matrix-news.org^
@@ -20838,6 +20835,7 @@
 ||pegloang.com^
 ||peirs5tbakchios.com^
 ||pejzeexukxo.com^
+||pelagictanjib.com^
 ||pelamydlours.com^
 ||peliomaafb.com^
 ||pelisrev.live^
@@ -21886,6 +21884,7 @@
 ||ptaiksah.com^
 ||ptaimpeerte.com^
 ||ptaissud.com^
+||ptalribs.xyz^
 ||ptapephygli.com^
 ||ptapjmp.com^
 ||ptarepjx.com^
@@ -22180,6 +22179,7 @@
 ||qanatn.com^
 ||qarewien.com^
 ||qasrae.com^
+||qatsbesagne.com^
 ||qatsisanhwry.com^
 ||qawpicxuca.com^
 ||qawxtenkeo.com^
@@ -24343,6 +24343,7 @@
 ||soakrumouropposition.com^
 ||soalonie.com^
 ||soap-wash.com^
+||soaperdeils.com^
 ||soarersovoli.uno^
 ||soavesermon.com^
 ||soawhoaw.com^
@@ -27542,6 +27543,7 @@
 ||weanersporta.com^
 ||weaped.com^
 ||weaponsort.club^
+||wearinggenear.com^
 ||wearisomeraynope.com^
 ||wearygrocery.pro^
 ||weaselbubblehue.com^
@@ -29351,6 +29353,7 @@
 ||clickable.com^
 ||clickad.pl^
 ||clickadilla.com^
+||clickadu.com^
 ||clickbet88.com^
 ||clickcertain.com^
 ||clickdaly.com^
@@ -30520,7 +30523,6 @@
 ||zerostats.com^
 ||track.coherentpath.com^
 ||qlitics.com^
-||we-stats.com^
 ||papi.look.360.cn^
 ||cdn.dsspn.com^
 ||ujm.hansel.io^
@@ -37339,6 +37341,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||events.prd.api.discomax.com^
+||events.betterhelp.com^
+||analytics-gateway.delta.dp.lightricks.com^
+||log.bloodsugars.live^
 ||logservice1.dbankcloud.cn^
 ||open.oneplus.net^
 ||analytics-api.samsunghealthcn.com^
@@ -40913,7 +40919,6 @@ inapps.appsflyersdk.com^
 ||log.targetpush.co.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
-||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||sas.nsm-corp.com^
@@ -42293,12 +42298,6 @@ vkcdnservice.appspot.com^
 @@|affiliates.adsterra.com^|
 @@|beta.affiliates.adsterra.com^|
 @@|help-advertisers.adsterra.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/852
-! Blocked by CNAME we-stats.com
-@@||cdnbc-wup.hsbc.com.hk^|
-@@||wup-7b4df495.santander.cl^|
-@@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
 @@||goto.target.com^|
