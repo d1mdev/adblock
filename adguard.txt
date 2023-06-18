@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-17T22:00:14.327Z
+! Last modified: 2023-06-18T22:00:17.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14660,6 +14660,7 @@
 ||gobbinsantos.store^
 ||gobiaesker.uno^
 ||gobicyice.com^
+||gobitta.info^
 ||gobmodfoe.com^
 ||godating.pw^
 ||goddamnhowks.tech^
@@ -23987,7 +23988,6 @@
 ||shrinkmesh.com^
 ||shrinkstorey.com^
 ||shritebehinds.space^
-||shrtfly.com^
 ||shrugartisticelder.com^
 ||shrupsthan.life^
 ||shrust.com^
@@ -29937,6 +29937,7 @@
 ||showcasead.com^
 ||showyoursite.com^
 ||shrinkearn.com^
+||shrtfly.com^
 ||simpio.com^
 ||simpletraffic.co^
 ||simvinvo.com^
@@ -38925,6 +38926,7 @@ inapps.appsflyersdk.com^
 ||pushwize.com^
 ||pushwoosh.com^
 ||reprocautious.com^
+||sbi-push.com^
 ||shroughtened.com^
 ||sm-epsilon.com^
 ||snd.tc^
@@ -40115,6 +40117,7 @@ inapps.appsflyersdk.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.missena.io^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.split.io^
@@ -40151,7 +40154,6 @@ inapps.appsflyersdk.com^
 ||geo.q5media.net^
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
-||geoip.cookieyes.com^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
@@ -40570,7 +40572,6 @@ inapps.appsflyersdk.com^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
-||d1igp3oop3iho5.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -40595,7 +40596,6 @@ inapps.appsflyersdk.com^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d31y97ze264gaa.cloudfront.net^
 ||d34qb8suadcc4g.cloudfront.net^
