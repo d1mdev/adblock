@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-19T22:00:12.213Z
+! Last modified: 2023-06-20T22:00:11.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5417,6 +5417,7 @@
 ||5608bd4f7e.com^
 ||560fe03925.com^
 ||562i7aqkxu.com^
+||5661361104.com^
 ||56bfc388bf12.com^
 ||56efa4d7b7.com^
 ||56rt2692.de^
@@ -6933,6 +6934,7 @@
 ||aj1602.online^
 ||aj1716.online^
 ||aj1907.online^
+||aj1985.online^
 ||aj2031.online^
 ||aj2373.online^
 ||aj2397.online^
@@ -11633,6 +11635,7 @@
 ||deloplen.com^
 ||deloton.com^
 ||deltoidviragin.com^
+||deltraff.com^
 ||delubramoneron.tech^
 ||deludemesh.com^
 ||deludereflexunderwater.com^
@@ -17239,6 +17242,7 @@
 ||kuwooque.com^
 ||kuyecelxn.com^
 ||kvaaa.com^
+||kvaqqvrhvyaupyg.com^
 ||kvecc.com^
 ||kveii.com^
 ||kvemm.com^
@@ -19196,6 +19200,7 @@
 ||nearbyforcedirty.com^
 ||nearestaxe.com^
 ||nearestmicrowavespends.com^
+||nebackalien.com^
 ||nebsefte.net^
 ||nebulouslostpremium.com^
 ||neceme.com^
@@ -20923,6 +20928,7 @@
 ||penitentiaryoverdosetumble.com^
 ||penjazzvice.com^
 ||penmaneffluve.com^
+||pennatepleck.com^
 ||penniedtache.com^
 ||pennilesscomingall.com^
 ||pennilesstestangrily.com^
@@ -21603,6 +21609,7 @@
 ||pprq7.com^
 ||pqnnjjpzarpb.com^
 ||pqxbcydpv.xyz^
+||practicallyfire.com^
 ||practicallysacrificestock.com^
 ||practicalwhich.info^
 ||practitionermonsieurstable.com^
@@ -23275,6 +23282,7 @@
 ||rosyruffian.com^
 ||rosytotal.pro^
 ||rotabol.com^
+||rotapsey.net^
 ||rotate4all.com^
 ||rotateme.ru^
 ||rotatemysoft.ru^
@@ -25322,6 +25330,7 @@
 ||taailshiletteris.xyz^
 ||taaqhr6axacd2um.com^
 ||tabaxirwelly.com^
+||tabfloor.com^
 ||tabici.com^
 ||tabledownstairsprovocative.com^
 ||tablequantity.com^
@@ -27416,6 +27425,7 @@
 ||viviendoefelizz.online^
 ||viwthopfoakr.com^
 ||vixoafte.xyz^
+||vizacasa.xyz^
 ||vizagtobfx.com^
 ||vjgqzvmgd.com^
 ||vjzlgtnaov.com^
@@ -29934,6 +29944,7 @@
 ||oceanwebcraft.com^
 ||ocelot.studio^
 ||oclus.com^
+||oddsserve.com^
 ||odysseus-nua.com^
 ||ofeetles.pro^
 ||offerforge.com^
@@ -35094,6 +35105,8 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 !
+||pixel.ionos.com^
+||d3p8zr0ffa9t17.cloudfront.net^
 ||tracker.dalso.org^
 ||evs.sgmt.loom.com^
 ||webstat.ws.126.net^
@@ -40813,24 +40826,24 @@ inapps.appsflyersdk.com^
 ||dyv1bugovvq1g.cloudfront.net^
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
-||cefgo.com^
-||domaincontrol.com^
-||fbi.com^
-||lacolhost.com^
-||lndo.site^
-||local.computer^
-||local.qinlili.bid^
-||local.sisteminha.com^
-||localho.st^
-||localhost.direct^
-||localtest.me^
-||lvh.me^
-||netfinity.hostedrmm.com^
-||nip.io^
-||ssh.town^
-||supercalifragilisticexpialidocious.co.uk^
-||xip.io^
-||yoogle.com^
+!||cefgo.com^
+!||domaincontrol.com^
+!||fbi.com^
+!||lacolhost.com^
+!||lndo.site^$third-party
+!||local.computer^
+!||local.qinlili.bid^
+!||local.sisteminha.com^
+!||localho.st^
+!!||localhost.direct^
+!||localtest.me^
+!||lvh.me^
+!||netfinity.hostedrmm.com^
+!||nip.io^$third-party
+!||ssh.town^
+!||supercalifragilisticexpialidocious.co.uk^
+!||xip.io^
+!||yoogle.com^
 ! taboola
 ||urc.taboolasyndication.com^
 ! Fingerprinting
@@ -41520,9 +41533,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Jun 2023 21:26 UTC+7
-! Version: 2306172126
-! Blocked: 837 rules
+! Last modified: 20 Jun 2023 16:05 UTC+7
+! Version: 2306201605
+! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41728,7 +41741,7 @@ vkcdnservice.appspot.com^
 ||qc.coccoc.com^
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
-||quangcao-thanhnien.epicdn.me^
+||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
 ||rec.aiservice.vn^
@@ -42096,6 +42109,7 @@ vkcdnservice.appspot.com^
 ||log.kienthuc.net.vn^
 ||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
+||log.mekongasean.vn^
 ||log.ngaynay.vn^
 ||log.nhandan.vn^
 ||log.nhipcaudautu.vn^
@@ -42233,6 +42247,7 @@ vkcdnservice.appspot.com^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||tech.zapps.me^
+||textlink.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
 ||thongke.bookingcare.vn^
