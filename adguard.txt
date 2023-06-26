@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-06-25T22:00:23.644Z
+! Last modified: 2023-06-26T22:00:11.781Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4139,6 +4139,9 @@
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||pangolin16.sgsnssdk.com^
+||sf16-scmcdn-sg.ibytedtos.com^
+||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -6015,6 +6018,7 @@
 ||acceptabletally.com^
 ||access-mc.com^
 ||access.vidox.net^
+||accessdatatrack.com^
 ||accesshomeinsurance.co^
 ||accessiblescopevisitor.com^
 ||accessorydistantdepths.com^
@@ -7376,6 +7380,7 @@
 ||anguishexperimental.com^
 ||anguishleague.com^
 ||anguishlonesome.com^
+||anguishworst.com^
 ||angularconstitution.com^
 ||anhdqnhxtx.xyz^
 ||anida.info^
@@ -7401,6 +7406,7 @@
 ||annesuspense.com^
 ||annihilationefficient.com^
 ||anniversaryblaspheme.com^
+||annotationdiverse.com^
 ||annotationpushy.com^
 ||annotationsolely.com^
 ||annotationwednesdayplayground.com^
@@ -11021,6 +11027,7 @@
 ||coronetkittles.com^
 ||coronisabv.com^
 ||corporategarnish.com^
+||corpulentoverdoselucius.com^
 ||corpulentrubber.com^
 ||corruptheedless.com^
 ||corsakpeize.com^
@@ -11421,6 +11428,7 @@
 ||d869381a42af33b.com^
 ||d8b6aa51fe.com^
 ||d8b805b9a9.com^
+||d90be87e47.com^
 ||d95d7d7060.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
@@ -15187,6 +15195,7 @@
 ||grooveworship.space^
 ||groowzer.com^
 ||grortalt.xyz^
+||gross-success.com^
 ||grosseaffiche.com^
 ||grossedoicks.com^
 ||grouisamrehr.com^
@@ -15567,7 +15576,6 @@
 ||henoticpipi.com^
 ||henrithisheprat.com^
 ||hentaibiz.com^
-||hentaiheroes.com^
 ||hentaionline.net^
 ||henwilethysen.com^
 ||heodeidsoanadthe.info^
@@ -20988,6 +20996,7 @@
 ||pampela.lol^
 ||pamperencourage.com^
 ||pampimty.com^
+||pamtuea.xyz^
 ||panaservers.com^
 ||panchaxcorylet.com^
 ||panchaxumbilic.com^
@@ -25130,6 +25139,7 @@
 ||spinbiased.com^
 ||spinbox.net^
 ||spinbox1.com^
+||spinna.online^
 ||spinsterremnantstooped.com^
 ||spiralewiverns.website^
 ||spiralstab.com^
@@ -31020,6 +31030,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||colossusssp.com^
 ||consentag.eu^
 ||collect-v*.51.la^
 ||cmp.datasign.co^
@@ -34503,6 +34514,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||guardeddirection.com^
 ||enormousfoot.com^
 ||rebelswing.com^
 ||tightpowder.com^
@@ -35639,6 +35651,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.cookiefirst.dev^
 ||t.sports.ru^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -35706,7 +35719,6 @@
 -tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
-||uid.mavencoalition.io^
 ||wayfinderanalytics.servicebus.windows.net^
 ||adtima-media.zascdn.me^
 ||px.dmp.zaloapp.com^
@@ -35743,7 +35755,7 @@
 ||analytics.karakuri.ai^
 ||cdn-redirector.glopal.com^
 ||storelog.kode.co.kr^
-||telemetry.transcend.io^
+||telemetry*.transcend.io^
 ||ampltd2.medal.tv^
 ||l.bfmtv.com^
 ||stats.debatdirect.tweedekamer.nl
@@ -36460,26 +36472,20 @@
 ||d.sondakika.com^
 ||d14pdm1b7fi5kh.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
-||d1cerpgff739r9.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
-||d1clufhfw8sswh.cloudfront.net^
-||d1daeonbqcq0oh.cloudfront.net^
 ||d1fc8wv8zag5ca.cloudfront.net^
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1gwclp1pmzk26.cloudfront.net^
 ||d1l6p2sc9645hc.cloudfront.net^
-||d1lm7kd3bd3yo9.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
-||d1mdhw23tj9j17.cloudfront.net^
 ||d1miwkthq39xj8.cloudfront.net^
-||d1nh2vjpqpfnin.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1rgnfh960lz2b.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1rszqblq924lq.cloudfront.net^
 ||d1snv67wdds0p2.cloudfront.net^
-||d1stxfv94hrhia.cloudfront^
+||d1stxfv94hrhia.cloudfront.net^
 ||d1uy7uzra011au.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1yu5hbtu8mng9.cloudfront.net^
@@ -38064,6 +38070,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||events.swishapps.ai^
 ||telemetry.canva.com^
 ||analytics.picsart.com^
 ||payload.adadapted.com^
@@ -38294,6 +38301,7 @@ inapps.appsflyersdk.com^
 ||collector.vhx.tv^
 ||analytics-server.gimbal.com^
 ||log-tb.sgsnssdk.com^
+||tnc16-*.byteoversea.com^
 ||xlog.byteoversea.com^
 ||gecko-sg.byteoversea.com^
 ||ug-sg.byteoversea.com^
@@ -39004,7 +39012,6 @@ inapps.appsflyersdk.com^
 ||cohesionapps.com^
 ||coll2onf.com^
 ||collecting.click^
-||colossusssp.com^
 ||compteur.fr^
 ||conductrics.net^
 ||conduze.com^
@@ -39996,7 +40003,6 @@ inapps.appsflyersdk.com^
 ||gripcorn.com^
 ||grouchypush.com^
 ||grumpydrawer.com^
-||guardeddirection.com^
 ||handyfireman.com^
 ||harborcaption.com^
 ||hauntlist.com^
@@ -40170,6 +40176,7 @@ inapps.appsflyersdk.com^
 ||trapteaching.com^
 ||tumbleicicle.com^
 ||tzwaw.pw^
+||unaccountablepie.com^
 ||unbecomingbikes.com^
 ||unbecominglamp.com^
 ||understoodocean.com^
@@ -40227,6 +40234,7 @@ inapps.appsflyersdk.com^
 ||reshin.de^
 ||retailads.net^
 ||scw.systems^
+||smarketer.de^
 ||space-link.de^
 ||stats.de^
 ||stetic.com^
@@ -42079,8 +42087,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Jun 2023 22:35 UTC+7
-! Version: 2306252235
+! Last modified: 26 Jun 2023 10:29 UTC+7
+! Version: 2306261029
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
