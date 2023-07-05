@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-04T22:00:22.628Z
+! Last modified: 2023-07-05T22:00:23.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4142,9 +4142,9 @@
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
-||sf16-scmcdn-sg.ibytedtos.com^
 ||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
@@ -8128,6 +8128,7 @@
 ||avazutracking.net^
 ||avdpmeated.uno^
 ||avellingand.xyz^
+||avenaryconcent.com^
 ||avenuescrupuloustheological.com^
 ||average-champion.pro^
 ||aversionworkingthankful.com^
@@ -10691,6 +10692,7 @@
 ||coalbagbices.website^
 ||coaphauk.net^
 ||coaraije.com^
+||coarooro.net^
 ||coastlineahead.com^
 ||coastlinebravediffers.com^
 ||coastpreachshrink.com^
@@ -14432,6 +14434,7 @@
 ||fungus.online^
 ||funkerpep.com^
 ||funklicks.com^
+||funkydeplane.com^
 ||funlife.info^
 ||funnysack.com^
 ||funnyvacant.com^
@@ -15403,6 +15406,7 @@
 ||habithate.com^
 ||habitofstic.xyz^
 ||habitofsticklik.com^
+||habitueflasque.com^
 ||habrasysteleii.xyz^
 ||habusima.uno^
 ||hadesleta.com^
@@ -16755,6 +16759,7 @@
 ||iswhatappyouneed.net^
 ||iswhelectual.cc^
 ||itahandkeight.xyz^
+||itaisabirs.com^
 ||italianforesee.com^
 ||itblisseyer.com^
 ||itcameruptr.com^
@@ -17104,6 +17109,7 @@
 ||josulu.xyz^
 ||jotocyxe.xyz^
 ||jounaque.com^
+||joupteni.xyz^
 ||journalismdived.com^
 ||journeyembankmentsubjects.com^
 ||jourohun.xyz^
@@ -18869,6 +18875,7 @@
 ||melis-ecy.com^
 ||mellodur.net^
 ||mellow-game.pro^
+||mellsrecta.com^
 ||melongetplume.com^
 ||meltaigh.net^
 ||meltedacrid.com^
@@ -24301,6 +24308,7 @@
 ||samvinva.info^
 ||sancontr.com^
 ||sandcomemunicat.info^
+||sandflyligules.com^
 ||sanggilregard.com^
 ||sangogne.com^
 ||sanhitaamerce.uno^
@@ -24819,6 +24827,7 @@
 ||shoneeha.com^
 ||shooinghelibus.com^
 ||shookahi.xyz^
+||shookssuluan.com^
 ||shoop4.com^
 ||shoopusahealth.com^
 ||shooterconsultationcart.com^
@@ -26302,6 +26311,7 @@
 ||tedxffemqblmk.xyz^
 ||teefuthe.com^
 ||teeglimu.com^
+||teelconch.com^
 ||teemingaymoro.com^
 ||teemooge.net^
 ||teensexgfs.com^
@@ -35795,6 +35805,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.recommend.nicovideo.jp^
+||log.klook.com^
 ||tracking.centerfield.com^
 ||c.security.org^
 ||a.flux.jp^
@@ -37941,7 +37953,6 @@
 ||xray.mail.ru^
 ||xtag.autotrader.com^
 ||xy33.smallable.com^
-||ya.domain-vip.net^
 ||ybx.yahoo.co.jp^
 ||yieldmo-builds.s3.amazonaws.com^
 ||ylog.nimo.tv^
@@ -38172,6 +38183,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||ad-api-log.colopl.jp^
 ||metrics.macys.com^
 ||track.ktplay.com^
 ||preview-collector.scopely.io^
@@ -41105,6 +41117,7 @@ inapps.appsflyersdk.com^
 ||insitez.blob.core.windows.net^
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
+||ip.lovely-app.com^
 ||ipapi.tmbi.com^
 ||iq.sixaxisllc.com^
 ||jas.indeednps.com^
@@ -41512,6 +41525,7 @@ inapps.appsflyersdk.com^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
+||d2fj3s7h83rb61.cloudfront.net
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
@@ -42272,9 +42286,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Jul 2023 14:03 UTC+7
-! Version: 2307041403
-! Blocked: 847 rules
+! Last modified: 05 Jul 2023 14:08 UTC+7
+! Version: 2307051408
+! Blocked: 848 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -43048,6 +43062,7 @@ vkcdnservice.appspot.com^
 ||trk.staging.123c.vn^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
+||tvc.biphim.club^
 ||tvnotice.kg.garena.vn^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
