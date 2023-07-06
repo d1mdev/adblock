@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-05T22:00:23.198Z
+! Last modified: 2023-07-06T22:00:21.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,12 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||newrotatormarch23.bid^
+||rbfour.bid^
+||prft1pub.com^
+||1crlbh48b.ru^
+||mobdrom.ru^
+||wishesen.com^
 ||zhctrack.net^
 ||cchdbond.com^
 ||hhooyivpxq.com^
@@ -4641,7 +4647,6 @@
 ||clk.taptica.com^
 ||clkfeed.com^
 ||comscore.com^
-||content.ad^
 ||cpmstar.com^
 ||crispadvertising.com^
 ||crossboardmobile.com^
@@ -6857,6 +6862,7 @@
 ||ahdytiyc.xyz^
 ||aheale.com^
 ||ahean.com^
+||aheave.com^
 ||ahedrankslowl.com.ua^
 ||ahedrankslowwe.xyz^
 ||ahemsoku.net^
@@ -7320,6 +7326,7 @@
 ||anastasia-international.com^
 ||anastasiasaffiliate.com^
 ||anawkward.com^
+||anaxialaphonia.com^
 ||anbszohtaox.com^
 ||ancdwlavstghmr.com^
 ||anchoicstage.com^
@@ -9064,6 +9071,7 @@
 ||bittygravely.com.com^
 ||bittygravely.com^
 ||bittyrail.com^
+||biturl.co^
 ||bitx.tv^
 ||biwyxipsi.pro^
 ||biz-newsfeed1.com^
@@ -9295,6 +9303,7 @@
 ||bookadil.com^
 ||bookbannershop.com^
 ||bookerstudent.com^
+||bookeryboutre.com^
 ||bookljlihooli.com^
 ||bookmanzyzzyva.com^
 ||bookmsg.com^
@@ -10636,6 +10645,7 @@
 ||cloudimagesa.com^
 ||cloudimagesb.com^
 ||cloudioo.net^
+||cloudlessjimarmpit.com^
 ||cloudlessverticallyrender.com^
 ||cloudlogobox.com^
 ||cloudpsh.top^
@@ -10957,6 +10967,7 @@
 ||contentmentcareless.com^
 ||contentmentweek.com^
 ||contentr.net^
+||contentshamper.com^
 ||contextendless.com^
 ||contextweb.com^
 ||contfor.fun^
@@ -11311,6 +11322,7 @@
 ||cuissenbisque.com^
 ||cukonwoo.com^
 ||culainstrades.com^
+||culass.com^
 ||cullayscrocks.com^
 ||culmedmaumee.com^
 ||culsaids.xyz^
@@ -13099,6 +13111,7 @@
 ||enbclpbyi.com^
 ||enbiberoomie.com^
 ||enbjrjyjrbynexl.xyz^
+||encampmentgeologydetective.com^
 ||encesprincipl.one^
 ||enclforlane.com^
 ||encloseprecious.com^
@@ -13377,6 +13390,7 @@
 ||evandr.online^
 ||evangelrhyton.digital^
 ||evasiondemandedlearning.com^
+||evasionseptemberbee.com^
 ||evcknbym.com^
 ||evemasoil.com^
 ||evencontinuallyclaim.com^
@@ -14606,6 +14620,7 @@
 ||gaupingjaguar.com^
 ||gaurecorah.com^
 ||gausic.com^
+||gautaree.com^
 ||gauthait.com^
 ||gauthawhum.com^
 ||gauvaiho.net^
@@ -15407,6 +15422,7 @@
 ||habitofstic.xyz^
 ||habitofsticklik.com^
 ||habitueflasque.com^
+||habovethecityon.info^
 ||habrasysteleii.xyz^
 ||habusima.uno^
 ||hadesleta.com^
@@ -15890,6 +15906,7 @@
 ||honghaotravel.com^
 ||honorableinitiative.pro^
 ||honorarybreakclank.com^
+||honourcunninglowest.com^
 ||honoursdashed.com^
 ||hoo1luha.com^
 ||hoodcapunbane.digital^
@@ -16287,6 +16304,7 @@
 ||ikrauteri.life^
 ||ikunselt.com^
 ||ilaterdeallyi.info^
+||ilaterdeallyig.info^
 ||ileacfaretta.digital^
 ||ilealscathes.com^
 ||ileeckut.com^
@@ -17477,6 +17495,7 @@
 ||kjsvvnzcto.com^
 ||kkuocsorgz.com^
 ||kkuodlkfapuw.com^
+||kkyqrxqd.com^
 ||klausmoplah.com^
 ||klenhosnc.com^
 ||klikadvertising.com^
@@ -19577,6 +19596,7 @@
 ||nabalpal.com^
 ||nabbr.com^
 ||nableemblems.com^
+||nableriptide.com^
 ||nacfuns.com^
 ||nachogunj.cam^
 ||nacontent.pro^
@@ -22526,6 +22546,7 @@
 ||psdn.xyz^
 ||pseekree.com^
 ||pseekseecm.com^
+||pseemsee.com^
 ||pseepsie.com^
 ||pseepsoo.com^
 ||psensuds.net^
@@ -22856,6 +22877,7 @@
 ||pwrgrowthapi.com^
 ||px3792.com^
 ||pxdghffadlhpbw.com^
+||pxdujpdbdqkisil.com^
 ||pxfindone.com^
 ||pxl2015x1.com^
 ||pxmqdhcvpcsra.xyz^
@@ -23897,6 +23919,7 @@
 ||roddinmucial.xyz^
 ||rodentscommise.life^
 ||rodirgix.com^
+||rodroord.net^
 ||roduster.com^
 ||roebuckwagged.com^
 ||roelikewimpler.com^
@@ -24220,6 +24243,7 @@
 ||sabaothamsonia.com^
 ||sabbedgurly.com^
 ||sabergood.com^
+||sabogpapahxead.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sabs-push.xyz^
@@ -25093,6 +25117,7 @@
 ||sleepywin.com^
 ||sleeveashame.com^
 ||sleevemisuseadvice.com^
+||slendercosts.com^
 ||sleptornament.com^
 ||slgynezaygkjqi.com^
 ||slibb.xyz^
@@ -25174,6 +25199,7 @@
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokebookcase.com^
+||smokerythrow.com^
 ||smokesplical.com^
 ||smokilycasette.store^
 ||smrt-content.com^
@@ -25935,6 +25961,7 @@
 ||sunstrokeload.com^
 ||sunwardamoraic.com^
 ||suomicgeyser.com^
+||suozmtcc.com^
 ||supapush.net^
 ||superadbid.com^
 ||superbdolly.com^
@@ -26248,6 +26275,7 @@
 ||tautenstapetta.com^
 ||tauvoojo.net^
 ||tauwoumo.net^
+||tawniessmoot.com^
 ||tawpykheda.com^
 ||tawrzic.com^
 ||taxedborley.com^
@@ -27531,6 +27559,7 @@
 ||ultrabetas.com^
 ||ultracdn.top^
 ||ultralove.net^
+||ultrasoundrottenreluctant.com^
 ||ultrlove.com^
 ||ulukaris.com^
 ||ulukdliketobeparto.xyz^
@@ -28435,6 +28464,7 @@
 ||vsdxwtvsxp.com^
 ||vskfeduxg.xyz^
 ||vskngnldyl.xyz^
+||vsmokhklbw.com^
 ||vsnpfmoxb.xyz^
 ||vstvstsa.com^
 ||vstvstsaq.com^
@@ -28848,6 +28878,7 @@
 ||wheroi.com^
 ||whertinu.com^
 ||whethermondos.digital^
+||whethobs.xyz^
 ||whiceega.com^
 ||whicus.com^
 ||whihauve.net^
@@ -31034,6 +31065,7 @@
 ||sprout-ad.com^
 ||spyoff.com^
 ||starlayer.com^
+||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
 ||streamate.com^
@@ -31247,6 +31279,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||site24x7rum.in^
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
 ||stats.revloq.com^
@@ -31758,7 +31791,6 @@
 ||analytics.pgncs.notion.so^
 ||seoab.io^
 ||cdn.preciso.net^
-||www.trading24.io^
 ||trx-hub.com^
 ||leafmedia.io^
 ||d.adlpo.com^
@@ -31827,10 +31859,8 @@
 ||fourier.taobao.com^
 ||omniconvert.com^
 ||getaim.info^
-||analytics.monetiza.co^
 ||repixel.co^
 ||pubexchange.com^
-||analytics.core.retell.cc^
 ||powerbiz.co^
 ||tag.search.sensefuel.live^
 ||microanalytics.io^
@@ -32126,7 +32156,6 @@
 ||smetrics.att.com^
 ||client-analytics.braintreegateway.com^
 ||fhits.xyz^
-||pdc.dmleonyc.com^
 ||prd-collector-anon.ex.co^
 ||stats*.videonow.ru^
 ||csbew.com^
@@ -32141,8 +32170,6 @@
 ||untidyrice.com^
 ||c.imedia.cz^
 ||leadfeeder.com^
-||trk.connatix.com^
-||tr.connatix.com^
 ||pbstck.com^
 ||k50.ru^
 ||f.zgbmw.com.cn^
@@ -32313,10 +32340,8 @@
 ||vyg.mobi^
 ||ya-counter.ru^
 ||trafficscanner.pl^
-||stat.livesportbar.net^
 ||analytics.datahc.com^
 ||collect.blishtech.co^
-||srv.dc-1.net^
 ||votetoda.com^
 ||promclickapp.biz^
 ||count.nuanyuehanxing.com^
@@ -32331,7 +32356,6 @@
 ||track.aplaut.io^
 ||stat.tildacdn.com^
 ||cervell.io^
-||sonet-rp.swaxis.com^
 ||stiffstem.com^
 ||admon.pro^
 ||stats.mos.ru^
@@ -32510,7 +32534,6 @@
 ||statpipe.ru^
 ||bizrate.com^
 ||audienceinsights.net^
-||pv.pjtsu.com^
 ||adheart.de^
 ||interakt.ru^
 ||dmpcloud.net^
@@ -33113,7 +33136,6 @@
 ||esm1.net^
 ||esomniture.com^
 ||estadisticasgratis.com^
-||estadisticasgratis.es^
 ||estara.com^
 ||estat.com^
 ||estrack.net^
@@ -33225,7 +33247,6 @@
 ||freestats.com^
 ||freestats.net^
 ||freestats.org^
-||freestats.tk^
 ||freestats.tv^
 ||freestats.ws^
 ||freetracker.biz^
@@ -33352,7 +33373,6 @@
 ||hitmatic.com^
 ||hitmeter.ru^
 ||hitmir.ru^
-||hits.e.cl^
 ||hits.io^
 ||hits2u.com^
 ||hitslink.com^
@@ -33667,7 +33687,6 @@
 ||mokuz.ru^
 ||mongoosemetrics.com^
 ||monitis.com^
-||monitor.phorm.com^
 ||monitus.net^
 ||moreusers.info^
 ||morevisits.info^
@@ -33795,7 +33814,6 @@
 ||ohmystats.com^
 ||oidah.com^
 ||oix.com^
-||oix.phorm.com^
 ||okt.to^
 ||oktopost.com^
 ||omarsys.com^
@@ -34279,7 +34297,6 @@
 ||supercounters.com^
 ||superstat.info^
 ||superstats.com^
-||supert.ag^
 ||surfcounters.com^
 ||surfertracker.com^
 ||surveyscout.com^
@@ -34364,7 +34381,6 @@
 ||tracelytics.com^
 ||traceworks.com^
 ||track-web.net^
-||track2.me^
 ||trackalyzer.com^
 ||trackcdn.com^
 ||trackconsole.com^
@@ -34416,7 +34432,6 @@
 ||tsk4.com^
 ||tsk5.com^
 ||tst14netreal.com^
-||tstlabs.co.uk^
 ||tsw0.com^
 ||twcount.com^
 ||tyxo.bg^
@@ -34429,7 +34444,6 @@
 ||ubertracking.info^
 ||ugdturner.com^
 ||unicaondemand.com^
-||universaltrackingcontainer.com^
 ||unknowntray.com^
 ||up-rank.com^
 ||upalytics.com^
@@ -34580,7 +34594,6 @@
 ||webwise.org^
 ||wecount4u.com^
 ||welt-der-links.de^
-||wemfbox.ch^
 ||whatismyip.win^
 ||whitepixel.com^
 ||whoaremyfriends.com^
@@ -34642,7 +34655,6 @@
 ||yjtag.jp^
 ||yoochoose.net^
 ||youcanoptout.com^
-||youmetrix.co.uk^
 ||your-counter.be^
 ||youramigo.com^
 ||zaehler.tv^
@@ -38183,6 +38195,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||cgicol.amap.com^
+||dualstack-cgicol.amap.com^
 ||ad-api-log.colopl.jp^
 ||metrics.macys.com^
 ||track.ktplay.com^
@@ -39587,6 +39601,7 @@ inapps.appsflyersdk.com^
 ||traceless.me^
 ||track-re01.com^
 ||track-server-100.com^
+||track2.me^
 ||trackadm.com^
 ||trackcb.com^
 ||trackertest.org^
@@ -43175,6 +43190,9 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
+! line25.com - not able to accept cookies to use the page
+@@|ezodn.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
 @@||gate.first-id.fr^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
