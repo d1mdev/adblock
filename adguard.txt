@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-10T22:00:16.765Z
+! Last modified: 2023-07-11T22:00:11.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4147,6 +4147,7 @@
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
@@ -5032,6 +5033,7 @@
 ||1aa3097b7b.com^
 ||1aqi93ml4.de^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
+||1b264a0ca0.com^
 ||1b73a49a1b.com^
 ||1b9cvfi0nwxqelxu.pro^
 ||1bm3n8sld.de^
@@ -9348,6 +9350,7 @@
 ||bopexacta.com^
 ||bopvetgel.com^
 ||borary.com^
+||bordsnewsjule.com^
 ||boreasinflash.com^
 ||boredactress.com^
 ||boredinitial.com^
@@ -9408,6 +9411,7 @@
 ||boxrest.website^
 ||boyalebut.site^
 ||boyishabow.com^
+||boyishdefend.com^
 ||boyishdetrimental.com^
 ||boyughaye.com^
 ||boywhowascr.info^
@@ -9645,6 +9649,7 @@
 ||bunbeautifullycleverness.com^
 ||buncoswosh.com^
 ||bundleddayal.com^
+||bungalowdispleasedwheeled.com^
 ||bungalowlame.com^
 ||bungalowsimply.com^
 ||bunnimide.com^
@@ -10826,6 +10831,7 @@
 ||comedyrent.com^
 ||comedyrepair.com^
 ||comermormal.com^
+||comezz.xyz^
 ||comfortclick.co.uk^
 ||comfreeads.com^
 ||comicplanet.net^
@@ -11290,6 +11296,7 @@
 ||ctmdtrvikipjfv.xyz^
 ||ctnsnet.com^
 ||ctoatwoxxnk.com^
+||ctoosqtuxgaq.com^
 ||ctoziphius.com^
 ||ctqwlbxq.com^
 ||ctrlaltdel99.com^
@@ -12757,6 +12764,7 @@
 ||easypics.space^
 ||easysemblyjusti.info^
 ||easyvids.info^
+||easyvids.online^
 ||easyvids.space^
 ||eatencurvature.com^
 ||eatinerhitles.xyz^
@@ -14590,6 +14598,7 @@
 ||gargoowi.com^
 ||garibamarmose.com^
 ||garior.com^
+||garlandcheese.com^
 ||garlandnaninflict.com^
 ||garmentsdraught.com^
 ||garnetsnails.com^
@@ -15383,6 +15392,7 @@
 ||guuewhkwtrvab.com^
 ||guwait.com^
 ||guwfusqa.com^
+||guwgkuaxbvuw.com^
 ||guxsxexlkdk.xyz^
 ||gvbgvrjmap.com^
 ||gvcmiz3vze3n.com^
@@ -17639,6 +17649,7 @@
 ||ksurpiwdayc.com^
 ||kt5850pjz0.com^
 ||ktkjmp.com^
+||ktlrhudvlsu.com^
 ||ktobedirectu.autos^
 ||ktobedirectu.xyz^
 ||ktqmnh.com^
@@ -20904,6 +20915,7 @@
 ||orkoedthroug.xyz^
 ||orkzada.com^
 ||orldwhoisquite.com^
+||orlowedonhisdhilt.info^
 ||ormolustuke.top^
 ||ornery-animal.pro^
 ||orpheushooven.com^
@@ -21023,6 +21035,7 @@
 ||ourselscarid.com^
 ||oursiignaboaor.cc^
 ||oursiignaboaord.xyz^
+||ourtecads.com^
 ||ourteeko.com^
 ||ourzitemu.com^
 ||ousinouk.xyz^
@@ -22405,6 +22418,7 @@
 ||pro-advert.de^
 ||pro-market.net^
 ||pro-pro-go.com^
+||pro-suprport-act.com^
 ||pro-web.net^
 ||pro119marketing.com^
 ||proadscdn.com^
@@ -23363,6 +23377,7 @@
 ||reclineburp.com^
 ||reclod.com^
 ||recloseclouty.com^
+||recoiltravellingbreach.com^
 ||recomendedsite.com^
 ||recommendationfurnace.com^
 ||recommendedforyou.xyz^
@@ -23704,6 +23719,7 @@
 ||retrievalvariedbudge.com^
 ||retrosshowily.com^
 ||retryngs.com^
+||returt.com^
 ||reuded.com^
 ||reudoh.com^
 ||reukandthis.xyz^
@@ -24515,6 +24531,7 @@
 ||scrapethrillmostly.com^
 ||scratchy-deep.pro^
 ||scratchy-kind.pro^
+||scrawny-pipe.com^
 ||scrawnyarticle.pro^
 ||scrazeunwaged.com^
 ||screechadulthood.com^
@@ -26225,6 +26242,7 @@
 ||tacananbouffon.com^
 ||tacklerloin.com^
 ||tacticmuseumbed.com^
+||tacticschangebabysitting.com^
 ||tadadamads.com^
 ||tadamads.com^
 ||tadsbelver.com^
@@ -26439,6 +26457,7 @@
 ||temperacaimans.com^
 ||tempergleefulvariability.com^
 ||temperrunnersdale.com^
+||temporarilybrancheshideous.com^
 ||temporarilylocate.com^
 ||temporarilyruinconsistent.com^
 ||temporarilysearchingcomputer.com^
@@ -27078,6 +27097,7 @@
 ||towdpdn.store^
 ||towerycacara.com^
 ||towmonterses.com^
+||towtinsel.com^
 ||toxicrookie.com^
 ||toykifojsyufdba.xyz^
 ||toykiykmjbr.xyz^
@@ -31361,6 +31381,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.gooogol.com^
 ||site24x7rum.in^
 ||webtrack.chd01.com^
 ||webtrack.savoysystems.co.uk^
@@ -35898,6 +35919,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logcollector.note.com^
+||openmonitor.alipay.com^
+||openmonitor.alipay-eco.com^
 ||tracker.gpcdn.pl^
 ||tracker.pracuj.pl^
 ||log.recommend.nicovideo.jp^
@@ -40910,7 +40934,6 @@ inapps.appsflyersdk.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
-||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
