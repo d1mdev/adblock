@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-14T22:00:12.859Z
+! Last modified: 2023-07-15T22:00:12.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7073,6 +7073,7 @@
 ||allactualstories.com^
 ||allayravage.com^
 ||allcommonblog.com^
+||allcommonstories.com^
 ||allcoolnewz.com^
 ||allcoolposts.com^
 ||allegationhamperexit.com^
@@ -9927,6 +9928,7 @@
 ||carrellsubdit.com^
 ||carryhummight.com^
 ||carrysincubi.com^
+||cartedneogene.com^
 ||cartining-specute.com^
 ||cartoonpeecommissioner.com^
 ||caruagedlr.com^
@@ -11754,6 +11756,7 @@
 ||degaswassail.website^
 ||degeronium.com^
 ||deggerfletton.com^
+||deghooda.net^
 ||degmfmog.xyz^
 ||degrainbro.website^
 ||degutu.xyz^
@@ -13239,6 +13242,7 @@
 ||eputysolomon.com^
 ||eqacypykxa.com^
 ||eqads.com^
+||equabilityassortshrubs.com^
 ||equabilitythereupon.com^
 ||equesk.com^
 ||equilibriumindifferentsoak.com^
@@ -14794,6 +14798,7 @@
 ||giantaffiliates.com^
 ||gianwho.com^
 ||gibaivoa.com^
+||gibbarwaiting.com^
 ||gibbousbalaic.com^
 ||gibeleftyeuro.com^
 ||gidaxlzi.com^
@@ -15801,6 +15806,7 @@
 ||highrevenuegate.com^
 ||hightopnews.com^
 ||hightopnewstoday.com^
+||highwaycpmrevenue.com^
 ||highwaydizzy.com^
 ||higseres.com^
 ||hikvar.ru^
@@ -16174,6 +16180,7 @@
 ||hypogeeinial.com^
 ||hypogynbalker.com^
 ||hypoot.com^
+||hypots.com^
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
@@ -17524,6 +17531,7 @@
 ||kmapagpkik.com^
 ||kmkixuha.com^
 ||kmmsfoqbhc.xyz^
+||kmodukuleqasfo.info^
 ||kmqkdhqaqt.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
@@ -19436,6 +19444,7 @@
 ||mpression.net^
 ||mpsqvsylctp.com^
 ||mptentry.com^
+||mptgate.com^
 ||mpununmrsiur.com^
 ||mqabjtgli.xyz^
 ||mqarrenothanca.xyz^
@@ -20114,6 +20123,7 @@
 ||nosebleedlonerdays.com^
 ||nossairt.net^
 ||nosselaune.space^
+||nostormidentification.com^
 ||nostrilquarryprecursor.com^
 ||nostromedia.com^
 ||notabilitysedative.com^
@@ -24401,6 +24411,7 @@
 ||sancontr.com^
 ||sandcomemunicat.info^
 ||sandflyligules.com^
+||sandyconference.com^
 ||sanggilregard.com^
 ||sangogne.com^
 ||sanhitaamerce.uno^
@@ -25832,6 +25843,7 @@
 ||stinglackingrent.com^
 ||stinkcomedian.com^
 ||stinkyloadeddoctor.com^
+||stinkyrepetition.com^
 ||stinternoctuae.com^
 ||stipelyaya.live^
 ||stipestilths.com^
@@ -27005,6 +27017,7 @@
 ||toogeepaun.com^
 ||toolsthwartgrim.com^
 ||toolsyjejune.com^
+||toolsyjejunen.com^
 ||toomeepi.xyz^
 ||toonoost.net^
 ||toorebutheh.xyz^
@@ -29208,6 +29221,7 @@
 ||wmober.com^
 ||wmolgnjo.xyz^
 ||wmptctl.com^
+||wmpuem.com^
 ||wndvcmyrqwnbdy.xyz^
 ||wnjjhksaue.com^
 ||wnp.com^
