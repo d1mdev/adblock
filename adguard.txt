@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-26T22:00:13.773Z
+! Last modified: 2023-07-27T22:00:12.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||sarafan.fun^
 ||newrotatormarch23.bid^
 ||rbfour.bid^
 ||prft1pub.com^
@@ -3697,6 +3698,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||r.z3.fm^
 ||adv.topvideo.tj^
 ||vast.playmatic.video^
 ||oba.rus-km.ru^
@@ -3825,7 +3827,6 @@
 ||jsc.marketgid.com.p.pstl.live^
 ||json.smotri.com^
 ||kinogo.r.worldssl.net^
-||lnews.riafan.ru^
 ||lobster.unionpeer.com^
 ||loki.maximonline.ru^
 ||mixtraff.silvercdn.com^
@@ -11583,6 +11584,7 @@
 ||cylindrical-pollution.pro^
 ||cyneburg-yam.com^
 ||cynicalspireheroism.com^
+||cypressreel.com^
 ||cyprie.com^
 ||cyrigh.com^
 ||cysumhqvrjvrs.xyz^
@@ -12402,6 +12404,7 @@
 ||dividedching.com^
 ||dividedscientific.com^
 ||divideoutdoors.com^
+||divorceseed.com^
 ||diyusa.xyz^
 ||dizipal223.com^
 ||dizzy-illegal.pro^
@@ -12429,6 +12432,7 @@
 ||dlrcoalbin.com^
 ||dlski.space^
 ||dmakingbyth.com^
+||dmeukeuktyoue.info^
 ||dmiredindeed.com^
 ||dmm-video.online^
 ||dmnprx.com^
@@ -16372,6 +16376,7 @@
 ||hottercensorbeaker.com^
 ||hotterenvisage.com^
 ||hotvids.online^
+||hotvids.space^
 ||hotwords.com^
 ||hotzoneunspeed.com^
 ||houdodoo.net^
@@ -17018,6 +17023,7 @@
 ||installlnow.com^
 ||instancetonsil.com^
 ||instantdollarz.com^
+||instantlyshrillblink.com^
 ||instantnewzz.com^
 ||instantresp.com^
 ||instantshingle.com^
@@ -19447,6 +19453,7 @@
 ||menuoverridemotherhood.com^
 ||meo257na3rch.com^
 ||meoem.lol^
+||meofmukindwoul.info^
 ||meoneinthew.com^
 ||meowpushnot.com^
 ||meratsignons.com^
@@ -20597,6 +20604,7 @@
 ||noddlegoop.com^
 ||nodouslover.com^
 ||nodulhrwxdptbc.com^
+||noearon.click^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
 ||nofashot.com^
@@ -22216,6 +22224,7 @@
 ||perhangeflets.site^
 ||perhiptid.com^
 ||perhui.com^
+||perics.com^
 ||perift.com^
 ||perigshfnon.com^
 ||periodicmassageate.com^
@@ -26069,6 +26078,7 @@
 ||socalledattestation.com^
 ||socalleddemocratstripe.com^
 ||soccercadencefridge.com^
+||soccertakeover.com^
 ||soccup.com^
 ||social-discovery.io^
 ||social1listnews.com^
@@ -26567,6 +26577,7 @@
 ||stifletunnelsang.com^
 ||stiftood.xyz^
 ||stigat.com^
+||stigmuuua.xyz^
 ||stihruojvag.com^
 ||stiksaud.com^
 ||stilaikr.com^
@@ -26808,6 +26819,7 @@
 ||sunstrokeload.com^
 ||sunwardamoraic.com^
 ||suomicgeyser.com^
+||suozmtcc.com^
 ||supapush.net^
 ||superadbid.com^
 ||superbdolly.com^
@@ -27086,6 +27098,7 @@
 ||tanandatable.com^
 ||tanceteventu.com^
 ||tankastapia.com^
+||tankiuz.xyz^
 ||tanquamporotic.tech^
 ||tantialcottish.xyz^
 ||tantiterhalac.xyz^
@@ -29445,6 +29458,7 @@
 ||vsgfjfsmcewnuhx.com^
 ||vskfeduxg.xyz^
 ||vskngnldyl.xyz^
+||vsmokhklbw.com^
 ||vsnpfmoxb.xyz^
 ||vstvstsa.com^
 ||vstvstsaq.com^
@@ -29544,6 +29558,7 @@
 ||wahoha.com^
 ||waihoz.xyz^
 ||wailedfrosty.com^
+||waioowcadhw.xyz^
 ||waisheph.com^
 ||waistcoataskeddone.com^
 ||waistcoatswimsuitham.com^
@@ -30958,6 +30973,7 @@
 ||ziaratjs.tech^
 ||zibaweva.com^
 ||zidedge.com^
+||zidgrrfgb.com^
 ||zidoudsa.net^
 ||zigansherpa.com^
 ||zighoacm.com^
@@ -31028,6 +31044,7 @@
 ||zortaudi.xyz^
 ||zosteraclumsy.website^
 ||zouard.com^
+||zouemtjzuae.com^
 ||zoukooso.com^
 ||zouloafi.net^
 ||zoutubephaid.com^
@@ -32311,6 +32328,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||getter.cfd^
 ||tgtag.io^
 ||trafico.prensaiberica.es^
 ||collector-*.px-cloud.net^
@@ -36846,6 +36864,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||t.syosetu.org^
 ||uac.khan.co.kr^
 ||rake.tmap.co.kr^
 ||campaign.remp.nv.ua^
@@ -37559,7 +37578,6 @@
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
-||collect.tianya.cn^
 ||collect.usefathom.com^
 ||audience.acpm.fr^
 ||collector-analytics.efigence.com^
@@ -37574,29 +37592,22 @@
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
 ||collector.prod.expedia.com^
-||collector.puhutv.com^
 ||collector.retailcrm.pro^
 ||collector.rn.de^
 ||collector.schibsted.io^
-||collector.shopstream.co^
-||collector.shorte.st^
 ||collector.szlcsc.com^
-||collector.tescocompare.com^
 ||collector.trendmd.com^
 ||collector.wawlabs.com^
 ||collector.xhwide1.com^
 ||collector1.xhamster.com^
-||comet.sputniknews.com^
 ||conf.international.baidu.com^
 ||count.channeladvisor.com^
 ||count.livetv.ru^
 ||count.livetv.sx^
 ||count.munhwa.com^
-||count.prx.org^
 ||count.rin.ru^
 ||count.rtl.de^
 ||counter.1gb.ru^
-||counter.24smi.info^
 ||counter.adguard.com^
 ||counter.ajansspor.com^
 ||counter.all.biz^
@@ -37608,13 +37619,11 @@
 ||counter.nn.ru^
 ||counter.nv.ua^
 ||counter.ok.ee^
-||counter.opinion.com.ua^
 ||counter.pr-cy.ru^
 ||counter.promodeejay.net^
 ||counter.rambler.ru^
 ||counter.rian.ru^
 ||counter.scribblelive.com^
-||counter.scribblelive.net^
 ||counter.sibnet.ru^
 ||counter.sina.com.cn^
 ||counter.snackly.co^
@@ -37623,7 +37632,6 @@
 ||counter.tianjimedia.com^
 ||counter.top.ge^
 ||counter.top.kg^
-||counter.tovarro.com^
 ||counter.ukr.net^
 ||counter.web.money^
 ||counter.zerohedge.com^
@@ -37631,7 +37639,6 @@
 ||counter1.fc2.com^
 ||counter24.luxnet.ua^
 ||cpxl.golem.de^
-||crm.zenguard.biz^
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
 ||cs*.mp3bars.com^
@@ -37841,9 +37848,7 @@
 ||geo.mattel163.com^
 ||geo.metronews.ca^
 ||geo.mozilla.org^
-||geo.perezhilton.com^
 ||geo.play.it^
-||geo.theawesomer.com^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geobeacon.ign.com^
@@ -38869,19 +38874,14 @@
 ||tracking.olx-st.com^
 ||tracking.oui.sncf^
 ||tracking.performgroup.com^
-||tracking.pixelfederation.com^
 ||tracking.porndoelabs.com^
-||tracking.pornhd.com^
-||tracking.propelmedia.com^
 ||tracking.rce.veeseo.com^
-||tracking.realtor.com^
 ||tracking.resumecompanion.com^
 ||tracking.retailrocket.net^
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.shopback.com^
 ||tracking.shoptogether.buy.com^
-||tracking.sim-technik.de^
 ||tracking.skyword.com^
 ||tracking.softwareprojects.com^
 ||tracking.swogo.net^
@@ -38894,7 +38894,6 @@
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.ustream.tv^
-||tracking.vitringez.com^
 ||tracking.yourfilehost.com^
 ||tracking2.channeladvisor.com^
 ||trackingapi.cloudapp.net^
@@ -42292,7 +42291,6 @@ inapps.appsflyersdk.com^
 ||px.spiceworks.com^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
-||r.stripe.com^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs.shareaholic.com^
@@ -44162,7 +44160,13 @@ vkcdnservice.appspot.com^
 ||collect2.sas.com^
 ||collection.theaa.com^
 ||collector-medium.lightstep.com^
+||collector.shopstream.co^
+||collector.shorte.st^
+||collector.tescocompare.com^
 ||collector.xhamster.com^
+||count.prx.org^
+||geo.perezhilton.com^
+||geo.theawesomer.com^
 ||log.optimizely.com^
 ||log.prezi.com^
 ||log.thevideo.me^
@@ -44183,6 +44187,8 @@ vkcdnservice.appspot.com^
 ||track.collegehumor.com^
 ||track.zalando.
 ||tracking.olx.
+||tracking.pornhd.com^
+||tracking.realtor.com^
 !
 ! Ads
 !
