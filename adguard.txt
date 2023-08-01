@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-07-31T22:00:15.308Z
+! Last modified: 2023-08-01T22:00:14.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7032,6 +7032,7 @@
 ||akutapro.com^
 ||akwhrqkkol.com^
 ||akwxtceohbmu.xyz^
+||akzfxmgcq.com^
 ||akzvponimot.com^
 ||alacrityimitation.com^
 ||alanibelen.com^
@@ -7375,6 +7376,7 @@
 ||andarldixxi.com^
 ||andbegant.one^
 ||anddecoyblizzard.com^
+||andhkruuiigxmkd.com^
 ||andohs.net^
 ||andoldifiscqak.xyz^
 ||andomedia.com^
@@ -7660,6 +7662,7 @@
 ||apzcudhwu.com^
 ||apzdfakiso.com^
 ||aq7ua5ma85rddeinve.com^
+||aqbusmueljfy.com^
 ||aqdha.com^
 ||aqdhacjwiat.com^
 ||aqfwigotem.xyz^
@@ -8682,6 +8685,7 @@
 ||bbmrraevnevnk.top^
 ||bbyavrykjopnnx.xyz^
 ||bc5c04eefb.com^
+||bcae944449.com^
 ||bcb3da3ac8.com^
 ||bccda4ab57.com^
 ||bcd7ad4271.com^
@@ -9349,6 +9353,7 @@
 ||boistyaya.com^
 ||bokeden.com^
 ||boldboycott.com^
+||boldinsect.pro^
 ||boldtur.xyz^
 ||bolofoak.net^
 ||boloingopulent.guru^
@@ -10335,6 +10340,7 @@
 ||chanelets-aurning.com^
 ||changarreviver.com^
 ||changesshortly.com^
+||chantmaftir.uno^
 ||chapelcertain.com^
 ||characcaslon.com^
 ||chargenews.com^
@@ -11791,6 +11797,7 @@
 ||dbooksbysecon.com^
 ||dbqlghadltookjo.xyz^
 ||dbrheqlhk.xyz^
+||dbujksp6lhljo.cloudfront.net^
 ||dbutilovetr.xyz^
 ||dbvault.net^
 ||dc29186682.com^
@@ -12118,6 +12125,7 @@
 ||devoterornis.com^
 ||devotesquinua.com^
 ||dewcommode.space^
+||dewierhagger.com^
 ||dewiestsards.com^
 ||dewincubiatoll.com^
 ||dewlessjacobin.com^
@@ -14108,6 +14116,7 @@
 ||fejwcnbsu.com^
 ||felidaeyojuane.com^
 ||felied.com^
+||feliev.com^
 ||fellap.com^
 ||fellowsargean.com^
 ||fellowshippink.com^
@@ -15777,6 +15786,7 @@
 ||hadsokz.com^
 ||haemorrhagedigest.com^
 ||haffnetworkmm.com^
+||hafisfunnier.guru^
 ||haflinforms.top^
 ||hagboatdismast.com^
 ||haghalra.com^
@@ -16515,6 +16525,7 @@
 ||hvd1t.com^
 ||hvooyieoei.com^
 ||hwaawsh.com^
+||hwaovdomltib.com^
 ||hwchvgpc.xyz^
 ||hwpnocpctu.com^
 ||hwyjfhdjgoorb.com^
@@ -17058,6 +17069,7 @@
 ||interestededit.com^
 ||interesting-vids.space^
 ||interestingpics.space^
+||interestingvids.online^
 ||interestmoments.com^
 ||interestsubsidereason.com^
 ||intergient.com^
@@ -17595,6 +17607,7 @@
 ||joyvowdig.com^
 ||jpesfzcjob.com^
 ||jpgtrk.com^
+||jpmdwnhazw.com^
 ||jqlumzbdtet.com^
 ||jqtree.com^
 ||jquerycdn.host^
@@ -17802,6 +17815,7 @@
 ||kbqebfcubeiaa.com^
 ||kbugxeslbjc8.com^
 ||kbyjxhnweoi.com^
+||kbywyjnqrjaaa.top^
 ||kcdn.xyz^
 ||kcepfyzuna.com^
 ||keamateorski.xyz^
@@ -18704,6 +18718,7 @@
 ||loadingscripts.com^
 ||loadingwait.com^
 ||loaglait.com^
+||loaire.com^
 ||loajawun.com^
 ||loanonionbidding.com^
 ||loastees.net^
@@ -19591,6 +19606,7 @@
 ||milvagomarica.website^
 ||mimicbeeralb.com^
 ||mimilcnf.pro^
+||mimxdsqiativb.com^
 ||mincesecondaryinset.com^
 ||mincethingsmarch.com^
 ||mindactual.com^
@@ -19902,6 +19918,7 @@
 ||mortypush.com^
 ||moslemtaxon.guru^
 ||mosquesituated.com^
+||mosswhinepanther.com^
 ||mostlytreasure.com^
 ||mothdiscussioncrest.com^
 ||motherehoom.pro^
@@ -20472,6 +20489,7 @@
 ||ngnhdkjnspb.com^
 ||ngolstonora.xyz^
 ||nguad.com^
+||ngukmodukule.info^
 ||ngvoicethaults.com^
 ||nhalcyw.com^
 ||nhamformane.com^
@@ -20769,6 +20787,7 @@
 ||ntdvjlvau.com^
 ||ntiaxofk.xyz^
 ||ntjmnyzwkpb.com^
+||ntmatchwithy.info^
 ||ntoftheusysia.info^
 ||ntoftheusysianedt.info^
 ||ntrfr.leovegas.com^
@@ -21114,6 +21133,7 @@
 ||oherhome.xyz^
 ||ohfoqpsrufi.com^
 ||ohhonkowjag.com^
+||ohibal.com^
 ||ohkdsplu.com^
 ||ohktpaajnzk.com^
 ||ohldsplu.com^
@@ -21496,6 +21516,7 @@
 ||ordinaryleaving.com^
 ||ordisposableado.com^
 ||ordxcutu.com^
+||ordzimwtaa.com^
 ||oreakingoutin.info^
 ||orecticconchae.com^
 ||oremuspolynoe.digital^
@@ -21591,6 +21612,7 @@
 ||otheyrami.xyz^
 ||othonnabusaos.com^
 ||otiatryenfeoff.live^
+||otiatrygetable.uno^
 ||otigainareput.info^
 ||otireofhisl.one^
 ||otisephie.com^
@@ -21654,6 +21676,7 @@
 ||ourtecads.com^
 ||ourteeko.com^
 ||ourtetotum.com^
+||ouryretyequirem.info^
 ||ourzitemu.com^
 ||ousinouk.xyz^
 ||ousouzay.net^
@@ -22856,6 +22879,7 @@
 ||portentprepack.website^
 ||portkingric.net^
 ||portoutsid.xyz^
+||posaul.com^
 ||posawaj.com^
 ||poseidthewave.com^
 ||poseurtwicet.digital^
@@ -25189,6 +25213,7 @@
 ||saycasksabnegation.com^
 ||sayelo.xyz^
 ||saylnk.com^
+||sazute.uno^
 ||sb-stat1.com^
 ||sb4you1.com^
 ||sb89347.com^
@@ -25727,6 +25752,7 @@
 ||shugnais.net^
 ||shugraithou.com^
 ||shukriya90.com^
+||shulugoo.net^
 ||shumsooz.net^
 ||shusacem.net^
 ||shuswapwitness.store^
@@ -26694,6 +26720,7 @@
 ||strickenenergetic.com^
 ||strictgrittwine.com^
 ||strident-writing.com^
+||striperewind.com^
 ||strivefoetus.com^
 ||strivenramplor.com^
 ||strobesfalsity.digital^
@@ -26803,6 +26830,7 @@
 ||sultrymercury.com^
 ||sumbalowen.com^
 ||sumbreta.com^
+||sumids.com^
 ||summaryvalued.com^
 ||summercovert.com^
 ||summitchafeperilous.com^
@@ -26967,6 +26995,7 @@
 ||swingelinseys.com^
 ||swingtoeswinds.com^
 ||swirlygossips.com^
+||swishedbigha.digital^
 ||swisherplacard.space^
 ||swisstoothpastelipstick.com^
 ||swivinglydite.com^
@@ -27658,6 +27687,7 @@
 ||timingbitternessgreasy.com^
 ||timot-cvk.info^
 ||timpanosheng.com^
+||timtamti.net^
 ||timxrio.com^
 ||tinacorners.xyz^
 ||tinbuadserv.com^
@@ -30264,7 +30294,6 @@
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjs.com^
-||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
 ||wpowiqkgykf.com^
 ||wpshsdk.com^
@@ -30336,6 +30365,7 @@
 ||wukbgater.buzz^
 ||wukoopicee.com^
 ||wuksaiho.net^
+||wuluju.uno^
 ||wumpeeps.net^
 ||wumteecoodsu.com^
 ||wumufama.com^
@@ -30446,6 +30476,7 @@
 ||xfcpdigfsx.xyz^
 ||xfileload.com^
 ||xfimwjibh.top^
+||xfvvygrv.com^
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xgraph.net^
@@ -30656,6 +30687,7 @@
 ||yearlylight.com^
 ||yearnwillowconsumption.com^
 ||yeesdiapase.website^
+||yeioreo.net^
 ||yelledvotable.com^
 ||yellow-record.pro^
 ||yellowacorn.net^
@@ -32358,6 +32390,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||wiseref.com^
 ||swetrix.org^
 ||getter.cfd^
 ||tgtag.io^
@@ -39388,7 +39421,6 @@ inapps.appsflyersdk.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
 ||rtlog*.tiktokv.com^
-||uts-front.line-apps.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
@@ -42253,6 +42285,7 @@ inapps.appsflyersdk.com^
 ||myscoop-tracking.googlecode.com^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
+||netlify-rum.netlify.app^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
