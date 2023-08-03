@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-02T22:00:14.695Z
+! Last modified: 2023-08-03T22:00:14.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5102,6 +5102,7 @@
 ||1web.me^
 ||1xlite-208883.top^
 ||1xlite-510677.top^
+||1xlite-522762.top^
 ||200088d4e2.com^
 ||2020mustang.com^
 ||2036369798.com^
@@ -5465,6 +5466,7 @@
 ||5c8877b0af.com^
 ||5c88c350e2.com^
 ||5c8ac0803b.com^
+||5caa478343.com^
 ||5d2d04464c.com^
 ||5d4170700c.com^
 ||5d63ec2d2f.com^
@@ -6361,6 +6363,7 @@
 ||adohana.com^
 ||adojobless.com^
 ||adolescentcounty.pro^
+||adolescentshirt.com^
 ||adomic.com^
 ||adonion.com^
 ||adonweb.ru^
@@ -6938,6 +6941,7 @@
 ||aikravoapu.com^
 ||ailalbapt.club^
 ||ailrouno.net^
+||ailsomse.net^
 ||ailsoult.net^
 ||ailtumty.net^
 ||ailutwlqkkmc.xyz^
@@ -7113,6 +7117,7 @@
 ||allabc.com^
 ||allactualjournal.com^
 ||allactualstories.com^
+||allaylabite.com^
 ||allayravage.com^
 ||allcommonblog.com^
 ||allcommonstories.com^
@@ -10223,6 +10228,7 @@
 ||cdwehdnnprdntse.com^
 ||ceamtaaprhha.xyz^
 ||ceawoment.info^
+||ceawvx.com^
 ||cebygijy.pro^
 ||ceceqckh.com^
 ||cecilsdolia.com^
@@ -10387,6 +10393,7 @@
 ||chazanscapita.com^
 ||chdikbghrosxa.xyz^
 ||cheap-result.pro^
+||cheap-trip.pro^
 ||cheapenleaving.com^
 ||cheaplycreateproprietor.com^
 ||cheatingabate.com^
@@ -10674,6 +10681,7 @@
 ||clean-browsing.com^
 ||clean.gg^
 ||cleanbrowser.network^
+||cleanerultra.club^
 ||cleaneryelded.site^
 ||cleanflawlessredir.com^
 ||cleanmediaads.com^
@@ -14002,6 +14010,7 @@
 ||fantodsshrug.com^
 ||fanyorgagetn.buzz^
 ||fanza.cc^
+||faotfobjefeaef.com^
 ||fapmeth.com^
 ||faquirrelot.com^
 ||faracoon.com^
@@ -14996,6 +15005,7 @@
 ||gbllqvsxnlsl.com^
 ||gcouncer.buzz^
 ||gcruperparverew.xyz^
+||gdasaasnt.com^
 ||gdecordingholo.info^
 ||gdjejefdqthxmy.xyz^
 ||gdl5vtbbv0lj.com^
@@ -15757,6 +15767,7 @@
 ||gummierhedera.life^
 ||gungpurre.com^
 ||gunnersriser.guru^
+||gunreset.com^
 ||gunzblazingpromo.com^
 ||gupffyba.com^
 ||gurabinhetot.com^
@@ -16125,6 +16136,7 @@
 ||hesterinoc.info^
 ||hesthergeyan.com^
 ||hetadinh.com^
+||hetaer.xyz^
 ||hetahien.com^
 ||hetaint.com^
 ||hetairagalapee.tech^
@@ -17117,6 +17129,7 @@
 ||interesting-vids.space^
 ||interestingpics.space^
 ||interestingvids.online^
+||interestingvids.space^
 ||interestmoments.com^
 ||interestsubsidereason.com^
 ||intergient.com^
@@ -17460,6 +17473,7 @@
 ||jc32arlvqpv8.com^
 ||jcbyeqvstf.xyz^
 ||jcecirohramv.com^
+||jchklt.com^
 ||jcigoiimudrzow.com^
 ||jcyunk2.com^
 ||jczhjpollvc.com^
@@ -17798,6 +17812,7 @@
 ||kablic.com^
 ||kabobitacism.com^
 ||kabuut.com^
+||kadggriffshoyv.com^
 ||kadniltuwsu.com^
 ||kadwnhhistoli.xyz^
 ||kafugo.xyz^
@@ -18617,6 +18632,7 @@
 ||lifict.com^
 ||lifoll.com^
 ||liftdna.com^
+||liftedd.net^
 ||ligatus.com^
 ||lighes.com^
 ||lightfoot.top^
@@ -18691,6 +18707,7 @@
 ||liongetme.com^
 ||lionporcelain.com^
 ||lippedabyssal.com^
+||lipsate.com^
 ||liqenoftcgfqw.com^
 ||liquidapprovaltar.com^
 ||liquidatelusciousharriet.com^
@@ -21500,6 +21517,7 @@
 ||operateheavilyswiftinfo-file.info^
 ||operatepreciseheavilyinfo-product.info^
 ||operch.com^
+||operms.com^
 ||opertyvaluationiam.xyz^
 ||opgolan.com^
 ||ophiticprevail.life^
@@ -21703,6 +21721,7 @@
 ||ougnagirock.com^
 ||ougnauls.com^
 ||ougnugno.com^
+||ougrauty.com^
 ||ougribot.net^
 ||ouhavebe.xyz^
 ||oujouniw.com^
@@ -23935,6 +23954,7 @@
 ||rabbre.com^
 ||rabfakfolksey.digital^
 ||rabidamoral.com^
+||rablic.com^
 ||raccourir.xyz^
 ||racesundermine.com^
 ||racterdeet.com^
@@ -24794,6 +24814,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockyou.net^
+||rocobo.uno^
 ||rocoloagrotis.fun^
 ||rodaimlessale.com^
 ||rodderacetose.store^
@@ -25651,6 +25672,7 @@
 ||shadesincreasingcontents.com^
 ||shadyobscene.com^
 ||shaftheadstonetopmost.com^
+||shaggyaleswede.com^
 ||shaickox.com^
 ||shaidolt.com^
 ||shailreeb.com^
@@ -26129,6 +26151,7 @@
 ||smisto.com^
 ||smists.com^
 ||smitry.com^
+||smjulynews.com^
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokebookcase.com^
@@ -26499,6 +26522,7 @@
 ||sprkl.io^
 ||sproose.com^
 ||sproutrhubarbencouraged.com^
+||spruecutworm.com^
 ||sprungencase.com^
 ||sprunghardness.com^
 ||sptrkr.com^
@@ -26708,6 +26732,7 @@
 ||stilaikr.com^
 ||stilbmolted.com^
 ||stillchemistcivilian.com^
+||stimaariraco.info^
 ||stimtavy.net^
 ||stingeantonia.com^
 ||stinglackingrent.com^
@@ -27401,6 +27426,7 @@
 ||temporarylikewise.com^
 ||temprepenalty.guru^
 ||tempro.lol^
+||tempyodatos.com^
 ||temvbbhgmcghgbc.xyz^
 ||tenantbaffle.life^
 ||tendencyexcavatornook.com^
@@ -29425,6 +29451,7 @@
 ||villasquinttolerance.com^
 ||vilnhoowpom.com^
 ||vilowhmrea.com^
+||vilpujzmyhu.com^
 ||vimpatace.digital^
 ||vinalsmuffish.com^
 ||vinculastags.store^
@@ -30743,6 +30770,7 @@
 ||yackedslaveys.com^
 ||yacurlik.com^
 ||yadtanc.xyz^
+||yafabu.uno^
 ||yahuu.org^
 ||yaiser.com^
 ||yakmakutopia.com^
@@ -37040,6 +37068,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||adservice.google.
 ||weblog.kma.go.kr^
 ||track.exame.com^
 ||t.syosetu.org^
@@ -37967,7 +37996,6 @@
 ||events.cardsmobile.ru^
 ||events.emogi.com^
 ||events.jora.com^
-||events.kaloo.ga^
 ||events.newsroom.bi^
 ||events.niit-mts.com^
 ||events.ocdn.eu^
@@ -37982,7 +38010,6 @@
 ||events.whisk.com^
 ||events*.cre.ma^
 ||eventstream.dodopizza.com^
-||eventtracker.elitedaily.com^
 ||evs.data.ciceksepeti.com^
 ||evt.houzz.com^
 ||exacttarget.api.mashery.com^
@@ -38053,9 +38080,6 @@
 ||gtm.vanmoof.com^
 ||gtmdev.jabra.
 ||guq9.vente-unique.it^
-||happyunicorns.gutefrage.net^
-||harvester.eu.square-enix.com^
-||harvester.ext.square-enix-europe.com^
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
 ||hc-analytics.idp.clogin.att.com^
@@ -38064,12 +38088,9 @@
 ||heartbeats.prd.data.s.joyn.de^
 ||hi.hellobar.com^
 ||hindsight.significanceapps.com^
-||hit-pool.upscore.io^
 ||hit.copesa.cl^
 ||hit.darmoweliczniki.pl^
 ||hit.demirorenteknoloji.com^
-||hit.dogannet.tv^
-||hit.duhnet.tv^
 ||hit.mynet.com^
 ||hits.dealer.com^
 ||hits.theguardian.com^
@@ -38084,7 +38105,6 @@
 ||host*.polaroid.com^
 ||host*.rvshare.com^
 ||host*.rigbyandpeller.com^
-||howmanyview.com^
 ||hrumpoc.hotels.com^
 ||hstats*.hepsiburada.com^
 ||hummingbird.mavencoalition.io^
@@ -38839,10 +38859,8 @@
 ||telemetry.tradingview.com^
 ||temptation.ad.nl^
 ||teralog.techhub.co.kr^
-||terra.fp.oix.net^
 ||thj.astrakhan.ru^
 ||tim.nextinpact.com^
-||timeslog.indiatimes.com^
 ||tj3rql9siwef.www.freecodecamp.org^
 ||tk.kaufda.de^
 ||tk.meinprospekt.de^
@@ -38853,7 +38871,6 @@
 ||tools.ranker.com^
 ||top-fwz1.mail.ru^
 ||top.eomy.net^
-||top.gamesby.net^
 ||top.gigmir.net^
 ||top.hsdn.org^
 ||top.myfilms.su^
@@ -38889,8 +38906,6 @@
 ||trac.oferting.net^
 ||trac.oferting.org^
 ||tracelog.www.alibaba.com^
-||tracer.perezhilton.com^
-||track.atom-data.io^
 ||track.berliner-kurier.de^
 ||track.bizjournals.com^
 ||track.briskfile.com^
@@ -38898,7 +38913,6 @@
 ||track.catalogs.com^
 ||track.cbs.com^
 ||track.clkfly.com^
-||track.codepen.io^
 ||track.custora.com^
 ||track.datescan.info
 ||track.dictionary.com^
@@ -43478,8 +43492,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Aug 2023 23:15 UTC+7
-! Version: 2308022315
+! Last modified: 03 Aug 2023 21:54 UTC+7
+! Version: 2308032154
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44316,6 +44330,7 @@ vkcdnservice.appspot.com^
 ||collector.tescocompare.com^
 ||collector.xhamster.com^
 ||count.prx.org^
+||eventtracker.elitedaily.com^
 ||geo.perezhilton.com^
 ||geo.theawesomer.com^
 ||log.optimizely.com^
@@ -44340,6 +44355,8 @@ vkcdnservice.appspot.com^
 ||t.appsflyer.com^
 ||t.delfi.
 ||t.vimeo.com^
+||tracer.perezhilton.com^
+||track.codepen.io^
 ||track.collegehumor.com^
 ||track.zalando.
 ||tracker.lolalytics.com^
