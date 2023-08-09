@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-08T22:00:15.299Z
+! Last modified: 2023-08-09T22:00:13.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||voidnetwork.cloud^
 ||tds.bid^
 ||streetuptowind.com^
 ||sarafan.fun^
@@ -15222,7 +15223,6 @@
 ||get-things-done.net^
 ||get2m5sgstohne.com^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getalltraffic.com^
 ||getapo.com^
@@ -16784,7 +16784,6 @@
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hyyaofjnidwiyg.com^
@@ -32428,6 +32427,7 @@
 ||hot-mob.com^
 ||hotelscombined.com.au^
 ||hprofits.com^
+||hyros.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
 ||icorp.ro^
@@ -36422,6 +36422,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||parentpicture.com^
 ||suspectmark.com^
 ||daughterstone.com^
 ||boundlessveil.com^
@@ -38409,7 +38410,6 @@
 ||data.mob.com^
 ||datacollect*.abtasty.com^
 ||dbfukofby5ycr.cloudfront.net^
-||dc.tremormedia.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^
@@ -38419,7 +38419,6 @@
 ||deliver.oztam.com.au^
 ||delog.afreecatv.com^
 ||detwzgl8cvciv.cloudfront.net^
-||device-analytics.rollout.io^
 ||device-metrics-us*.amazon.com^
 ||df.tanx.com^
 ||discovery-script.newspic.kr^
@@ -39221,16 +39220,10 @@
 ||stats.propublica.org^
 ||stats.pusher.com^
 ||stats.qmerce.com^
-||stats.radiostreamlive.com^
-||stats.rutracker.ga^
 ||stats.searchftps.net^
 ||stats.searchftps.org^
-||stats.searchsight.com^
 ||stats.sharenet.co.za^
 ||stats.shopify.com^
-||stats.shoppydoo.com^
-||stats.simply-hentai.com^
-||stats.slashgear.com^
 ||stats.slideshare.net^
 ||stats.someecards.com^
 ||stats.storify.com^
@@ -40872,7 +40865,6 @@ inapps.appsflyersdk.com^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getviously.com^
-||gglscr.online^
 ||giddyuptrk.com^
 ||gim.co.il^
 ||glassboxcdn.com^
@@ -41246,7 +41238,6 @@ inapps.appsflyersdk.com^
 ||trackingca.com^
 ||trackingpro.pro^
 ||trackmethod.com^
-||trackmstr.com^
 ||trackmytarget.com^
 ||trackmyusers.com^
 ||trackonomics.net^
@@ -41569,7 +41560,6 @@ inapps.appsflyersdk.com^
 ||mineralt.io^
 ||minero-proxy-*.sh^
 ||minero.cc^
-||minero.pw^
 ||minescripts.info^
 ||mininghub.club^
 ||mmpool.org^
@@ -42618,7 +42608,6 @@ inapps.appsflyersdk.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
-||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-logger.salemove.com^
@@ -43464,7 +43453,6 @@ inapps.appsflyersdk.com^
 ! Czech
 ||a.centrum.cz^
 ||bisko.mall.tv^
-||bnr.alza.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
@@ -43490,7 +43478,6 @@ inapps.appsflyersdk.com^
 ||statistics.rbi-nl.com^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
-||insight.fonecta.fi^
 ||tags.op-palvelut.fi^
 ! Georgian
 ||links.boom.ge^
@@ -43639,7 +43626,6 @@ inapps.appsflyersdk.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
-||hits.eluniversal.com.mx^
 ||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
@@ -43704,6 +43690,7 @@ vkcdnservice.appspot.com^
 ||go.bestmobiworld.com^
 ||gridiogrid.com^
 ||minemytraffic.com^
+||minero.pw^
 ||monero-miner.com^
 ||offerreality.com^
 ||ogrid.org^
@@ -44828,7 +44815,11 @@ vkcdnservice.appspot.com^
 ||stats.europe.newsweek.com^
 ||stats.eyeviewdigital.com^
 ||stats.farfetch.com^
+||stats.radiostreamlive.com^
 ||stats.redditmedia.com^
+||stats.searchsight.com^
+||stats.shoppydoo.com^
+||stats.slashgear.com^
 ||stats.thevideo.me^
 ||stats.wwitv.com^
 ||t.appsflyer.com^
