@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-14T22:00:16.791Z
+! Last modified: 2023-08-15T22:00:15.216Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8776,6 +8776,7 @@
 ||bclikeqt.com^
 ||bcloudhost.com^
 ||bcprm.com^
+||bctagb56.xyz^
 ||bcuiaw.com^
 ||bcwxcwvwmcsplf.xyz^
 ||bda644bea5.com^
@@ -9350,6 +9351,7 @@
 ||bloggerex.com^
 ||blogherads.com^
 ||blondhoverhesitation.com^
+||blondtheirs.com^
 ||bloodkneel.com^
 ||bloodyfrighten.com^
 ||blooks.info^
@@ -10953,6 +10955,7 @@
 ||cludderrattons.com^
 ||cluethydash.com^
 ||cluewauling.life^
+||clumperrucksey.life^
 ||cluodlfare.com^
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
@@ -12069,6 +12072,7 @@
 ||debrium-surbara.com^
 ||debsis.com^
 ||debtminusmaternal.com^
+||debtslooselavatory.com^
 ||debutedhogward.com^
 ||decademical.com^
 ||decatorfending.uno^
@@ -23510,6 +23514,7 @@
 ||ponchowafesargb.com^
 ||ponderousmuffled.com^
 ||pondinternet.com^
+||pondov.cfd^
 ||pongidsrunback.com^
 ||ponierpeewees.digital^
 ||ponk.pro^
@@ -25519,6 +25524,7 @@
 ||rockdriller.top^
 ||rocketdashedjoining.com^
 ||rocketlinks.ru.com^
+||rocketplaintiff.com^
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockyou.net^
@@ -32534,6 +32540,7 @@
 ||advertserve.com^
 ||advertstream.com^
 ||advg.jp^
+||adviad.com^
 ||advideum.com^
 ||advinci.net^
 ||advmd.com^
