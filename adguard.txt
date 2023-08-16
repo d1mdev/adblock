@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-15T22:00:15.216Z
+! Last modified: 2023-08-16T22:00:16.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4161,6 +4161,9 @@
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+! Yandex ads in apps
+||startup.mobile.yandex.net^
+||startup-mobile.ap.yandex-net.ru^
 !
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
@@ -5307,6 +5310,7 @@
 ||37e5693aa7.com^
 ||3819544f76.com^
 ||3841f4b0c4.com^
+||38d9953876.com^
 ||39irqwnzlv.com^
 ||3a29f8bf84.com^
 ||3a3614d13f.com^
@@ -9703,6 +9707,7 @@
 ||brithungown.com^
 ||briticatederfd.site^
 ||britishinquisitive.com^
+||britonseyer.com^
 ||britonswime.website^
 ||brittleraising.com^
 ||bro.kim^
@@ -11355,6 +11360,7 @@
 ||cophoe.com^
 ||copict.com^
 ||copperseafoodearphones.com^
+||copterezba.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||coquitahaiduk.com^
@@ -16281,6 +16287,7 @@
 ||hartalshier.com^
 ||hartattenuate.com^
 ||hartlyengland.com^
+||harvardunions.com^
 ||harvesttheory.com^
 ||harvintact.com^
 ||hasdrs.com^
@@ -16748,6 +16755,7 @@
 ||horsemanterminateplatform.com^
 ||horseuptown.com^
 ||horsiergalchic.com^
+||horsilyoxydase.com^
 ||hortestoz.com^
 ||hortitedigress.com^
 ||hosaur.com^
@@ -24596,6 +24604,7 @@
 ||quikgzfisiodk.com^
 ||quilescornual.uno^
 ||quillyatik.digital^
+||quiltscaudata.com^
 ||quinatedating.top^
 ||quinizechoel.com^
 ||quite-bag-seed-catch.xyz^
@@ -25940,6 +25949,7 @@
 ||salestingoner.org^
 ||salinasbhut.com^
 ||salishcoenact.com^
+||salivanmobster.com^
 ||salloohoelike.website^
 ||sallyfundamental.com^
 ||sallyoxenstops.com^
@@ -25960,6 +25970,7 @@
 ||samogonmarvy.com^
 ||samplerenamed.com^
 ||samplerpouch.com^
+||sampoang.xyz^
 ||samsienshrivel.com^
 ||samsungads.com^
 ||samtrg.com^
@@ -26392,6 +26403,7 @@
 ||sextubeweb.com^
 ||sexualpitfall.com^
 ||sexy-sluts.org^
+||sexyadsrun.com^
 ||sexyepc.com^
 ||sffsdvc.com^
 ||sfinwoyxjx.xyz^
@@ -27648,6 +27660,7 @@
 ||stuffserve.com^
 ||stugsoda.com^
 ||stulsh.com^
+||stumercackles.com^
 ||stunninglover.com^
 ||stunningruin.com^
 ||stunsbarbola.website^
@@ -28772,6 +28785,7 @@
 ||tominwigan.top^
 ||tomladvert.com^
 ||tommiesuntewed.com^
+||tomornpinjane.com^
 ||tomponcainite.com^
 ||tomsjousts.life^
 ||tonapplaudfreak.com^
@@ -30658,6 +30672,7 @@
 ||wandererbashful.com^
 ||wandijltus.com^
 ||wangfenxi.com^
+||wanlyavower.com^
 ||wanmolamchoor.store^
 ||wannestfooled.com^
 ||wansultoud.com^
@@ -30674,6 +30689,7 @@
 ||warehousecanneddental.com^
 ||warfarerewrite.com^
 ||warhin.com^
+||wariestbudgers.com^
 ||warilyaggregation.com^
 ||warilycommercialconstitutional.com^
 ||warilytumblercheckbook.com^
@@ -30921,6 +30937,7 @@
 ||whamukoji.pro^
 ||whamuthygle.com^
 ||whaodvfkydib.com^
+||wharployn.com^
 ||whartaug.net^
 ||whartfidalgo.life^
 ||whatisnewappforyou.top^
@@ -31422,6 +31439,7 @@
 ||wubsauth.net^
 ||wuckaity.com^
 ||wudr.net^
+||wuftoars.net^
 ||wugabts.com^
 ||wuidtethhkcko.com^
 ||wukbgater.buzz^
@@ -32170,6 +32188,7 @@
 ||zlacraft.com^
 ||zlink2.com^
 ||zlink6.com^
+||zlinkc.com^
 ||zlinkm.com^
 ||zljwhbuagdvl.com^
 ||zlx.com.br^
@@ -33500,6 +33519,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||sdk.fra-*.braze.eu^
 ||ct2.kutinawa.com^
 ||ythingy.com^
 ||spiny.ai^
@@ -36771,7 +36791,9 @@
 ||webcompteur.com^
 ||webcounter.co.za^
 ||webcounter.ws^
-||webengage.com^
+||ssl.widgets.webengage.com^
+||c.webengage.com^
+||z.webengage.com^
 ||webest.info^
 ||webflowmetrics.com^
 ||webforensics.co.uk^
@@ -38054,6 +38076,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||sanalytics.disneyplus.com^
 ||trcksp.cordial.io^
 ||track.msg.fortune.com^
 ||track.sp.crdl.io^
@@ -39394,11 +39417,9 @@
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
 ||pixel.klout.com^
-||pixel.naij.com^
 ||pixel.newscgp.com^
 ||pixel.newsdiscover.com.au^
 ||pixel.nur.kz^
-||pixel.parsely.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
@@ -39414,7 +39435,6 @@
 ||pixel.yabidos.com^
 ||pixelappcollector.thesun.co.uk^
 ||pixel*.adswizz.com
-||pixel.randi.adswizz.com
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
 ||pixelzirkus.gameforge.com^
@@ -39423,7 +39443,6 @@
 ||plausible.simplelogin.io^
 ||player-feedback-v1.glomex.com^
 ||player-telemetry.vimeo.com^
-||ploz.mangadex.org^
 ||po.ponant.com^
 ||prd-collector-anon-video.playbuzz.com^
 ||prd-collector-anon.playbuzz.com^
@@ -41644,6 +41663,7 @@ inapps.appsflyersdk.com^
 ||showheroes.com^
 ||simpleanalytics.io^
 ||simpleanalyticsbadge.com^
+||simpleanalyticsexternal.com^
 ||sirdata.eu^
 ||siteimproveanalytics.io^
 ||siteplug.com^
@@ -42485,6 +42505,7 @@ inapps.appsflyersdk.com^
 ||stereotypedsugar.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
+||stomachscience.com^
 ||strangeclocks.com^
 ||strangersponge.com^
 ||stretchsneeze.com^
@@ -44434,8 +44455,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Aug 2023 13:58 UTC+7
-! Version: 2308131358
+! Last modified: 16 Aug 2023 10:45 UTC+7
+! Version: 2308161045
 ! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -45290,6 +45311,7 @@ vkcdnservice.appspot.com^
 ||metric*.rediff.com^
 ||pictures.zooplus.com^
 ||ping.tvmaze.com^
+||pixel.naij.com^
 ||pixel.redditmedia.com^
 ||s2.youtube.com^
 ||sa.bbc.co.uk^
