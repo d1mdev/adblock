@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-17T22:00:15.910Z
+! Last modified: 2023-08-18T22:00:22.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4035,7 +4035,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
-
+||market-backend.api.2gis.ru^
 !
 ! Source name: AdGuard Mobile Ads filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
@@ -4130,6 +4130,8 @@
 ||appodeal.com^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 !
+||ad.buzzvil.com^
+||screen.buzzvil.com^
 ||adstrategy.biz.weibo.com^
 ||ad.weibo.com^
 ||geoloc.yospace.com^
@@ -6366,6 +6368,7 @@
 ||adltserv.com^
 ||admanmedia.com^
 ||admavvex.com^
+||admax.network^
 ||adme-net.com^
 ||admedia.network^
 ||admeme.net^
@@ -38173,6 +38176,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||apps.nhk.jp^
 ||drfdisvc.walmart.com^
 ||beacon.walmart.com^
 ||sanalytics.disneyplus.com^
@@ -44554,9 +44558,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Aug 2023 10:45 UTC+7
-! Version: 2308161045
-! Blocked: 837 rules
+! Last modified: 18 Aug 2023 21:54 UTC+7
+! Version: 2308182154
+! Blocked: 838 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -45208,6 +45212,7 @@ vkcdnservice.appspot.com^
 ||quangcao.baovannghe.com.vn^
 ||quangcao.fff.com.vn^
 ||quangcao247.com.vn^
+||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
 ||realclick.vn^
