@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-24T22:00:23.339Z
+! Last modified: 2023-08-25T22:00:18.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||b.we-are-anon.com^
 ||fsm-files.ru^
 ||sofq.site^
 ||iceprogs.ru^
@@ -10049,6 +10050,7 @@
 ||caglaikr.net^
 ||cagothie.net^
 ||cahvpbsikxvvm.xyz^
+||caicuptu.xyz^
 ||caigluph.xyz^
 ||caimoasy.net^
 ||cainismlungee.uno^
@@ -10254,6 +10256,7 @@
 ||cautiousroof.pro^
 ||cauwausa.net^
 ||cauyuksehink.info^
+||cauzoupo.com^
 ||cavalryconvincing.com^
 ||cavecredentialdeer.com^
 ||caveestate.com^
@@ -11287,6 +11290,7 @@
 ||containswasoccupation.com^
 ||contalyze.com^
 ||contehos.com^
+||contemplatepuddingbrain.com^
 ||contemplatereunitededgy.com^
 ||content-ad.net^
 ||content-rec.com^
@@ -13759,6 +13763,7 @@
 ||eputysolomon.com^
 ||eqacypykxa.com^
 ||eqads.com^
+||eqmyjnyjzqzkl.top^
 ||equabilityassortshrubs.com^
 ||equabilitythereupon.com^
 ||equesk.com^
@@ -18055,6 +18060,7 @@
 ||jnhdmksj.top^
 ||jnrtavp2x66u.com^
 ||jnxm2.com^
+||joachoag.xyz^
 ||joaglouwulin.com^
 ||joastous.com^
 ||joathaji.xyz^
@@ -19501,6 +19507,7 @@
 ||lrkenrerjkljb.top^
 ||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
+||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
 ||lrwksobdw.com^
 ||lrzzqvzjejjmz.top^
@@ -19907,6 +19914,7 @@
 ||matrix-news.org^
 ||matswhyask.cam^
 ||matterbadgerpsychic.com^
+||matzohshoey.com^
 ||mauchopt.net^
 ||maudamee.net^
 ||maudau.com^
@@ -22117,6 +22125,7 @@
 ||oolassouwa.com^
 ||ooltutoo.net^
 ||oomgnwdmzwnxn.com^
+||oomsijahail.com^
 ||oomsoapt.net^
 ||oomtexoa.com^
 ||oonsaigu.xyz^
@@ -31324,12 +31333,14 @@
 ||wkyfgxxabvu.xyz^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
+||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
 ||wlt-alice.de^
+||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^
@@ -31616,6 +31627,7 @@
 ||wynvalur.com^
 ||wyoxmklaa.xyz^
 ||wypydowhi.com^
+||wyrtqdvhuiyhml.com^
 ||wysasys.com^
 ||wysyshypti.pro^
 ||wytxjmow.com^
@@ -32576,6 +32588,7 @@
 ||adm-vids.info^
 ||adm.shinobi.jp^
 ||admatic.com.tr^
+||admax.space^
 ||admaxim.com^
 ||admediatex.net^
 ||admedit.net^
@@ -34490,7 +34503,6 @@
 ||audiencemanager.de^
 ||event.getblue.io^
 ||mieru-ca.com^
-||nlog.nethru.io^
 ||uc.xddi.ru^
 ||events.demoup.com^
 ||smetrics.capitalone.com^
@@ -38790,7 +38802,6 @@
 ||analytics*.carambo.la^
 ||analytics2.tvreport.co.kr^
 ||analyticsnew.overwolf.com^
-||analyze.yahooapis.com^
 ||analyzer*.fc2.com^
 ||anon-stats.eff.org^
 ||ape-tagit.timeinc.net^
@@ -38799,7 +38810,6 @@
 ||api.exc.mob.com^
 ||api.flocktory.com^
 ||api.iterative.ly^
-||apm.crittercism.com^
 ||apollo.plein.nl^
 ||app-analytics-*.snapchat.com^
 ||app-analytics.snapchat.com^
@@ -38815,9 +38825,6 @@
 ||ariane.abtasty.com^
 ||astat.nikkei.co.jp^
 ||asumi.shinobi.jp^
-||atax.gamespy.com^
-||atax.gamestats.com^
-||atax.ign.com^
 ||atax.teamxbox.com^
 ||atlas1.krone.at^
 ||atm.youku.com^
@@ -38900,7 +38907,6 @@
 ||clickstream.cresendo.net^
 ||client-event-reporter.twitch.tv^
 ||clientlog.midomi.com^
-||clk.about.com^
 ||clk.onet.pl^
 ||clkstat.china.cn^
 ||clog.go.com^
@@ -39096,7 +39102,6 @@
 ||dtxtngytz5im1.cloudfront.net^
 ||dynatrace.att.com^
 ||e-stat.huya.com^
-||e.dr-zh.com^
 ||e.tw.cx^
 ||e.viously.com^
 ||e2e.mashable.com^
@@ -39220,7 +39225,6 @@
 ||grow.powerstep.com^
 ||gscounters.*.gigya.com^
 ||gscounters.gigya.com^
-||gstat.orange.fr^
 ||gtm.beiersdorf.com^
 ||gtm.udemy.com^
 ||gtm.vanmoof.com^
@@ -39250,7 +39254,6 @@
 ||host*.polaroid.com^
 ||host*.rvshare.com^
 ||host*.rigbyandpeller.com^
-||hrumpoc.hotels.com^
 ||hstats*.hepsiburada.com^
 ||hummingbird.mavencoalition.io^
 ||hwa.his.huawei.com^
@@ -39276,7 +39279,6 @@
 ||istatistik.arabam.com^
 ||istatistik.trthaber.com^
 ||j.uralweb.ru^
-||journey.unicef.de^
 ||js-agent.newrelic.com^
 ||js.stroeermediabrands.de^
 ||jtp.expressen.se^
@@ -39284,7 +39286,6 @@
 ||kctag.net^
 ||klik.nrc.nl^
 ||kooappslogs.com^
-||kr.phorm.com^
 ||kraken.rambler.ru^
 ||kropka.onet.pl^
 ||krum.vsct.fr^
@@ -39845,7 +39846,6 @@
 ||stats.tipser.com^
 ||stats.townnews.com^
 ||stats.travelask.ru^
-||stats.vc.gg^
 ||stats.video.search.yahoo.com^
 ||stats.videodelivery.net^
 ||stats.vidyome.com^
@@ -39864,7 +39864,6 @@
 ||statscol.pond5.com^
 ||statwup.huya.com^
 ||statwup.nimo.tv^
-||stbt.coupons.com^
 ||stc.store.page.zaloapp.com^
 ||stg-data-collector.playbuzz.com^
 ||stores-counters.wix.com^
@@ -39912,7 +39911,6 @@
 ||tc-log.mattel163.com^
 ||tc.tradetracker.net^
 ||tcheck.outbrainimg.com^
-||tdapi.wickey.nl^
 ||tdep.hema.nl^
 ||tdep.kvk.nl^
 ||tdk.petsplace.nl^
@@ -39941,7 +39939,6 @@
 ||top-fwz1.mail.ru^
 ||top.gigmir.net^
 ||top.hsdn.org^
-||top.myfilms.su^
 ||top.nydus.org^
 ||top.t-sk.ru^
 ||top.topua.net^
@@ -39990,7 +39987,6 @@
 ||track.engagesciences.com^
 ||track.eurogirlsescort.com^
 ||track.express.de^
-||track.ft.com^
 ||track.fxstreet.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
@@ -40065,11 +40061,9 @@
 ||tracking.chacha.com^
 ||tracking.channelsight.com^
 ||tracking.conduit.com^
-||tracking.deluxe-marketing.com^
 ||tracking.eurosport.com^
 ||tracking.g2crowd.com^
 ||tracking.game8.jp^
-||tracking.goodgamestudios.com^
 ||tracking.gvm.com.tw^
 ||tracking.hotel.check24.de^
 ||tracking.hsn.com^
@@ -40078,7 +40072,6 @@
 ||tracking.linda.de^
 ||tracking.live.oe24.at^
 ||tracking.military.com^
-||tracking.moneyam.com^
 ||tracking.musixmatch.com^
 ||tracking.mycapture.com^
 ||tracking.netdoktor.at^
@@ -45369,7 +45362,11 @@ vkcdnservice.appspot.com^
 ||analytics.volvocars.com^
 ||analytics.wetpaint.me^
 ||analytics.whatculture.com^
+||analyze.yahooapis.com^
 ||analyzer52.fc2.com^
+||atax.gamespy.com^
+||atax.gamestats.com^
+||atax.ign.com^
 ||beacon.examiner.com^
 ||beacons.helium.com^
 ||c.newsinc.com^
@@ -45378,6 +45375,7 @@ vkcdnservice.appspot.com^
 ||clicks.hurriyet.com.tr^
 ||clicks.traffictrader.net^
 ||clientlog.portal.office.com^
+||clk.about.com^
 ||cls.ichotelsgroup.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
@@ -45443,9 +45441,11 @@ vkcdnservice.appspot.com^
 ||stats.thevideo.me^
 ||stats.tvmaze.com^
 ||stats.uswitch.com^
+||stats.vc.gg^
 ||stats.wwitv.com^
 ||statstracker.celebrity-gossip.net^
 ||stattrack.0catch.com^
+||stbt.coupons.com^
 ||stcollection.moneysupermarket.com^
 ||t.appsflyer.com^
 ||t.blinkist.com^
@@ -45454,6 +45454,7 @@ vkcdnservice.appspot.com^
 ||tracer.perezhilton.com^
 ||track.codepen.io^
 ||track.collegehumor.com^
+||track.ft.com^
 ||track.gawker.com^
 ||track.zalando.
 ||track.zomato.com^
@@ -45463,7 +45464,9 @@ vkcdnservice.appspot.com^
 ||tracker.revip.info^
 ||tracker.washtimes.com^
 ||tracking.carprices.com^
+||tracking.goodgamestudios.com^
 ||tracking.koego.com^
+||tracking.moneyam.com^
 ||tracking.olx.
 ||tracking.pornhd.com^
 ||tracking.realtor.com^
