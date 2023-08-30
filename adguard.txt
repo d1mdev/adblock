@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-29T22:00:17.904Z
+! Last modified: 2023-08-30T22:00:17.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6435,6 +6435,7 @@
 ||ads-twitter.com^
 ||ads.lemmatechnologies.com^
 ||ads.rd.linksynergy.com^
+||ads1-adnow.com^
 ||ads2550.bid^
 ||ads2ads.net^
 ||ads3-adnow.com^
@@ -7044,6 +7045,7 @@
 ||akaiksots.com^
 ||akazginhapping.com^
 ||akbpwhdbdgtlilq.com^
+||akchapxw.com^
 ||akdbr.com^
 ||akdcunfxex.com^
 ||akeedser.com^
@@ -7082,6 +7084,7 @@
 ||alchemysocial.com^
 ||alcoholicsort.com^
 ||alcoholsupervisiondisplace.com^
+||alcovesoftenedenthusiastic.com^
 ||alcroconawa.com^
 ||alcult.com^
 ||aldeaamputee.com^
@@ -7855,6 +7858,7 @@
 ||asacdn.com^
 ||asafesite.com^
 ||asakserbian.guru^
+||asandcomemu.info^
 ||asbinacler.com^
 ||ascaredresue.space^
 ||asccdn.com^
@@ -8472,6 +8476,7 @@
 ||b9f4882bac.com^
 ||ba01520b8b.com^
 ||ba0182aa75.com^
+||ba488608ee.com^
 ||ba83df6e74.com^
 ||baannre.com^
 ||baaomenaltho.com^
@@ -11806,7 +11811,6 @@
 ||d2d7bba154.com^
 ||d2ship.com^
 ||d37aacdbcc.com^
-||d37byya7cvg7qr.cloudfront.net^
 ||d3d98dc11c.com^
 ||d4d48974197052ea.com^
 ||d5390684c4.com^
@@ -12973,7 +12977,6 @@
 ||dtsuqeneaipu.com^
 ||dtwobrightsap.info^
 ||dtx.click^
-||du0pud0sdlmzf.cloudfront.net^
 ||dualizefriskin.com^
 ||dualmarket.info^
 ||duamilsyr.com^
@@ -13047,6 +13050,7 @@
 ||durisk.com^
 ||durith.com^
 ||duroomtoa.com^
+||dursocoa.com^
 ||duscleouphes.com^
 ||dusiospires.com^
 ||dustarlyom.com^
@@ -16457,6 +16461,7 @@
 ||helltraffic.com^
 ||helmethopeinscription.com^
 ||helpedhandwritingintestine.com^
+||helperinadmissible.com^
 ||helphauntboxer.com^
 ||helplessdanpavilion.com^
 ||hemasejereeds.com^
@@ -20197,6 +20202,7 @@
 ||meshpetrols.com^
 ||mesilswwroiu.com^
 ||meslameighty.com^
+||mesqwrte.net^
 ||messagereceiver.com^
 ||messenger-notify.digital^
 ||messenger-notify.xyz^
@@ -22143,6 +22149,7 @@
 ||onshowit.com^
 ||onsolrockon.com^
 ||onstunkyr.com^
+||ontinuedidgm.com^
 ||ontj.com^
 ||ontosocietyweary.com^
 ||onugostlyhe.info^
@@ -27110,6 +27117,7 @@
 ||snipersex.com^
 ||snippystowstool.com^
 ||snippyyuncan.uno^
+||snjlhmb.com^
 ||snlynotquite.buzz^
 ||snnysied.xyz^
 ||snobdomobeyeo.com^
@@ -29668,6 +29676,7 @@
 ||ujautifuleed.xyz^
 ||ujeejoan.net^
 ||ujhhfgbbhs.com^
+||ujidhusjvmbfv.com^
 ||ujjxwbfgpfymc.xyz^
 ||ujlrvzfws.com^
 ||ujooshog.com^
@@ -30481,6 +30490,7 @@
 ||vidforclips.space^
 ||vidghjlgkuyfk.site^
 ||vids-fun.online^
+||vidsforyou.mom^
 ||vidsfun.info^
 ||vidsfun.online^
 ||vidsfun.space^
@@ -31705,6 +31715,7 @@
 ||wypydowhi.com^
 ||wyrtqdvhuiyhml.com^
 ||wysasys.com^
+||wyscmkd.com^
 ||wysyshypti.pro^
 ||wytxjmow.com^
 ||wzdzht7am5.com^
@@ -32210,6 +32221,7 @@
 ||yuppads.com^
 ||yuppyads.com^
 ||yuprggtdvdalo.com^
+||yuqyihkyk.com^
 ||yurokrelax.com^
 ||yusukqwlukvw.com^
 ||yvmads.com^
@@ -32262,6 +32274,7 @@
 ||zapprecisionadmire.com^
 ||zapunited.com^
 ||zaremamynah.com^
+||zarjzwlamwvjy.top^
 ||zarpop.com^
 ||zationserv.one^
 ||zationservantas.info^
@@ -33613,6 +33626,7 @@
 ||unblockia.com^
 ||undertone.com^
 ||unibots.in^
+||unibotscdn.com^
 ||urlcash.net^
 ||usemax.de^
 ||usenetjunction.com^
@@ -34524,7 +34538,6 @@
 ||tracking02.adweb.co.kr^
 ||d-collector.jennifersoft.com^
 ||adsmetadata.mobileadexchange.net^
-||adsmetadata.startappk8s.com^
 ||counter.yandro.ru^
 ||tracking.gpm-rtv.ru^
 ||uncn.jp^
@@ -34553,7 +34566,6 @@
 ||tagmanager.toast.com^
 ||jtracking.lulusoft.com^
 ||traceprof.com^
-||livetracker.rfe.pangea-cms.com^
 ||trackerhqu.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
@@ -34765,7 +34777,6 @@
 ||dynameex.com^
 ||minisrclink.cool^
 ||quantummetric.com^
-||mediator.mail.ru^
 ||bluecore.com^
 ||track.pnicnik.live^
 ||deliver.ptgncdn.com^
@@ -37159,6 +37170,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||pumpedpancake.com^
 ||hospitablehall.com^
 ||stomachscience.com^
 ||ruralrobin.com^
@@ -39262,11 +39274,9 @@
 ||gekko.spiceworks.com^
 ||geo.hltv.org^
 ||geo.homepage-web.com^
-||geo.kaloo.ga^
 ||geo.mattel163.com^
 ||geo.metronews.ca^
 ||geo.mozilla.org^
-||geo.play.it^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geobeacon.ign.com^
@@ -39275,7 +39285,6 @@
 ||geoip.boredpanda.com^
 ||geoip.cleveland.com^
 ||geoip.gulflive.com^
-||geoip.herewetest.com^
 ||geoip.inquirer.net^
 ||geoip.lehighvalleylive.com^
 ||geoip.masslive.com^
@@ -39683,7 +39692,6 @@
 ||s.news.naver.com^
 ||s.union.360.cn^
 ||s3.smartphonehoesjes.nl^
-||sa.aol.com^
 ||saber.srvcs.tumblr.com^
 ||sanalytics.ncaa.com^
 ||sat.sanoma.fi^
@@ -39811,7 +39819,6 @@
 ||sp.thetimesherald.com^
 ||sp.thetowntalk.com^
 ||sp.timesrecordnews.com^
-||sp.udimg.com^
 ||sp.vcstar.com^
 ||sp.visaliatimesdelta.com^
 ||sp.wausaudailyherald.com^
@@ -39850,7 +39857,6 @@
 ||stat.novostimira.com^
 ||stat.radar.imgsmail.ru^
 ||stat.rare.ru^
-||stat.ruvr.ru^
 ||stat.scroogefrog.com^
 ||stat.sputnik.ru^
 ||stat.teleport.media^
@@ -39886,7 +39892,6 @@
 ||stats.dnaindia.com^
 ||stats.ebay.com^
 ||stats.firedrive.com^
-||stats.ft.com^
 ||stats.harpercollins.com^
 ||stats.heyoya.com^
 ||stats.ibtimes.co.in^
@@ -41327,6 +41332,7 @@ inapps.appsflyersdk.com^
 ||autoline-top.com^
 ||avapartner.com^
 ||awstats.cloud^
+||awswaf.com^
 ||azointel.com^
 ||b1js.com^
 ||baremetrics.com^
@@ -41973,6 +41979,7 @@ inapps.appsflyersdk.com^
 ||xdisctracking.pw^
 ||xstats.net^
 ||xtraffstat.com^
+||yextevents.com^
 ||yieldlift.com^
 ||yldr.io^
 ||your-analytics.org^
@@ -42550,7 +42557,6 @@ inapps.appsflyersdk.com^
 ||propertypotato.com^
 ||psychedelicarithmetic.com^
 ||psychedelicchess.com^
-||pumpedpancake.com^
 ||punyplant.com^
 ||pushypipe.com^
 ||q20jqurls0y7gk8.info^
@@ -43353,6 +43359,7 @@ inapps.appsflyersdk.com^
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||dl.episerver.net^
+||doppler-beacon.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
@@ -43581,6 +43588,7 @@ inapps.appsflyersdk.com^
 ||reporting-api.gannettinnovation.com^
 ||reporting.cdndex.io^
 ||reports-api.sqreen.io^
+||reports.hibu.com^
 ||reports.pagesuite-professional.co.uk^
 ||reports.sdiapi.com^
 ||rest.wildstar-online.com^
@@ -45466,6 +45474,7 @@ vkcdnservice.appspot.com^
 ||count.prx.org^
 ||eventtracker.elitedaily.com^
 ||geo.perezhilton.com^
+||geo.play.it^
 ||geo.theawesomer.com^
 ||log.data.disney.com^
 ||log.deutschegrammophon.com^
@@ -45496,8 +45505,10 @@ vkcdnservice.appspot.com^
 ||sa.bbc.co.uk^
 ||sa.bbc.com^
 ||sp.baxterbulletin.com^
+||sp.udimg.com^
 ||sp.usatoday.com^
 ||spanids.reference.com^
+||stat.ruvr.ru^
 ||stat.torrentbar.com^
 ||stat.xhamsterpremium.com^
 ||stats.behance.net^
