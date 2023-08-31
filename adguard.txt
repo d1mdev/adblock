@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-08-30T22:00:17.981Z
+! Last modified: 2023-08-31T22:00:14.545Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4935,6 +4935,7 @@
 ||095c32183c.com^
 ||0963f42ebb.com^
 ||097be55da0.com^
+||09b074f4cf.com^
 ||0a05d34d6f.com^
 ||0a0d-d3l1vr.b-cdn.net^
 ||0a81d7e23a.com^
@@ -6436,6 +6437,7 @@
 ||ads.lemmatechnologies.com^
 ||ads.rd.linksynergy.com^
 ||ads1-adnow.com^
+||ads2-adnow.com^
 ||ads2550.bid^
 ||ads2ads.net^
 ||ads3-adnow.com^
@@ -9758,6 +9760,7 @@
 ||bruceleadx.com^
 ||bruceleadx1.com^
 ||bruceleadx2.com^
+||bruciainbowed.com^
 ||bruitedhurrahs.com^
 ||brumarmsful.com^
 ||brumbiedecagon.com^
@@ -9811,6 +9814,7 @@
 ||budapebluest.com^
 ||buddedpetrie.space^
 ||buddhamoduli.com^
+||budsminepatent.com^
 ||buench.com^
 ||buency.com^
 ||buffaloexemptdropped.com^
@@ -10055,6 +10059,7 @@
 ||caesaw.com^
 ||caeso-nmr.com^
 ||caffleklismos.website^
+||cagesscan.com^
 ||caglaikr.net^
 ||cagothie.net^
 ||cahvpbsikxvvm.xyz^
@@ -12834,6 +12839,7 @@
 ||dowseskelia.website^
 ||dowtyler.com^
 ||doxoonas.net^
+||doydplivplr.com^
 ||doyleysstagese.com^
 ||dozard.com^
 ||dozenactually.com^
@@ -13258,6 +13264,7 @@
 ||eb5232b35d.com^
 ||ebannertraffic.com^
 ||ebbetsgourded.com^
+||ebcfjgnjw.com^
 ||ebd.cda-hd.co^
 ||ebdr3.com^
 ||ebe29efc2c.com^
@@ -13806,6 +13813,7 @@
 ||ergadx.com^
 ||ergatesgurjun.com^
 ||erhousouokopeu.com^
+||eringosdye.com^
 ||erizoricher.life^
 ||erkeincepts.website^
 ||erm5aranwt7hucs.com^
@@ -14690,6 +14698,7 @@
 ||flatbedcouthy.space^
 ||flatcapspriggy.cam^
 ||flatepicbats.com^
+||flatgatherresource.com^
 ||flatlyforensics.com^
 ||flatteringbabble.com^
 ||flattoppugmill.uno^
@@ -14799,6 +14808,7 @@
 ||fogpurply.website^
 ||fogramokayed.com^
 ||fogvnoq.com^
+||fohanyjd.com^
 ||foheltou.com^
 ||foiblesretried.com^
 ||foigtiqvikc.xyz^
@@ -15066,6 +15076,7 @@
 ||frtya.com^
 ||frtyd.com^
 ||frugalityabruptly.com^
+||frugalpurpose.pro^
 ||frugalrushcap.com^
 ||fruins.com^
 ||fruitfulgreenhousefacility.com^
@@ -16493,6 +16504,7 @@
 ||herbiernohow.top^
 ||herdruler.com^
 ||hereabithec.com.ua^
+||hereditaryplead.com^
 ||herefoortowa.cc^
 ||hereincigarettesdean.com^
 ||heresanothernicemess.com^
@@ -18943,6 +18955,7 @@
 ||lauriestatuestroll.com^
 ||lauroneuplit.life^
 ||laushoar.xyz^
+||lausoudu.net^
 ||lauthana.net^
 ||lavando2scas1hh1.com^
 ||lavatorybrandnew.com^
@@ -19542,7 +19555,9 @@
 ||lqpmulou.com^
 ||lqriubyebqo.top^
 ||lr-in.com^
+||lrcdjqw.com^
 ||lrepampipa.com^
+||lreqmoonpjka.com^
 ||lrkenrerjkljb.top^
 ||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
@@ -20405,6 +20420,7 @@
 ||mizensdisney.com^
 ||mjehvuwgy.com^
 ||mjeltachv.com^
+||mjgvrxbu.com^
 ||mjjjhfgqqpt.com^
 ||mjnomtahm.com^
 ||mjtwoqupix.com^
@@ -22282,6 +22298,7 @@
 ||oqcrqirncna.xyz^
 ||oqeazohx.com^
 ||oqelpqoyyz.com^
+||oqnabsatfn.com^
 ||oqskrynuwam.com^
 ||oqxehynxtckgha.com^
 ||orahmaggi.xyz^
@@ -22946,6 +22963,7 @@
 ||pc1ads.com^
 ||pc20160301.com^
 ||pc2ads.com^
+||pc2ads.ru^
 ||pc5ads.com^
 ||pcbuqpdytqanufu.xyz^
 ||pccasia.xyz^
@@ -23440,6 +23458,7 @@
 ||pkudawbkcl.com^
 ||placeofres.com^
 ||placingtraditionalhobble.com^
+||placoidtobyman.com^
 ||plaguealacritytwitter.com^
 ||plaguemanipulatedrag.com^
 ||plaicecaught.com^
@@ -23817,6 +23836,7 @@
 ||ppcgqjehtuik.xyz^
 ||ppclinking.com^
 ||ppcnt.pro^
+||ppdiatk.com^
 ||ppfrlfe.com^
 ||ppgjebhcyu.com^
 ||pphauantic.com^
@@ -24545,6 +24565,7 @@
 ||pxfindone.com^
 ||pxl2015x1.com^
 ||pxmqdhcvpcsra.xyz^
+||pxsscerwyeiucg.com^
 ||pxtrkr.com^
 ||pxx23jkd.com^
 ||pxyrmsodhctqifm.com^
@@ -24661,11 +24682,13 @@
 ||qnjyeyc.com^
 ||qnlranvabrnq.top^
 ||qnsr.com^
+||qnwrtrss.com^
 ||qoaaa.com^
 ||qobarmbghaiv.xyz^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
 ||qomuchorindownlo.xyz^
+||qooanabj.com^
 ||qopzmao.com^
 ||qoqv.com^
 ||qoqxnuxneo.xyz^
@@ -25947,6 +25970,7 @@
 ||rurate.com^
 ||rurber.com^
 ||rurbie.com^
+||rurdauth.net^
 ||rusenov.com^
 ||rusheemeso.digital^
 ||rushendroopt.uno^
@@ -26346,6 +26370,7 @@
 ||seatsrehearseinitial.com^
 ||seayipsex.com^
 ||sebeewho.xyz^
+||secezo.uno^
 ||secludealcoholoverwhelm.com^
 ||secondaryabjure.com^
 ||secondboy.pro^
@@ -27281,6 +27306,7 @@
 ||sorroaconcupy.com^
 ||sorrowfulchemical.com^
 ||sorrowfulmaybe.pro^
+||sorrowgeneric.com^
 ||sorrycarboncolorful.com^
 ||sorryfearknockout.com^
 ||sorryparlor.com^
@@ -28456,6 +28482,7 @@
 ||tetractsycon.uno^
 ||tetryllinkage.com^
 ||tetrylscullion.com^
+||tettrro.info^
 ||tevdrduqq.com^
 ||tevermotoriesmyst.info^
 ||tewingrodents.uno^
@@ -30319,6 +30346,7 @@
 ||vax-boost.com^
 ||vax-now.com^
 ||vazypteke.pro^
+||vbijjrg.com^
 ||vbtrax.com^
 ||vbvpkdwucilopuw.xyz^
 ||vcbydvfouqqyls.com^
@@ -30491,6 +30519,7 @@
 ||vidghjlgkuyfk.site^
 ||vids-fun.online^
 ||vidsforyou.mom^
+||vidsforyou.online^
 ||vidsfun.info^
 ||vidsfun.online^
 ||vidsfun.space^
@@ -30783,6 +30812,7 @@
 ||vvickycira.com^
 ||vvobtrjtinsd.com^
 ||vvrbjtjxmlgcd.xyz^
+||vvsesfeunlu.com^
 ||vvvljeqasz.com^
 ||vvwbjuaerbgmrjm.com^
 ||vvyqxxgxlnptc.com^
@@ -30936,6 +30966,7 @@
 ||watchahv.com^
 ||watchcpm.com^
 ||watchercupboard.com^
+||watchexcellent.pics^
 ||watchingssu.com^
 ||watchingthat.com^
 ||watchingthat.net^
@@ -31402,6 +31433,7 @@
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
 ||wivesstandpoint.com^
+||wivoqi.uno^
 ||wixorqoqmq.com^
 ||wizardmarndl.com^
 ||wizhumpgyros.com^
@@ -33752,6 +33784,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||dmpmetrics.rcsmetrics.it^
 ||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
 ||agrvt.com^
@@ -40460,6 +40493,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||sg.log.ulivetv.net^
+||tracker.ulivetv.net^
+||trackernew.ulivetv.net^
+||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -41876,6 +41913,7 @@ inapps.appsflyersdk.com^
 ||tercept.com^
 ||testin.cn^
 ||tglyr.co^
+||thank-you.io^
 ||theagency.com^
 ||theardent.group^
 ||thinktot.com^
@@ -42429,6 +42467,7 @@ inapps.appsflyersdk.com^
 ||fearfulmint.com^
 ||fewjuice.com^
 ||fifthborder.com^
+||financefear.com^
 ||flowerycreature.com^
 ||foamypain.com^
 ||foretellfifth.com^
@@ -44227,6 +44266,7 @@ inapps.appsflyersdk.com^
 ||statystyki.panelek.com^
 ! Portuguese
 ||ad-tracker-api.luizalabs.com^
+||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
 ||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
@@ -44623,8 +44663,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Aug 2023 13:44 UTC+7
-! Version: 2308281344
+! Last modified: 31 Aug 2023 14:52 UTC+7
+! Version: 2308311452
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
