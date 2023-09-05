@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-04T22:00:27.554Z
+! Last modified: 2023-09-05T22:00:14.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1712,7 +1712,6 @@
 ||bshjzxt3apcciws.ru^
 ||bsvideo10.ru^
 ||buckridge.link^
-||bugaga.tut.by^
 ||bumaikr.com^
 ||busyprice.ru^
 ||buytraf.ru^
@@ -3712,7 +3711,6 @@
 ||userdata.ati.su^
 ||r.z3.fm^
 ||adv.topvideo.tj^
-||vast.playmatic.video^
 ||oba.rus-km.ru^
 ||dab.rus-km.ru^
 ||placeholder.treeum.net^
@@ -3863,10 +3861,6 @@
 ||rekl.seasonvar.ru^
 ||rotator.onokino.club^
 ||s.avforums.ru^
-||s1r.tut.by^
-||s2r.tut.by^
-||s3r.tut.by^
-||s4r.tut.by^
 ||sc.livetvcdn.net^
 ||server.zombie-tv.org^
 ||showbiz.mail.ru^
@@ -4169,6 +4163,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||audiomob.com^
 ||ads-api.kidsnote.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
@@ -5654,6 +5649,7 @@
 ||7ca78m3csgbrid7ge.com^
 ||7cc70.com^
 ||7d0feff074.com^
+||7da3a14504.com^
 ||7db44be9a6.com^
 ||7df1f04330.com^
 ||7dshfewr-0ewfivjkys.xyz^
@@ -6724,6 +6720,7 @@
 ||aesand.com^
 ||aesary.com^
 ||aesaul.com^
+||aevpinebvmdhih.com^
 ||afbatqo.com^
 ||afboskruta.com^
 ||afcnuchxgo.com^
@@ -7036,6 +7033,7 @@
 ||aj1985.online^
 ||aj2031.online^
 ||aj2218.online^
+||aj2396.online^
 ||aj2397.online^
 ||aj2430.online^
 ||aj2495.online^
@@ -7669,6 +7667,7 @@
 ||applabzzeydood.com^
 ||applandforbuddies.top^
 ||applandlight.com^
+||applandsforbests.com^
 ||applaudmaturityasunder.com^
 ||applausebind.com^
 ||applausesuch.com^
@@ -7716,6 +7715,7 @@
 ||apsmediaagency.com^
 ||apsoacou.xyz^
 ||apsoopho.net^
+||apt-ice.pro^
 ||aptdiary.com^
 ||aptimorph.com^
 ||aptitudeproprietor.com^
@@ -9209,6 +9209,7 @@
 ||bihunekus.com^
 ||bijitsoa.com^
 ||bijwawr.com^
+||bijwehk.com^
 ||bike-adsbidding.org^
 ||bikehowfaded.com^
 ||bikeno.xyz^
@@ -9530,6 +9531,7 @@
 ||bonesinoffensivebook.com^
 ||bonfiresaltymilk.com^
 ||bongacams7.com^
+||bongauns.xyz^
 ||bonnetiere-infrangible-burthening.xyz^
 ||bonnettaking.com^
 ||bonnnesfoxily.com^
@@ -9992,6 +9994,7 @@
 ||bwbmyzvjnqlwv.top^
 ||bwjjrmmxgdax.xyz^
 ||bwmvzwkbqlmrz.top^
+||bwnmwhblsf.com^
 ||bwpcsycysm.xyz^
 ||bwvqjqmlkezkl.top^
 ||bwzlmmqwrrarv.top^
@@ -10790,6 +10793,7 @@
 ||ciscavossh.com^
 ||ciscoesfirring.guru^
 ||cisheeng.com^
+||cisiwa.site^
 ||cissidthija.com^
 ||cisthowibah.com^
 ||ciststoquets.space^
@@ -13305,6 +13309,7 @@
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
+||eachuit.uno^
 ||eadirtlseivid.xyz^
 ||eads.to^
 ||eae5daf052d2673b.com^
@@ -14161,6 +14166,7 @@
 ||excellent-closet.pro^
 ||excellent-vids.online^
 ||excellentinvolved.com^
+||excellentpics.space^
 ||excellentvids.online^
 ||excellentvids.space^
 ||exceph.com^
@@ -16463,6 +16469,7 @@
 ||halteddropped.com^
 ||haltough.net^
 ||hambul.com^
+||haminu.space^
 ||hamletuponcontribute.com^
 ||hammaidentomb.guru^
 ||hammaidreswill.com^
@@ -17676,6 +17683,7 @@
 ||inflictmistycarlos.com^
 ||influencer2020.com^
 ||influenzahabit.com^
+||infodonorbranch.com^
 ||infopagleey.com^
 ||infopicked.com^
 ||informcheck.net^
@@ -18992,6 +19000,7 @@
 ||krrtxbfbeey.top^
 ||krubisstratic.com^
 ||ksehinkitw.hair^
+||kshzlyvbaaa.com^
 ||kssvsjfhxpzwfd.com^
 ||ksurpiwdayc.com^
 ||kt5850pjz0.com^
@@ -19836,6 +19845,7 @@
 ||lqpmulou.com^
 ||lqriubyebqo.top^
 ||lr-in.com^
+||lraonxdikxi.com^
 ||lrcdjqw.com^
 ||lrepampipa.com^
 ||lreqmoonpjka.com^
@@ -19958,6 +19968,7 @@
 ||lxfsimoastsiite.xyz^
 ||lxheot.com^
 ||lxmwfqqvyvmsxlw.com^
+||lxmynmdcsavsdl.com^
 ||lxstat.com^
 ||lxudshpck.com^
 ||lybunbacwf.com^
@@ -20009,6 +20020,7 @@
 ||ma2gs3wne3gfej70osium.com^
 ||ma3ryh8l6v.de^
 ||maboazolsamp.com^
+||mabtcaraqdho.com^
 ||macan-native.com^
 ||macedonjesse.life^
 ||macemaninbond.com^
@@ -22335,6 +22347,7 @@
 ||olatumal.com^
 ||olayomad.com^
 ||old-go.pro^
+||oldassist.pro^
 ||oldcwiamf.com^
 ||olderdeserved.com^
 ||oldership.com^
@@ -22709,6 +22722,7 @@
 ||ormolustuke.top^
 ||ornery-animal.pro^
 ||orpheushooven.com^
+||orqaxjj.com^
 ||orquideassp.com^
 ||orrabxofvju.com^
 ||orricesoxhlet.com^
@@ -23305,6 +23319,7 @@
 ||pbamjgga.com^
 ||pbdjtlghawpiuoq.com^
 ||pbdo.net^
+||pbhjohrx.xyz^
 ||pbkqidejmes.ru^
 ||pblcpush.com^
 ||pblinq.com^
@@ -23652,6 +23667,7 @@
 ||photographediblefiend.com^
 ||photographingmake.com^
 ||photographingstirinput.com^
+||phourdee.com^
 ||phouvemp.net^
 ||phouwims.net^
 ||phrensaltier.com^
@@ -23804,6 +23820,7 @@
 ||piwixesu.pro^
 ||pixazza.com^
 ||pixelhere.com^
+||pixelplay.pro^
 ||pixfuture.net^
 ||pixinform.com^
 ||pixiv.org^
@@ -23999,6 +24016,7 @@
 ||poisonoustrolleyenhance.com^
 ||pokaroad.net^
 ||pokerflickerfed.com^
+||pokerobjet.com^
 ||poketraff.com^
 ||pokeythorpe.life^
 ||pokingrate.com^
@@ -26261,6 +26279,7 @@
 ||rpts.org^
 ||rqhere.com^
 ||rqnomljdot.xyz^
+||rqpcgvey.com^
 ||rqtrk.eu^
 ||rqvahauofbdg.com^
 ||rreauksofthecom.xyz^
@@ -28199,6 +28218,7 @@
 ||stixeepou.com^
 ||stized.com^
 ||stizoolr.com^
+||stkgbjliym.com^
 ||stoaltaw.net^
 ||stoaphalti.com^
 ||stoapoothu.com^
@@ -28624,6 +28644,7 @@
 ||syntaxtruckspoons.com^
 ||synthesissocietysplitting.com^
 ||synthesisvariables.com^
+||syofklngqqlw.com^
 ||syphilohmmaging.site^
 ||syrill.com^
 ||syringaburan.digital^
@@ -29690,6 +29711,7 @@
 ||tradingpancreasdevice.com^
 ||traditionallymeasuringwire.com^
 ||traditionallyobjectlessblinked.com^
+||traff01traff02.site^
 ||traff0221.com^
 ||traffdaq.com^
 ||traffic.adexprtz.com^
@@ -31360,6 +31382,7 @@
 ||vwl7kia4fzz6.com^
 ||vwuyuahqf.com^
 ||vxjmolopbsma.com^
+||vxlpuja.com^
 ||vxsxczfsmfj.com^
 ||vxvjgsgqyee.com^
 ||vxxizaan.com^
@@ -31476,6 +31499,7 @@
 ||warmanmamelon.com^
 ||warmheartedtackle.pro^
 ||warmthsmasseur.com^
+||warnmessage.com^
 ||warpassistrefrain.com^
 ||warswhitawe.com^
 ||warten-sie-mal.xyz^
@@ -31533,6 +31557,7 @@
 ||waushool.com^
 ||waust.at^
 ||wauthaik.net^
+||wauwitew.net^
 ||wavablehood.com^
 ||waveclks.com^
 ||wavermerchandiseweird.com^
@@ -31567,6 +31592,7 @@
 ||wboptim.online^
 ||wboux.com^
 ||wbsads.com^
+||wbvjhlaljp.com^
 ||wcadlvruvrq.xyz^
 ||wccprfxgbes.com^
 ||wchctzzkzkhx.com^
@@ -32009,14 +32035,11 @@
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlawpzx.com^
-||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
-||wlt-alice.de^
-||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^
@@ -32842,6 +32865,7 @@
 ||yx-ads6.com^
 ||yxajqsrsij.com^
 ||yxeqahmgyxqdid.com^
+||yxgacdl.com^
 ||yxguqmcemyjiwb.com^
 ||yxkhpk.com^
 ||yxpoprve.com^
@@ -32875,6 +32899,7 @@
 ||zalawqsahn.com^
 ||zaltaumi.net^
 ||zamansolpuga.com^
+||zambianmarlena.com^
 ||zamiasbrouze.com^
 ||zamioculcas2.org^
 ||zangocash.com^
@@ -33777,6 +33802,7 @@
 ||headerbidding.ai^
 ||headerlift.com^
 ||healthtrader.com^
+||heliumads.com^
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
 ||hotelscombined.com.au^
@@ -34006,6 +34032,7 @@
 ||persevered.com^
 ||pixeltrack66.com^
 ||placeiq.com^
+||playmatic.video^
 ||playtem.com^
 ||pointclicktrack.com^
 ||points2shop.com^
@@ -34370,6 +34397,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||statgw.devtodev.com^
 ||dmpmetrics.rcsmetrics.it^
 ||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
@@ -41862,6 +41890,10 @@ inapps.appsflyersdk.com^
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
+||wlct-one.de^
+||wlct-two.de^
+||wlt-alice.de^
+||wlt-jupiter.de^
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
@@ -45259,8 +45291,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Sep 2023 21:13 UTC+7
-! Version: 2309032113
+! Last modified: 05 Sep 2023 10:13 UTC+7
+! Version: 2309051013
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -46235,6 +46267,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
+@@||sponsor.nitropay.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157550
 @@||click.cptrack.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
