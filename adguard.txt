@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-06T22:00:13.542Z
+! Last modified: 2023-09-07T22:00:13.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6958,6 +6958,7 @@
 ||ahgcumvpyal.com^
 ||ahjopnbimr.com^
 ||ahjrinrucmp.com^
+||ahjshyoqlo.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahnioppshfwq.com^
@@ -9454,6 +9455,7 @@
 ||bmmauazi.com^
 ||bmpgkspo.xyz^
 ||bmptbyb.com^
+||bmqtvmdg.xyz^
 ||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
@@ -10014,6 +10016,7 @@
 ||buytieposer.com^
 ||buzzardcraizey.com^
 ||buzzvids-direct.com^
+||bvcsfcx.com^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvnlrqvinhsje.com^
@@ -10854,6 +10857,7 @@
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckeckstatus.biz^
+||ckofrnk.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||ckuwrlxngdrfk.com^
@@ -11070,6 +11074,7 @@
 ||cluttered-win.pro^
 ||clvacjv.com^
 ||clvceacvvwgk.xyz^
+||clxlxmbtysabn.com^
 ||clxlydpqpnsvxso.xyz^
 ||clxtsxwjp.com^
 ||clydetugger.com^
@@ -13020,6 +13025,7 @@
 ||dpbxtrqyljhse.xyz^
 ||dpdnav.com^
 ||dpfchqsiksjuyjc.xyz^
+||dphpycbr.com^
 ||dpipel.com^
 ||dpmsrv.com^
 ||dprograp.online^
@@ -13584,6 +13590,7 @@
 ||eergaroa.com^
 ||eergithi.com^
 ||eeroawug.com^
+||eersutoo.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
 ||eessoost.net^
@@ -14747,6 +14754,7 @@
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
 ||ffrywcxaewmpp.com^
+||fftagtden.com^
 ||ffuzila.com^
 ||ffyabcmahqiz.com^
 ||fgddrrr.com^
@@ -17446,6 +17454,7 @@
 ||iebsmqevw.com^
 ||iecjqkiawvifx.com^
 ||ieememberhima.xyz^
+||ieicbkjmmqkcmgq.com^
 ||iendoo.com^
 ||ietyofedinj89yewtburgh.com^
 ||iewhonhdvryu.com^
@@ -21363,7 +21372,6 @@
 ||n49seircas7r.com^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n9s74npl.de^
-||na4u.ru^
 ||naambonder.com^
 ||naampone.com^
 ||naatookyois.com^
@@ -21540,6 +21548,7 @@
 ||nedouseso.com^
 ||neechube.net^
 ||neechuce.net^
+||needeevo.xyz^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
 ||neednguarded.space^
@@ -24092,6 +24101,7 @@
 ||plungepilmy.com^
 ||pluralsoc.uno^
 ||plusclick.biz^
+||plusungratefulinstruction.com^
 ||plutonactg.com^
 ||plutothejewel.com^
 ||plxserve.com^
@@ -24389,6 +24399,7 @@
 ||ppixufsalgm.com^
 ||pplferio.com^
 ||ppoommhizazn.com^
+||ppovysmcycmwvv.com^
 ||pppbr.com^
 ||pprq7.com^
 ||pqnnjjpzarpb.com^
@@ -25373,6 +25384,7 @@
 ||qxeemdpaerfjer.xyz^
 ||qxhspimg.com^
 ||qxrbu.com^
+||qxuelcdfvgecwpb.com^
 ||qxycdoexyj.com^
 ||qyajwjyjnavzq.top^
 ||qyenlspei.com^
@@ -25639,6 +25651,7 @@
 ||recipeominouscrest.com^
 ||recipesunny.com^
 ||reciprocaldowntownabout.com^
+||reciteassemble.com^
 ||reciteimplacablepotato.com^
 ||recklessliver.com^
 ||recklessmarine.com^
@@ -27461,6 +27474,7 @@
 ||sighcrowdivorce.com^
 ||sigherdoless.com^
 ||sighsuspectshaped.com^
+||sightercanidae.com^
 ||sightjutfar.com^
 ||sighttermportent.com^
 ||sigilsspeiss.com^
@@ -29835,6 +29849,7 @@
 ||tpn134.com^
 ||tpopularcldfa.co^
 ||tpopularcldfb.co^
+||tposkglvqookv.xyz^
 ||tpycithabalj.com^
 ||tpyshaaxps.com^
 ||tpyxplkcap.top^
@@ -31725,6 +31740,7 @@
 ||watchnewpics.info^
 ||watchnewpics.space^
 ||watchnewvids.online^
+||watchnewvids.space^
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
@@ -31753,6 +31769,7 @@
 ||wavingteenagecandle.com^
 ||wavysnarlfollow.com^
 ||wawadoga.com^
+||wawhairt.net^
 ||waxaimg.info^
 ||waxapushlite.com^
 ||waxapushlite.info^
@@ -33674,6 +33691,7 @@
 ||allmediadesk.com^
 ||alpha-affiliates.com^
 ||alright.network^
+||amateur.cash^
 ||andbeyond.media^
 ||anicli.click^
 ||anyclip-media.com^
@@ -41199,15 +41217,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logupdate.avlyun.sec.miui.com^
 ||r.browser.miui.com^
 ||tracking.miui.com^
-||xlmc.sec.miui.com^
 ||data.mistat.intl.xiaomi.com^
 ||register.xmpush.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
-||zeus.ad.intl.xiaomi.com^
 ||api.ad.intl.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||api.miui.security.xiaomi.com^
-||shenghuo.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||api.ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
@@ -41503,7 +41518,6 @@ inapps.appsflyersdk.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
-||tag.karte.io^
 ||alogsus.umeng.com^
 ||log1.happymod.com^
 ||log.pvpgang.com^
@@ -41513,7 +41527,6 @@ inapps.appsflyersdk.com^
 ||tr.line.me^
 ||analytics.enjoymobiserver.com^
 ||b94.yahoo.co.jp^
-||api.smbeat.jp^
 ||hibiki-track.logica.bz^
 ||msg-intl.qy.net^
 ||log.mgtv.com^
@@ -41660,9 +41673,7 @@ inapps.appsflyersdk.com^
 ||stat.m.360.cn^
 ||stats-a.maxthon.com^
 ||pgapi.ksmobile.com^
-||helpgrid1.ksmobile.com^
 ||gcm.ksmobile.net^
-||gameanalisys.appcpi.net^
 ||adsaccount.appcpi.net^
 ||adtrack.appcpi.net^
 ||remain.appcpi.net^
@@ -41689,7 +41700,6 @@ inapps.appsflyersdk.com^
 ||ploy.batmobi.net^
 ||an.batmobi.net^
 ||analytics.any.do^
-||oc.umeng.co^
 ||m.vpadn.com^
 ||api.instabug.com^
 ||sts.batmobi.net^
@@ -41707,9 +41717,7 @@ inapps.appsflyersdk.com^
 ||e-ssl.apsalar.com^
 ||logger.cloudmobi.net^
 ||analytics-tracker.thescore.com^
-||app.roximity.com^
 ||report*.appmetrica.webvisor.com^
-||api.oneaudience.com^
 ||api.gameofwhales.com^
 ||d.applvn.com^
 ||rt.applvn.com^
@@ -41719,12 +41727,9 @@ inapps.appsflyersdk.com^
 ||patriot.cs.pp.cn^
 ||sdk-orion.appboy.com^
 ||io.narrative.io^
-||tracking.viewster.com^
-||logcollector.viewster.com^
 ||applog.uc.cn^
 ||dispatcher.upmc.uc.cn^
 ||gjapplog.uc.cn^
-||a.bitmango.com^
 ||tracking.directservices.it^
 ||metrics.timewarnercable.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -41750,7 +41755,6 @@ inapps.appsflyersdk.com^
 ||alog.umengcloud.com^
 ||amp-error-reporting.appspot.com^
 ||analytics.mobile.yandex.net^
-||analyzer.omniata.com^
 ||andmlb.kshwtj.com^
 ||api-analytics-bootstrap.metaps.com^
 ||api-analytics.metaps.com^
@@ -41801,7 +41805,6 @@ inapps.appsflyersdk.com^
 ||ssl-google-analytics.l.google.com^
 ||stat.duokanbox.com^
 ||stats.popcap.com^
-||stats.unity3d.com^
 ||tknet.rayjump.com^
 ||tns.simba.taobao.com^
 ||track.pingstart.com^
@@ -42001,7 +42004,7 @@ inapps.appsflyersdk.com^
 ||p2r14.com^
 ||p7cloud.net^
 ||pageid.info^
-||peiq.de^
+||peiq.services^
 ||pixel-tracker.com^
 ||pixrealm.com^
 ||pjstat.com^
@@ -43980,7 +43983,6 @@ inapps.appsflyersdk.com^
 ||analytics.cincopa.com^
 ||analytics.cmn.com^
 ||analytics.convertlanguage.com^
-||analytics.dealer.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.disneyinternational.com^
@@ -44340,6 +44342,7 @@ inapps.appsflyersdk.com^
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
+||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -44525,6 +44528,7 @@ inapps.appsflyersdk.com^
 ||t.enuygun.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
+||t.playwayfinder.com^
 ||t.pointandplace.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
@@ -44699,6 +44703,7 @@ inapps.appsflyersdk.com^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
+||d1qbbgtcslwdbx.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
