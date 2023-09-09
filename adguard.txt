@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-08T22:00:13.438Z
+! Last modified: 2023-09-09T22:00:14.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4941,6 +4941,7 @@
 ||0b07d5f0b1.com^
 ||0b19760679.com^
 ||0b4cdd5af5.com^
+||0b73f85f92.com^
 ||0c257610de.com^
 ||0c6dd161e9.com^
 ||0cdn.xyz^
@@ -9242,6 +9243,7 @@
 ||bigneptunesept.com^
 ||bigotpenniless.com^
 ||bigrourg.net^
+||bigvids.space^
 ||bihake.com^
 ||bihunekus.com^
 ||bijitsoa.com^
@@ -9705,6 +9707,7 @@
 ||boyishstatisticsdear.com^
 ||boyughaye.com^
 ||boywhowascr.info^
+||bpgeylke.xyz^
 ||bpiomsgxkfphrg.com^
 ||bponxqlit.com^
 ||bpplkotkpduwob.com^
@@ -9913,6 +9916,7 @@
 ||budapebluest.com^
 ||buddedpetrie.space^
 ||buddhamoduli.com^
+||budroups.xyz^
 ||budsminepatent.com^
 ||buench.com^
 ||buency.com^
@@ -10322,6 +10326,7 @@
 ||cash-program.com^
 ||cash4members.com^
 ||cashewsforlife208.com^
+||cashieratrocity.com^
 ||cashlayer.com^
 ||cashmylinks.com^
 ||cashoossikara.uno^
@@ -11666,6 +11671,7 @@
 ||cpxckfridcxst.com^
 ||cpxdeliv.com^
 ||cpxinteractive.com^
+||cqdaznl.com^
 ||cqfqrvghjgu.com^
 ||cqlsewa.com^
 ||cqlupb.com^
@@ -11745,6 +11751,7 @@
 ||crimeansnakily.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
+||crimpedmelanic.com^
 ||crimsondozeprofessional.com^
 ||crisdomson.com^
 ||crisistuesdayartillery.com^
@@ -12555,6 +12562,7 @@
 ||dgxmvglp.com^
 ||dh956.com^
 ||dharmaashman.com^
+||dhhuakggx.xyz^
 ||dhlyikbubkibk.com^
 ||dhowsptelea.com^
 ||dhthrewdownth.xyz^
@@ -12865,6 +12873,7 @@
 ||dmm-video.online^
 ||dmnprx.com^
 ||dmowvblljmkqx.com^
+||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
 ||dmwiguazwm.com^
@@ -12873,6 +12882,7 @@
 ||dnavtbt.com^
 ||dnemkhkbsdbl.com^
 ||dnhyakcwoedah.com^
+||dnjsiye.com^
 ||dnoicciekfm.xyz^
 ||dnswinq.com^
 ||doaboowa.com^
@@ -13995,6 +14005,7 @@
 ||eoafgbgyebbcy.com^
 ||eoaktaposh.com^
 ||eofst.com^
+||eogaeapolaric.com^
 ||eondunpea.com^
 ||eonsmedia.com^
 ||eonwayaha.com^
@@ -15092,6 +15103,7 @@
 ||foamlifeboatriddance.com^
 ||foamsomethingrobots.com^
 ||foapsovi.net^
+||foasteki.net^
 ||fobeetch.net^
 ||focalex.com^
 ||focath.com^
@@ -15129,6 +15141,7 @@
 ||followtrusted.com^
 ||fomentirrite.top^
 ||fometh.com^
+||fompouta.xyz^
 ||fondautographexecution.com^
 ||fondledrunken.com^
 ||fondnessbrokestreet.com^
@@ -15350,6 +15363,7 @@
 ||fripth.xyz^
 ||friskbiscuit.com^
 ||fristminyas.com^
+||fritdugs.com^
 ||frittercommittee.com^
 ||fritue.com^
 ||frivolous-copy.pro^
@@ -15808,6 +15822,7 @@
 ||gfkhapiuxjkspbq.xyz^
 ||gfnfzleduflvkt.com^
 ||gforanythingam.com^
+||gfprtdrgcyuxc.com^
 ||gfsdloocn.com^
 ||gftkofhnz.com^
 ||gfumirjiva.com^
@@ -16477,6 +16492,7 @@
 ||guidonsfeeing.com^
 ||guiletoad.com^
 ||guistspregna.xyz^
+||gujakqludcuk.com^
 ||gujolwjidk.com^
 ||gukodxxhkc.xyz^
 ||gullible-hope.com^
@@ -17527,6 +17543,7 @@
 ||ifinaukncecaf.xyz^
 ||ifknittedhurtful.com^
 ||ifpartyingpile.com^
+||ifrjnpv.com^
 ||ifsmatbeg.site^
 ||ifsnickshriek.com^
 ||ifvxoluyhof.com^
@@ -18511,6 +18528,7 @@
 ||jjwmlaynwwjlw.top^
 ||jjygptw.com^
 ||jk4lmrf2.de^
+||jkdzimao.com^
 ||jkha742.xyz^
 ||jklbilitukyd.xyz^
 ||jkthlsrdhni.com^
@@ -18666,6 +18684,7 @@
 ||jugcontainer.com^
 ||jugerfowells.com^
 ||jugixgjqx.xyz^
+||juhece.uno^
 ||juiceadv.com^
 ||juiceadv.net^
 ||juicyads.com^
@@ -18735,6 +18754,7 @@
 ||jvrawodh.com^
 ||jvylyreyazmea.top^
 ||jwalf.com^
+||jweqtiikcx.com^
 ||jwjxjuvrnkv.com^
 ||jwnmnnnzrebqa.top^
 ||jwplayer.space^
@@ -19598,6 +19618,7 @@
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
 ||lgbxelnukhsil.xyz^
+||lgdmconwvygoo.com^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
 ||lgse.com^
@@ -19904,6 +19925,7 @@
 ||loniil.com^
 ||lonits.com^
 ||lonreddone.com^
+||lontegismftvnf.com^
 ||looceemu.net^
 ||loodoost.net^
 ||loogreem.xyz^
@@ -21092,6 +21114,7 @@
 ||monkeysloveyou.com^
 ||monkeyunseen.com^
 ||monkquestion.com^
+||monksmilestonewill.com^
 ||monksplatane.com^
 ||monkyank.com^
 ||monopolypenitentiarynegligence.com^
@@ -22623,6 +22646,7 @@
 ||omkafdowdm.com^
 ||omkitww.com^
 ||omkogswhetc.com^
+||omkxadadsh.com^
 ||ommatearittock.digital^
 ||omnatuor.com^
 ||omni-ads.com^
@@ -23443,6 +23467,7 @@
 ||parth2enerocis9tsust2ricus7pidata.com^
 ||parthanonstatue.com^
 ||partial-bitter.com^
+||partial-pair.pro^
 ||partiallyrunnerproductive.com^
 ||particinepartm.com^
 ||participateoppositedifferent.com^
@@ -23574,6 +23599,7 @@
 ||pccasia.xyz^
 ||pclk.name^
 ||pcmclks.com^
+||pcruwbk.com^
 ||pctlwm.com^
 ||pctsrv.com^
 ||pd-news.com^
@@ -24197,6 +24223,7 @@
 ||plywoodenchant.com^
 ||plywoodfact.com^
 ||pmaosrgeieft.com^
+||pmc1201.com^
 ||pmetorealiukze.xyz^
 ||pmieprlpq.com^
 ||pmimdcjx.com^
@@ -24448,6 +24475,7 @@
 ||potsaglu.net^
 ||potshumiliationremnant.com^
 ||potskolu.net^
+||potslascivious.com^
 ||potwm.com^
 ||pouchclockwise.com^
 ||poufaini.com^
@@ -24697,6 +24725,7 @@
 ||proffering.xyz^
 ||profi-para.com^
 ||proficientfly.com^
+||profilecrave.com^
 ||profileoffencewithdraw.com^
 ||profitable-sleep.pro^
 ||profitablecpmgate.com^
@@ -25543,6 +25572,7 @@
 ||raiphoos.com^
 ||raisedmanatee.com^
 ||raisentotic.uno^
+||raisingsupportive.com^
 ||rajabets.xyz^
 ||rakamu.com^
 ||rakhen.com^
@@ -26473,6 +26503,7 @@
 ||rordukinarilyhuke.info^
 ||roredi.com^
 ||rorgoops.com^
+||roriba.uno^
 ||roripagrolier.com^
 ||rorserdy.com^
 ||rosafun.com^
@@ -27383,6 +27414,7 @@
 ||shatoawussoo.com^
 ||shattermessseedling.com^
 ||shaufoal.com^
+||shauhacm.net^
 ||shauhaik.xyz^
 ||shauksug.com^
 ||shaumtol.com^
@@ -28776,6 +28808,7 @@
 ||suppermalignant.com^
 ||supperopeningturnstile.com^
 ||supplejog.com^
+||suppliedhopelesspredestination.com^
 ||supplysuede.com^
 ||supportiveworking.pro^
 ||supposereduction.com^
@@ -30151,6 +30184,7 @@
 ||trinitywishful.com^
 ||triodiaimprasa.live^
 ||tripledeliveryinstance.com^
+||tripphloems.com^
 ||tripsthorpelemonade.com^
 ||tristeacream.uno^
 ||tritat3.info^
@@ -31221,6 +31255,7 @@
 ||vcdpuyl.com^
 ||vcmedia.com^
 ||vcommission.com^
+||vcsesvwajeup.com^
 ||vcuasvopknu.com^
 ||vcvacpaenqepvm.com^
 ||vddf0.club^
@@ -31835,6 +31870,7 @@
 ||wasoffspring.com^
 ||wasp-182b.com^
 ||waspishamendbulb.com^
+||wasqimet.net^
 ||wasquite.buzz^
 ||wastedclassmatemay.com^
 ||wastedinvaluable.com^
@@ -44368,6 +44404,7 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
+||fenix.walkerllaw.org^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
