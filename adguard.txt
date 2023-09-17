@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-16T22:00:13.741Z
+! Last modified: 2023-09-17T22:00:13.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5561,6 +5561,7 @@
 ||6472bb8689.com^
 ||648c44a31f.com^
 ||648d969d69.com^
+||6593167243.com^
 ||65mjvw6i1z.com^
 ||65vk1fba34.com^
 ||660cba7db1.com^
@@ -12320,6 +12321,7 @@
 ||dearfiring.com^
 ||dearlyseedsad.com^
 ||dearlystoop.com^
+||deatchshipsmotor.com^
 ||deavynuotbrohw.xyz^
 ||debartoloqbacademy.com^
 ||debatableslippers.com^
@@ -12676,6 +12678,7 @@
 ||dicinging.co.in^
 ||dicknearbyaircraft.com^
 ||diclotrans.com^
+||dicouksa.com^
 ||dictatepantry.com^
 ||dictaterepublicbog.com^
 ||dictationtense.com^
@@ -13141,6 +13144,7 @@
 ||dovemajorem.com^
 ||dovenedouthorn.com^
 ||dovictinian.com^
+||doweralrostra.com^
 ||doweryacreak.website^
 ||down1oads.com^
 ||downladingsite.com^
@@ -14025,6 +14029,7 @@
 ||enebyq.com^
 ||eneffe.com^
 ||enemieshemisphere.com^
+||enenlyb.com^
 ||enerab.com^
 ||enerativearea.org^
 ||energeticexample.com^
@@ -14136,6 +14141,7 @@
 ||eoseurlingeringont.com.ua^
 ||eoveukrnme.info^
 ||eoweridus.com^
+||eownouncillors.info^
 ||epacash.com^
 ||epagogerepines.com^
 ||epailseptox.com^
@@ -15291,6 +15297,7 @@
 ||followtrusted.com^
 ||fomentirrite.top^
 ||fometh.com^
+||fomfwrpfklckhr.com^
 ||fompouta.xyz^
 ||fondautographexecution.com^
 ||fondledrunken.com^
@@ -15721,6 +15728,7 @@
 ||gaizeissuer.com^
 ||gakamlsu.com^
 ||galacticmenueasier.com^
+||galajou.com^
 ||galaks.io^
 ||galanasorra.com^
 ||galaxypush.com^
@@ -16137,6 +16145,7 @@
 ||gleegloo.net^
 ||gleejoad.net^
 ||gleemsomto.com^
+||gleeneep.com^
 ||gleetchisurvey.top^
 ||gleetedbunged.uno^
 ||glefeesh.net^
@@ -16640,6 +16649,7 @@
 ||gruponn.com^
 ||grusifof.com^
 ||grusungiddy.com^
+||gruwalom.xyz^
 ||grygrothapi.pro^
 ||gsclvurjec.xyz^
 ||gscontxt.net^
@@ -17759,6 +17769,7 @@
 ||ifinaukncecaf.xyz^
 ||ifknittedhurtful.com^
 ||ifpartyingpile.com^
+||ifplumhggkz.com^
 ||ifrjnpv.com^
 ||ifsmatbeg.site^
 ||ifsnickshriek.com^
@@ -18061,6 +18072,7 @@
 ||infeofhobbit.com^
 ||inferiorface.com^
 ||inferiorfreedom.com^
+||inferiorkate.com^
 ||inferrig.com^
 ||infesthazardous.com^
 ||infestpaddle.com^
@@ -18637,6 +18649,7 @@
 ||jdoqocy.com^
 ||jdwhlqb.com^
 ||jdxpaoojg.com^
+||jdyxpbaskvkyh.xyz^
 ||je8fn.com^
 ||jealouschallenge.pro^
 ||jealousyimpostersophia.com^
@@ -21905,6 +21918,7 @@
 ||naturalhealthsource.club^
 ||naturalistsbumpmystic.com^
 ||naucaips.com^
+||naughtynotice.pro^
 ||naustoch.net^
 ||navalreasonablynearby.com^
 ||navaltophes.com^
@@ -25064,6 +25078,7 @@
 ||privacywithholdrepose.com^
 ||privatediamond.pro^
 ||privateleaflet.com^
+||privatelookhack.com^
 ||privatrac.com^
 ||privilegest.com^
 ||prizeimpertinentforbidden.com^
@@ -27830,6 +27845,7 @@
 ||sgeujrpxuqyzqd.com^
 ||sgftrrs.com^
 ||sgnetwork.co^
+||sgnvuowhv.com^
 ||sgrupontihecliff.xyz^
 ||sgsincentlyse.xyz^
 ||sgvdqykfjuk.com^
@@ -28210,6 +28226,7 @@
 ||sjevdjqhdmlelo.com^
 ||sjhfnmfki.com^
 ||sjjaewodpexdcyf.com^
+||sjkzeivw.com^
 ||sjomilbedwarf.digital^
 ||sjtactic.com^
 ||sjtbhdeakgsgr.com^
@@ -29298,6 +29315,7 @@
 ||sunsekrious.com^
 ||sunsetbassan.uno^
 ||sunsetcigarettejubilee.com^
+||sunspotpitchy.website^
 ||sunstrokeload.com^
 ||sunwardamoraic.com^
 ||supapush.net^
@@ -30494,6 +30512,7 @@
 ||touchtamilic.com^
 ||touchycart.com^
 ||tougherrancor.website^
+||toughtoxacid.com^
 ||toumnahrafale.com^
 ||toupsonie.com^
 ||touptaiw.xyz^
@@ -31754,6 +31773,7 @@
 ||vapourfertile.com^
 ||vapoursumptuousgutter.com^
 ||varabs.com^
+||varasbrijkt.com^
 ||vardasvideo.com^
 ||vardesvideo.com^
 ||vardosvideo.com^
@@ -31986,6 +32006,7 @@
 ||vidforclips.space^
 ||vidghjlgkuyfk.site^
 ||vids-fun.online^
+||vidsbig.online^
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfun.info^
@@ -44790,6 +44811,7 @@ inapps.appsflyersdk.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
+||a.opumo.net^
 ||aan.amazon.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
@@ -45128,6 +45150,7 @@ inapps.appsflyersdk.com^
 ||hspbotdetection.azurewebsites.net^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
+||identification.hotmart.com^
 ||imp.constantcontact.com^
 ||impress.vcita.com^
 ||inbound-analytics.pixlee.co^
