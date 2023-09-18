@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-17T22:00:13.969Z
+! Last modified: 2023-09-18T22:00:14.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5980,6 +5980,7 @@
 ||aboardcarr.com^
 ||aboardhotdog.com^
 ||aboarea.com^
+||aboenab.com^
 ||abohara.com^
 ||abolaed.com^
 ||abolid.com^
@@ -7315,6 +7316,7 @@
 ||alysson.de^
 ||am10.ru^
 ||am11.ru^
+||amaasretrims.top^
 ||amabarbery.website^
 ||amadagasca.com^
 ||amads.fun^
@@ -7854,6 +7856,7 @@
 ||armisticeexpress.com^
 ||armlockyakker.com^
 ||armoryleaseholder.com^
+||armourhardilytraditionally.com^
 ||armoursviolino.com^
 ||armpeeoy.com^
 ||armpitcousins.com^
@@ -7944,6 +7947,7 @@
 ||asdccc.xyz^
 ||asdguswfys.com^
 ||asdpoi.com^
+||asdqslnqmwwkc.com^
 ||asdtiotyuknsy.xyz^
 ||asdxntvjpsyl.com^
 ||asecarenterhosi.xyz^
@@ -9253,6 +9257,7 @@
 ||biemedia.com^
 ||biforinslogs.life^
 ||bifsujtwmpojqpt.com^
+||biftoast.com^
 ||bigappboi.com^
 ||bigbasketshop.com^
 ||bigbolz.com^
@@ -9371,6 +9376,7 @@
 ||bkuhkifadcaz.com^
 ||bkxwqhwcwnr.xyz^
 ||bkypaqsirm.com^
+||bkyqhavuracs.com^
 ||bl0uxepb4o.com^
 ||bl230126pb.com^
 ||blabhorol.com^
@@ -10518,6 +10524,7 @@
 ||cdtbox.rocks^
 ||cduamwclb.com^
 ||cdwehdnnprdntse.com^
+||ce2c208e9f.com^
 ||ceamtaaprhha.xyz^
 ||ceawoment.info^
 ||ceawvx.com^
@@ -10700,6 +10707,7 @@
 ||cheatoppressive.com^
 ||chebecsunsack.com^
 ||checaigu.net^
+||chechawia.com^
 ||check-now.online^
 ||check-out-this.site^
 ||checkcdn.net^
@@ -12096,6 +12104,7 @@
 ||da03ab7249.com^
 ||da1a0e7bb3.com^
 ||daailynews.com^
+||dabbyfather.com^
 ||dabletoverdid.space^
 ||daccroi.com^
 ||dacmaiss.com^
@@ -14181,6 +14190,7 @@
 ||equirekeither.xyz^
 ||equitydefault.com^
 ||equityjesusdisappointment.com^
+||eqvudqracrhalsg.com^
 ||era67hfo92w.com^
 ||eraltradiansid.com^
 ||eraseficins.website^
@@ -14769,6 +14779,7 @@
 ||fatwalkinger.club^
 ||fatzuclmihih.com^
 ||faudouglaitu.com^
+||faulterdeplume.com^
 ||faultlessmilleranthill.com^
 ||faultspiano.com^
 ||faustbootery.com^
@@ -15395,6 +15406,7 @@
 ||forsookjaeger.com^
 ||forsphealan.com^
 ||fortaillowon.com^
+||fortaiwy.xyz^
 ||fortdaukthw.hair^
 ||fortlachanhecksof.com^
 ||fortorterrar.com^
@@ -16251,6 +16263,7 @@
 ||glumtitu.net^
 ||gluondockize.digital^
 ||glurdoat.com^
+||gluteinavarch.com^
 ||gluttonybrand.com^
 ||gluwhoas.com^
 ||glvhvesvnp.com^
@@ -16434,6 +16447,7 @@
 ||gpnjknuqas.xyz^
 ||gporkecpyttu.com^
 ||gpozmocm.com^
+||gpsecureads.com^
 ||gpuqizoz.com^
 ||gpuskmmm.com^
 ||gpwpaqnxpwhqufz.sbs^
@@ -16952,6 +16966,7 @@
 ||haywarn.com^
 ||hayyad.com^
 ||hazairgo.net^
+||hazansent.com^
 ||hazelbeseech.com^
 ||hazelhannahfruit.com^
 ||hazelmutenessorchard.com^
@@ -17470,6 +17485,7 @@
 ||hpk42r7a.de^
 ||hpmarzhnny.com^
 ||hppvkbfcuq.com^
+||hpsvgbrlqa.com^
 ||hptcwtmzuj.com^
 ||hpwqsjpkbiixue.com^
 ||hpychofen.com^
@@ -17617,6 +17633,7 @@
 ||hwaawsh.com^
 ||hwaovdomltib.com^
 ||hwchvgpc.xyz^
+||hwmlmcbwpbkwas.com^
 ||hwpnocpctu.com^
 ||hwpyfcxahv.com^
 ||hwucqkpdinfb.xyz^
@@ -18377,6 +18394,7 @@
 ||irizin.com^
 ||irkantyip.com^
 ||irmmamksywbwt.com^
+||ironboe.com^
 ||ironcladmemory.pro^
 ||ironcladtrouble.com^
 ||ironerrooser.com^
@@ -18863,6 +18881,7 @@
 ||josulu.xyz^
 ||jotocyxe.xyz^
 ||jotqmmf.com^
+||jouaboe.com^
 ||jounaque.com^
 ||joupteni.xyz^
 ||journeyembankmentsubjects.com^
@@ -19668,6 +19687,7 @@
 ||laoosmesis.com^
 ||lapblra5do4j7rfit7e.com^
 ||laplamed.com^
+||lapowed.com^
 ||lapre28rmcat2.com^
 ||lapsebreak.com^
 ||laptweakbriefly.com^
@@ -20872,6 +20892,7 @@
 ||mblink.in^
 ||mbnot.com^
 ||mbstrk.com^
+||mbtennu.com^
 ||mbubaniblike.digital^
 ||mbuncha.com^
 ||mbzgogo.xyz^
@@ -22464,6 +22485,7 @@
 ||nrmlewvayj.com^
 ||nrnma.com^
 ||nroqwfqwcdtb.xyz^
+||nrqppdgnhaagjq.com^
 ||nrvbadypy.com^
 ||nryceuula.com^
 ||nryxzaq.com^
@@ -22752,6 +22774,7 @@
 ||ocdouoqjvmn.com^
 ||oceanfilmingexperience.com^
 ||oceanvids.online^
+||oceanvids.space^
 ||ocexprhrknxrhe.com^
 ||ocfhdcmwekmjf.com^
 ||ochaugly.net^
@@ -23335,6 +23358,7 @@
 ||orkoedthroug.xyz^
 ||orkzada.com^
 ||orldwhoisquite.com^
+||orldwhoisquiteh.info^
 ||orlowedonhisdhilt.info^
 ||ormolustuke.top^
 ||ornery-animal.pro^
@@ -24108,6 +24132,7 @@
 ||peoric.com^
 ||pep929.mom^
 ||pepepush.net^
+||peppaping.xyz^
 ||peppereggsfriends.com^
 ||pepperthusadventure.com^
 ||pepperyforeign.com^
@@ -24415,6 +24440,7 @@
 ||pillowcomedyvarieties.com^
 ||pillsofecho.com^
 ||pilltransgress.com^
+||piloteegazy.com^
 ||piloteraser.com^
 ||pilpulbagmen.com^
 ||pilsarde.net^
@@ -24992,6 +25018,7 @@
 ||premium4kflix.top^
 ||premium4kflix.website^
 ||premiumads.net^
+||premiummangle.com^
 ||premiumredir.ru^
 ||premiumvertising.com^
 ||premonitioneuropeanstems.com^
@@ -25759,6 +25786,7 @@
 ||qgoqkcpw.xyz^
 ||qgsgnqhqgjw.com^
 ||qgxbluhsgad.com^
+||qhlegkjlnmg.com^
 ||qhnwj.com^
 ||qhskskb.com^
 ||qhttxwlecujjfc.com^
@@ -27399,6 +27427,7 @@
 ||sarcodrix.com^
 ||sarcoma.space^
 ||sardaursaz.com^
+||sargosvalgus.com^
 ||sarinfalun.com^
 ||sarinjowel.com^
 ||sarsaretint.com^
@@ -29450,6 +29479,7 @@
 ||sweetromance.life^
 ||swelllagoon.com^
 ||swelltomatoesguess.com^
+||swensaidohet.com^
 ||swepfa.com^
 ||sweptaboutlard.com^
 ||sweptpeculiar.com^
@@ -30010,6 +30040,7 @@
 ||therebelfasters.com^
 ||therebycapablerising.com^
 ||therefinaldecided.com^
+||therefoortowa.com^
 ||thereforeprecipitation.com^
 ||thereforetreadvoluntarily.com^
 ||therelimitless.com^
@@ -30522,6 +30553,7 @@
 ||tournamentfraydirection.com^
 ||tournamentsevenhung.com^
 ||touroumu.com^
+||toutedwaeness.guru^
 ||toutheesosu.com^
 ||toutingmatelow.com^
 ||tovanillitechan.com^
@@ -32923,6 +32955,7 @@
 ||windy-bench.pro^
 ||windymissphantom.com^
 ||winearth.life^
+||winewiden.com^
 ||winfreeprize.online^
 ||wingads.com^
 ||wingerssetiger.com^
@@ -33022,6 +33055,7 @@
 ||wmtmhbuiumwl.com^
 ||wmxthwflju.xyz^
 ||wndvcmyrqwnbdy.xyz^
+||wnedandlooked.info^
 ||wnjjhksaue.com^
 ||wnp.com^
 ||wnrrhcyok.xyz^
@@ -38832,6 +38866,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||engineertrick.com^
 ||aspiringapples.com^
 ||eventexistence.com^
 ||pumpedpancake.com^
@@ -39978,6 +40013,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
 ||o1000929.ingest.sentry.io^
 ||sta.tirexo.ink^
 ||pixel.aws.pfnetwork.net^
@@ -43344,6 +43380,7 @@ inapps.appsflyersdk.com^
 ||optoutadvertising.com^
 ||osdata.solutions^
 ||outbid.io^
+||owltrack.com^
 ||ox-bio.com^
 ||pabidding.io^
 ||parametre.online^
@@ -44086,7 +44123,6 @@ inapps.appsflyersdk.com^
 ||enchantingbear.com^
 ||encourageshock.com^
 ||encouragingvase.com^
-||engineertrick.com^
 ||enormousearth.com^
 ||equablekettle.com^
 ||etherealripple.com^
