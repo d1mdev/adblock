@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-19T22:00:13.859Z
+! Last modified: 2023-09-20T22:00:14.259Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4162,6 +4162,13 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ali-ad.a.yximgs.com^
+||v*-ad.video.yximgs.com^
+||tx-ad.a.yximgs.com^
+||tx-kmpaudio.pull.yximgs.com^
+||hw-ot-ad.a.yximgs.com^
+||kskwai.com^
+||adkwai.com^
 ||marketing.mangacopy.com^
 ||gdfp.gifshow.com^
 ||p1-lm.adukwai.com^
@@ -8025,6 +8032,7 @@
 ||aspirerrehedge.life^
 ||asqconn.com^
 ||asrcajsuql.com^
+||asrntiljustetyerec.info^
 ||asrowjkagg.com^
 ||assailusefullyenemies.com^
 ||assaysmohr.cfd^
@@ -8257,6 +8265,7 @@
 ||aukalerim.com^
 ||aukarosizox.com^
 ||aukirtoo.com^
+||aukroaze.xyz^
 ||aukseseemyr.info^
 ||auksizox.com^
 ||auksofthecompan.info^
@@ -8733,6 +8742,7 @@
 ||bantgoau.com^
 ||bapkgkskdtjkd.xyz^
 ||baptismmattressstoppage.com^
+||baptrqyesunv.xyz^
 ||barbabridgeoverprotective.com^
 ||barbariannumerous.com^
 ||barbedabout.com^
@@ -9369,6 +9379,7 @@
 ||bj1110.online^
 ||bjakku.com^
 ||bjbjrlnakwvz.top^
+||bjjnovsnejwm.com^
 ||bjornecoydog.com^
 ||bjqug.xyz^
 ||bjxiangcao.com^
@@ -10129,6 +10140,7 @@
 ||bypassprofessordemonstrate.com^
 ||byrledmtscmd.com^
 ||bysqbtyuugub.com^
+||bytejtxbulpncg.com^
 ||bytesabbreviation.com^
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
@@ -12966,6 +12978,7 @@
 ||dkojawwuloj.com^
 ||dkrbus.com^
 ||dkrely.com^
+||dkrqyly.com^
 ||dkrxtdnlg.com^
 ||dkswptmwowowp.xyz^
 ||dl-rms.com^
@@ -15875,6 +15888,7 @@
 ||gbfwqsakvaysygn.xyz^
 ||gblcdn.com^
 ||gckkxvpbhhlx.com^
+||gcqaxqowifrf.com^
 ||gcruperparverew.xyz^
 ||gcukphxabcifwlo.com^
 ||gcyzgld.com^
@@ -17397,6 +17411,7 @@
 ||hoopbeingsmigraine.com^
 ||hoophaub.com^
 ||hooptaik.net^
+||hoopukoetfqqbqr.com^
 ||hoosgowhandbow.com^
 ||hoowooze.net^
 ||hopedwishfulpercent.com^
@@ -18058,6 +18073,7 @@
 ||indelible-awareness.pro^
 ||indelibleweird.pro^
 ||indelicatepokedoes.com^
+||indelphoxom.com^
 ||indexww.com^
 ||indicatemellowlotion.com^
 ||indicatordevotedriver.com^
@@ -21199,6 +21215,7 @@
 ||mightyhulsjdk.com^
 ||mightylottrembling.com^
 ||mignished-sility.com^
+||migopwrajhca.com^
 ||migrantspiteconnecting.com^
 ||migrationscarletquick.com^
 ||migric.com^
@@ -26232,6 +26249,7 @@
 ||realsrvcdn.com^
 ||realtime-bid.com^
 ||realvids.online^
+||realvids.space^
 ||realvu.net^
 ||reaoryhuluios.com^
 ||reapinject.com^
@@ -26756,6 +26774,7 @@
 ||reypelis.tv^
 ||reyswrloef.xyz^
 ||rfdfgourgoldpiec.info^
+||rfhddwa.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfixitrwa.com^
@@ -30272,6 +30291,7 @@
 ||tigrisbewray.life^
 ||tiijdxto.com^
 ||tikbblove.com^
+||tikiwi.org^
 ||tiledissipatelocum.com^
 ||tilesmuzarab.com^
 ||tilltucked.com^
@@ -34394,6 +34414,7 @@
 ||adlux.com^
 ||adm-vids.info^
 ||adm.shinobi.jp^
+||admaru.com^
 ||admatic.com.tr^
 ||admax.space^
 ||admaxim.com^
@@ -35475,6 +35496,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stat.dongqiudi.com^
+||sensors-log.dongqiudi.com^
 ||jokerly.com^
 ||analytics.gnetworks.xyz^
 ||mon.zijieapi.com^
@@ -42812,6 +42835,7 @@ inapps.appsflyersdk.com^
 ||g990421676.co^
 ||gbqofs.com^
 ||geotargetly-api-*.com^
+||glamipixel.com^
 ||glimr.io^
 ||glookup.info^
 ||googleoptimize.com^
@@ -43311,6 +43335,7 @@ inapps.appsflyersdk.com^
 ||km-sea.net^
 ||kmtx.io^
 ||knorex.com^
+||knotch-cdn.com^
 ||koddi.com^
 ||koji-analytics.com^
 ||konduit.me^
@@ -43444,6 +43469,7 @@ inapps.appsflyersdk.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
 ||popupmaker.com^
+||prebidmanager.com^
 ||premiumimpression.com^
 ||pro6e.com^
 ||profitmetrics.io^
@@ -44700,6 +44726,7 @@ inapps.appsflyersdk.com^
 ||accesstrade.net^
 ||ad-fam.com^
 ||ad-track.jp^
+||adapf.com^
 ||admatrix.jp^
 ||adpon.jp^
 ||af-z.jp^
@@ -44708,6 +44735,7 @@ inapps.appsflyersdk.com^
 ||amoad.com^
 ||analyticsip.net^
 ||blogranking.net^
+||caprofitx.com^
 ||cetlog.jp^
 ||cheqzone.com^
 ||d-markets.net^
@@ -45911,6 +45939,7 @@ inapps.appsflyersdk.com^
 ! Czech
 ||a.centrum.cz^
 ||bisko.mall.tv^
+||c.seznam.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
@@ -46413,8 +46442,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Sep 2023 10:01 UTC+7
-! Version: 2309111001
+! Last modified: 20 Sep 2023 15:22 UTC+7
+! Version: 2309201522
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
