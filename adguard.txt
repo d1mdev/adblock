@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-22T22:00:14.892Z
+! Last modified: 2023-09-23T22:00:14.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5641,6 +5641,7 @@
 ||778669.com^
 ||78359c0779.com^
 ||788aefb4ed.com^
+||78a3dd3c86.com^
 ||78bk5iji.de^
 ||78e70720f2.com^
 ||799f57f5cc.com^
@@ -7477,6 +7478,7 @@
 ||andbegant.one^
 ||anddecoyblizzard.com^
 ||andhkruuiigxmkd.com^
+||andhthrewdo.com^
 ||andohs.net^
 ||andoldifiscqak.xyz^
 ||andomedia.com^
@@ -7676,6 +7678,7 @@
 ||apiemb.xyz^
 ||apinagedottard.cfd^
 ||apiuytxdxacumbo.xyz^
+||aplainmpatoio.com^
 ||apleasantsit.xyz^
 ||aplentytwo.com^
 ||apnttuttej.com^
@@ -9392,6 +9395,7 @@
 ||bkkejrveemmzv.top^
 ||bkrzykymkvea.top^
 ||bkuhkifadcaz.com^
+||bkujacocdop.com^
 ||bkxwqhwcwnr.xyz^
 ||bkypaqsirm.com^
 ||bkyqhavuracs.com^
@@ -9450,6 +9454,7 @@
 ||blindlyidle.com^
 ||blindlytinsel.com^
 ||blinkjork.com^
+||blinkpainmanly.com^
 ||blinktowel.com^
 ||blismedia.com^
 ||blisscleopatra.com^
@@ -9721,6 +9726,7 @@
 ||bostonwall.com^
 ||bostopago.com^
 ||bot-checker.com^
+||bothele.com^
 ||bothererune.com^
 ||botherherself.website^
 ||botongfuff.uno^
@@ -9850,6 +9856,7 @@
 ||bridespiraya.com^
 ||bridgetrack.com^
 ||briefcasebuoyduster.com^
+||briefengineer.pro^
 ||brieflizard.com^
 ||brighteroption.com^
 ||brightonclick.com^
@@ -10699,6 +10706,7 @@
 ||charrewuzzer.com^
 ||charsubsistfilth.com^
 ||charterporous.com^
+||charterunwelcomealibi.com^
 ||chasmsnaa.com^
 ||chassescoothay.com^
 ||chastehandkerchiefclassified.com^
@@ -10885,6 +10893,7 @@
 ||chuhramumper.com^
 ||chullohagrode.com^
 ||chultoux.com^
+||chunkstoreycurled.com^
 ||churchalexis.com^
 ||churchclassified.com^
 ||churchyardalludeaccumulate.com^
@@ -12008,6 +12017,7 @@
 ||curude.com^
 ||curvierannexa.com^
 ||curvyalpaca.cc^
+||curyalanyl.guru^
 ||cuseccharm.com^
 ||cusecwhitten.com^
 ||cushawsdizens.com^
@@ -14183,6 +14193,7 @@
 ||envylavish.com^
 ||enwerzaqqbqnj.top^
 ||enwombjounced.space^
+||enyunme.com^
 ||enzajjbrrbbvw.top^
 ||enzav.xyz^
 ||enzymsucuuba.com^
@@ -14946,6 +14957,7 @@
 ||feelseveryone.com^
 ||feelsjet.com^
 ||feeohmchi.com^
+||feeseeho.com^
 ||feevabeglee.com^
 ||feewoajy.net^
 ||feewuvoo.net^
@@ -18822,6 +18834,7 @@
 ||jewscane.digital^
 ||jewspa.com^
 ||jezailjazzmen.com^
+||jezailmasking.com^
 ||jf71qh5v14.com^
 ||jfedgbskofck.com^
 ||jfivafkigju.com^
@@ -19441,6 +19454,7 @@
 ||kloperd.com^
 ||kloshgriffe.com^
 ||kloynfsag.com^
+||klrnhhzh.com^
 ||kluauvass.com^
 ||kmapagpkik.com^
 ||kmhfsrwqdu.com^
@@ -22917,6 +22931,7 @@
 ||ofchildr.buzz^
 ||ofclaydolr.com^
 ||ofdittor.com^
+||ofdxfsho.com^
 ||ofedupub.com^
 ||offalakazaman.com^
 ||offarmiesupward.com^
@@ -23473,6 +23488,7 @@
 ||orthronsmatter.com^
 ||ortostrikehem.xyz^
 ||orvilletourer.guru^
+||osarmapa.net^
 ||osaud.com^
 ||osaunsot.net^
 ||oscarredwith.xyz^
@@ -23574,6 +23590,7 @@
 ||oulukdliketo.shop^
 ||ouncillorswhow.info^
 ||oungimuk.net^
+||oungoowe.xyz^
 ||ounojushyxb.xyz^
 ||ounsamie.xyz^
 ||ounsoopt.xyz^
@@ -25873,6 +25890,7 @@
 ||qcigbljyenh.com^
 ||qclgcdtv.com^
 ||qcmjdptyikwf.xyz^
+||qcsjmidihe.com^
 ||qctzwkrczwjw.com^
 ||qdagihwi.xyz^
 ||qdmil.com^
@@ -29332,6 +29350,7 @@
 ||strownstramp.cam^
 ||stroyerunfiery.uno^
 ||strubmola.guru^
+||strugglecookingtechnically.com^
 ||strumascarman.life^
 ||strungglancedrunning.com^
 ||stthykerewasn.com^
@@ -31176,6 +31195,7 @@
 ||twovqti.com^
 ||twpasol.com^
 ||twtad.com^
+||twvybupqup.xyz^
 ||twwp3.top^
 ||txouliypi.com^
 ||txrhpjddhbal.com^
@@ -32178,6 +32198,7 @@
 ||vidsbig.online^
 ||vidsbig.space^
 ||vidsbranch.online^
+||vidschannel.online^
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfun.info^
@@ -33316,6 +33337,7 @@
 ||worthless-theme.pro^
 ||worthspontaneous.com^
 ||worthwhile-chance.com^
+||worthwhileawe.com^
 ||worthycondimentburied.com^
 ||worthylighteravert.com^
 ||wortlejambul.com^
@@ -34362,6 +34384,7 @@
 ||zylytavo.com^
 ||zypenetwork.com^
 ||zypy2h6rgfux.com^
+||zzbmanavblkaw.top^
 ||zzkwsosixkdu.com^
 ||dianomi.com^
 ||vpn-offers.org^
@@ -45170,6 +45193,7 @@ inapps.appsflyersdk.com^
 ||check.deadlinefunnel.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
+||clevertap-prod.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
@@ -45268,6 +45292,7 @@ inapps.appsflyersdk.com^
 ||dotaudiences.com^
 ||doug1izaerwt3.cloudfront.net^
 ||dynamic.ziftsolutions.com^
+||e.htplayground.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
