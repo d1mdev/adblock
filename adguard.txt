@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-09-28T22:00:14.326Z
+! Last modified: 2023-09-29T22:00:15.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6057,6 +6057,7 @@
 ||abtaurosa.club^
 ||abtyroguer.com^
 ||abuleiasafflow.com^
+||abundantsurroundvacation.com^
 ||abundled.club^
 ||abuqxvuy.com^
 ||abusedbabysitters.com^
@@ -6139,6 +6140,7 @@
 ||achelessintegralsigh.com^
 ||acheworry.com^
 ||achievablecpmrevenue.com^
+||achievebeneficial.com^
 ||achievehardboiledheap.com^
 ||achilles-par.com^
 ||achmic.com^
@@ -9214,6 +9216,7 @@
 ||beylicbesmile.com^
 ||bezettescanner.com^
 ||bezoardawdles.digital^
+||bezoarschrysid.com^
 ||bezuka.xyz^
 ||bf-ad.net^
 ||bf358948d7.com^
@@ -14650,6 +14653,8 @@
 ||eyhadgone.one^
 ||eyharae.com^
 ||eyjouer.com^
+||eymaume.com^
+||eymised.com^
 ||eynicit.com^
 ||eyomusbsxrib.com^
 ||eypeole.com^
@@ -16011,6 +16016,7 @@
 ||geiouifksh.xyz^
 ||geiybze.com^
 ||gejeegho.net^
+||gekroome.com^
 ||gelhp.com^
 ||gelidoctans.digital^
 ||gelnhamfo.xyz^
@@ -16168,6 +16174,7 @@
 ||gibaivoa.com^
 ||gibeleftyeuro.com^
 ||giblithakur.website^
+||giboxdwwevu.com^
 ||gibsonorly.life^
 ||gicoxxmeostnxw.xyz^
 ||gidakcalgbc.com^
@@ -16405,6 +16412,7 @@
 ||gmiwcarhor.com^
 ||gml-grp.com^
 ||gmogccmnp.com^
+||gmpfruktfatpi.com^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -16412,6 +16420,7 @@
 ||gnathicrugal.top^
 ||gnditiklas.com^
 ||gngsrgaza.com^
+||gngtvwjo.com^
 ||gnjxesyfensbh.com^
 ||gnkljnfbd.com^
 ||gnksplbu.com^
@@ -17674,6 +17683,7 @@
 ||httpsecurity.org^
 ||htufhvsglyoy.com^
 ||htwrildnk.xyz^
+||htyrmacanbty.com^
 ||huanez.xyz^
 ||hubakba.com^
 ||hubbabu2bb8anys09.com^
@@ -18597,6 +18607,7 @@
 ||isortflorent.com^
 ||isparkmedia.com^
 ||isqogumsuadas.com^
+||issomeoneinth.info^
 ||istlnkbn.com^
 ||istsldaheh.com^
 ||iswhatappyouneed.net^
@@ -18658,6 +18669,7 @@
 ||iupot.com^
 ||iutur-ixp.com^
 ||iuudbgnvgyswen.com^
+||iuvbjnzy.com^
 ||iuwzdf.com^
 ||ivanvillager.com^
 ||ivhbtikwpr.com^
@@ -20327,6 +20339,7 @@
 ||llantynethebrav.xyz^
 ||lleadupthere.xyz^
 ||llevenmanis.xyz^
+||llmeocaptainh.com^
 ||llpnrfplbkoalts.com^
 ||llq9q2lacr.com^
 ||llqqhwfjtdtvnt.com^
@@ -20688,6 +20701,7 @@
 ||lxudshpck.com^
 ||lybunbacwf.com^
 ||lycheenews.com^
+||lychinset.space^
 ||lycopinrekey.com^
 ||lycopuscris.com^
 ||lycoty.com^
@@ -23555,6 +23569,7 @@
 ||oretracker.top^
 ||orfa1st5.de^
 ||organexpectationsmaintain.com^
+||organizecoldness.com^
 ||organsshinegarlic.com^
 ||organsthud.com^
 ||orgassme.com^
@@ -24356,6 +24371,7 @@
 ||pentalime.com^
 ||pentritkaliana.com^
 ||penuchefirms.com^
+||peohara.com^
 ||peopleshouldthin.com^
 ||peoric.com^
 ||pep929.mom^
@@ -24907,6 +24923,7 @@
 ||pnuhondppw.com^
 ||pnvbfxwbeg.com^
 ||poacawhe.net^
+||poachfirewoodboast.com^
 ||poalauza.net^
 ||poapustu.net^
 ||poaships.com^
@@ -26106,6 +26123,7 @@
 ||qqmvwjvrlyery.top^
 ||qqqqbdma.com^
 ||qqqwes.com^
+||qqvthrkrseoog.com^
 ||qqvvkebebnbb.top^
 ||qqvvkebebnlq.top^
 ||qqyqeqqmqrybb.top^
@@ -28908,6 +28926,7 @@
 ||soodihee.net^
 ||soogandrooped.cam^
 ||soonbigo.com^
+||soopsulo.xyz^
 ||soopukib.net^
 ||sooreejy.xyz^
 ||soosooka.com^
@@ -30623,6 +30642,7 @@
 ||titsandtits.com^
 ||tittyptinoid.com^
 ||titvrbob.xyz^
+||tivvsaunec.com^
 ||tiwhaiph.net^
 ||tiwouboa.com^
 ||tizadumbed.com^
@@ -35798,6 +35818,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||mobadme.jp^
 ||analytics.jslib.win^
 ||spadsync.com^
 ||easter-analytics.com^
@@ -36442,7 +36463,6 @@
 ||b92.yahoo.co.jp^
 ||cf-native.karte.io^
 ||pub.toku-tag.jp^
-||script-ad.mobadme.jp^
 ||tapdb.com^
 ||track.robee.tech^
 ||aspservice.jp^
@@ -43053,6 +43073,7 @@ inapps.appsflyersdk.com^
 ||aaxwall.com^
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
+||admaxium.com^
 ||adnext.co^
 ||adrtx.net^
 ||adscore.com^
@@ -43260,6 +43281,7 @@ inapps.appsflyersdk.com^
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
+||techpump.com^
 ||test.vast^
 ||the-ozone-project.com^
 ||thefontzone.com^
@@ -43277,6 +43299,7 @@ inapps.appsflyersdk.com^
 ||turboeagle.co^
 ||turbolion.io^
 ||tvpixel.com^
+||uidapi.com^
 ||venusrevival.com^
 ||vfgte.com^
 ||videoplayerhub.com^
@@ -46373,6 +46396,7 @@ inapps.appsflyersdk.com^
 ||neurotrack.neurolake.io^
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
+||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||track.noddus.com^
