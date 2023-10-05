@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-04T22:00:14.220Z
+! Last modified: 2023-10-05T22:00:15.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3708,6 +3708,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||sharemefiles.ru^
 ||userdata.ati.su^
 ||r.z3.fm^
 ||adv.topvideo.tj^
@@ -19296,6 +19297,7 @@
 ||jvrawodh.com^
 ||jvsffrjutsax.com^
 ||jvylyreyazmea.top^
+||jvzoupeh.com^
 ||jwalf.com^
 ||jweqtiikcx.com^
 ||jwjxjuvrnkv.com^
@@ -20300,6 +20302,7 @@
 ||likenewvids.online^
 ||likidn.com^
 ||likspikcunhy.com^
+||liktufmruav.com^
 ||lilacbalak.top^
 ||lilacdefencelessroyal.com^
 ||lilacsloppy.com^
@@ -30675,6 +30678,7 @@
 ||tibacta.com^
 ||tibbujo.com^
 ||tibcpowpiaqv.com^
+||tibertannoy.com^
 ||tic-tic-bam.com^
 ||tic-tic-toc.com^
 ||ticaadjuk.xyz^
@@ -33872,6 +33876,7 @@
 ||wxhiojortldjyegtkx.bid^
 ||wxmicgwfzqekj.com^
 ||wxseedslpi.com^
+||wxvfhgdeis.com^
 ||wydtxpctgipa.xyz^
 ||wyeszcj.com^
 ||wyglyvaso.com^
@@ -35781,6 +35786,7 @@
 ||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
+||stratos.blue^
 ||streamate.com^
 ||streamdefence.com^
 ||strikead.com^
@@ -35999,6 +36005,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.myshoptago.com^
 ||wfthumty.pm^
 ||hubtydum.me^
 ||mobadme.jp^
@@ -40581,6 +40588,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ana*.inews24.com^
+||analytics.streamfab.
 ||m.1gr.cz^
 ||a.1gr.cz^
 ||pvnwap.zol.com.cn^
