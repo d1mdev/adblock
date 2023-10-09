@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-08T22:00:14.049Z
+! Last modified: 2023-10-09T22:00:13.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||nwhoxwpuj6.com^
 ||trackclicksplz.site^
 ||b.we-are-anon.com^
 ||fsm-files.ru^
@@ -7899,6 +7900,7 @@
 ||armarilltor.com^
 ||armashair.site^
 ||armedgroin.com^
+||armedtidying.com^
 ||armetsremoved.guru^
 ||armiesinvolve.com^
 ||arminius.io^
@@ -8271,6 +8273,7 @@
 ||audiencefuel.com^
 ||audienceline.com^
 ||audienceprofiler.com^
+||audienceravagephotocopy.com^
 ||audioexaminationearl.com^
 ||audionews.fm^
 ||audiosech.xyz^
@@ -10280,6 +10283,7 @@
 ||caesaw.com^
 ||caeso-nmr.com^
 ||caffleklismos.website^
+||cagerssoohong.com^
 ||cagesscan.com^
 ||caglaikr.net^
 ||cagothie.net^
@@ -10506,6 +10510,7 @@
 ||cavecredentialdeer.com^
 ||caveestate.com^
 ||cavernousshift.pro^
+||cavilerestops.com^
 ||cawbarthe.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -10911,7 +10916,6 @@
 ||choupaig.xyz^
 ||choupsee.com^
 ||chozeers.xyz^
-||chpadblock.com^
 ||chpjnxbxvzmqpx.com^
 ||chpok.pw^
 ||chrantary-vocking.com^
@@ -12075,7 +12079,6 @@
 ||custodybout.com^
 ||customads.co^
 ||customapi.top^
-||cuteasiangirl.net^
 ||cuterbond.com^
 ||cuterintegrationcrock.com^
 ||cutescale.online^
@@ -12231,9 +12234,11 @@
 ||daikeethoo.com^
 ||daikersscrim.website^
 ||daikonmomist.com^
+||daikorm.com^
 ||dailyc24.com^
 ||dailychronicles2.xyz^
 ||dailyenoplan.website^
+||dailyvids.space^
 ||daimioswhimper.com^
 ||daincautela.com^
 ||daineely.net^
@@ -15516,6 +15521,7 @@
 ||for-joiyvidspics.online^
 ||for-joiyvidspics.site^
 ||forads.pro^
+||foramendowve.com^
 ||foramoongussor.com^
 ||forarchenchan.com^
 ||foraxewan.com^
@@ -16951,6 +16957,7 @@
 ||guwfusqa.com^
 ||guwgkuaxbvuw.com^
 ||guxsxexlkdk.xyz^
+||guyabe.xyz^
 ||gvhmoascwa.xyz^
 ||gvkmifcvr.com^
 ||gvmojhugkiud.com^
@@ -17560,6 +17567,7 @@
 ||hogqmd.com^
 ||hogtiesnosh.guru^
 ||hohese.com^
+||hoickpinyons.com^
 ||hoiiodacdsmro.com^
 ||hoisquit.buzz^
 ||hoistchart.com^
@@ -18161,6 +18169,7 @@
 ||imkjultwip.xyz^
 ||immaculaterepair.pro^
 ||immaculatewars.com^
+||immediatebedroom.pro^
 ||immediateknowledge.com^
 ||immediatesignal.pro^
 ||immedlinkum.info^
@@ -22567,6 +22576,7 @@
 ||niftpyobkap.com^
 ||nifty-drive.pro^
 ||nigerm.com^
+||niggedpacaya.com^
 ||nighter.club^
 ||nightfallforestallbookkeeper.com^
 ||nightfallroad.com^
@@ -23356,6 +23366,7 @@
 ||olivefamine.com^
 ||oljjiplpyo.com^
 ||ollrzaontww.com^
+||ollsukztoo.com^
 ||olmsoneenh.info^
 ||olnjitvizo.com
 ||olomonautcatho.info^
@@ -23572,6 +23583,7 @@
 ||ootchaig.xyz^
 ||ootchoft.com^
 ||ootibsay.xyz^
+||ootsoobs.net^
 ||oourmarketingefifor.info^
 ||oovaufty.com^
 ||ooxookrekaun.com^
@@ -23634,6 +23646,7 @@
 ||opportunitysearch.net^
 ||oppositehometowndrunken.com^
 ||oppozga.com^
+||oppressionhopefully.com^
 ||oprill.com^
 ||opsaupsa.com^
 ||opshuckleor.com^
@@ -23756,6 +23769,7 @@
 ||osdoshcwyaev.xyz^
 ||oseculretabout.com^
 ||osfjiqj.com^
+||osgqretnpoqsubt.com^
 ||oshaista.xyz^
 ||oshatratkvc.com^
 ||oshdarvitop.com^
@@ -25326,6 +25340,7 @@
 ||powerain.biz^
 ||powerpsychopathcounsel.com^
 ||powerswinkshoplifting.com^
+||poweyus.com^
 ||powjoui.com^
 ||powrpvuruejv.com^
 ||poxa.xyz^
@@ -26261,6 +26276,7 @@
 ||qobarmbghaiv.xyz^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
+||qomate.xyz^
 ||qomuchorindownlo.xyz^
 ||qooanabj.com^
 ||qootvuedh.com^
@@ -27787,6 +27803,7 @@
 ||safetytds.com^
 ||safewarns.com^
 ||saffianxenian.com^
+||sagbutsbhotia.com^
 ||sagedeportflorist.com^
 ||saggarmammon.com^
 ||saggrowledetc.com^
@@ -28160,6 +28177,7 @@
 ||sefsdvc.com^
 ||sefulheadde.info^
 ||segmentcoax.com^
+||segrbdscumdk.com^
 ||segrea.com^
 ||segreencolumn.com^
 ||seibertspart.com^
@@ -29131,6 +29149,7 @@
 ||sosettoourmarke.info^
 ||soshoord.com^
 ||sosigninggrudge.com^
+||sotchart.net^
 ||sotchoum.com^
 ||sotetahe.pro^
 ||sottagejalur.uno^
@@ -31203,6 +31222,7 @@
 ||transformignorant.com^
 ||transitionfrenchdowny.com^
 ||translationbuddy.com^
+||transmitterincarnatebastard.com^
 ||transmittermerchant.com^
 ||transportationgelatinecontingent.com^
 ||traord.com^
@@ -32513,6 +32533,7 @@
 ||vheahvgaqwux.com^
 ||vheoggjiqaz.com^
 ||vhihvqsuarpp.com^
+||vhkbvpbuhwon.com^
 ||vhmjevcgc.xyz^
 ||vhneajupavrb.com^
 ||vhrtgvzcmrfoo.com^
@@ -33458,6 +33479,7 @@
 ||whychymithy.com^
 ||whyocafenet.space^
 ||wibtntmvox.com^
+||wichauru.xyz^
 ||wichtstoppit.space^
 ||wickedhumankindbarrel.com^
 ||wickiupcopalms.com^
@@ -33563,6 +33585,7 @@
 ||wishesobtrusivefastest.com^
 ||wishfulauthorities.com^
 ||wishfulthingtreble.com^
+||wishjolty.com^
 ||wishjus.com^
 ||wishmayvaganti.website^
 ||wisingpianeta.uno^
@@ -33657,6 +33680,7 @@
 ||wolfedcedule.com^
 ||wolffiareecho.com^
 ||wolqundera.com^
+||wolsretet.net^
 ||wolve.pro^
 ||womanedlithite.guru^
 ||wombalayah.com^
@@ -34591,7 +34615,6 @@
 ||zenoviaexchange.com^
 ||zenoviagroup.com^
 ||zeofnuvzsh.com^
-||zeotap.com^
 ||zepazupi.com^
 ||zepihoju.xyz^
 ||zer1ads.com^
@@ -36032,6 +36055,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||1cpbac.ru^
 ||tracking.utlservice.com^
 ||analytics.myshoptago.com^
 ||wfthumty.pm^
@@ -37103,6 +37127,7 @@
 ||audsp.com^
 ||mparticle.com^
 ||stat.analytiall.com^
+||zeotap.com^
 ||engagetosell.com^
 ||edw.edmunds.com^
 ||z.opmnstr.com^
@@ -40616,6 +40641,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||a.mts.ru^
 ||ana*.inews24.com^
 ||analytics.streamfab.
 ||m.1gr.cz^
