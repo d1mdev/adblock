@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-10T22:00:14.848Z
+! Last modified: 2023-10-11T22:00:17.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5899,6 +5899,9 @@
 ||a5e04df959f1af34.com^
 ||a5ff528ff9.com^
 ||a5g.oves.biz^
+||a5game.win^
+||a5jogo.biz^
+||a5jogo.club^
 ||a6436650df.com^
 ||a64x.com^
 ||a67z.com^
@@ -14511,6 +14514,7 @@
 ||evencontinuallyclaim.com^
 ||eveningproclamationarched.com^
 ||eveningsfleawhatsoever.com^
+||eventbr.xyz^
 ||eventhenherthis.info^
 ||eventhenherthisi.com^
 ||eventrhina.com^
@@ -16603,6 +16607,7 @@
 ||goodweet.xyz^
 ||goodyflicks.digital^
 ||googleapi.club^
+||googleseo.life^
 ||goohimom.net^
 ||goomaphy.com^
 ||gooods4you.com^
@@ -16776,6 +16781,7 @@
 ||greenplasticdua.com^
 ||greeter.me^
 ||greetpanda.org^
+||greewaih.xyz^
 ||greewepi.net^
 ||greezoob.net^
 ||grefutiwhe.com^
@@ -17218,6 +17224,7 @@
 ||hdbkell.com^
 ||hdbkome.com^
 ||hditers.com^
+||hdjfeed.top^
 ||hdpreview.com^
 ||hdsqvypdt.com^
 ||hdvcode.com^
@@ -18151,6 +18158,7 @@
 ||imbalmenvy.website^
 ||imbalmscashews.com^
 ||imblic.com^
+||imbolexabc.top^
 ||imemediatesuper.info^
 ||imgfeedget.com^
 ||imghst-de.com^
@@ -22023,6 +22031,7 @@
 ||muhobbab.com^
 ||muirpekvl.com^
 ||mujilora.com^
+||mukhtarproving.com^
 ||mulesto.com^
 ||muletatyphic.com^
 ||mulserebush.digital^
@@ -25885,6 +25894,7 @@
 ||ptp24.com^
 ||ptpfict.space^
 ||pttsite.com^
+||ptufihie.net^
 ||ptuglupyli.com^
 ||ptugneez.net^
 ||ptugnins.net^
@@ -30352,6 +30362,7 @@
 ||tembetachasmic.guru^
 ||tembetanymil.com^
 ||tempbugs.com^
+||tempeorek.org^
 ||temperacaimans.com^
 ||tempergleefulvariability.com^
 ||temperrunnersdale.com^
@@ -34708,6 +34719,7 @@
 ||zljwhbuagdvl.com^
 ||zlx.com.br^
 ||zm232.com^
+||zmdesf.cn^
 ||zmenmuol.com^
 ||zmivcara.com^
 ||zmjagawa.com^
@@ -36060,6 +36072,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ea.epochbase.com^
 ||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
@@ -39498,6 +39511,9 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||cozyhillside.com^
+||crimsonmeadow.com^
+||vibranthaven.com^
 ||roseincome.com^
 ||solarislabyrinth.com^
 ||engineertrick.com^
@@ -42597,6 +42613,12 @@
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
 !
+! Hisense Smart TV
+||api-*.hismarttv.com^
+||auth-*.hismarttv.com^
+||msg-na.hismarttv.com^
+||unified-ter-na.hismarttv.com^
+!
 ! Baidu
 ||sp1.baidu.com^
 ||sp2.baidu.com^
@@ -44763,6 +44785,7 @@ inapps.appsflyersdk.com^
 ||debonairtree.com^
 ||decisivebase.com^
 ||deerbeginner.com^
+||delicatecascade.com^
 ||delicateducks.com^
 ||desirebucket.com^
 ||differentcoat.com^
@@ -45115,6 +45138,7 @@ inapps.appsflyersdk.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||whineattempt.com^
+||whisperingsummit.com^
 ||whispermeeting.com^
 ||wildcommittee.com^
 ||wtaccesscontrol.com^
@@ -47048,9 +47072,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Sep 2023 22:51 UTC+7
-! Version: 2309272251
-! Blocked: 839 rules
+! Last modified: 11 Oct 2023 22:35 UTC+7
+! Version: 2310112235
+! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -47183,6 +47207,7 @@ vkcdnservice.appspot.com^
 ||log.thanhnien.vn^
 ||log.tv.zing.vn^
 ||log.vietnamplus.vn^
+||log.zalo.video^
 ||log.zingmp3.vn^
 ||log.zingnews.com.vn^
 ||logen.vietnamplus.vn^
@@ -47667,6 +47692,8 @@ vkcdnservice.appspot.com^
 ||marketing.hub-js.com^
 ||marketing.itgeek.vn^
 ||matomo.quan.hoabinh.vn^
+||matomo.vietlottsms.vn^
+||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
 ||media.dabong247.com^
@@ -47805,6 +47832,7 @@ vkcdnservice.appspot.com^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||trackingapi.foody.vn^
+||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
 ||traffic.vietnhan.co^
@@ -47831,6 +47859,7 @@ vkcdnservice.appspot.com^
 ||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
+||webpush.vn^
 ||webstag.kplus.vn^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||widget.headlines.pw^
@@ -48213,7 +48242,9 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
 ! CNAME: paymaya.customlinks.appsflyer.com
 @@||official.paymaya.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1499
+@@|statcounter.com^|
+@@||www.statcounter.com^|
 @@||gs.statcounter.com^|
 ! Blocked by exacttarget.com alias
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
