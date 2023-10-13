@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-12T22:00:16.138Z
+! Last modified: 2023-10-13T22:00:15.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8683,6 +8683,7 @@
 ||badspads.com^
 ||badtopwitch.work^
 ||badubaho.com^
+||badujaub.xyz^
 ||badword.xyz^
 ||baect.com^
 ||baelungilt.guru^
@@ -17179,6 +17180,7 @@
 ||hazelmutenessorchard.com^
 ||hazelnutshighs.com^
 ||hazicu.hothomefuck.com^
+||hazoopso.net^
 ||hazydespise.com^
 ||hazymarvellous.com^
 ||hb-247.com^
@@ -31550,6 +31552,7 @@
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
 ||tvxetxjvobm.com^
+||tvxrpdfgitlbsb.xyz^
 ||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||tweenydone.website^
@@ -36072,6 +36075,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||smelel.icu^
 ||ea.epochbase.com^
 ||f.revotas.com^
 ||1cpbac.ru^
@@ -39511,6 +39515,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||whimsicalgrove.com^
 ||cozyhillside.com^
 ||crimsonmeadow.com^
 ||vibranthaven.com^
@@ -44766,6 +44771,7 @@ inapps.appsflyersdk.com^
 ||cowscrayon.com^
 ||creditcreature.com^
 ||crookedcreature.com^
+||crystalboulevard.com^
 ||cuddlycake.com^
 ||culturedcamera.com^
 ||curiouschalk.com^
