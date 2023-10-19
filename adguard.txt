@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-18T22:00:14.846Z
+! Last modified: 2023-10-19T22:00:14.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7472,6 +7472,7 @@
 ||amuseglide.com^
 ||amusingsnow.pro^
 ||amuyonpastour.top^
+||amvmzbmzaryya.top^
 ||amwoukrks.autos^
 ||amwswkqh.com^
 ||amyeubhbnugjum.xyz^
@@ -10755,6 +10756,7 @@
 ||chancellorharrowbelieving.com^
 ||chandoowitumki.guru^
 ||changarreviver.com^
+||changerwauking.com^
 ||changesshortly.com^
 ||channelvids.online^
 ||channelvids.space^
@@ -17121,6 +17123,7 @@
 ||hardilyshook.com^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
+||haresmodus.com^
 ||harfuzawmk.com^
 ||harhtwb.com^
 ||haribdathesea.com^
@@ -19282,6 +19285,7 @@
 ||jujaufur.net^
 ||jujwhjmtidgp.com^
 ||julia-liz.com^
+||julidanroebuck.com^
 ||julkkoazfkh.com^
 ||jullyambery.net^
 ||julolecalve.website^
@@ -19719,6 +19723,7 @@
 ||knucklecivichereafter.com^
 ||knurryaikuchi.guru^
 ||knutenegros.pro^
+||knvjwrwvaqvll.top^
 ||knziesxepvaina.com^
 ||koabouch.net^
 ||koabukedosi.com^
@@ -21801,6 +21806,7 @@
 ||modulohanafi.com^
 ||modulusoctodon.uno^
 ||moedgapers.com^
+||moggedexterne.com^
 ||mogointeractive.com^
 ||mohaqu.xyz^
 ||mohyafckgatre.com^
@@ -23219,6 +23225,7 @@
 ||ocuwyfarlvbq.com^
 ||ocwagmlizb.com^
 ||odbjmugzoq.com^
+||odbxgdxgvo.com^
 ||oddauthorscreative.com^
 ||oddlyogeed.com^
 ||oddsserve.com^
@@ -31673,6 +31680,7 @@
 ||twwp3.top^
 ||txouliypi.com^
 ||txrhpjddhbal.com^
+||txtcompert.com^
 ||txwhfmxlmu.com^
 ||txzaazmdhtw.com^
 ||tyatedgrogs.xyz^
@@ -32936,6 +32944,7 @@
 ||voynto.com^
 ||vpbceulnfbx.com^
 ||vpico.com^
+||vpipi.com^
 ||vpixrlkggv.com^
 ||vpn-defend.com^
 ||vpn-offers.com^
@@ -40755,6 +40764,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ca-api.cafe24data.com^
 ||tracking.tving.com^
 ||a.mts.ru^
 ||ana*.inews24.com^
@@ -43559,6 +43569,7 @@ inapps.appsflyersdk.com^
 ||ia-dmp.com^
 ||iconmediapixel.com^
 ||iconnode.com^
+||id-ward.com^
 ||idx.lat^
 ||impactcdn.com^
 ||impactradius-event.com^
@@ -43676,6 +43687,7 @@ inapps.appsflyersdk.com^
 ||turbolion.io^
 ||tvpixel.com^
 ||uidapi.com^
+||venture-365-inspired.com^
 ||venusrevival.com^
 ||vfgte.com^
 ||videoplayerhub.com^
@@ -46040,6 +46052,7 @@ inapps.appsflyersdk.com^
 ||metrics.kmsmep.com^
 ||metrics.onshape.com^
 ||metrics.scribblelive.com^
+||metrika.cdn112.com^
 ||metrix.emagister.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
@@ -46454,7 +46467,6 @@ inapps.appsflyersdk.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
-||dp64mxip2za0c.cloudfront.net^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -46753,6 +46765,7 @@ inapps.appsflyersdk.com^
 ||userdive.com^
 ||webbc.fivecdm.com^
 ! Korean
+||event.hackle.io^
 ||log.mofa.go.kr^
 ||log.targetpush.co.kr^
 ||logs-partners.coupang.com^
