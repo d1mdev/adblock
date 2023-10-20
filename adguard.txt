@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-19T22:00:14.971Z
+! Last modified: 2023-10-20T22:00:13.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10556,6 +10556,7 @@
 ||ccaahdancza.com^
 ||ccdneniusruhebl.com^
 ||ccgkudwutf.com^
+||ccgzcavzbmztk.com^
 ||ccieoqej.xyz^
 ||ccjzuavqrh.com^
 ||ccmdcinut.com^
@@ -13764,6 +13765,7 @@
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
+||eclebgjz.com^
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||eclogicmeows.com^
@@ -20804,6 +20806,7 @@
 ||lunio.net^
 ||lunyfallace.com^
 ||lunylarynx.uno^
+||lupvaqvfeka.com^
 ||lupyjpkuykoc.com^
 ||luracancamus.com^
 ||luralgaqp.com^
@@ -26345,6 +26348,7 @@
 ||qnsr.com^
 ||qoaaa.com^
 ||qobarmbghaiv.xyz^
+||qodyldusxloinpn.com^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
 ||qomate.xyz^
@@ -27680,6 +27684,7 @@
 ||rtk.io^
 ||rtmark.net^
 ||rtmladnew.com^
+||rtncskottpfwb.com^
 ||rtnews.pro^
 ||rtorvhhdru.xyz^
 ||rtoukfareputfe.info^
@@ -30854,6 +30859,7 @@
 ||tignuget.net^
 ||tigraiosar.space^
 ||tigrisbewray.life^
+||tihursoa.net^
 ||tiijdxto.com^
 ||tikbblove.com^
 ||tikiwi.org^
@@ -39609,6 +39615,8 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||fewkittens.com^
+||inquisitiveice.com^
 ||delicatecascade.com^
 ||dreamycanyon.com^
 ||whimsicalgrove.com^
@@ -44197,6 +44205,7 @@ inapps.appsflyersdk.com^
 ||podcorn.com^
 ||pointillist.com^
 ||polarcdn-pentos.com^
+||pop6serve.com^
 ||popupmaker.com^
 ||prebidmanager.com^
 ||premiumimpression.com^
@@ -44836,6 +44845,7 @@ inapps.appsflyersdk.com^
 ||cautiouscherries.com^
 ||cavecurtain.com^
 ||cdnral.com^
+||ceciliavenus.com^
 ||celestialspectra.com^
 ||chalkoil.com^
 ||chargecracker.com^
@@ -44982,7 +44992,6 @@ inapps.appsflyersdk.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
 ||inputicicle.com^
-||inquisitiveice.com^
 ||instrumentinsect.com^
 ||interestingpot.com^
 ||jailbulb.com^
@@ -45185,6 +45194,7 @@ inapps.appsflyersdk.com^
 ||stepplane.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
+||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
 ||stockingsneeze.com^
@@ -45605,6 +45615,7 @@ inapps.appsflyersdk.com^
 ||algopine.com^
 ! Spanish
 ||24log.es^
+||agency360.io^
 ||botize.com^
 ||ccrtvi.com^
 ||contadordevisitas.es^
@@ -46069,6 +46080,7 @@ inapps.appsflyersdk.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
+||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
 ||octopart-analytics.com^
 ||oda.markitondemand.com^
