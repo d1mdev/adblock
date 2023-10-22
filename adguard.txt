@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-21T22:00:14.251Z
+! Last modified: 2023-10-22T22:00:13.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5313,6 +5313,7 @@
 ||341073be6e9db7d2.com^
 ||341k4gu76ywe.top^
 ||345f780221.com^
+||34710af267.com^
 ||349c3c0859.com^
 ||34e224a3bf.com^
 ||34pavouhj7.com^
@@ -7602,6 +7603,7 @@
 ||another-surprise.pro^
 ||anpjcoapgd.com^
 ||anpnipbfaxr.com^
+||anpptedtah.com^
 ||ansf.shop^
 ||anspeechless.com^
 ||anssigia.xyz^
@@ -8270,6 +8272,7 @@
 ||auberginecorny.com^
 ||auboaksa.com^
 ||aubpfvvsiyf.xyz^
+||aubsehog.net^
 ||auburn9819.com^
 ||auchoocm.com^
 ||auchoons.net^
@@ -14162,6 +14165,7 @@
 ||encampmentgeologydetective.com^
 ||enchanted-stretch.pro^
 ||enchantedstomach.com^
+||enchroe.com^
 ||enclforlane.com^
 ||encloseprecious.com^
 ||encodeinflected.com^
@@ -17531,6 +17535,7 @@
 ||hiphoapt.xyz^
 ||hippchapter.com^
 ||hippostravois.store^
+||hippusanglist.com^
 ||hiprofitnetworks.com^
 ||hipstertinta.space^
 ||hipunaux.com^
@@ -19399,6 +19404,7 @@
 ||k68tkg.com^
 ||kaayqbkwnbqja.top^
 ||kablic.com^
+||kabscarbide.com^
 ||kabuut.com^
 ||kadggriffshoyv.com^
 ||kadniltuwsu.com^
@@ -21661,6 +21667,7 @@
 ||misfields.com^
 ||misfortunedelirium.com^
 ||misfortunemerrimentmouth.com^
+||misgala.com^
 ||mishapideal.com^
 ||miskoru.com^
 ||mislaer.com^
@@ -25162,6 +25169,7 @@
 ||plywoodfact.com^
 ||pmaosrgeieft.com^
 ||pmc1201.com^
+||pmdnditvte.com^
 ||pmetorealiukze.xyz^
 ||pmieprlpq.com^
 ||pmimdcjx.com^
@@ -29711,6 +29719,7 @@
 ||stingeantonia.com^
 ||stinglackingrent.com^
 ||stingystoopedsuccession.com^
+||stinicf.com^
 ||stinkcomedian.com^
 ||stinkyloadeddoctor.com^
 ||stinkyrepetition.com^
@@ -31923,6 +31932,7 @@
 ||uloaludu.xyz^
 ||ulourgaz.net^
 ||ulrzovfukgkljw.com^
+||ulseugnrmnrww.com^
 ||ultimatumloftyharvest.com^
 ||ultimumflyers.uno^
 ||ultrabetas.com^
@@ -34060,6 +34070,7 @@
 ||wvhba6470p.com^
 ||wvjzbijwbsegqq.com^
 ||wvnuubmothth.com^
+||wvpfumotgpsfy.com^
 ||wvwxjfjjytaf.com^
 ||wvxcdtuhcagistb.xyz^
 ||ww2.imgadult.com^
@@ -34612,6 +34623,7 @@
 ||yqszaqtw.com^
 ||yqxhslsqaqkbd.com^
 ||yr9n47004g.com^
+||yrcpsfqoyi.com^
 ||yresumeform.autos^
 ||yrfowbaldjrxr.xyz^
 ||yrinpvfw.com^
@@ -34914,6 +34926,7 @@
 ||zprelanding.com^
 ||zprelandings.com^
 ||zqfcndk.com^
+||zqksqsjupnb.com^
 ||zquent.com^
 ||zqwe.ru^
 ||zrav2wkbrs.com^
@@ -35659,6 +35672,7 @@
 ||insurads.com^
 ||integr8.digital^
 ||intenthq.com^
+||intentiq.com^
 ||intentmedia.net^
 ||interactiveads.ai^
 ||interadv.net^
