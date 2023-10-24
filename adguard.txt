@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-23T22:00:13.861Z
+! Last modified: 2023-10-24T22:00:15.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5383,6 +5383,7 @@
 ||4030b44c32.com^
 ||4073284684.com^
 ||407433bfc441.com^
+||4087aa0dc1.com^
 ||40ceexln7929.com^
 ||40e82f6c27.com^
 ||40f380afa3.com^
@@ -7551,6 +7552,7 @@
 ||angprobinsyano.su^
 ||anguac.com^
 ||anguished-child.pro^
+||anguishedjudgment.com^
 ||anguishexperimental.com^
 ||anguishleague.com^
 ||anguishlonesome.com^
@@ -9968,6 +9970,7 @@
 ||brojwaozvgib.com^
 ||brokerspock.com^
 ||brominewf.guru^
+||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
 ||broochambitioncopies.com^
@@ -12366,6 +12369,7 @@
 ||datingtoday.top^
 ||datingtopgirls.com^
 ||datingvr.ru^
+||dattoswitches.com^
 ||daubierbatties.uno^
 ||daughterbump.com^
 ||daughterinlawrib.com^
@@ -18898,6 +18902,7 @@
 ||jacobsyrma.live^
 ||jacragatztit.com^
 ||jacsmuvkymw.com^
+||jactantsplodgy.com^
 ||jadcenter.com^
 ||jadedhide.pro^
 ||jadqoc.xyz^
@@ -21012,6 +21017,7 @@
 ||magicianboundary.com^
 ||magicianoptimisticbeard.com^
 ||magicignoresoil.com^
+||magnificent-listen.com^
 ||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
 ||magnificohec.xyz^
@@ -21481,6 +21487,7 @@
 ||mergaksi.net^
 ||mergedlava.com^
 ||mergerpep.com^
+||mergessidi.com^
 ||meritedgasser.com^
 ||merligopotlid.com^
 ||mermaidcontemplateadjoining.com^
@@ -23574,6 +23581,7 @@
 ||oneclickpic.net^
 ||onecomedyservices.com^
 ||onedmp.com^
+||onedragon.win^
 ||oneegrou.net^
 ||onefoldonefoldpitched.com^
 ||onegalact.com^
@@ -24536,6 +24544,7 @@
 ||pdn-2.com^
 ||pdn-3.com^
 ||pdn-5.com^
+||pdridjiviq.com^
 ||pdsyibwlxd.xyz^
 ||peacebanana.com^
 ||peacefulactivity.com^
@@ -24773,6 +24782,7 @@
 ||pgonews.pro^
 ||pgpartner.com^
 ||pgssl.com^
+||phaglalt.com^
 ||phague.com^
 ||phaignux.xyz^
 ||phaikroo.net^
@@ -28232,6 +28242,7 @@
 ||sdg.fwtrck.com^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||sdkl.info^
 ||sdmfyqkghzedvx.com^
 ||sdnygannce.com^
 ||sdprsvbnj.xyz^
@@ -29074,6 +29085,7 @@
 ||smisto.com^
 ||smists.com^
 ||smithamenamel.com^
+||smithumbewreck.com^
 ||smitry.com^
 ||smjulynews.com^
 ||smjxarmaflpmxj.com^
@@ -29707,6 +29719,7 @@
 ||stgcdn.com^
 ||stgowan.com^
 ||sthenicrefunds.com^
+||sthoutte.com^
 ||stialt.com^
 ||sticalsdebaticalfe.info^
 ||stichosxylenol.guru^
@@ -29795,6 +29808,7 @@
 ||stotchou.com^
 ||stotoowu.net^
 ||stougnee.com^
+||stouksom.xyz^
 ||stoushgowds.com^
 ||stovearmpitagreeable.com^
 ||stovecharacterize.com^
@@ -29847,6 +29861,7 @@
 ||strickenenergetic.com^
 ||strictgrittwine.com^
 ||strident-writing.com^
+||stridentbedroom.pro^
 ||stringssymptomfishing.com^
 ||stringthumbprowl.com^
 ||striperaised.com^
@@ -46247,6 +46262,7 @@ inapps.appsflyersdk.com^
 ||rw.marchex.io^
 ||s.logsss.com^
 ||sa.scorpion.co^
+||scoopy.cdn112.com^
 ||scripts.psyma.com^
 ||sdrive.skoda-auto.com^
 ||secure.ifbyphone.com^
@@ -46773,6 +46789,7 @@ inapps.appsflyersdk.com^
 ||tr.n2.hk^
 ||track.ra.icast.cn^
 ||track.tomwx.net^
+||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||web-trace.ksapisrv.com^
