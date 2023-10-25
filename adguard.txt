@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-24T22:00:15.455Z
+! Last modified: 2023-10-25T22:00:15.121Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -29946,7 +29946,6 @@
 ||suburbincriminatesubdue.com^
 ||subwaygirlieweasel.com^
 ||succeedappointedsteve.com^
-||succeedscene.com^
 ||success-news.net^
 ||successfulpatience.com^
 ||successionflimsy.com^
@@ -36271,6 +36270,8 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||lr-intake.com^
+||collector-api.frspecifics.com^
 ||smelel.icu^
 ||ea.epochbase.com^
 ||f.revotas.com^
@@ -39710,6 +39711,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||friendlycrayon.com^
 ||fewkittens.com^
 ||inquisitiveice.com^
 ||delicatecascade.com^
@@ -44119,6 +44121,7 @@ inapps.appsflyersdk.com^
 ||hospitality-optimizer.com^
 ||hscta.net^
 ||humanpresence.app^
+||hypercounter.com^
 ||iaudienc.com^
 ||ifvox.com^
 ||impression.link^
@@ -44196,7 +44199,6 @@ inapps.appsflyersdk.com^
 ||loopa.net.au^
 ||lr-in-prod.com^
 ||lr-ingest.com^
-||lr-intake.com^
 ||lyngro.com^
 ||m-t.io^
 ||m0mentum.net^
@@ -45068,6 +45070,7 @@ inapps.appsflyersdk.com^
 ||handyfireman.com^
 ||harborcaption.com^
 ||hauntlist.com^
+||headydegree.com^
 ||hearinglizards.com^
 ||heartbreakingmind.com^
 ||helpcollar.com^
