@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-29T23:00:17.105Z
+! Last modified: 2023-10-30T23:00:15.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bzgmcqqfxd.com^
+||ejxosoryso.ru^
 ||all-audio.pro^
 ||rbfive.bid^
 ||nwhoxwpuj6.com^
@@ -4167,6 +4169,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.mediamixer.co.kr^
 ||adx.promo^
 ||adfork.co.kr^
 ||92by17snes4.cc^
@@ -5017,6 +5020,7 @@
 ||1221e236c3f8703.com^
 ||1223f33efe.com^
 ||123-movies.bz^
+||1239feffd9.com^
 ||123camquiz.com^
 ||123feb4327.com^
 ||123movies.to^
@@ -6889,6 +6893,7 @@
 ||agbxppmdgobbsd.xyz^
 ||agcdn.com^
 ||agcm.xyz^
+||ageandinone.org^
 ||ageandinone.xyz^
 ||agency2.ru^
 ||ageory.com^
@@ -7073,6 +7078,7 @@
 ||akefhxav.top^
 ||akelandord.buzz^
 ||akgltsptchpq.com^
+||akhyanaoverhot.com^
 ||akikumu.com^
 ||akilifox.com^
 ||akinrevenueexcited.com^
@@ -8052,6 +8058,7 @@
 ||aswaystumbly.com^
 ||asxjhqaey.com^
 ||asybwqxru.xyz^
+||asyetaprovinc.org^
 ||asyledieses.com^
 ||asylumclogunaccustomed.com^
 ||asyndiesserged.xyz^
@@ -8447,6 +8454,7 @@
 ||aztecash.com^
 ||azulcw7.com^
 ||azxcuqzzozi.com^
+||azxdkucizr.com^
 ||azxorqjkafa.com^
 ||b-5-shield.com^
 ||b-m.xyz^
@@ -11233,6 +11241,7 @@
 ||colanx.com^
 ||colarak.com^
 ||cold-cold-freezing.com^
+||cold-priest.com^
 ||coldflownews.com^
 ||coldhardcash.com^
 ||coldnesfspubli.com^
@@ -12719,6 +12728,7 @@
 ||diningprefixmyself.com^
 ||diningroombutt.com^
 ||diningsovereign.com^
+||dinomicrummies.com^
 ||dinosaurrestore.com^
 ||dionympoalike.website^
 ||diorismmotes.website^
@@ -13875,6 +13885,7 @@
 ||electronicconsensus.com^
 ||elecur.com^
 ||eleeghod.xyz^
+||elegant-feedback.com^
 ||elegantkhamsin.life^
 ||elegiachalo.website^
 ||elementalantecedent.com^
@@ -14390,6 +14401,7 @@
 ||evours.com^
 ||evouxoup.com^
 ||evushuco.com^
+||evzhzppj5kel.com^
 ||evzonesglowfly.cfd^
 ||evzxlgstwcai.com^
 ||ewaglongoo.com^
@@ -15979,6 +15991,7 @@
 ||genesismedia.com^
 ||geneticocuby.com^
 ||genetorhebe.website^
+||genfpm.com^
 ||gength.com^
 ||geniad.net^
 ||genialsleptworldwide.com^
@@ -16782,6 +16795,7 @@
 ||guanaoutfawn.life^
 ||guanscleeks.com^
 ||guanylcaused.website^
+||guardeddummysoothing.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardianinvadecrept.com^
 ||guasarestant.com^
@@ -17094,6 +17108,7 @@
 ||hbowywpeqhfpwru.com^
 ||hbpcjmegtll.com^
 ||hcckkyoo.com^
+||hcdmhyq.com^
 ||hcritiesec.xyz^
 ||hcrwvno.com^
 ||hcuukwgpjiykapf.xyz^
@@ -18140,6 +18155,7 @@
 ||in-appadvertising.com^
 ||in-page-push.com^
 ||in-page-push.net^
+||inabilityovaloccasional.com^
 ||inabilitytraditional.com^
 ||inabsolor.com^
 ||inaccuratetreasure.com^
@@ -19253,6 +19269,7 @@
 ||k55p9ka2.de^
 ||k5zoom.com^
 ||k68tkg.com^
+||kaascypher.com^
 ||kaayqbkwnbqja.top^
 ||kablic.com^
 ||kabscarbide.com^
@@ -19761,6 +19778,7 @@
 ||kwqelx.com^
 ||kwtnhdrmbx.com^
 ||kwyuivlaychxe.com^
+||kxfwgqkuojcq.com^
 ||kxhmyeedwkbgrh.xyz^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
@@ -19899,6 +19917,7 @@
 ||larentisol.com^
 ||largedoubly.com^
 ||larkyabandum.com^
+||larontale.com^
 ||larrenpicture.pro^
 ||larsepso.xyz^
 ||larundadozily.com^
@@ -20588,6 +20607,7 @@
 ||lp-preview.net^
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
+||lpawakkabpho.com^
 ||lpfulinotaherere.info^
 ||lpfztnyr.com^
 ||lplimjxiyx.com^
@@ -20917,6 +20937,7 @@
 ||makemehappy.space^
 ||makemyvids.com^
 ||makesboundlessvirtue.com^
+||makesembezzlementconsume.com^
 ||makethebusiness.com^
 ||makingbookworm.com^
 ||makingdevil.com^
@@ -21608,6 +21629,7 @@
 ||mmotraffic.com^
 ||mmphijndajxiui.com^
 ||mmtnat.com^
+||mmvideocdn.com^
 ||mn1nm.com^
 ||mn230126pb.com^
 ||mnaujmo.com^
@@ -22444,6 +22466,7 @@
 ||newsyour.net^
 ||newthuads.com^
 ||newvideoapp.pro^
+||newzilla.name^
 ||nexdunaw.xyz^
 ||next-pops.top^
 ||nextdark.pro^
@@ -23173,6 +23196,7 @@
 ||officialstovethemselves.com^
 ||offloadingsite.com^
 ||offmachopor.com^
+||offmantiner.com^
 ||offoonguser.com^
 ||offpathgenuinely.com^
 ||offpichuan.com^
@@ -24040,6 +24064,7 @@
 ||ozdfhysr.com^
 ||ozectynptd.com^
 ||ozhhujt.com^
+||oznhkuilvrsdf.com^
 ||ozobsaib.com^
 ||ozonemedia.com^
 ||ozongees.com^
@@ -24672,6 +24697,7 @@
 ||phglobk.com^
 ||phhitgjxsit.com^
 ||phhovaafvjhdku.com^
+||phhxlhdjw.xyz^
 ||phialedamende.com^
 ||phicmune.net^
 ||phidianbesmut.com^
@@ -25006,6 +25032,7 @@
 ||plottercatnap.digital^
 ||ployeesihigh.one^
 ||ployeesihighlyr.xyz^
+||ploygunline.com^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
 ||plsrcmp.com^
@@ -25854,6 +25881,7 @@
 ||ptookaih.net^
 ||ptoopain.com^
 ||ptooshos.net^
+||ptotchie.xyz^
 ||ptoujaix.xyz^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -26595,6 +26623,7 @@
 ||rcuacroossonek.xyz^
 ||rcurn.com^
 ||rcvlinks.com^
+||rcwuzudjcsjmr.com^
 ||rddywd.com^
 ||rderstartirrelea.info^
 ||rdghnhu.com^
@@ -27144,6 +27173,7 @@
 ||revenuevids.com^
 ||reversehunchet.com^
 ||reversionhubbypole.com^
+||revertterm.com^
 ||reverysteno.com^
 ||revetothummin.website^
 ||revfusion.net^
@@ -27698,6 +27728,7 @@
 ||rusticsnoop.com^
 ||rusticswollenbelonged.com^
 ||rustydeceasedwe.com^
+||rustyretails.com^
 ||rustytableclearance.com^
 ||ruthlessegyptbehalf.com^
 ||ruthrequire.com^
@@ -27884,6 +27915,7 @@
 ||sankjerusalemflabbergasted.com^
 ||sannupsendysis.uno^
 ||sansaramedulla.website^
+||sansuni.xyz^
 ||santonpardal.com^
 ||santosfeltmanager.com^
 ||santosmiddle.com^
@@ -28449,6 +28481,7 @@
 ||sheduparton.website^
 ||sheecmee.xyz^
 ||sheedsoh.com^
+||sheemaus.net^
 ||sheenaup.net^
 ||sheengoa.com^
 ||sheeptie.xyz^
@@ -29158,6 +29191,7 @@
 ||sorroaconcupy.com^
 ||sorrowfulchemical.com^
 ||sorrowfulmaybe.pro^
+||sorrowfulsuggestion.pro^
 ||sorrowgeneric.com^
 ||sorrycarboncolorful.com^
 ||sorryfearknockout.com^
@@ -29272,6 +29306,7 @@
 ||sperans-beactor.com^
 ||spewsserved.website^
 ||sphegidsephen.com^
+||spheredkapas.com^
 ||spicaladapto.info^
 ||spicarhamn.website^
 ||spicy-effect.com^
@@ -29606,6 +29641,7 @@
 ||stinglackingrent.com^
 ||stingystoopedsuccession.com^
 ||stinicf.com^
+||stinicl.com^
 ||stinkcomedian.com^
 ||stinkyloadeddoctor.com^
 ||stinkyrepetition.com^
@@ -30006,6 +30042,7 @@
 ||sweepawejasper.com^
 ||sweepfrequencydissolved.com^
 ||sweepia.com^
+||sweet-marriage.pro^
 ||sweetheartzoommotley.com^
 ||sweetmoonmonth.com^
 ||sweetromance.life^
@@ -30200,6 +30237,7 @@
 ||tancommunicated.com^
 ||tankastapia.com^
 ||tankiuz.xyz^
+||tanksfright.com^
 ||tanquamporotic.tech^
 ||tantialcottish.xyz^
 ||tantiterhalac.xyz^
@@ -30587,6 +30625,7 @@
 ||theonecdn.com^
 ||theonlins.com^
 ||theoryexempt.com^
+||thepeom.com^
 ||theplayadvisor.com^
 ||thepopads.com^
 ||therapistpopulationcommentary.com^
@@ -32086,6 +32125,7 @@
 ||unylgxxmrsbb.com^
 ||unzipauscult.com^
 ||uod2quk646.com^
+||uohxijnkd.com^
 ||uoktyggqexq.com^
 ||uomsogicgi.com^
 ||uotksykpmkcd.com^
@@ -32310,6 +32350,7 @@
 ||uzouptel.xyz^
 ||uzoutche.xyz^
 ||uzqtbthkrqq.com^
+||uzzidxlvnq.com^
 ||v00ske77693f.com^
 ||v100homemade.com^
 ||v28games2fan.com^
@@ -34308,6 +34349,7 @@
 ||ybwcvhcnulrgbvy.com^
 ||ybyrudhdnrxcbe.com^
 ||ycadenevery.xyz^
+||ycctxwachqke.com^
 ||yceml.net^
 ||yclost.com^
 ||ycywhmyiixjafa.com^
@@ -34623,6 +34665,7 @@
 ||zarame.uno^
 ||zaremamynah.com^
 ||zarjzwlamwvjy.top^
+||zarjzwlamwzvj.top^
 ||zarkjmnmvbkj.top^
 ||zarkjmnmvllw.top^
 ||zarpop.com^
@@ -35815,6 +35858,7 @@
 ||realhumandeals.com^
 ||realssp.co.kr^
 ||rediads.com^
+||redintelligence.net^
 ||revenueflex.com^
 ||revive-adserver.net^
 ||reyden-x.com^
@@ -37072,8 +37116,6 @@
 ||baikalize.com^
 ||relevant-digital.com^
 ||statafun.ru^
-||sc.lfeeder.com^
-||tr.lfeeder.com^
 ||ga-analytics.com^
 ||direct-events-collector.spot.im^
 ||metrics-logger.spot.im^
@@ -39579,6 +39621,7 @@
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||truculentrate.com^
 ||ethereallagoon.com^
 ||tranquilcanyon.com^
 ||friendlycrayon.com^
@@ -40739,6 +40782,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.getadblock.com^
+||ping.getadblock.com^
+||hlogger.heraldcorp.com^
 ||stat.ntv.ru^
 ||iss.shopimind.com^
 ||app.shopimind.com^
@@ -42913,6 +42959,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
 ||sg.log.ulivetv.net^
 ||tracker.ulivetv.net^
@@ -43570,6 +43617,7 @@ inapps.appsflyersdk.com^
 ||loopcybersec.com^
 ||lsdm.co^
 ||maggieeatstheangel.com^
+||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
 ||mcangelus.com^
@@ -43960,7 +44008,6 @@ inapps.appsflyersdk.com^
 ||getaawp.com^
 ||getambassador.com^
 ||getblueshift.com^
-||getelevar.com^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getviously.com^
@@ -44060,6 +44107,7 @@ inapps.appsflyersdk.com^
 ||leadspace.com^
 ||leadsrx.com^
 ||lemnisk.co^
+||lfeeder.com^
 ||listenlayer.com^
 ||livesegmentservice.com^
 ||livesession.io^
@@ -45812,6 +45860,7 @@ inapps.appsflyersdk.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.iteam-dress.com^
 ||collect.rebelmouse.io^
@@ -45974,6 +46023,7 @@ inapps.appsflyersdk.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hit.mybestpro.com^
+||hits.getelevar.com^
 ||hits.informer.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
@@ -46044,6 +46094,7 @@ inapps.appsflyersdk.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
+||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
@@ -46288,6 +46339,7 @@ inapps.appsflyersdk.com^
 ||track.strife.com^
 ||track.td3x.com^
 ||track.untd.com^
+||track.uppromote.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -46312,6 +46364,7 @@ inapps.appsflyersdk.com^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^
 ||tracking-api.mangopulse.net^
+||tracking-na.hawksearch.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
@@ -46387,6 +46440,7 @@ inapps.appsflyersdk.com^
 ||wt.viagogo.net^
 ||x.disq.us^
 ||x.weather.com^
+||xp2023-pix.s3.amazonaws.com^
 ! https://d3ward.github.io/toolz/adblock.html
 ||adsdk.yandex.ru^
 ||analytics.samsungknox.com^
@@ -46709,6 +46763,8 @@ inapps.appsflyersdk.com^
 ||tags.op-palvelut.fi^
 ! Georgian
 ||links.boom.ge^
+! Greek
+||analytics.skroutz.gr^
 ||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
