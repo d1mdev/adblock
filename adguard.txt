@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-10-31T23:00:15.653Z
+! Last modified: 2023-11-01T23:00:15.610Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7989,6 +7989,7 @@
 ||aspireetopee.com^
 ||aspirerrehedge.life^
 ||asqconn.com^
+||asquintarmenic.cfd^
 ||asrcajsuql.com^
 ||asrntiljustetyerec.info^
 ||asrowjkagg.com^
@@ -8822,6 +8823,7 @@
 ||bcuiaw.com^
 ||bcwxcwvwmcsplf.xyz^
 ||bdced8843e.com^
+||bddc935c97.com^
 ||bdettywfxbcb.xyz^
 ||bdfagcumunjzx.com^
 ||bdfe35942f.com^
@@ -9508,6 +9510,7 @@
 ||bobboro.com^
 ||bocageicepick.com^
 ||bocoyoutage.com^
+||bodaile.com^
 ||bodelen.com^
 ||bodhihause.space^
 ||bodilywondering.com^
@@ -10642,6 +10645,7 @@
 ||chauckoo.xyz^
 ||chaudrep.net^
 ||chaugroo.net^
+||chauinubbins.com^
 ||chaukrgukepers.xyz^
 ||chauksoa.net^
 ||chaulsan.com^
@@ -12218,6 +12222,7 @@
 ||daukshewing.com^
 ||daunnotes.com^
 ||dauntlessamusingcomrade.com^
+||dauntslip.com^
 ||davaifoa.com^
 ||davbaqlajfza.com^
 ||davjdaauvlp.com^
@@ -12961,6 +12966,7 @@
 ||dmnprx.com^
 ||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
+||dmrtx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
@@ -13425,6 +13431,7 @@
 ||dwithmefeyauknal.info^
 ||dwlgvbapt.com^
 ||dwlmjxf.com^
+||dwomtkmr.com^
 ||dwoonqodmk.com^
 ||dwoopjvhazta.com^
 ||dwrdjfdxtoel.com^
@@ -13927,6 +13934,7 @@
 ||ellaysad.live^
 ||ellcurvth.com^
 ||ellicecaesura.com^
+||elltheprecise.org^
 ||elmiestkanuri.top^
 ||elmkrljayamrb.top^
 ||elogiumtagmeme.com^
@@ -14155,6 +14163,7 @@
 ||eoafgbgyebbcy.com^
 ||eoaktaposh.com^
 ||eobvppi.com^
+||eofripvanwin.org^
 ||eofst.com^
 ||eogaeapolaric.com^
 ||eondunpea.com^
@@ -14422,6 +14431,7 @@
 ||eweiwykaruwvbi.com^
 ||ewerhodub.com^
 ||ewesmedia.com^
+||ewikajs.com^
 ||ewjakayndd.com^
 ||ewoodandwaveo.com^
 ||ewooe6df.com^
@@ -17061,6 +17071,7 @@
 ||hathehadin.com^
 ||hatredsmell.uno^
 ||hats-47b.com^
+||hatsamevill.org^
 ||hatsheisaco.xyz^
 ||hatsplexor.com^
 ||hatwasallo.com^
@@ -17318,6 +17329,7 @@
 ||hiatecudgel.website^
 ||hibezu.xyz^
 ||hibids10.com^
+||hibitomonach.com^
 ||hiblcom.com^
 ||hiccupcotman.com^
 ||hickclamour.com^
@@ -18397,6 +18409,7 @@
 ||inspxtrc.com^
 ||insta-cash.net^
 ||instaflrt.com^
+||install-check.com^
 ||installlnow.com^
 ||installscrayfishpenal.com^
 ||instalmentshowernovice.com^
@@ -19093,6 +19106,7 @@
 ||jouthee.com^
 ||jouzoapi.com^
 ||jowarblushed.space^
+||jowliercollude.com^
 ||jowlishdiviner.com^
 ||joycreatorheader.com^
 ||joyfulfearsome.com^
@@ -21752,6 +21766,7 @@
 ||molemarshy.com^
 ||moligh.com^
 ||molrizub.com^
+||molseelr.xyz^
 ||moltenforger.top^
 ||moltingcasher.tech^
 ||molttenglobins.casa^
@@ -21941,6 +21956,7 @@
 ||mpsqvsylctp.com^
 ||mptentry.com^
 ||mptgate.com^
+||mpzwsvueph.com^
 ||mqabjtgli.xyz^
 ||mqaqtwkbwcqty.xyz^
 ||mqarrenothanca.xyz^
@@ -21988,6 +22004,7 @@
 ||muddychronicstuffed.com^
 ||muddyjustify.com^
 ||muddytransplantinsert.com^
+||mufcrkk.com^
 ||mufflealiases.com^
 ||mufflercypress.com^
 ||mufflerlamia.com^
@@ -23171,6 +23188,7 @@
 ||odeerofhisk.xyz^
 ||odipjwipwwyus.xyz^
 ||odnaknopka.ru^
+||odnaturedfe.org^
 ||odoursguard.website^
 ||odrmaztzeaj.com^
 ||odylespiacle.com^
@@ -26375,6 +26393,7 @@
 ||qualitysquashwin.com^
 ||quallyrimers.com^
 ||quanta-wave.com^
+||quantoz.xyz^
 ||quarrelaimless.com^
 ||quarrelconfidentmane.com^
 ||quasiblamelesshazy.com^
@@ -27158,6 +27177,7 @@
 ||retinuedisposablerecuperate.com^
 ||retinuegigoh.com^
 ||retionattings.xyz^
+||retipwrested.com^
 ||retireblotch.com^
 ||retiredfermentgenuine.com^
 ||retiremely.com^
@@ -28676,6 +28696,7 @@
 ||sicknessfestivity.com^
 ||sicknessinscribeelevator.com^
 ||sickoaji.com^
+||sicleclarets.com^
 ||sicsanopsh.com^
 ||sidanarchy.com^
 ||sidanarchy.net^
@@ -28987,6 +29008,7 @@
 ||smenqskfmpfxnb.bid^
 ||smentbrads.info^
 ||smentbradsh.xyz^
+||smervyfenks.com^
 ||smfsojvsaxbgf.com^
 ||smg8oo4njst45oene.com^
 ||smigro.info^
@@ -29021,6 +29043,7 @@
 ||smuggather.pro^
 ||smuggledistance.com^
 ||smuggleturnstile.com^
+||smugismanaxon.com^
 ||smugmuseumframe.com^
 ||smugturner.com^
 ||smuwitafmac.com^
@@ -30064,6 +30087,7 @@
 ||sweatybar.pro^
 ||sweatyequityhelicopter.com^
 ||sweatytraining.pro^
+||swebatcnoircv.xyz^
 ||swedecornysupper.com^
 ||sweepadstoday.click^
 ||sweepawejasper.com^
@@ -32727,6 +32751,7 @@
 ||vidschannel.space^
 ||vidsforyou.mom^
 ||vidsforyou.online^
+||vidsfull.online^
 ||vidsfun.info^
 ||vidsfun.online^
 ||vidsfun.space^
@@ -33280,6 +33305,7 @@
 ||waynagmay.com^
 ||wazaki.xyz^
 ||wazbuvdcij.com^
+||wazctigribhy.com^
 ||wazensee.net^
 ||wbdds.com^
 ||wbfhivtydh.com^
@@ -33926,6 +33952,7 @@
 ||wovensur.com^
 ||wowcalmnessdumb.com^
 ||wowebahugoo.com^
+||wowhaujy.com^
 ||wowjogsot.com^
 ||wowlnk.com^
 ||wowreality.info^
@@ -34604,6 +34631,7 @@
 ||yrkycfjq.com^
 ||yrufmaimbhxxe.com^
 ||yrvzqabfxe.com^
+||yscntxil.com^
 ||ysemblyjusting.info^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
@@ -34845,6 +34873,7 @@
 ||zjo0tjqpm1.com^
 ||zjrnyrranjjay.top^
 ||zjybqqaleeva.top^
+||zjybqqalenve.top^
 ||zkapibwampca.com^
 ||zkczzltlhp6y.com^
 ||zlacraft.com^
@@ -47276,9 +47305,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 29 Oct 2023 22:40 UTC+7
-! Version: 2310292240
-! Blocked: 844 rules
+! Last modified: 01 Nov 2023 16:06 UTC+7
+! Version: 2311011606
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -47789,6 +47818,7 @@ vkcdnservice.appspot.com^
 ||demopage.me^
 ||digi.vinut.com.vn^
 ||dt.vnecdn.com^
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||elink.nhanlucnganhluat.vn^
 ||ema.hostvn.net^
 ||event.filum.ai^
