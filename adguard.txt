@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-01T23:00:15.610Z
+! Last modified: 2023-11-02T23:00:15.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5489,6 +5489,7 @@
 ||58gs7b32jy.com^
 ||590578zugbr8.com^
 ||5913757eb5.com^
+||592749d456.com^
 ||59987d951d.com^
 ||59a3e34c69.com^
 ||59e5e13578.com^
@@ -9676,6 +9677,7 @@
 ||boustahe.com^
 ||bousyshock.com^
 ||bouwehee.xyz^
+||bovategunrack.cfd^
 ||bovemtou.xyz^
 ||bowed-common.pro^
 ||bowedcounty.com^
@@ -10090,6 +10092,7 @@
 ||byyanmaor.com^
 ||byzkrjamkqyjr.top^
 ||byzkrjamkqykw.top^
+||bzamusfalofn.com^
 ||bzuyxqrmndod.com^
 ||bzzmlqkljkrw.top^
 ||bzzmlqkljyer.top^
@@ -10522,6 +10525,7 @@
 ||cementadodunk.com^
 ||cenaclesuccoth.com^
 ||cenceevent.club^
+||cendantofth.org^
 ||ceneicons.com^
 ||ceneverdreams.com^
 ||cennter.com^
@@ -10781,6 +10785,7 @@
 ||choogeet.net^
 ||choomsiesurvey.top^
 ||choongou.com^
+||choongou.xyz^
 ||choortie.net^
 ||chooxail.com^
 ||chooxaur.com^
@@ -11119,6 +11124,7 @@
 ||clumperrucksey.life^
 ||clumsyflint.com^
 ||cluodlfare.com^
+||clurvypxvji.com^
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
 ||cluttercinch.com^
@@ -11391,6 +11397,7 @@
 ||conceptualization-noddies-candlemaker.online^
 ||conceptualizefact.com^
 ||concernederase.com^
+||concernedwhichever.com^
 ||concerntypisthumility.com^
 ||concord.systems^
 ||concoursegrope.com^
@@ -12638,6 +12645,7 @@
 ||dh956.com^
 ||dharmaashman.com^
 ||dhhuakggx.xyz^
+||dhkrftpc.xyz^
 ||dhlyikbubkibk.com^
 ||dhowsptelea.com^
 ||dhthrewdownth.xyz^
@@ -16290,6 +16298,7 @@
 ||glestpeoples.buzz^
 ||glevoloo.com^
 ||gleydegulled.com^
+||glibsols.net^
 ||gliceebe.xyz^
 ||gliderpured.com^
 ||gliffyfreaked.com^
@@ -17955,6 +17964,7 @@
 ||iezxmddndn.com^
 ||ifaupsoo.com^
 ||ifdilptsw.com^
+||ifdividemeasuring.com^
 ||ifdmuggdky.com^
 ||ifdnzact.com^
 ||ifdyifowri.com^
@@ -18116,6 +18126,7 @@
 ||immersepingcompromise.com^
 ||immigrantpavement.com^
 ||immigrateskating.com^
+||immigrationspiralprosecution.com^
 ||immortalhostess.com^
 ||immortalityfaintedobjections.com^
 ||immortalityinformedmay.com^
@@ -18571,6 +18582,7 @@
 ||ipsowrite.com^
 ||iptautup.com^
 ||iqcjuetaudtj.com^
+||iqfmvj.com^
 ||iqimwsctvgbvqx.xyz^
 ||iqkjrwf.com^
 ||iqlpkca.com^
@@ -19579,6 +19591,7 @@
 ||klausmoplah.com^
 ||klcpcsdoaelyjeh.com^
 ||klcuxykjrfto.xyz^
+||klehewasades.org^
 ||klenhosnc.com^
 ||klikadvertising.com^
 ||kliksaya.com^
@@ -21213,6 +21226,7 @@
 ||mctailqwjke.com^
 ||mcurrentlyse.shop^
 ||mcututzk.com^
+||mcvwjzj.com^
 ||mcycity.com^
 ||mcylzynw.com^
 ||mczbf.com^
@@ -22106,6 +22120,7 @@
 ||my-hanson.com^
 ||my.shymilftube.com^
 ||my1elitclub.com^
+||myabsconds.com^
 ||myactualblog.com^
 ||myadcash.com^
 ||mybestdc.com^
@@ -23859,6 +23874,7 @@
 ||ottack.com^
 ||ottdhysral.com^
 ||otterwoodlandobedient.com^
+||otvlehf.com^
 ||otween.com^
 ||otwwtutujwa.com^
 ||ouaker.com^
@@ -23922,6 +23938,7 @@
 ||ouryretyequirem.info^
 ||ourzitemu.com^
 ||ouseoyopersed.info^
+||ouseswhichtot.org^
 ||ousinouk.xyz^
 ||ousouzay.net^
 ||oussaute.net^
@@ -24082,6 +24099,7 @@
 ||oxlandvoicing.digital^
 ||oxlfhifzfynll.com^
 ||oxmpuvakrtu.com^
+||oxmqzeszyo.com^
 ||oxrendflare.com^
 ||oxthrilled.com^
 ||oxtracking.com^
@@ -24122,6 +24140,7 @@
 ||pa5ka.com^
 ||pacekami.com^
 ||pacifoos.net^
+||pacijwarnfrtq.com^
 ||packethierarchy.com^
 ||pacoaniy.net^
 ||paddleniecehandicraft.com^
@@ -24962,6 +24981,7 @@
 ||pjblqxvmcjyiel.com^
 ||pjjpp.com^
 ||pjlufuwtxv.com^
+||pjnwmbz.com^
 ||pjoibbc.com^
 ||pjoqkmks.com^
 ||pjqchcfwtw.com^
@@ -28544,6 +28564,7 @@
 ||shereeflivish.com^
 ||sheschemetraitor.com^
 ||shexawhy.net^
+||shfewojrmxpy.xyz^
 ||shhbrjs.com^
 ||shhchack.digital^
 ||shidn.com^
@@ -31532,6 +31553,7 @@
 ||truthful-quote.pro^
 ||truthfulstem.com^
 ||truthordarenewsmagazine.com^
+||truthwassadl.org^
 ||truthwassadl.xyz^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
@@ -32325,6 +32347,7 @@
 ||usnese.com^
 ||usnindioxime.website^
 ||usounoul.com^
+||ussckwroweoyv.com^
 ||ussive.com^
 ||ussord.com^
 ||ust-ad.com^
@@ -34185,6 +34208,7 @@
 ||xfyqlex.com^
 ||xgeuzcfrkeb.com^
 ||xghxpvl.com^
+||xgmtlmrweyasy.com^
 ||xgraph.net^
 ||xgstemmj.com^
 ||xhaeuubhi.xyz^
@@ -34486,6 +34510,7 @@
 ||yieldselect.com^
 ||yieldtraffic.com^
 ||yieldx.com^
+||yifearmcsnsxrs.com^
 ||yifmgpzeih.com^
 ||yifsntub.xyz^
 ||yijaovuvbndx.xyz^
@@ -34671,6 +34696,7 @@
 ||ywasnothyc.buzz^
 ||ywrvpmapjcg.xyz^
 ||ywsxqrcfrtsnfa.com^
+||ywudaepnaudn.com^
 ||ywvhxymyk.com^
 ||ywyeetvrjx.xyz^
 ||yx-ads6.com^
@@ -34726,6 +34752,7 @@
 ||zarjzwlamwvjy.top^
 ||zarjzwlamwzvj.top^
 ||zarkjmnmvbkj.top^
+||zarkjmnmvblz.top^
 ||zarkjmnmvllw.top^
 ||zarpop.com^
 ||zationservantas.info^
@@ -34932,6 +34959,7 @@
 ||zprelandings.com^
 ||zqfcndk.com^
 ||zqksqsjupnb.com^
+||zqmmtbwqymhrru.com^
 ||zquent.com^
 ||zqwe.ru^
 ||zrav2wkbrs.com^
