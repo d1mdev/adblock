@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-03T23:00:13.829Z
+! Last modified: 2023-11-04T23:00:14.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5794,6 +5794,7 @@
 ||9a52364ae8.com^
 ||9a5cb35bf2.com^
 ||9a63a7ab4d.com^
+||9a7c81f58e.com^
 ||9ac0da939a.com^
 ||9ads.mobi^
 ||9af022123c.com^
@@ -7601,6 +7602,7 @@
 ||anywaybreeches.com^
 ||aofzkovajqti.com^
 ||aogkfujgtmfwp.xyz^
+||aoihaizo.xyz^
 ||aojgggbwish.xyz^
 ||aojqjblt.xyz^
 ||aojuoaevugad.xyz^
@@ -9850,6 +9852,7 @@
 ||broughtalienshear.com^
 ||broughtenragesince.com^
 ||broweb.site^
+||brown-gas.com^
 ||broworker4s.com^
 ||broworker6s.com^
 ||broworker7.com^
@@ -9966,6 +9969,7 @@
 ||bullymust.com^
 ||bulochka.xyz^
 ||bulrev.com^
+||bulserv.com^
 ||bultaika.net^
 ||bultenanogra.cfd^
 ||bulyiel.com^
@@ -17070,6 +17074,7 @@
 ||harvardunions.com^
 ||harvesttheory.com^
 ||harvintact.com^
+||harzpzbsr.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
 ||hashbitewarfare.com^
@@ -17329,6 +17334,7 @@
 ||hffxc.com^
 ||hfib5s-sdds-248d.xyz^
 ||hfk128dfs-dsfbheuoys.xyz^
+||hfnzhczqgdp.com^
 ||hfudugo.com^
 ||hfufkifmeni.com^
 ||hfuostp.com^
@@ -19358,7 +19364,6 @@
 ||kamalafooner.space^
 ||kamamwvzmmzmy.top^
 ||kamassirangers.tech^
-||kaminari.systems^
 ||kamnebo.info^
 ||kamost.com^
 ||kanatventose.com^
@@ -20676,6 +20681,7 @@
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
 ||lpawakkabpho.com^
+||lpetooopz.com^
 ||lpfulinotaherere.info^
 ||lpfztnyr.com^
 ||lplimjxiyx.com^
@@ -23936,6 +23942,7 @@
 ||oupe71eiun.com^
 ||ouphouch.com^
 ||oupushee.com^
+||ouranosmoyener.com^
 ||ourcommonnews.com^
 ||ourcommonstories.com^
 ||ourcoolposts.com^
@@ -24797,6 +24804,7 @@
 ||phmqqbm.com^
 ||phoaglee.com^
 ||phoalard.net^
+||phoampun.net^
 ||phoapsoo.com^
 ||phoaptee.net^
 ||phoaraut.com^
@@ -26210,6 +26218,7 @@
 ||puwpush.com^
 ||puxonsir.net^
 ||puyjjq.com^
+||puysis.com^
 ||puzzlepursued.com^
 ||pvawydmmj.com^
 ||pvclouds.com^
@@ -27658,6 +27667,7 @@
 ||rozamimo9za10.com^
 ||rpmsophiashoe.com^
 ||rprinc6etodn9kunjiv.com^
+||rpsoybm.com^
 ||rpts.org^
 ||rqakljxbs.com^
 ||rqfedjzveel.com^
@@ -27824,6 +27834,7 @@
 ||ruthrequire.com^
 ||rutpunishsnitch.com^
 ||ruttedagnat.com^
+||ruutjhlmv.com^
 ||ruuwkftrtegqj.com^
 ||ruwertur.com^
 ||ruwookri.xyz^
@@ -33639,6 +33650,7 @@
 ||whobabsaim.com^
 ||whodouth.net^
 ||whoevercloakroom.com^
+||whofiguredso.org^
 ||whoftits.xyz^
 ||wholaums.xyz^
 ||whole-win.pro^
@@ -33907,6 +33919,7 @@
 ||womanedlithite.guru^
 ||wombalayah.com^
 ||wombsaimscary.com^
+||womerasecocide.com^
 ||womsauph.com^
 ||woncherish.com^
 ||woncrawford.com^
@@ -34701,6 +34714,7 @@
 ||ytfotjfrttgyal.com^
 ||ytgzz.com^
 ||ythjhk.com^
+||ytimewornan.org^
 ||ytimm.com^
 ||ytndjaefvan.xyz^
 ||ytqnzvqfsr.com^
@@ -35052,6 +35066,7 @@
 ||zwaar.net^
 ||zwbbkjvzqbyba.top^
 ||zwbbkjvzqembe.top^
+||zwmvyzyrlvava.top^
 ||zwnoeqzsuz.com^
 ||zwqpqrtpjt.com^
 ||zwqzxh.com^
@@ -40907,6 +40922,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cnt.promodj.com^
+||at.prod.jimdo.systems^
 ||log.getadblock.com^
 ||ping.getadblock.com^
 ||hlogger.heraldcorp.com^
@@ -43612,6 +43629,7 @@ inapps.appsflyersdk.com^
 ||adscore.com^
 ||adstk.io^
 ||adultium.com^
+||agma-analytics.de^
 ||alpha1trk.com^
 ||altopd.com^
 ||analys.live^
@@ -44308,6 +44326,7 @@ inapps.appsflyersdk.com^
 ||ninjacat.io^
 ||nmrodam.com^
 ||northstartravelmedia.com^
+||nullitics.com^
 ||nuloox.com^
 ||nyltx.com^
 ||o-s.io^
@@ -45970,6 +45989,7 @@ inapps.appsflyersdk.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
+||clicktalecdn.sslcs.cdngc.net^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-logger.beta.salemove.com^
@@ -46369,6 +46389,7 @@ inapps.appsflyersdk.com^
 ||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdriven.com^
 ||stats.ozwebsites.biz^
 ||stats.polldaddy.com^
 ||stats.prebytes.com^
