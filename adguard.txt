@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-06T23:00:16.195Z
+! Last modified: 2023-11-07T23:00:16.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11671,6 +11671,7 @@
 ||cpahmeokparn.com^
 ||cpalabtracking.com^
 ||cpaoffers.network^
+||cpaokhfmaccu.com^
 ||cpaspeed.online^
 ||cpaway.com^
 ||cpays.com^
@@ -15912,6 +15913,7 @@
 ||gbfgvzfcjfs.com^
 ||gbfwqsakvaysygn.xyz^
 ||gblcdn.com^
+||gbpkmltxpcsj.xyz
 ||gckkxvpbhhlx.com^
 ||gcqaxqowifrf.com^
 ||gcruperparverew.xyz^
@@ -16760,6 +16762,7 @@
 ||guasarestant.com^
 ||gubopedruph.com^
 ||guchihyfa.pro^
+||guddledarride.com^
 ||gudouzov.com^
 ||guemalgist.com^
 ||guerrilla-links.com^
@@ -18734,6 +18737,7 @@
 ||jaggiertridii.com^
 ||jagice.uno^
 ||jagqrhvcvoqjw.com^
+||jaigaivi.xyz^
 ||jailabridge.com^
 ||jainbagong.com^
 ||jaireehu.net^
@@ -19479,6 +19483,7 @@
 ||kistfulmafiosi.space^
 ||kistfulmapach.life^
 ||kistutch.net^
+||kistversets.com^
 ||kitantiterhalac.xyz^
 ||kitchencafeso.com^
 ||kithudru.xyz^
@@ -20624,6 +20629,7 @@
 ||lubbardstrouds.com^
 ||lubbreton.com^
 ||lubrazati.com^
+||lucentfreer.com^
 ||lucentposition.com^
 ||luciditycuddle.com^
 ||luciditymadeupfarfetched.com^
@@ -21391,6 +21397,7 @@
 ||miaeglaring.uno^
 ||miamiahokums.com^
 ||miamribud.com^
+||miaouedcrevass.com^
 ||miayarus.com^
 ||miboundwhiffet.com^
 ||micastskangli.com^
@@ -23171,6 +23178,7 @@
 ||ofhgkuopngw.com^
 ||ofhypnoer.com^
 ||ofleafeona.com^
+||ofoockoo.com^
 ||ofphanpytor.com^
 ||ofpiplupon.com^
 ||ofqopmnpia.com^
@@ -27337,6 +27345,7 @@
 ||roabmyrevngqqk.com^
 ||roachoavi.com^
 ||roadmappenal.com^
+||roadoati.xyz^
 ||roakicat.net^
 ||roambedroom.com^
 ||roastoup.com^
@@ -30594,6 +30603,7 @@
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theyunm.com^
 ||thgebtibfyry.com^
 ||thick-ruin.pro^
 ||thickbabysittinghandled.com^
@@ -34502,6 +34512,7 @@
 ||yummy-gap.pro^
 ||yumomis.com^
 ||yunded.com^
+||yunmaue.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppads.com^
@@ -36082,6 +36093,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||emlsend.com^
 ||lr-intake.com^
 ||collector-api.frspecifics.com^
 ||smelel.icu^
@@ -36184,8 +36196,6 @@
 ||log.collectaction.com^
 ||cometlytrack.com^
 ||trueroas.io^
-||31830fbc-adbf-11ed-afa1-0242ac120002.site^
-||15823f12-289e-4189-9e51-e2de1bf1a105.online^
 ||livetrafficfeed.com^
 ||cnnx.link^
 ||f11-ads.com^
@@ -40685,6 +40695,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track.wattpad.com^
+||analytics.keepstreams.com^
+||analytics.gamesdrive.net^
 ||cnt.promodj.com^
 ||at.prod.jimdo.systems^
 ||log.getadblock.com^
@@ -42069,6 +42082,7 @@
 ||r.bbci.co.uk^
 ||r.kleertjes.com^
 ||r.miamano.com^
+||alt-r.my.com^
 ||r.my.com^
 ||r.razer.com^
 ||r.rbc.ru^
@@ -42484,7 +42498,6 @@
 ||track.tproger.ru^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
-||track.wattpad.com^
 ||track.wildblue.com^
 ||track.workablemetro.com^
 ||track.zappos.com^
@@ -43415,6 +43428,7 @@ inapps.appsflyersdk.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
 ||cityrobotflower.com^
+||ck123.io^
 ||ckies.net^
 ||clearbitscripts.com^
 ||click360.io^
@@ -43517,6 +43531,7 @@ inapps.appsflyersdk.com^
 ||lite-cdn.com^
 ||liveyield.com^
 ||lltrck.com^
+||log.dance^
 ||logicanalytics.io^
 ||logtail.com^
 ||loopcybersec.com^
