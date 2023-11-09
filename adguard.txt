@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-08T23:00:16.050Z
+! Last modified: 2023-11-09T23:00:15.824Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5351,6 +5351,7 @@
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
 ||3e090c38bd.com^
 ||3e72982861.com^
+||3e950d4353.com^
 ||3eb8f81779.com^
 ||3ed2b6b7c4.com^
 ||3ed671e3c0.com^
@@ -6926,6 +6927,7 @@
 ||aghaneefigurae.com^
 ||aghastmardy.website^
 ||aghnikogxlk.com^
+||aghppuhixd.com^
 ||agisdayra.com^
 ||agitated-potential.pro^
 ||agitationdispense.com^
@@ -12113,6 +12115,7 @@
 ||dalysb.com^
 ||dalysh.com^
 ||dalysv.com^
+||damaged-fix.pro^
 ||damaged-shop.pro^
 ||dameadept.com^
 ||damedamehoy.xyz^
@@ -12548,6 +12551,7 @@
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
 ||destroyedspear.com^
+||desugeng.xyz^
 ||desxpbub.xyz^
 ||detachedbates.com^
 ||detachmentoccasionedarena.com^
@@ -14606,6 +14610,7 @@
 ||f28fda58c5.com^
 ||f2bdeb5c8c.com^
 ||f2fc0fce65.com^
+||f2svgmvts.com^
 ||f3234a2c9a.com^
 ||f3551539d6565853.com^
 ||f3663618ff.com^
@@ -18256,6 +18261,7 @@
 ||informereng.com^
 ||informeresapp.com^
 ||infra.systems^
+||infractructurebiopsycircumstances.com^
 ||infrashift.com^
 ||infringementseason.com^
 ||infusesrhyptic.com^
@@ -18774,6 +18780,7 @@
 ||januahotdogs.com^
 ||januarysundayurgently.com^
 ||janute.com^
+||janzmuarcst.com^
 ||japact.com^
 ||japanbros.com^
 ||japanesereaphot.com^
@@ -25819,6 +25826,7 @@
 ||ptechait.com^
 ||ptecmooz.net^
 ||ptecmuny.com^
+||ptedreer.com^
 ||ptedroab.xyz^
 ||pteeksou.xyz^
 ||pteevaih.xyz^
@@ -26284,6 +26292,7 @@
 ||qqmvwjvrlyery.top^
 ||qqqqbdma.com^
 ||qqqwes.com^
+||qquubyoknj.com^
 ||qqvthrkrseoog.com^
 ||qqvvkebebnbb.top^
 ||qqvvkebebnlq.top^
@@ -26686,6 +26695,7 @@
 ||recesssignary.com^
 ||rechannelapi.com^
 ||rechanque.com^
+||recholta.net^
 ||recipeominouscrest.com^
 ||recipesunny.com^
 ||reciprocaldowntownabout.com^
@@ -27675,6 +27685,7 @@
 ||runwaff.com^
 ||ruperparverew.xyz^
 ||ruptionverst.space^
+||rural-patience.com^
 ||rurate.com^
 ||rurber.com^
 ||rurbie.com^
@@ -45099,6 +45110,7 @@ inapps.appsflyersdk.com^
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
+||tradetooth.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
