@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-09T23:00:15.824Z
+! Last modified: 2023-11-10T23:00:14.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4172,6 +4172,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||adrouter-charter-vod.cadenttech.tv^
 ||ad*.mtgglobals.com^
 ||ad-*.amazonaws.com^
 ||tapulsads.ru^
@@ -4970,6 +4971,7 @@
 ||0abdab4d27.com^
 ||0ac56fb52b.com^
 ||0aef09749a.com^
+||0af2a962b0102942d9a7df351b20be55.com^
 ||0b19760679.com^
 ||0b4cdd5af5.com^
 ||0b73f85f92.com^
@@ -5470,6 +5472,7 @@
 ||530bc37e10.com^
 ||532xcxypmpnp.com^
 ||535a855e66.com^
+||539f346355.com^
 ||53c2dtzsj7t1.top^
 ||54ec30c53d.com^
 ||54y3eh34y3wh34y3h.com^
@@ -8772,6 +8775,7 @@
 ||baubogla.com^
 ||bauchleredries.com^
 ||baunaurou.com^
+||bauptost.net^
 ||baustraightu.com^
 ||bauvaikul.com^
 ||bauweethie.com^
@@ -9383,6 +9387,7 @@
 ||blewtheleledm.one^
 ||blfoddifghcmeyc.com^
 ||blicatedlitytl.info^
+||blidbqd.com^
 ||blindlydutra.com^
 ||blindlyidle.com^
 ||blindlytinsel.com^
@@ -9584,6 +9589,7 @@
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||bonzesantra.life^
+||boodaisi.xyz^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -11388,6 +11394,7 @@
 ||concentleconse.site^
 ||concentratebeauabsolute.com^
 ||concentrateclaims.com^
+||concentrationmajesticshoot.com^
 ||concentrationminefield.com^
 ||conceptualizefact.com^
 ||concernederase.com^
@@ -17232,6 +17239,7 @@
 ||heronspire.com^
 ||herynore.com^
 ||hesatinaco.com^
+||hesatinacorne.org^
 ||hesoorda.com^
 ||hespe-bmq.com^
 ||hestatueoftheap.com^
@@ -19278,6 +19286,7 @@
 ||kaiu-marketing.com^
 ||kaiviwoo.com^
 ||kaiwaipo.net^
+||kaizzz.xyz^
 ||kakdgmn.com^
 ||kalauxet.com^
 ||kalganautographeater.com^
@@ -22072,6 +22081,7 @@
 ||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
+||mycelesterno.com^
 ||myckdom.com^
 ||myclickpush.com^
 ||mycoolfeed.com^
@@ -23131,6 +23141,7 @@
 ||ocuuqdqupbpvp.com^
 ||ocuwyfarlvbq.com^
 ||ocwagmlizb.com^
+||ocygacror.com^
 ||odbjmugzoq.com^
 ||odbxgdxgvo.com^
 ||oddauthorscreative.com^
@@ -24180,6 +24191,7 @@
 ||pangoha.xyz^
 ||pangtues.xyz^
 ||pangwealjama.com^
+||panicmiserableeligible.com^
 ||panjabicocklet.website^
 ||pannamdashee.com^
 ||pannumregnal.com^
@@ -24387,6 +24399,7 @@
 ||pcbuqpdytqanufu.xyz^
 ||pccasia.xyz^
 ||pclk.name^
+||pcmaddwoxex.com^
 ||pcmclks.com^
 ||pcruwbk.com^
 ||pctlwm.com^
@@ -24524,6 +24537,7 @@
 ||percidaffects.com^
 ||percussiverefrigeratorunderstandable.com^
 ||percynaturalist.com^
+||perechsupors.com^
 ||perehodny.ru^
 ||pereliaastroid.com^
 ||perfb.com^
@@ -25854,6 +25868,7 @@
 ||ptoahaistais.com^
 ||ptoajait.net^
 ||ptoangir.com^
+||ptoapouk.com^
 ||ptobsagn.com^
 ||ptoftheca.xyz^
 ||ptonauls.net^
@@ -26178,6 +26193,7 @@
 ||qasrae.com^
 ||qatsbesagne.com^
 ||qatsisanhwry.com^
+||qatttuluhog.com^
 ||qawpicxuca.com^
 ||qawxtenkeo.com^
 ||qaydqvuzmu.com^
@@ -34251,6 +34267,7 @@
 ||xymhdmqrjxwl.com^
 ||xynkxvrvusoh.com^
 ||xyrkotsqhaf.com^
+||xyvjkdec.com^
 ||xzewvqi.com^
 ||xzezapozghp.com^
 ||xzvfyowf.com^
@@ -34503,6 +34520,7 @@
 ||ypvrnyovntabcfp.xyz^
 ||yqblutkjhx.com^
 ||yqeuu.com^
+||yqgmvxufpkr.com^
 ||yqiavtoy.com^
 ||yqiyazkddb.com^
 ||yqmxfz.com^
@@ -34762,6 +34780,7 @@
 ||zjybqqaleeva.top^
 ||zjybqqalenve.top^
 ||zkapibwampca.com^
+||zkawzmlvqjejy.top^
 ||zkczzltlhp6y.com^
 ||zlacraft.com^
 ||zlink2.com^
@@ -36126,6 +36145,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||counter.packa2.cz^
 ||emlsend.com^
 ||lr-intake.com^
 ||collector-api.frspecifics.com^
@@ -39690,6 +39710,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.totalav.com^
+||analytics.clubic.com^
 ||logs.netflix.com^
 ||analytics.innologica.com^
 ||track.wattpad.com^
@@ -41873,6 +41895,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||tracker.srta.spectrum.com^
 ||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
@@ -44096,6 +44119,7 @@ inapps.appsflyersdk.com^
 ||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
+||dependenttrip.com^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||desirebucket.com^
@@ -45831,7 +45855,6 @@ inapps.appsflyersdk.com^
 ||counter.hyipexplorer.com^
 ||counter.live4members.com^
 ||counter.maases.com^
-||counter.packa2.cz^
 ||counter.powr.io^
 ||counter.powweb.com^
 ||counter.tldw.me^
@@ -47184,9 +47207,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Nov 2023 14:37 UTC+7
-! Version: 2311081437
-! Blocked: 846 rules
+! Last modified: 10 Nov 2023 10:57 UTC+7
+! Version: 2311101057
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -47398,6 +47421,7 @@ vkcdnservice.appspot.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||realclick.vn^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -47845,7 +47869,6 @@ vkcdnservice.appspot.com^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
@@ -47955,7 +47978,6 @@ vkcdnservice.appspot.com^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
-||tvnotice.kg.garena.vn^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
@@ -48166,6 +48188,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
 ! Blocked by CNAME data.adobedc.net
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
