@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-10T23:00:14.138Z
+! Last modified: 2023-11-11T23:00:15.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31621,6 +31621,7 @@
 ||twinrdsyte.com^
 ||twinrtb.com^
 ||twinsoflave.com^
+||twinsrv.com^
 ||twinstanglebroken.com^
 ||twirlsengaud.life^
 ||twistads.com^
@@ -43849,6 +43850,7 @@ inapps.appsflyersdk.com^
 ||awesomeattack.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
+||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||balancemailbox.com^
@@ -44118,6 +44120,7 @@ inapps.appsflyersdk.com^
 ||defiantrice.com^
 ||delicatecascade.com^
 ||delicateducks.com^
+||deliciousducks.com^
 ||delightfulhour.com^
 ||dependenttrip.com^
 ||desertedbreath.com^
@@ -44244,6 +44247,7 @@ inapps.appsflyersdk.com^
 ||firstfrogs.com^
 ||firsttexture.com^
 ||flakyfeast.com^
+||flameuncle.com^
 ||flimsycircle.com^
 ||flimsythought.com^
 ||flockflame.com^
@@ -44598,6 +44602,7 @@ inapps.appsflyersdk.com^
 ||panickypancake.com^
 ||panoramicbutter.com^
 ||paradoxfactor.com^
+||parallelbulb.com^
 ||parcelcreature.com^
 ||parchedangle.com^
 ||parchedsofa.com^
@@ -44728,6 +44733,7 @@ inapps.appsflyersdk.com^
 ||readingopera.com^
 ||readymoon.com^
 ||readysnails.com^
+||realizedoor.com^
 ||realizevacation.com^
 ||rebelhen.com^
 ||rebelsubway.com^
@@ -44760,6 +44766,7 @@ inapps.appsflyersdk.com^
 ||rhetoricalveil.com^
 ||rhymezebra.com^
 ||rhythmmoney.com^
+||rhythmrule.com^
 ||richreceipt.com^
 ||richstring.com^
 ||righteouscrayon.com^
