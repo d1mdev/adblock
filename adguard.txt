@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-12T23:00:13.731Z
+! Last modified: 2023-11-13T23:00:14.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||givemelink.cc^
+||mediabrama.com^
 ||ehqaobjhna.com^
 ||istmvh.com^
 ||talktomeplease.biz^
@@ -6119,6 +6121,7 @@
 ||acdcdn.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
+||acedtousles.com^
 ||acelacien.com^
 ||acendantoftheq.xyz^
 ||aceporntube.com^
@@ -20902,6 +20905,7 @@
 ||maidendeprivation.com^
 ||maidsiowan.com^
 ||maiglair.net^
+||maihikuh.com^
 ||maijauta.xyz^
 ||maikashu.net^
 ||mailboxdoablebasically.com^
@@ -24666,6 +24670,7 @@
 ||phaithoo.xyz^
 ||phaivais.net^
 ||phalingy.net^
+||phamsacm.net^
 ||phantomattestationzillion.com^
 ||phantomtheft.com^
 ||phardain.xyz^
@@ -27568,6 +27573,7 @@
 ||roxot-panel.com^
 ||roxyaffiliates.com^
 ||royalcactus.com^
+||royallycuprene.com^
 ||rozamimo9za10.com^
 ||rpmsophiashoe.com^
 ||rprinc6etodn9kunjiv.com^
@@ -33226,6 +33232,7 @@
 ||waxingequant.space^
 ||waxpigbaa.com^
 ||waxtamnit.com^
+||waybillbulged.com^
 ||wayfarerspoutpraise.com^
 ||waygatecrowbar.com^
 ||waymarkgentiin.com^
@@ -39729,6 +39736,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
 ||analytics.clubic.com^
 ||logs.netflix.com^
@@ -41914,6 +41922,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+! NOTE: Regular rules
+!
+||fraud.adjoe.zone^
+||sdk-monitoring.ogury.co^
 ||tracker.srta.spectrum.com^
 ||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
@@ -44734,6 +44746,7 @@ inapps.appsflyersdk.com^
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||radiateprose.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
 ||raintwig.com^
