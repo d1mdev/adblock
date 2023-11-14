@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-13T23:00:14.352Z
+! Last modified: 2023-11-14T23:00:15.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4174,6 +4174,8 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads*.production-public.tubi.io^
+||mob*.novanewsapp.com^
 ||adrouter-charter-vod.cadenttech.tv^
 ||ad*.mtgglobals.com^
 ||ad-*.amazonaws.com^
@@ -12930,6 +12932,7 @@
 ||dizzyincome.pro^
 ||dizzyporno.com^
 ||dizzyrebozo.website^
+||dizzyshe.pro^
 ||dj-updates.com^
 ||djadoc.com^
 ||djefosbx.com^
@@ -15874,6 +15877,7 @@
 ||gannett.gcion.com^
 ||gapcask.com^
 ||gapscult.com^
+||gaqscipubhi.com^
 ||gaquxe8.site^
 ||garagesewe.com^
 ||garbslens.com^
@@ -19090,6 +19094,7 @@
 ||joygaskin.com^
 ||joylessstarted.com^
 ||joyorators.website^
+||joyous-concentrate.pro^
 ||joyouscreedweasel.com^
 ||joyrodethyme.digital^
 ||joyvowdig.com^
@@ -20689,6 +20694,7 @@
 ||ludied.com^
 ||ludocsbho.com^
 ||ludwigreseise.tech^
+||ludxivsakalg.com^
 ||lufbogazixz.com^
 ||luffic.com^
 ||lugajxy.com^
@@ -23823,6 +23829,7 @@
 ||otigainareput.info^
 ||otireofhisl.one^
 ||otisephie.com^
+||otjawzdugg.com^
 ||otjccfldytgkkox.xyz^
 ||otjoxpacgak.com^
 ||otlopudpvfq.com^
@@ -27779,6 +27786,7 @@
 ||rysheatlengthanl.xyz^
 ||ryyyyjfrawo.com^
 ||rzawugotwc.com^
+||rzaxroziwozq.com^
 ||rzkphskfifmo.com^
 ||rzneekilff.com^
 ||rzzqhhoim.com^
@@ -41924,6 +41932,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||prod.report.nacustomerexperience.citi.com^
+||mon.byteoversea.com^
 ||fraud.adjoe.zone^
 ||sdk-monitoring.ogury.co^
 ||tracker.srta.spectrum.com^
