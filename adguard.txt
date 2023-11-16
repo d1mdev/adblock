@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-15T23:00:16.492Z
+! Last modified: 2023-11-16T23:00:14.736Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||wensonk.com^
+||smatr.net^
 ||tailstories.biz^
 ||hhdjcabafaejaibaaaeg.world^
 ||givemelink.cc^
@@ -8532,6 +8534,7 @@
 ||b58ncoa1c07f.com^
 ||b5903af9fd.com^
 ||b5942f941d.com^
+||b5c28f9b84.com^
 ||b5e75c56.com^
 ||b6143975c9.com^
 ||b6750bc2a1.com^
@@ -11604,6 +11607,7 @@
 ||corderclotho.com^
 ||cordinghology.info^
 ||cordydikes.guru^
+||coreevolutionadulatory.com^
 ||coreignpetered.store^
 ||coreportions.com^
 ||corepsh.top^
@@ -12226,6 +12230,7 @@
 ||datingcentral.top^
 ||datingkoen.site^
 ||datingpush.space^
+||datingsphere.top^
 ||datingstyle.top^
 ||datingtoday.top^
 ||datingtopgirls.com^
@@ -12991,6 +12996,7 @@
 ||dmvporebntt.com^
 ||dmwiguazwm.com^
 ||dmzjmp.com^
+||dn9.biz^
 ||dnavexch.com^
 ||dnavtbt.com^
 ||dnemkhkbsdbl.com^
@@ -13823,6 +13829,7 @@
 ||eggsiswensa.com^
 ||eggytiptops.com^
 ||egknjiycidfj.com^
+||egldvmz.com^
 ||egloochy.com^
 ||egmfjmhffbarsxd.xyz^
 ||egoaxdyp.com^
@@ -13849,6 +13856,7 @@
 ||ehoqtjfazgxzee.com^
 ||ehpvvxyp.com^
 ||ehqdzqi.com^
+||eicbgbnbvjf.com^
 ||eiewwepb.com^
 ||eighly.com^
 ||eighthwaspish.com^
@@ -15618,6 +15626,7 @@
 ||freutz.com^
 ||freychang.fun^
 ||freyrclogs.com^
+||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
 ||fri4esianewheywr90itrage.com^
@@ -21035,6 +21044,7 @@
 ||mankindcopiesrichest.com^
 ||manlytribute.com^
 ||mannwn.com^
+||manoirshrine.com^
 ||manpowersets.com^
 ||mansernema.com^
 ||mansfieldeffects.com^
@@ -22152,6 +22162,7 @@
 ||mylinkbox.com^
 ||myliveforyoudreder.com^
 ||mylives.xyz^
+||mylmifwsi.com^
 ||mynativeads.com^
 ||mynewdatings.life^
 ||mynheerpuller.com^
@@ -22663,6 +22674,7 @@
 ||nmanateex.top^
 ||nmcdn.us^
 ||nmcpmjreuswnzs.com^
+||nmqwdmtwjleb.com^
 ||nmthpcanvokjbkh.xyz^
 ||nmxqtuyyojgm.com^
 ||nnitejdvebpqa.com^
@@ -23163,6 +23175,7 @@
 ||occurt.com^
 ||occust.com^
 ||occxhidubbh.com^
+||ocddolmggjc.com^
 ||ocdouoqjvmn.com^
 ||oceanfilmingexperience.com^
 ||oceanvids.online^
@@ -23923,6 +23936,7 @@
 ||ourgoldpiece.com.ua^
 ||ourgoldpiece.xyz^
 ||ourgoldpiecwe.xyz^
+||ourgumpu.xyz^
 ||ourhotfeed.com^
 ||ourhypewords.com^
 ||ourietwyers.uno^
@@ -24069,6 +24083,7 @@
 ||owhoogryinfo.com^
 ||owingsorthealthy.com^
 ||owingsucceeding.com^
+||owithlerendu.com^
 ||owjbiwpkaoc.com^
 ||owktyvky.com^
 ||owkuwquf.com^
@@ -24430,6 +24445,7 @@
 ||pbcohtm.com^
 ||pbdjtlghawpiuoq.com^
 ||pbdo.net^
+||pbfnyvl.com^
 ||pbhjohrx.xyz^
 ||pbhrwhehnyibit.com^
 ||pbkqidejmes.ru^
@@ -28222,6 +28238,7 @@
 ||secondcommander.com^
 ||secondlytorch.com^
 ||secondquaver.com^
+||secondtrick.com^
 ||secondunderminecalm.com^
 ||secprf.com^
 ||secrecysatisfy.com^
@@ -29113,6 +29130,7 @@
 ||soawhoaw.com^
 ||sobakenchmaphk.com^
 ||sobbingservingcolony.com^
+||sobesed.com^
 ||socalledattestation.com^
 ||socalledscanty.com^
 ||soccercadencefridge.com^
@@ -29929,6 +29947,7 @@
 ||suitesdyed.space^
 ||suiteshowedlottery.com^
 ||suitetattoo.com^
+||sukcheatppwa.com^
 ||sukultingecauy.info^
 ||sulelysr.com^
 ||sulkvulnerableexpecting.com^
@@ -32392,6 +32411,7 @@
 ||uxdwhatijun.xyz^
 ||uxpascal.com^
 ||uxwnqppdma.com^
+||uxxsiyokw.com^
 ||uyfpmhmqh.xyz^
 ||uyojnhqeipyb.xyz^
 ||uzelruth.com^
@@ -32421,6 +32441,7 @@
 ||vacuts.com^
 ||vacwrite.com^
 ||vadaltojlomd.com^
+||vadokfkulzr.com^
 ||vaebard.com^
 ||vaeesspot.com^
 ||vaemfecqllefj.xyz^
@@ -34576,6 +34597,7 @@
 ||youradexchange.com^
 ||yourbestappever.top^
 ||yourbestlandever.com^
+||yourbestperfectdates.life^
 ||yourcommonfeed.com^
 ||yourcoolfeed.com^
 ||yourfreshposts.com^
@@ -34661,6 +34683,7 @@
 ||yvoria.com^
 ||yvzgazds6d.com^
 ||ywasnothyc.buzz^
+||ywronwasthetron.com^
 ||ywrvpmapjcg.xyz^
 ||ywsxqrcfrtsnfa.com^
 ||ywudaepnaudn.com^
@@ -34866,6 +34889,7 @@
 ||zjrnyrranjjay.top^
 ||zjybqqaleeva.top^
 ||zjybqqalenve.top^
+||zjyeblzkajwjz.top^
 ||zkapibwampca.com^
 ||zkawzmlvqjejy.top^
 ||zkczzltlhp6y.com^
@@ -36234,6 +36258,9 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||smazaz.icu^
+||mpraven.org^
+||meet-buddy.com^
 ||adsmeasurement.com^
 ||t.ghostboard.io^
 ||counter.packa2.cz^
@@ -39801,6 +39828,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
 ||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
@@ -41990,6 +42018,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||analytics-*-nfl.yinzcam.com^
 ||prod.report.nacustomerexperience.citi.com^
 ||mon.byteoversea.com^
 ||fraud.adjoe.zone^
@@ -42532,6 +42561,7 @@ inapps.appsflyersdk.com^
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||arttrk.com^
 ||as3.io^
 ||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
@@ -42713,6 +42743,7 @@ inapps.appsflyersdk.com^
 ||rfpx1.com^
 ||robotflowermobile.com^
 ||rtactivate.com^
+||rumt-sg.com^
 ||salsify-ecdn.com^
 ||sbgsodufuosmmvsdf.info^
 ||script.ac^
@@ -43018,6 +43049,7 @@ inapps.appsflyersdk.com^
 ||faktor.io^
 ||fdxstats.xyz^
 ||figpii.com^
+||finalyticsdata.com^
 ||flaghit.com^
 ||flashb.id^
 ||flexlinkspro.com^
@@ -44609,6 +44641,7 @@ inapps.appsflyersdk.com^
 ||materialmoon.com^
 ||materialparcel.com^
 ||materialplayground.com^
+||meadowlullaby.com^
 ||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^
@@ -44781,6 +44814,7 @@ inapps.appsflyersdk.com^
 ||pricklyjourney.com^
 ||pricklypies.com^
 ||pricklyplastic.com^
+||pricklypollution.com^
 ||printerplasma.com^
 ||producecopy.com^
 ||producepickle.com^
