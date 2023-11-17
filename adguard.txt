@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-16T23:00:14.736Z
+! Last modified: 2023-11-17T23:00:17.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1172,7 +1172,6 @@
 ||vuwgt.com^
 ||jerredsite.pro^
 ||4736.in^
-||bannerboo.com^
 ||prelstar.ru^
 ||dytupr.com^
 ||r5jpkacq.ru^
@@ -9564,6 +9563,7 @@
 ||boinkcash.com^
 ||boistyaya.com^
 ||bokeden.com^
+||bokomarratel.com^
 ||boldboycott.com^
 ||boldinsect.pro^
 ||bolivarmaltol.website^
@@ -11113,6 +11113,7 @@
 ||cloisonprecool.uno^
 ||cloisteroutdooragitate.com^
 ||clokemidriff.com^
+||cloneabaff.com^
 ||clongerip.com^
 ||clonkfanion.com^
 ||clorec.net^
@@ -11974,6 +11975,7 @@
 ||curinetuxedos.com^
 ||curlybottom.com^
 ||curlyhomes.com^
+||curnberthed.com^
 ||currantsummary.com^
 ||currencyoffuture.com^
 ||curriculture.com^
@@ -13304,6 +13306,7 @@
 ||druttlelimbec.digital^
 ||drwornspinster.com^
 ||dryerpreliminarymainly.com^
+||dryerslegatos.com^
 ||dryinfestinsight.com^
 ||drystervernile.life^
 ||ds3.biz^
@@ -14966,6 +14969,7 @@
 ||fehaishu.com^
 ||feignoccasionedmound.com^
 ||feignthat.com^
+||feiriegershon.com^
 ||feistyhelicopter.com^
 ||fejla.com^
 ||fejwcnbsu.com^
@@ -15327,6 +15331,7 @@
 ||fluttermotorway.com^
 ||fluvioalkyl.uno^
 ||fluxads.com^
+||fluxtowed.com^
 ||fluxy.xyz^
 ||flyerseminarmaintenance.com^
 ||flyingadvert.com^
@@ -17039,6 +17044,7 @@
 ||harmfulresolution.com^
 ||harmlessepic.com^
 ||harmlesstacticalhonorable.com^
+||harmoniousfamiliar.pro^
 ||harmonypix.com^
 ||harn8.info^
 ||harrenmedianetwork.com^
@@ -17369,6 +17375,7 @@
 ||highercldfrevb.com^
 ||higherlargerdate.com^
 ||highestfollowing.com^
+||highestgaugers.com^
 ||higheurest.com^
 ||highjournalistbargain.com^
 ||highmaidfhr.com^
@@ -17958,6 +17965,7 @@
 ||ieiukkwfqhwuvwy.com^
 ||iendoo.com^
 ||ietyofedinj89yewtburgh.com^
+||ievclqmo.com^
 ||iewhonhdvryu.com^
 ||iezptsoc.com^
 ||iezxmddndn.com^
@@ -19776,6 +19784,7 @@
 ||kubiadserv.icu^
 ||kubicadza.xyz^
 ||kubicserves.icu^
+||kuboohee.xyz^
 ||kubrea.com^
 ||kueezrtb.com^
 ||kuezfqvztt.com^
@@ -20229,6 +20238,7 @@
 ||liadinfqfjmc.xyz^
 ||liadm.com^
 ||liaisondegreedaughters.com^
+||liambafaying.com^
 ||liambahaloed.com^
 ||libbetpalooka.life^
 ||libcdn.xyz^
@@ -21828,6 +21838,7 @@
 ||monkyank.com^
 ||monotonoustuneunderestimate.com^
 ||monsterofnews.com^
+||monstrous-boyfriend.pro^
 ||monstrousrowandays.com^
 ||montafp.top^
 ||montangop.top^
@@ -23306,6 +23317,7 @@
 ||ognimyjm.com^
 ||ograuwih.com^
 ||ogrltiahldr.com^
+||ogrrmasukq.com^
 ||ogskle.com^
 ||ogtgurmzeoj.com^
 ||ohdrgrpfyvughty.xyz^
@@ -25224,6 +25236,7 @@
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polredsy.com^
 ||polrimsi.xyz^
 ||poltarimus.com^
 ||polyad.net^
@@ -27967,6 +27980,7 @@
 ||samelagura.uno^
 ||sameplace.lol^
 ||samghasps.com^
+||samhitareviser.com^
 ||samogonmarvy.com^
 ||samplerenamed.com^
 ||samplerpouch.com^
@@ -32762,6 +32776,7 @@
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfull.online^
+||vidsfull.space^
 ||vidsfun.info^
 ||vidsfun.online^
 ||vidsfun.space^
@@ -35380,6 +35395,7 @@
 ||backlinks.com^
 ||bannerbank.ru^
 ||bannerbit.com^
+||bannerboo.com^
 ||bannerbridge.net^
 ||bannerconnect.net^
 ||bannerdealer.com^
@@ -36258,6 +36274,9 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||pixel.locker2.com^
+||analytics.trovit.com^
+||us.tags.newscgp.com^
 ||smazaz.icu^
 ||mpraven.org^
 ||meet-buddy.com^
@@ -39828,6 +39847,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||d1tprjo2w7krrh.cloudfront.net^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
 ||analytics.cocolog-nifty.com^
@@ -46242,7 +46262,6 @@ inapps.appsflyersdk.com^
 ||pixel.ampry.com^
 ||pixel.archipro.co.nz^
 ||pixel.blivenyc.com^
-||pixel.locker2.com^
 ||pixel.mintigo.com^
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
@@ -47351,8 +47370,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Nov 2023 16:27 UTC+7
-! Version: 2311151627
+! Last modified: 17 Nov 2023 22:21 UTC+7
+! Version: 2311172221
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
