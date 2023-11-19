@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-18T23:00:27.562Z
+! Last modified: 2023-11-19T23:00:16.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4944,6 +4944,7 @@
 ||02953a52b0.com^
 ||02a2749187.com^
 ||02aa19117f396e9.com^
+||02ce917efd.com^
 ||0398067ebe.com^
 ||03ed9035a0801f.com^
 ||03f128fb44.com^
@@ -12537,6 +12538,7 @@
 ||depirsmandk5.com^
 ||deployads.com^
 ||deploymentblessedheir.com^
+||depositgreetingscommotion.com^
 ||depositnostrilverge.com^
 ||depressionfemaledane.com^
 ||depriveretirement.com^
@@ -17534,6 +17536,7 @@
 ||holemanwasco.com^
 ||holict.com^
 ||hollekeamboina.com^
+||hollowcharacter.com^
 ||hollowgleamed.com^
 ||holond.com^
 ||holptimawa.com^
@@ -18941,6 +18944,7 @@
 ||jeetyetmedia.com^
 ||jeffstrategic.com^
 ||jehobsee.com^
+||jekmmlwnyzyjr.top^
 ||jellifytayer.com^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
@@ -19322,6 +19326,7 @@
 ||jypugepha.pro^
 ||jyrcqzjjachlk.com^
 ||jyrypezzzd.com^
+||jzeapwlruols.com^
 ||jztchllgpcrwu.com^
 ||k-09mobiles.com^
 ||k28maingeneral.com^
@@ -22203,6 +22208,7 @@
 ||myxlyajuhsjiwsp.com^
 ||myxozilla.icu^
 ||myzontpouffs.guru^
+||mziso.xyz^
 ||mznbrazfty.com^
 ||mzol7lbm.com^
 ||mzpbvvxv.com^
@@ -22232,6 +22238,7 @@
 ||nabalpal.com^
 ||nabauxou.net^
 ||nabbr.com^
+||nabicbh.com^
 ||nableemblems.com^
 ||nableriptide.com^
 ||nablesasmetotrea.info^
@@ -31532,6 +31539,7 @@
 ||trombocrack.com^
 ||tronads.io^
 ||troncomelets.com^
+||tronmachi.com^
 ||troolyhonks.com^
 ||troopslinecut.website^
 ||troozescript.store^
@@ -42904,6 +42912,7 @@ inapps.appsflyersdk.com^
 ||ampush.io^
 ||analitycs.net^
 ||analytically.net^
+||analytics-debugger.com^
 ||analytics-helper.com^
 ||analyticschecker.com^
 ||analyticson.com^
@@ -43019,6 +43028,7 @@ inapps.appsflyersdk.com^
 ||content-square.net^
 ||conversionfly.com^
 ||convertcart.com^
+||crashlytics.com^
 ||crazyclickstats.com^
 ||crtx.info^
 ||cuberoot.co^
@@ -43785,9 +43795,6 @@ inapps.appsflyersdk.com^
 ||deepc.cc^
 ||devphp.org.ua^
 ||directprimal.com^
-||dnsseed.bitcoin.dashjr.org^
-||dnsseed.bluematt.me^
-||dnsseed.emzy.de^
 ||dontbeevils.de^
 ||easyhash.de^
 ||easyhash.io^
@@ -43872,11 +43879,6 @@ inapps.appsflyersdk.com^
 ||rocks.io^
 ||rtb-seller.com^
 ||s7ven.com^
-||seed.bitcoin.sipa.be^
-||seed.bitcoin.sprovoost.nl^
-||seed.bitcoin.wiz.biz^
-||seed.bitcoinstats.com^
-||seed.btc.petertodd.org^
 ||serie-vostfr.com^
 ||serv1swork.com^
 ||silimbompom.com^
@@ -46444,6 +46446,7 @@ inapps.appsflyersdk.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
+||telemetry.goodlifefitness.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
 ||telemetry.tableausoftware.com^
@@ -47386,8 +47389,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Nov 2023 22:21 UTC+7
-! Version: 2311172221
+! Last modified: 19 Nov 2023 22:40 UTC+7
+! Version: 2311192240
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
