@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-19T23:00:16.100Z
+! Last modified: 2023-11-20T23:00:26.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10820,6 +10820,7 @@
 ||chokedstarring.com^
 ||chokeweaknessheat.com^
 ||chokupsupto.com^
+||cholatetapalos.com^
 ||choobinoobi.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
@@ -12329,6 +12330,7 @@
 ||dearlyseedsad.com^
 ||dearlystoop.com^
 ||deatchshipsmotor.com^
+||deathssm.com^
 ||deavynuotbrohw.xyz^
 ||debartoloqbacademy.com^
 ||debatableslippers.com^
@@ -13242,6 +13244,7 @@
 ||drawingsugarnegative.com^
 ||drawingwaved.com^
 ||drawingwheels.com^
+||drawlycusec.com^
 ||drawnperink.com^
 ||drawx.xyz^
 ||draydaisbitch.com^
@@ -14764,6 +14767,7 @@
 ||faithcollarhook.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyprotectionundo.com^
+||faithiqs.com^
 ||faitis.com^
 ||faiverty-station.com^
 ||fakeallow.com^
@@ -16231,6 +16235,7 @@
 ||giufjcfjdv.com^
 ||givemysoft.ru^
 ||givenconserve.com^
+||givesboranes.com^
 ||givide.com^
 ||givill.com^
 ||giving-weird.pro^
@@ -24432,6 +24437,7 @@
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
 ||pauhoano.com^
+||paujudih.xyz^
 ||paulinruntime.digital^
 ||paulty.com^
 ||paurozel.net^
@@ -25768,6 +25774,7 @@
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||proseoverlook.com^
+||prositzapas.com^
 ||prospectconductorcheerfully.com^
 ||prospecttunaante.com^
 ||prosperent.com^
@@ -26408,6 +26415,7 @@
 ||qqkcmafkxossru.com^
 ||qqkzjpupluv.com^
 ||qqlnvwjtjhve.com^
+||qqmhh.com^
 ||qqmvwjvrlyery.top^
 ||qqqqbdma.com^
 ||qqqwes.com^
@@ -32650,6 +32658,7 @@
 ||velvetneutralunnatural.com^
 ||vemflutuartambem.com^
 ||vempozah.net^
+||vemtecko.net^
 ||vemtourt.com^
 ||vendgrusian.com^
 ||vendimob.pl^
@@ -35550,6 +35559,7 @@
 ||clickinc.com^
 ||clickintext.net^
 ||clickmon.co.kr^
+||clickoutcare.io^
 ||clickpoint.com^
 ||clicksor.com^
 ||clicktripz.com^
@@ -36297,6 +36307,7 @@
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analysis.wangtwothree.com^
 ||pixel.locker2.com^
 ||analytics.trovit.com^
 ||us.tags.newscgp.com^
@@ -39870,6 +39881,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||rtm-tracking.zozo.jp^
+||analytics.netkeiba.com^
 ||d1tprjo2w7krrh.cloudfront.net^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
@@ -42647,12 +42660,14 @@ inapps.appsflyersdk.com^
 ||dspx.tv^
 ||e1e.io^
 ||easycompute.systems^
+||ed-sys.net^
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||envato.market^
+||epsilondelta.co^
 ||eqy.link^
 ||f27tltnd.de^
 ||fairdatacenter.de^
@@ -44454,6 +44469,7 @@ inapps.appsflyersdk.com^
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^
@@ -45330,6 +45346,7 @@ inapps.appsflyersdk.com^
 ||tritebadge.com^
 ||troubleshade.com^
 ||truckstomatoes.com^
+||truculentrate.com^
 ||tumblebirds.com^
 ||tumbleicicle.com^
 ||tutorthing.com^
@@ -47389,8 +47406,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Nov 2023 22:40 UTC+7
-! Version: 2311192240
+! Last modified: 20 Nov 2023 22:23 UTC+7
+! Version: 2311202223
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
