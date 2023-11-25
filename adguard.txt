@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-24T23:00:28.799Z
+! Last modified: 2023-11-25T23:00:31.255Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -35697,6 +35697,7 @@
 ||croea.com^
 ||cryptoads.space^
 ||cryptocoinsad.com^
+||cryptoecom.care^
 ||ctrhub.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
@@ -43716,6 +43717,7 @@ inapps.appsflyersdk.com^
 ||wdsvc.net^
 ||web-stat.fr^
 ||webanalytic.info^
+||webengage.co^
 ||webeyez.com^
 ||weborama.design^
 ||webstat.fr^
