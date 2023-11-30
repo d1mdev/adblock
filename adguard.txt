@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-11-29T23:00:26.265Z
+! Last modified: 2023-11-30T23:00:15.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4957,6 +4957,7 @@
 ||041353e6dd.com^
 ||04cb2afab7.com^
 ||04cbf4193b.com^
+||059e71004b.com^
 ||05w0bq3nbq9b.top^
 ||063f828cf2.com^
 ||0676el9lskux.top^
@@ -7062,6 +7063,7 @@
 ||ajozrjh.com^
 ||ajrkm1.com^
 ||ajvjpupava.com^
+||ajvnragtua.com^
 ||ajxx98.online^
 ||ak-tracker.com^
 ||akaiksots.com^
@@ -8908,6 +8910,7 @@
 ||belickitungchan.com^
 ||beliet.com^
 ||believemefly.com^
+||believeradar.com^
 ||believersheet.com^
 ||belikeelean.life^
 ||belittlepads.com^
@@ -11575,6 +11578,7 @@
 ||cotingavintry.website^
 ||coubte.com^
 ||coudswamper.com^
+||couhiboa.com^
 ||couldburgeon.com^
 ||coumasha.xyz^
 ||councedvdvg.club^
@@ -11963,6 +11967,7 @@
 ||cypressreel.com^
 ||cyprie.com^
 ||cyrigh.com^
+||cystisolor.com^
 ||cysumhqvrjvrs.xyz^
 ||cythat.com^
 ||cytlbwfhbopqati.xyz^
@@ -12407,6 +12412,7 @@
 ||demeepsi.xyz^
 ||dementeddug.com^
 ||dementedstalesimultaneous.com^
+||demersefiques.com^
 ||demersekeld.com^
 ||demned.com^
 ||democracyendlesslyzoo.com^
@@ -14011,6 +14017,7 @@
 ||enfeoffcaraipi.com^
 ||enftvgnkylijcp.xyz^
 ||enfuck.com^
+||engagementdepressingseem.com^
 ||engagementpolicelick.com^
 ||engineseeker.com^
 ||engingsecondu.com^
@@ -15023,6 +15030,7 @@
 ||filippiwilled.uno^
 ||filletdose.com^
 ||filletnails.com^
+||fillingimpregnable.com^
 ||fillsitsy.cam^
 ||filmesonlinegratis.com^
 ||filmreorganizeford.com^
@@ -15335,6 +15343,7 @@
 ||foodme.info^
 ||foodowingweapon.com^
 ||foojimie.net^
+||foolerybonded.com^
 ||foolish-devil.pro^
 ||foolishcheek.pro^
 ||foomaque.net^
@@ -18492,6 +18501,7 @@
 ||iokenattharmiinl.xyz^
 ||ionakasulba.info^
 ||ionakasulba.xyz^
+||ionicsshelyak.com^
 ||ionigravida.com^
 ||ionistkhaya.website^
 ||ioniumentomic.com^
@@ -18989,6 +18999,7 @@
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
 ||jlmokzndbiafs.com^
+||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
 ||jmaomkosxfi.com^
 ||jmeanzkixok.com^
@@ -19337,6 +19348,7 @@
 ||kauzishy.com^
 ||kavanga.ru^
 ||kawescgm.com^
+||kaxnoyxs.com^
 ||kayspeewees.com^
 ||kazanbossterrifying.com^
 ||kazanwhoeveryowl.com^
@@ -20130,6 +20142,7 @@
 ||leoyard.com^
 ||lepetitdiary.com^
 ||lephaush.net^
+||lepiotaspectry.com^
 ||leptaasellus.digital^
 ||lerrdoriak.com^
 ||leskdywzbfk.com^
@@ -24072,6 +24085,7 @@
 ||oxbowfog.com^
 ||oxenturftrot.com^
 ||oxfoadv.store^
+||oxhdtgmlryv.com^
 ||oxkgcefteo.com^
 ||oxkpbuv.com^
 ||oxlandvoicing.digital^
@@ -27905,6 +27919,7 @@
 ||sagrew.com^
 ||sagroagh.com^
 ||sahandkeightg.xyz^
+||saheckas.xyz^
 ||saiceezu.xyz^
 ||saidflightmusician.com^
 ||saikeela.net^
@@ -28129,6 +28144,7 @@
 ||scillathemons.com^
 ||sciniphruffin.com^
 ||scipnd.xyz^
+||scisselfungus.com^
 ||scissorsaccordancedreamt.com^
 ||scl6gc5l.site^
 ||scnd-tr.com^
@@ -30669,6 +30685,7 @@
 ||theelrou.net^
 ||theenfu.com^
 ||theensos.xyz^
+||theepsie.com^
 ||theerdax.com^
 ||theextensionexpert.com^
 ||thefacux.com^
@@ -33037,6 +33054,7 @@
 ||vqglaz.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqzbzuhhxhcf.com^
 ||vraatdwugla.com^
 ||vrbmhngqjh.com^
 ||vrfupfyu.com^
@@ -33100,6 +33118,7 @@
 ||vvtadblk.online^
 ||vvvljeqasz.com^
 ||vvwbjuaerbgmrjm.com^
+||vvyfeixscj.com^
 ||vvyqxxgxlnptc.com^
 ||vvzzphefzcdfr.com^
 ||vwedfijcm.xyz^
@@ -33184,6 +33203,7 @@
 ||waitingpresen.com^
 ||waiwodemanila.com^
 ||wakelardassistance.com^
+||wakenssponged.com^
 ||walaheewakwafi.com^
 ||walkamorous.com^
 ||walkedcreak.com^
@@ -34661,6 +34681,7 @@
 ||yrvzqabfxe.com^
 ||yscntxil.com^
 ||ysemblyjusting.info^
+||ysesials.net^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
 ||ytbzqtrog.com^
@@ -35260,6 +35281,7 @@
 ||adshot.de^
 ||adshuffle.com^
 ||adsiduous.com^
+||adsight.nl^
 ||adslivecorp.com^
 ||adsmart.hk^
 ||adsninja.ca^
@@ -41990,7 +42012,6 @@ gcdsdk.appsflyersdk.com^
 cdn-settings.appsflyersdk.com^
 dlsdk.appsflyersdk.com^
 ||adrevenue.appsflyer.com^
-||af-event-logger.appsflyer.com^
 ||api.appsflyer.com^
 ||api2.appsflyer.com^
 ||app.appsflyer.com^
@@ -42015,7 +42036,6 @@ inapps.appsflyersdk.com^
 ||register.appsflyer.com^
 ||sdk-services.appsflyer.com^
 ||sdk.appsflyer.com^
-||statsgoogle.appsflyer.com^
 ||track.appsflyer.com^
 ||validate.appsflyer.com^
 ||wa.appsflyer.com^
@@ -42253,7 +42273,6 @@ inapps.appsflyersdk.com^
 ||msg.umengcloud.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
-||ada-tr.staff-start.com^
 ||analytics.liveact-vault.com^
 ||analytics.300624.com^
 ||toblog.ctobsnssdk.com^
@@ -42483,7 +42502,6 @@ inapps.appsflyersdk.com^
 ||geoip.ifunny.co^
 ||alogs.umeng.com^
 ||alogs.umengcloud.com^
-||stats.umsns.com^
 ||device-metrics-*.amazon.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||4seeresults.com^
@@ -42560,12 +42578,6 @@ inapps.appsflyersdk.com^
 ||utop.umengcloud.com^
 ! KingRoot
 ||analy.qq.com^
-! SafeGraph SDK tracking URL
-! References:
-! https://github.com/aapiro/openlocate-android
-! https://reports.exodus-privacy.eu.org/en/trackers/44/
-! https://www.vice.com/en/article/m7vzjb/location-data-abortion-clinics-safegraph-planned-parenthood
-||api.safegraph.com^
 
 !
 ! Source name: EasyPrivacy tracking servers
@@ -44115,6 +44127,7 @@ inapps.appsflyersdk.com^
 ||butterbulb.com^
 ||butterburst.com^
 ||buttonladybug.com^
+||cabledemand.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -44402,6 +44415,7 @@ inapps.appsflyersdk.com^
 ||exampleshake.com^
 ||exchangedetail.com^
 ||excitingtub.com^
+||exhibitsneeze.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
@@ -44495,6 +44509,7 @@ inapps.appsflyersdk.com^
 ||fuzzyerror.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fvl1f.pw^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
@@ -44662,6 +44677,7 @@ inapps.appsflyersdk.com^
 ||lameletters.com^
 ||lamplow.com^
 ||languagelake.com^
+||largebrass.com^
 ||laughablecopper.com^
 ||laughablelizards.com^
 ||laughcloth.com^
@@ -44881,6 +44897,7 @@ inapps.appsflyersdk.com^
 ||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
+||polarismagnet.com^
 ||politegoldfish.com^
 ||politeplanes.com^
 ||politicalporter.com^
@@ -45064,6 +45081,7 @@ inapps.appsflyersdk.com^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
 ||scintillatingspace.com^
+||scissorsstatement.com^
 ||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
@@ -45321,6 +45339,7 @@ inapps.appsflyersdk.com^
 ||swordgoose.com^
 ||symbolizebeast.com^
 ||synonymousrule.com^
+||synonymoussticks.com^
 ||synthesizespoon.com^
 ||systemizecoat.com^
 ||talentedsteel.com^
@@ -45398,6 +45417,7 @@ inapps.appsflyersdk.com^
 ||translateoatmeal.com^
 ||trappush.com^
 ||trapteaching.com^
+||traytouch.com^
 ||treadbun.com^
 ||tremendousearthquake.com^
 ||tremendousplastic.com^
@@ -45462,6 +45482,7 @@ inapps.appsflyersdk.com^
 ||voicevegetable.com^
 ||volatileprofit.com^
 ||volatilerainstorm.com^
+||volatilevessel.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
 ||vq1qi.pw^
@@ -47475,8 +47496,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Nov 2023 10:57 UTC+7
-! Version: 2311281057
+! Last modified: 30 Nov 2023 14:20 UTC+7
+! Version: 2311301420
 ! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
