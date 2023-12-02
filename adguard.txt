@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-01T23:00:19.936Z
+! Last modified: 2023-12-02T23:00:25.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -46288,6 +46288,7 @@ inapps.appsflyersdk.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
 ||gi-client-tracking.goodgamestudios.com^
+||go.activengage.com^
 ||go.toutapp.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
