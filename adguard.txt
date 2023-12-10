@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-09T23:00:16.113Z
+! Last modified: 2023-12-10T23:00:14.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8044,6 +8044,7 @@
 ||atougnou.com^
 ||atpanchama.com^
 ||atpawniarda.com^
+||atraff.com^
 ||atraichuor.com^
 ||atriblethetch.com^
 ||atripplotx.com^
@@ -8737,6 +8738,7 @@
 ||bebreloomr.com^
 ||becamesensational.com^
 ||becaul.com^
+||beccc1d245.com^
 ||becces.com^
 ||bechatotan.com^
 ||beckerbauds.com^
@@ -9505,6 +9507,7 @@
 ||boredombizarrerepent.com^
 ||borghgeog.com^
 ||borgoonu.net^
+||borhaj.com^
 ||borhod.com^
 ||boridescyamid.com^
 ||boringassistantincite.com^
@@ -10095,6 +10098,7 @@
 ||camiocw.com^
 ||cammpaign.com^
 ||camouque.net^
+||campingknown.com^
 ||campjupiterjul.com^
 ||camplacecash.com^
 ||camprime.com^
@@ -12784,6 +12788,7 @@
 ||djfwtdwiybiq.com^
 ||djldrhxb.com^
 ||djmaza.in^
+||djphnuhkbjf.com^
 ||djqacscl.com^
 ||djssdvbo.com^
 ||djxfar6.com^
@@ -15335,6 +15340,7 @@
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -16699,6 +16705,7 @@
 ||guyabe.xyz^
 ||gvhmoascwa.xyz^
 ||gvkmifcvr.com^
+||gvkqpogjqvni.com^
 ||gvmojhugkiud.com^
 ||gvt2.com^
 ||gwallet.com^
@@ -17114,6 +17121,7 @@
 ||hethisisath.xyz^
 ||heucoucjrwno.com^
 ||heukwasanasosett.info^
+||heusysianedu.com^
 ||hevc.site^
 ||hewalleges.guru^
 ||hewawkward.com^
@@ -18715,6 +18723,7 @@
 ||jbkmskjeaevkne.xyz^
 ||jbkwrkmdug.com^
 ||jbm6c54upkui.com^
+||jbnznvnylnkyr.top^
 ||jbnznvnylnqqy.top^
 ||jbnznvnylnyjl.top^
 ||jbrlsr.com^
@@ -18733,6 +18742,7 @@
 ||jd3j7g5z1fqs.com^
 ||jdjxjelhrxy.com^
 ||jdlmjessy.com^
+||jdoeknc.com^
 ||jdoqocy.com^
 ||jdt8.net^
 ||jdwhlqb.com^
@@ -18824,6 +18834,7 @@
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhiekkjeyyfbj.com^
 ||jhoncj.com^
@@ -22453,6 +22464,7 @@
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -22670,6 +22682,7 @@
 ||noumekiz.net^
 ||nounct.com^
 ||nounooch.com^
+||nounrespectively.com^
 ||noureewo.com^
 ||nouveaulain.com^
 ||novadune.com^
@@ -22921,6 +22934,7 @@
 ||obadluhjxnsnfv.com^
 ||obbkucbipw.com^
 ||obdoboli.xyz^
+||obdtawpwyr.com^
 ||obduratecommence.com^
 ||obduratedroppingmagnitude.com^
 ||obduratewiggle.com^
@@ -23586,6 +23600,7 @@
 ||orisow.com^
 ||orkoedthroug.xyz^
 ||orldwhoisquite.com^
+||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
 ||orlowedonhisdhilt.info^
 ||ormolustuke.top^
@@ -24255,6 +24270,7 @@
 ||pdn-2.com^
 ||pdn-3.com^
 ||pdn-5.com^
+||pdqkkzouflx.com^
 ||pdridjiviq.com^
 ||pdsyibwlxd.xyz^
 ||peacebanana.com^
@@ -25960,6 +25976,7 @@
 ||puxonsir.net^
 ||puyjjq.com^
 ||puysis.com^
+||puzzio.xyz^
 ||puzzlementangrily.com^
 ||puzzlepursued.com^
 ||pvawydmmj.com^
@@ -30380,6 +30397,7 @@
 ||thaninncoos.com^
 ||thankful-conference.pro^
 ||thanksgivingbilliardslight.com^
+||thanksgivingdelights.com^
 ||thanksgivingdelights.name^
 ||thanosofcos5.com^
 ||thanot.com^
@@ -31670,6 +31688,7 @@
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
 ||ukiyoyechromy.com^
+||uklgakwqy.com^
 ||ukmlastityty.info^
 ||ukndaspiratioty.info^
 ||uknsyenergyfle.info^
@@ -47275,8 +47294,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Dec 2023 07:40 UTC+7
-! Version: 2312090740
+! Last modified: 10 Dec 2023 22:06 UTC+7
+! Version: 2312102206
 ! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
