@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-13T23:00:14.094Z
+! Last modified: 2023-12-14T23:00:15.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5525,6 +5525,7 @@
 ||5c8ac0803b.com^
 ||5ca59a669a.com^
 ||5caa478343.com^
+||5cf8606941.com^
 ||5d2d04464c.com^
 ||5d4170700c.com^
 ||5d63ec2d2f.com^
@@ -7017,6 +7018,7 @@
 ||aistgsgxvsrywhf.com^
 ||aistthatheha.xyz^
 ||aitarsou.com^
+||aitsatho.com^
 ||aivoonsa.xyz^
 ||aizglunbhfq.com^
 ||aj1052.online^
@@ -7690,6 +7692,7 @@
 ||apvdr.com^
 ||apxlv.com^
 ||apyrenealiyos.digital^
+||apytbfdzy.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqbusmueljfy.com^
 ||aqcutwom.xyz^
@@ -8309,6 +8312,7 @@
 ||awsnjsduyhgpk.com^
 ||awstaticdn.net^
 ||awsurveys.com^
+||awswayful.space^
 ||awtqbjylk.com^
 ||awugxvrmsdalpx.com^
 ||awutohkhu.com^
@@ -8576,6 +8580,7 @@
 ||bangute.xyz^
 ||banhq.com^
 ||banicywan.com^
+||banistersconvictedrender.com^
 ||banisterspast.com^
 ||bankerconcludeshare.com^
 ||bankingconcede.com^
@@ -13526,6 +13531,7 @@
 ||ecae03ea3d.com^
 ||ecchhelios.top^
 ||echehalids.guru^
+||echiovlhu.com^
 ||echnic.com^
 ||echoachy.xyz^
 ||echoeshamauls.com^
@@ -16485,6 +16491,7 @@
 ||governorretired.com^
 ||gowgycwrfbukst.com^
 ||gowpengagster.com^
+||gpcrn.com^
 ||gpiyzwt.com^
 ||gpnjknuqas.xyz^
 ||gporkecpyttu.com^
@@ -17055,6 +17062,7 @@
 ||hdpreview.com^
 ||hdsqvypdt.com^
 ||hdvcode.com^
+||hdwibtrw.com^
 ||hdwvhgnisi.com^
 ||he3mero6calli4s.com^
 ||he7ll.com^
@@ -19085,6 +19093,7 @@
 ||jpgtrk.com^
 ||jpivxtsxpkn.com^
 ||jpmdwnhazw.com^
+||jpmldwvjqd.xyz^
 ||jpovulldaghw.com^
 ||jpzvrsuwdavpjw.com^
 ||jqcyacoxrvada.com^
@@ -19803,6 +19812,7 @@
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzkmmbrrzn.com^
 ||kzsfip3v.cfd^
+||l-iw.de^
 ||l1native.com^
 ||l1vec4ms.com^
 ||l3g3media.com^
@@ -20157,6 +20167,7 @@
 ||lewdlygrips.top^
 ||lexemeowhere.digital^
 ||lexicoggeegaw.website^
+||lfeaqcozlbki.com^
 ||lfewvebxzt.com^
 ||lffsnhwhxnqn.com^
 ||lfnwqrghxqrqb.com^
@@ -20391,6 +20402,7 @@
 ||lkqpxhw.com^
 ||lksbnrs.com^
 ||lkzlambkzljee.top^
+||lkzlambkzllaz.top^
 ||llagomxvwlejo.com^
 ||llantynethebrav.xyz^
 ||lleadupthere.xyz^
@@ -22629,6 +22641,7 @@
 ||njjebgkvrniwmr.com^
 ||njlcmkzfex.com^
 ||njlzougyfjo.com^
+||njplpnoxgnbpid.com^
 ||njufnhkmqpk.xyz^
 ||njvacw.xyz^
 ||nkbobsj.com^
@@ -23257,6 +23270,7 @@
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||oftenparttimebeen.com^
+||oftheappyri.org^
 ||oftheseveryh.org^
 ||oftheseveryh.xyz^
 ||ogaewcqgj.com^
@@ -23978,6 +23992,7 @@
 ||overmewer.com^
 ||overnumeler.com^
 ||overonixa.com^
+||overpetleersia.com^
 ||overprotectiveskilled.com^
 ||overratedlively.com^
 ||overratedtransmissiontwenty.com^
@@ -24417,6 +24432,7 @@
 ||pdqkkzouflx.com^
 ||pdridjiviq.com^
 ||pdsyibwlxd.xyz^
+||pdygfdtghcyh.com^
 ||peacebanana.com^
 ||peacefulactivity.com^
 ||peacefullyundergroundsubsided.com^
@@ -28038,6 +28054,7 @@
 ||sbecashqjk.com^
 ||sbfsdvc.com^
 ||sbonjqsxicqfo.xyz^
+||sbrakepads.com^
 ||sbroiughttohi.xyz^
 ||sbscrma.com^
 ||sbxitxnmfxzyf.com^
@@ -28447,6 +28464,7 @@
 ||sgrupontihecliff.xyz^
 ||sgunqfpjtxfndtt.com^
 ||sgvdqykfjuk.com^
+||sgwsqcyhxkb.com^
 ||sgzhg.pornlovo.co^
 ||sh0w-me-h0w.net^
 ||sh0w-me-how.com^
@@ -29895,6 +29913,7 @@
 ||successorwindscreeninstruct.com^
 ||suchasricew.info^
 ||suchbasementdarn.com^
+||suchcesusar.org^
 ||sucocesisfulylyde.info^
 ||sucter.com^
 ||suctionautomobile.com^
@@ -31106,6 +31125,7 @@
 ||toothpasteginnysorrow.com^
 ||toothtranquilizerdeliverance.com^
 ||toottuleringv.info^
+||toovoala.net^
 ||top-clips.space^
 ||top-offers1.com^
 ||top-performance.best^
@@ -32381,6 +32401,7 @@
 ||uvoovoachee.com^
 ||uvsvlisbartwq.com^
 ||uvtuiks.com^
+||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
 ||uvxclrl.com^
 ||uvzomxvbpbgo.com^
@@ -34292,6 +34313,7 @@
 ||xoktditxsmr.xyz^
 ||xotgpql.com^
 ||xoyuxostayam.com^
+||xpjjlgzqs.com^
 ||xpkftctvei.com^
 ||xpollo.com^
 ||xporn.in^
@@ -36225,10 +36247,6 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||tracker.legitwebsite.com^ (should be in tracking_servers_firstparty.txt)
 !
-!
-! Blocking Firebase crash reporting is quite problematic:
-! https://github.com/AdguardTeam/AdguardForAndroid/issues/1334#issuecomment-319302543
-! ||app-measurement.com^
 !
 ! Crashlytics is commented by @ameshkov.
 ! The reason for unblocking crashlytics is to not make developers life worse by breaking crash reporting.
@@ -40012,7 +40030,6 @@
 ||1l-view.my.games^
 ||apptics.zoho.com^
 ||a*.smlog.co.kr^
-||cdn.smlog.co.kr^
 ||collector-statistics.nhn-commerce.com^
 ||insight.danawa.com^
 ||las.danawa.com^
@@ -42063,6 +42080,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
 ||iemiq.com^
@@ -43343,6 +43361,8 @@ inapps.appsflyersdk.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
+||pixeltracker.co^
+||pixeltracker.im^
 ||pixfuture.com^
 ||pnstat.com^
 ||podcorn.com^
@@ -43385,6 +43405,7 @@ inapps.appsflyersdk.com^
 ||rdcdn.com^
 ||reachlocalservices.com^
 ||reallyfreegeoip.org^
+||realtimewebstats.com^
 ||recapture.io^
 ||recognified.net^
 ||recosenselabs.com^
@@ -43985,6 +44006,7 @@ inapps.appsflyersdk.com^
 ||aloofvest.com^
 ||alpineactor.com^
 ||amazingairplane.com^
+||ambiguousafternoon.com^
 ||ambiguousalarm.com^
 ||ambiguousanger.com^
 ||ambiguousdinosaurs.com^
@@ -43992,6 +44014,7 @@ inapps.appsflyersdk.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
+||amethystzenith.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -44001,7 +44024,6 @@ inapps.appsflyersdk.com^
 ||annoyingacoustics.com^
 ||annoyingclover.com^
 ||anxiousapples.com^
-||apathetictheory.com^
 ||apparatuslip.com^
 ||aquaticalarm.com^
 ||aquaticanswer.com^
@@ -44015,15 +44037,14 @@ inapps.appsflyersdk.com^
 ||aromamirror.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
+||astonishingair.com^
 ||astonishingfood.com^
-||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^
 ||audioarctic.com^
 ||auntants.com^
 ||auspiciousyard.com^
-||automaticairplane.com^
 ||automaticflock.com^
 ||automaticside.com^
 ||automaticturkey.com^
@@ -44034,7 +44055,6 @@ inapps.appsflyersdk.com^
 ||awakebird.com^
 ||awarealley.com^
 ||awesomeagreement.com^
-||awesomeattack.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
 ||axiomaticanger.com^
@@ -44074,7 +44094,6 @@ inapps.appsflyersdk.com^
 ||billowybead.com^
 ||billowybelief.com^
 ||bitterbear.com^
-||bizarrebaseball.com^
 ||blackbrake.com^
 ||bleachbubble.com^
 ||bleachscarecrow.com^
@@ -44095,6 +44114,7 @@ inapps.appsflyersdk.com^
 ||boringberry.com^
 ||boringcoat.com^
 ||bouncyfront.com^
+||boundarybusiness.com^
 ||boundlessargument.com^
 ||boundlessbrake.com^
 ||boundlessveil.com^
@@ -44123,6 +44143,7 @@ inapps.appsflyersdk.com^
 ||bumpydevelopment.com^
 ||bunchance.com^
 ||burgerbrush.com^
+||burlywhistle.com^
 ||burnbubble.com^
 ||burntwist.com^
 ||burstblade.com^
@@ -44178,6 +44199,7 @@ inapps.appsflyersdk.com^
 ||chairscrack.com^
 ||chairsdonkey.com^
 ||chalkoil.com^
+||changeablecats.com^
 ||channelcamp.com^
 ||chargecracker.com^
 ||charmingcough.com^
@@ -44222,6 +44244,7 @@ inapps.appsflyersdk.com^
 ||colossalchance.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
+||colossalcry.com^
 ||combativecar.com^
 ||combativedetail.com^
 ||combbit.com^
@@ -44238,7 +44261,6 @@ inapps.appsflyersdk.com^
 ||conceptualizereading.com^
 ||concernedchickens.com^
 ||concernedcondition.com^
-||concerneddrink.com^
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^
@@ -44250,13 +44272,13 @@ inapps.appsflyersdk.com^
 ||consistpotato.com^
 ||controlcola.com^
 ||controlswim.com^
-||cookchalk.com^
 ||coordinatedbedroom.com^
 ||coordinatedcoat.com^
 ||coordinatedcub.com^
 ||copperchickens.com^
 ||copycarpenter.com^
 ||copytitle.com^
+||coralreverie.com^
 ||cordcopper.com^
 ||correctchaos.com^
 ||cosmosjackson.com^
@@ -44316,7 +44338,6 @@ inapps.appsflyersdk.com^
 ||dazzlingbook.com^
 ||deadpangate.com^
 ||deadpanmarble.com^
-||deadpantruck.com^
 ||deafeningdock.com^
 ||deafeningdowntown.com^
 ||debonairdust.com^
@@ -44330,7 +44351,6 @@ inapps.appsflyersdk.com^
 ||decoycreation.com^
 ||deerbeginner.com^
 ||defectivedress.com^
-||defectivesun.com^
 ||defiantrice.com^
 ||delicatecascade.com^
 ||delicateducks.com^
@@ -44358,7 +44378,6 @@ inapps.appsflyersdk.com^
 ||discreetquarter.com^
 ||dispensablestranger.com^
 ||distancefinger.com^
-||distinctday.com^
 ||distributionneck.com^
 ||distributionpocket.com^
 ||distributiontomatoes.com^
@@ -44406,19 +44425,23 @@ inapps.appsflyersdk.com^
 ||elephantqueue.com^
 ||embellishedmeadow.com^
 ||embermosaic.com^
+||eminentbubble.com^
 ||eminentend.com^
 ||enchantedjudge.com^
 ||enchantedskyline.com^
 ||enchantedtop.com^
 ||enchantingbear.com^
+||enchantingvalley.com^
 ||encourageidea.com^
 ||encourageshock.com^
 ||encouragingleaf.com^
+||encouragingthread.com^
 ||encouragingvase.com^
 ||endurablebulb.com^
 ||endurablecrayon.com^
 ||endurableshop.com^
 ||energeticladybug.com^
+||engineergrape.com^
 ||engineertrick.com^
 ||enormousearth.com^
 ||enormousfoot.com^
@@ -44431,7 +44454,6 @@ inapps.appsflyersdk.com^
 ||erraticreaction.com^
 ||etherealripple.com^
 ||evaluateend.com^
-||evaluatestream.com^
 ||evanescentedge.com^
 ||eventexistence.com^
 ||exampleshake.com^
@@ -44475,8 +44497,10 @@ inapps.appsflyersdk.com^
 ||fearfulfish.com^
 ||fearfulmint.com^
 ||fearlessfaucet.com^
+||featherstage.com^
 ||feebleshock.com^
 ||fewjuice.com^
+||fewkittens.com^
 ||fifthborder.com^
 ||finalizeforce.com^
 ||financefear.com^
@@ -44498,6 +44522,7 @@ inapps.appsflyersdk.com^
 ||flutteringfireman.com^
 ||foamyfood.com^
 ||foamypain.com^
+||followborder.com^
 ||forecasttiger.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
@@ -44514,6 +44539,7 @@ inapps.appsflyersdk.com^
 ||franticroof.com^
 ||frantictrail.com^
 ||freezingbuilding.com^
+||frequentflesh.com^
 ||fretfulfurniture.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
@@ -44542,7 +44568,9 @@ inapps.appsflyersdk.com^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
+||generateoffice.com^
 ||gentlemoonlight.com^
+||giantsvessel.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -44640,7 +44668,6 @@ inapps.appsflyersdk.com^
 ||hosenews.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
-||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
 ||hurtgrape.com^
@@ -44751,7 +44778,6 @@ inapps.appsflyersdk.com^
 ||lunchroomlock.com^
 ||maddeningpowder.com^
 ||magicaljoin.com^
-||magicalmonth.com^
 ||magnetairport.com^
 ||magnificentmeasure.com^
 ||magnificentmist.com^
@@ -44781,7 +44807,6 @@ inapps.appsflyersdk.com^
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
-||medusasailor.com^
 ||mellowbike.com^
 ||mellowmailbox.com^
 ||melodicminute.com^
@@ -44852,6 +44877,7 @@ inapps.appsflyersdk.com^
 ||nothingunit.com^
 ||nulldiscussion.com^
 ||nullnorth.com^
+||numberlessring.com^
 ||numerousnest.com^
 ||nutritiousbean.com^
 ||nuttyorganization.com^
@@ -44865,11 +44891,9 @@ inapps.appsflyersdk.com^
 ||operationnail.com^
 ||opinionsurprise.com^
 ||oppositeoperation.com^
-||oppositeparcel.com^
 ||optimallimit.com^
 ||orangeoperation.com^
 ||orionember.com^
-||outstandingincome.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
 ||overconfidentfood.com^
@@ -44877,6 +44901,7 @@ inapps.appsflyersdk.com^
 ||owlsr.us^
 ||paddleangle.com^
 ||pailcrime.com^
+||pailpatch.com^
 ||painstakingpickle.com^
 ||paintpear.com^
 ||paintplantation.com^
@@ -44962,7 +44987,6 @@ inapps.appsflyersdk.com^
 ||predictplate.com^
 ||prefixpatriot.com^
 ||prepareplanes.com^
-||presentbedroom.com^
 ||presetrabbits.com^
 ||presssensor.com^
 ||previousplayground.com^
@@ -44993,8 +45017,10 @@ inapps.appsflyersdk.com^
 ||puffypull.com^
 ||puffypurpose.com^
 ||pumpedpancake.com^
+||pumpedpurpose.com^
 ||punyplant.com^
 ||purchasesuggestion.com^
+||purposepipe.com^
 ||pushypipe.com^
 ||puzzlingproperty.com^
 ||q20jqurls0y7gk8.info^
@@ -45030,9 +45056,9 @@ inapps.appsflyersdk.com^
 ||rangeplayground.com^
 ||rapidkittens.com^
 ||raresummer.com^
+||raspyteam.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readymoon.com^
 ||readysnails.com^
 ||realizedoor.com^
@@ -45067,6 +45093,7 @@ inapps.appsflyersdk.com^
 ||resonantrock.com^
 ||respectrain.com^
 ||restrainstorm.com^
+||rhetoricalactivity.com^
 ||rhetoricalloss.com^
 ||rhetoricaltoes.com^
 ||rhetoricalveil.com^
@@ -45102,6 +45129,7 @@ inapps.appsflyersdk.com^
 ||sablesmile.com^
 ||sablesong.com^
 ||sadloaf.com^
+||saffronrefuge.com^
 ||sailsuit.com^
 ||samesticks.com^
 ||samestretch.com^
@@ -45112,12 +45140,12 @@ inapps.appsflyersdk.com^
 ||savoryorange.com^
 ||savorystructure.com^
 ||saysidewalk.com^
+||scarcecard.com^
 ||scarcesign.com^
 ||scarcesurprise.com^
 ||scarecrowslip.com^
 ||scarecrowslope.com^
 ||scaredcomfort.com^
-||scaredfarm.com^
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
@@ -45206,7 +45234,6 @@ inapps.appsflyersdk.com^
 ||simplisticstem.com^
 ||simulateswing.com^
 ||sincerebuffalo.com^
-||sincereseashore.com^
 ||singroot.com^
 ||sinkbooks.com^
 ||sixauthority.com^
@@ -45234,12 +45261,12 @@ inapps.appsflyersdk.com^
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
-||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^
 ||snakesshop.com^
 ||snakesstone.com^
+||sneakwind.com^
 ||sneakystew.com^
 ||snoresmile.com^
 ||soaprange.com^
@@ -45256,6 +45283,7 @@ inapps.appsflyersdk.com^
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
+||soothingglade.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
 ||sordidsmile.com^
@@ -45282,9 +45310,7 @@ inapps.appsflyersdk.com^
 ||spendpest.com^
 ||spidersboats.com^
 ||spiffymachine.com^
-||spikyslave.com^
 ||spirebaboon.com^
-||spitefulstop.com^
 ||spongesalt.com^
 ||spookyexchange.com^
 ||spookyskate.com^
@@ -45299,11 +45325,13 @@ inapps.appsflyersdk.com^
 ||springaftermath.com^
 ||springsister.com^
 ||springsnails.com^
+||spuriousair.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
 ||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
+||squalidscrew.com^
 ||squashfriction.com^
 ||squeakzinc.com^
 ||squealingturn.com^
@@ -45335,6 +45363,7 @@ inapps.appsflyersdk.com^
 ||stereoproxy.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
+||stewedge.com^
 ||stickssheep.com^
 ||stickysheet.com^
 ||stiffgame.com^
@@ -45442,8 +45471,8 @@ inapps.appsflyersdk.com^
 ||terriblethumb.com^
 ||terrificgoose.com^
 ||terrifictooth.com^
+||testadmiral.com^
 ||testedtouch.com^
-||teststocking.com^
 ||texturetrick.com^
 ||therapeuticcars.com^
 ||thickticket.com^
@@ -45475,7 +45504,6 @@ inapps.appsflyersdk.com^
 ||tinytendency.com^
 ||tiredthroat.com^
 ||tiresomethunder.com^
-||toadtexture.com^
 ||toedrawer.com^
 ||toothbrushnote.com^
 ||toothpasterabbits.com^
@@ -45484,6 +45512,8 @@ inapps.appsflyersdk.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
 ||tradetooth.com^
+||tranquilamulet.com^
+||tranquilcanyon.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
@@ -45514,7 +45544,6 @@ inapps.appsflyersdk.com^
 ||unaccountablepie.com^
 ||unadvisedengine.com^
 ||unarmedindustry.com^
-||unbecomingbikes.com^
 ||unbecominghall.com^
 ||unbecominglamp.com^
 ||uncoveredcircle.com^
@@ -45553,7 +45582,6 @@ inapps.appsflyersdk.com^
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
-||vmundanepollution.com^
 ||voicelessvein.com^
 ||voicevegetable.com^
 ||volatileprofit.com^
@@ -45605,6 +45633,7 @@ inapps.appsflyersdk.com^
 ||wtaccesscontrol.com^
 ||xovq5nemr.com^
 ||yamstamp.com^
+||yieldingwoman.com^
 ||youngmarble.com^
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
@@ -45870,6 +45899,7 @@ inapps.appsflyersdk.com^
 ||dawin.tv^
 ||oevery.com^
 ||rainbownine.net^
+||smlog.co.kr^
 ||tenping.kr^
 ! Latvian
 ||mcloudglobal.com^
@@ -46539,6 +46569,7 @@ inapps.appsflyersdk.com^
 ||smrt.as^
 ||snaps.vidiemi.com^
 ||snowplow.swm.digital^
+||snowplowjs.darwin.cx^
 ||solutions.invocacdn.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||spa-tracker.spapi.io^
@@ -47160,6 +47191,7 @@ inapps.appsflyersdk.com^
 ||megadata.co.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||pxl.retaku.net^
 ||sas.nsm-corp.com^
 ! Latvian
 ||counter.hackers.lv^
