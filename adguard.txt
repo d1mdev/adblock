@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-15T23:00:15.812Z
+! Last modified: 2023-12-16T23:00:14.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5431,6 +5431,7 @@
 ||493b98cce8bc1a2dd.com^
 ||495affa75e.com^
 ||49af7cee19.com^
+||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
 ||4a623a5a49.com^
@@ -6225,6 +6226,7 @@
 ||ad64463ef9.com^
 ||ad999.biz^
 ||adactioner.com^
+||adanad.name^
 ||adaptationbodilypairs.com^
 ||adaptcunning.com^
 ||adaranth.com^
@@ -6873,6 +6875,7 @@
 ||againirksomefutile.com^
 ||againponderous.com^
 ||againstpipepierre.com^
+||agajx.com^
 ||agakoffingan.com^
 ||agalarvitaran.com^
 ||agalitecrashed.com^
@@ -8314,6 +8317,7 @@
 ||awstaticdn.net^
 ||awsurveys.com^
 ||awswayful.space^
+||awtpguxqtf.com^
 ||awtqbjylk.com^
 ||awugxvrmsdalpx.com^
 ||awutohkhu.com^
@@ -8540,6 +8544,7 @@
 ||bakeronerousfollowing.com^
 ||bakongojotted.com^
 ||bakubabasilic.space^
+||bakubasugis.guru^
 ||balancedweakness.com^
 ||balcekonspn.com^
 ||balconhoist.com^
@@ -9794,6 +9799,7 @@
 ||bshrdr.com^
 ||bsjusnip.com^
 ||bsolaoecm.xyz^
+||bswsapnwdx.com^
 ||bsyftapbp.com^
 ||bsyhicvmrg.com^
 ||btagmedia.com^
@@ -12384,6 +12390,7 @@
 ||densouls.com^
 ||dental-drawer.pro^
 ||dentalhomework.pro^
+||dentalillegally.com^
 ||dentcontrader.com^
 ||dentfonttechnology.com^
 ||dentwithought.com^
@@ -13087,6 +13094,7 @@
 ||dqbukuvuy.com^
 ||dqfhudpnwdk.com^
 ||dqhezw.com^
+||dqhoikghxts.com^
 ||dqjkzrx.com^
 ||dqlgpnljfgmlqs.xyz^
 ||dqvnpbs.com^
@@ -13299,6 +13307,7 @@
 ||dupelipperan.com^
 ||duplefirer.uno^
 ||duponytator.com^
+||durableordinarilyadministrator.com^
 ||durationzodiacdetermined.com^
 ||duried.com^
 ||durief.com^
@@ -15690,6 +15699,7 @@
 ||futuredistracting.com^
 ||futureresiduals.com^
 ||futureus.com^
+||fuyytjuopkikl.com^
 ||fuzakumpaks.com^
 ||fuzeelamby.com^
 ||fuzinghummaul.com^
@@ -18409,6 +18419,7 @@
 ||intelligenceretarget.com^
 ||intellipopup.com^
 ||intellitxt.com^
+||intelstqkt.com^
 ||intendedeasiestlost.com^
 ||intendedoutput.com^
 ||intentanalysis.com^
@@ -19255,6 +19266,7 @@
 ||jvnydntynmru.com^
 ||jvrawodh.com^
 ||jvsffrjutsax.com^
+||jvydtutqrmdx.com^
 ||jvylyreyazmea.top^
 ||jvzoupeh.com^
 ||jwalf.com^
@@ -19712,6 +19724,7 @@
 ||koureptu.xyz^
 ||koustouk.net^
 ||koutobey.net^
+||koxcsmmcealss.com^
 ||kpdqdbyi.com^
 ||kpkgkkbs.xyz^
 ||kqhi97lf.de^
@@ -20184,6 +20197,7 @@
 ||lfnwqrghxqrqb.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
+||lfwujowkcf.com^
 ||lgbxelnukhsil.xyz^
 ||lgdmconwvygoo.com^
 ||lgfiufyaycsh.com^
@@ -21425,6 +21439,7 @@
 ||metingsaeta.com^
 ||metinkuba.com^
 ||metonicthought.com^
+||metorealiukz.org^
 ||metosk.com^
 ||metotreatwithdify.info^
 ||metrebeggary.digital^
@@ -22539,6 +22554,7 @@
 ||nextdark.pro^
 ||nextgencounter.com^
 ||nextpsh.top^
+||neylwuhxhaek.com^
 ||nezuel.com^
 ||nezygmobha.com^
 ||nfctoroxi.xyz^
@@ -23555,6 +23571,7 @@
 ||onogxwatipyevf.com^
 ||onpluslean.com^
 ||onpsrrejx.com^
+||onseleauks.org^
 ||onservantas.org^
 ||onsetknives.com^
 ||onsetours.com^
@@ -23763,6 +23780,7 @@
 ||origintube.com^
 ||origunix.com^
 ||orisow.com^
+||orjfun.com^
 ||orkoedthroug.xyz^
 ||orldwhoisquite.com^
 ||orldwhoisquite.org^
@@ -26497,6 +26515,7 @@
 ||qyajwjyjnavzq.top^
 ||qydrwhhk.xyz^
 ||qyenlspei.com^
+||qymdcuco.com^
 ||qynpfyvxkyv.com^
 ||qynqvkkmbzvkk.top^
 ||qyqkemrarznvv.top^
@@ -27832,6 +27851,7 @@
 ||rxtazhr.com^
 ||rxtgbihqbs99.com^
 ||rxthdr.com^
+||ryanfrqxjl.com^
 ||rydpsqdsaja.com^
 ||rydresa.info^
 ||ryepublisher.com^
@@ -31781,6 +31801,7 @@
 ||typiccor.com^
 ||typiconrices.com^
 ||typierknyaz.website^
+||tyqptghilt.com^
 ||tyract.com^
 ||tyranbrashore.com^
 ||tyrds.com^
@@ -32964,6 +32985,7 @@
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
 ||vltwoizzckpp.com^
+||vlvbyqgjqj.com^
 ||vmmcdn.com^
 ||vmraahnmspzy.com^
 ||vmuid.com^
@@ -33368,6 +33390,7 @@
 ||wboptim.online^
 ||wboux.com^
 ||wbsads.com^
+||wbuurzutrhmlsz.com^
 ||wbvjhlaljp.com^
 ||wbzfybvl.com^
 ||wcadlvruvrq.xyz^
@@ -34243,6 +34266,7 @@
 ||xfahjal.com^
 ||xfcpdigfsx.xyz^
 ||xfhgstxcytiu.com^
+||xfiebjkmpp.com^
 ||xfileload.com^
 ||xfimwjibh.top^
 ||xfwblpomxc.com^
@@ -34267,6 +34291,7 @@
 ||xiaomengxiong.com^
 ||xibilitukydteam.info^
 ||xidx.org^
+||xigrtoai.com^
 ||xijgedjgg5f55.com^
 ||xilbalar.com^
 ||xineday.com^
@@ -34957,6 +34982,7 @@
 ||zjupukgjuez.com^
 ||zjybqqaleeva.top^
 ||zjybqqalenve.top^
+||zjyeblzkajwba.top^
 ||zjyeblzkajwjz.top^
 ||zkawzmlvqjejy.top^
 ||zkczzltlhp6y.com^
@@ -47651,8 +47677,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Dec 2023 22:02 UTC+7
-! Version: 2312112202
+! Last modified: 16 Dec 2023 22:59 UTC+7
+! Version: 2312162259
 ! Blocked: 849 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
