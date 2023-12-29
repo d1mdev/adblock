@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-28T23:00:14.380Z
+! Last modified: 2023-12-29T23:00:16.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9552,6 +9552,7 @@
 ||bonnetiere-infrangible-burthening.xyz^
 ||bonnettaking.com^
 ||bonnnesfoxily.com^
+||bonomans.com^
 ||bonus-app.net^
 ||bonusaward.life^
 ||bonuscontract.com^
@@ -10048,6 +10049,7 @@
 ||bvmcdn.net^
 ||bvnlrqvinhsje.com^
 ||bvoqzs.com^
+||bvtfutroyr.com^
 ||bvudraqxpl.com^
 ||bwbmyzvjnqlna.top^
 ||bwbmyzvjnqlwv.top^
@@ -12086,6 +12088,7 @@
 ||d72gb9oukw3j.com^
 ||d75c13e04d.com^
 ||d7c01d241b.com^
+||d7c6491da0.com^
 ||d7e13aeb98.com^
 ||d869381a42af33b.com^
 ||d8b805b9a9.com^
@@ -12964,6 +12967,7 @@
 ||divedresign.com^
 ||diversecrashconcern.com^
 ||diversityspaceship.com^
+||divertbywordinjustice.com^
 ||dividedbecameinquisitive.com^
 ||dividedching.com^
 ||dividedscientific.com^
@@ -15121,6 +15125,7 @@
 ||ffrywcxaewmpp.com^
 ||fftagtden.com^
 ||ffuzila.com^
+||ffwbzklcszdk.com^
 ||fgddrrr.com^
 ||fgdxwpht.com^
 ||fgfgnbmeieorr910.com^
@@ -15443,6 +15448,7 @@
 ||fmzjinez.com^
 ||fnbauniukvi.com^
 ||fnqcbxqvodj.com^
+||fnrbulqws.com^
 ||fnrrm2fn1njl1.com^
 ||fnxkntusnd.com^
 ||foadeeph.xyz^
@@ -16364,6 +16370,7 @@
 ||glaciergrimly.com^
 ||gladiol9us10.com^
 ||gladlycreator.com^
+||gladthereis.org^
 ||glaidsurteeg.com^
 ||glaimtug.com^
 ||glaingoo.xyz^
@@ -17050,6 +17057,7 @@
 ||gypsiedjilt.com^
 ||gypufahuyhov.xyz^
 ||gyratesequal.website^
+||gyzlozas.com^
 ||gzakxmzydpkwr.com^
 ||gzcxtuxgqjrhz.com^
 ||gzifhovadhf.com^
@@ -17477,6 +17485,7 @@
 ||hgx1.space^
 ||hhbypdoecp.com^
 ||hhcktiucw.xyz^
+||hhjow.com^
 ||hhklc.com^
 ||hhkld.com^
 ||hhrsecure.com^
@@ -17636,9 +17645,11 @@
 ||hmsykhbqvesopt.xyz^
 ||hmyuokltxplqwfa.com^
 ||hn1l.online^
+||hn1l.site^
 ||hnkyxyknp.com^
 ||hnrgmc.com^
 ||hntkeiupbnoaeha.xyz^
+||hnxhksg.com^
 ||ho47no3iry.de^
 ||hoa44trk.com^
 ||hoabinoo.net^
@@ -18592,6 +18603,7 @@
 ||inpagepush.com^
 ||inpoursmorinda.website^
 ||inputbarbing.life^
+||inputsrameous.life^
 ||inputunstable.com^
 ||inquietchronos.website^
 ||inquiredcriticalprosecution.com^
@@ -18985,6 +18997,7 @@
 ||ixqthii.com^
 ||ixtlesamorist.guru^
 ||ixtqrdiwd.com^
+||ixxljgh.com^
 ||iy8yhpmgrcpwkcvh.pro^
 ||iydppgpcz.com^
 ||iyfbodn.com^
@@ -19018,6 +19031,7 @@
 ||jacmolta.com^
 ||jacnrobv.com^
 ||jacobsyrma.live^
+||jacqsojijukj.xyz^
 ||jacsmuvkymw.com^
 ||jactantsplodgy.com^
 ||jadcenter.com^
@@ -19286,6 +19300,7 @@
 ||jkthlsrdhni.com^
 ||jkttvpoxmk.com^
 ||jkyybewqmnll.top^
+||jkzakzjwyolbl.top^
 ||jkzlillsss.com^
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
@@ -21234,6 +21249,7 @@
 ||mafroad.com^
 ||maftirtagetol.website^
 ||mafyak.com^
+||magapab.com^
 ||magazinesfluentlymercury.com^
 ||magclotty.top^
 ||mage98rquewz.com^
@@ -21249,6 +21265,7 @@
 ||magicignoresoil.com^
 ||magistratehumorousjeep.com^
 ||magmasudaller.com^
+||magmbb.com^
 ||magnificent-listen.com^
 ||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
@@ -22018,6 +22035,7 @@
 ||mlsys.xyz^
 ||mluptwapaj.com^
 ||mlvgxzenoiz.com^
+||mlvlesvw.com^
 ||mlwstbdnwdfyng.com^
 ||mlzxfwvonky.com^
 ||mm-cgnews.com^
@@ -24634,6 +24652,7 @@
 ||pannamdashee.com^
 ||pannumregnal.com^
 ||panoz.xyz^
+||panpant.xyz^
 ||pansymerbaby.com^
 ||pantafives.com^
 ||pantdentaldonate.com^
@@ -25395,6 +25414,7 @@
 ||pjqchcfwtw.com^
 ||pjsefaqzyjv.com^
 ||pjwshrlhyjyhqu.xyz^
+||pjyvgdpvjp.com^
 ||pk910324e.com^
 ||pkhhyool.com^
 ||pkklkcdn.com^
@@ -32344,6 +32364,7 @@
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
 ||tywdchppfgds.xyz^
+||tzaho.com^
 ||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
@@ -33531,6 +33552,7 @@
 ||vlbbyi.com^
 ||vlbyzgj.com^
 ||vlitag.com^
+||vlkkwxncamnq.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
 ||vltwoizzckpp.com^
@@ -33627,6 +33649,7 @@
 ||vprwamqmdd.xyz^
 ||vptadv.com^
 ||vptbn.com^
+||vptzqnjwguap.com^
 ||vpumfeghiall.com^
 ||vpwhhtpwhmd.com^
 ||vqcjmtorgexlxpg.xyz^
@@ -33956,6 +33979,7 @@
 ||wbvjhlaljp.com^
 ||wbzfybvl.com^
 ||wcadlvruvrq.xyz^
+||wcbxugtfk.com^
 ||wccprfxgbes.com^
 ||wcdxpxugsrk.xyz^
 ||wchctzzkzkhx.com^
@@ -34414,6 +34438,7 @@
 ||witchcraftbarterexploded.com^
 ||withcarsickhatred.com^
 ||withcrepteast.com^
+||withdedukication.com^
 ||withdrawcosmicabundant.com^
 ||withdromnit.pro^
 ||withenvisagehurt.com^
@@ -34450,6 +34475,7 @@
 ||wledconsi.xyz^
 ||wlen1bty92.pro^
 ||wlfcwkijsknted.xyz^
+||wlhzbbvtofot.com^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlmitgzbht.com^
@@ -34829,6 +34855,7 @@
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
 ||xdcngimejo.com^
+||xder1.fun^
 ||xdezxlbnpo.com^
 ||xdhqtgpkywjl.com^
 ||xdirectx.com^
@@ -34849,6 +34876,7 @@
 ||xfahjal.com^
 ||xfbeobsutqtndp.com^
 ||xfcpdigfsx.xyz^
+||xfguylptuqw.com^
 ||xfhgstxcytiu.com^
 ||xfiebjkmpp.com^
 ||xfileload.com^
@@ -34962,6 +34990,7 @@
 ||xqgwymog.xyz^
 ||xqhifbjhixb.com^
 ||xqmyebdrunebsh.xyz^
+||xqzwtvjkjj.com^
 ||xrlkvghzi.com^
 ||xruolsogwsi.com^
 ||xsjc4smhbyjf.com^
@@ -35253,6 +35282,7 @@
 ||yoginsnorland.com^
 ||yojanaarabic.life^
 ||yokeeroud.com^
+||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yonabrar.com^
 ||yonhelioliskor.com^
@@ -35731,6 +35761,7 @@
 ||zygenidempaper.digital^
 ||zygomasbeaches.guru^
 ||zyiis.net^
+||zyijzosrnzfru.com^
 ||zylytavo.com^
 ||zypenetwork.com^
 ||zypy2h6rgfux.com^
@@ -37035,7 +37066,6 @@
 ||agrvt.com^
 ||westats.dev^
 ||adsolutions.com^
-||sdk.fra-*.braze.eu^
 ||ct2.kutinawa.com^
 ||ythingy.com^
 ||spiny.ai^
@@ -45332,6 +45362,7 @@ inapps.appsflyersdk.com^
 ||handyfield.com^
 ||handyfireman.com^
 ||handyincrease.com^
+||haplesshydrant.com^
 ||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^
