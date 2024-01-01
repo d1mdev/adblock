@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2023-12-31T23:00:13.919Z
+! Last modified: 2024-01-01T23:00:14.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6949,6 +6949,7 @@
 ||agloogly.com^
 ||agloowie.com^
 ||agmtrk.com^
+||agngplsooascil.com^
 ||agnoetecluster.uno^
 ||agnrcrpwyyn.com^
 ||agonelambes.website^
@@ -8522,6 +8523,7 @@
 ||babyishmate.pro^
 ||babynaz.xyz^
 ||babyniceshark.com^
+||babysittingbeerthrobbing.com^
 ||bac23cfb5b.com^
 ||baccatepsychon.com^
 ||bacishushaby.com^
@@ -8787,6 +8789,7 @@
 ||bccda4ab57.com^
 ||bcczmm.com^
 ||bcd7ad4271.com^
+||bcd8072b72.com^
 ||bcea24c9be.com^
 ||bceptemujahb.com^
 ||bcfaonqj.com^
@@ -13379,6 +13382,7 @@
 ||dtmpub.com^
 ||dtmvpkn.com^
 ||dtnacqswcieufy.com^
+||dtobyiiuktxvp.com^
 ||dtoottuleringv.com.ua^
 ||dtoottuleringwe.xyz^
 ||dtprofit.com^
@@ -13426,6 +13430,7 @@
 ||dugothitachan.com^
 ||duili-mtp.com^
 ||duimspruer.life^
+||dukicationan.org^
 ||dukingdraon.com^
 ||dukirliaon.com^
 ||dukkxpf.com^
@@ -13932,6 +13937,7 @@
 ||eijumomf.com^
 ||eikegolehem.com^
 ||eincre.com^
+||eingajoytow.org^
 ||eintheworldwh.com^
 ||eiorwithitofsti.com.ua^
 ||eiorwithitofstwe.xyz^
@@ -15309,6 +15315,7 @@
 ||fkexeijtqstuh.xyz^
 ||fkovjfx.com^
 ||fksnk.com^
+||fkugzbngtla.com^
 ||fkyhqtfiopfit.com^
 ||fla4n6ne7r8ydcohcojnnor.com^
 ||flabbyyolkinfection.com^
@@ -15671,6 +15678,7 @@
 ||fqfjmojnjslr.com^
 ||fqkwn.com^
 ||fqnyvwyplel.com^
+||fqpxjydyj.com^
 ||fqskuzqwpgu.com^
 ||fqtfwulmcdw.com^
 ||fqybolmt.com^
@@ -15947,6 +15955,7 @@
 ||g91games.com^
 ||ga-ads.com^
 ||gacoufti.com^
+||gadbytyhmybnir.com^
 ||gadgetnews.one^
 ||gadsabs.com^
 ||gadsatz.com^
@@ -19313,6 +19322,7 @@
 ||jklpy.com^
 ||jkthlsrdhni.com^
 ||jkttvpoxmk.com^
+||jkwxaryiaoof.com^
 ||jkyybewqmnll.top^
 ||jkzakzjwyolbl.top^
 ||jkzlillsss.com^
@@ -19391,6 +19401,7 @@
 ||josulu.xyz^
 ||jotqmmf.com^
 ||jouaboe.com^
+||joukidles.life^
 ||joupteni.xyz^
 ||journeyembankmentsubjects.com^
 ||jourohun.xyz^
@@ -19766,6 +19777,7 @@
 ||keterrehepren.xyz^
 ||ketheappyrin.com^
 ||ketiverdisof.com^
+||ketlpsmt.com^
 ||ketogenopsins.uno^
 ||ketoo.com^
 ||kettakihome.com^
@@ -22517,6 +22529,7 @@
 ||mwbxpccx.com^
 ||mwcxljdywq.com^
 ||mwemsias.com^
+||mwifcugxihhpwm.com^
 ||mwjkteucypb.com^
 ||mworkhovdimin.info^
 ||mworkhovdiminat.info^
@@ -22698,6 +22711,7 @@
 ||nasalburglarthomas.com^
 ||nasaldares.com^
 ||nastycomfort.pro^
+||nastymankinddefective.com^
 ||nastymetus.com^
 ||natantkidders.tech^
 ||natapea.com^
@@ -22831,6 +22845,7 @@
 ||nehree.com^
 ||neigna.com^
 ||neilbl.com^
+||neintheworld.org^
 ||neitherpennylack.com^
 ||neitherpossessedset.com^
 ||nekaujoa.net^
@@ -24288,6 +24303,7 @@
 ||othdgemanow.com^
 ||othdgemanow.xyz^
 ||othecknotinda.com^
+||otherofherlittl.com^
 ||otherofherlittle.info^
 ||othersfohi.com^
 ||otherwiseassurednessloaf.com^
@@ -25138,6 +25154,7 @@
 ||pettishhansom.digital^
 ||pettledsupper.space^
 ||petwoodfustet.com^
+||petyntrx.com^
 ||peuhlcamaile.space^
 ||pexoenne.site^
 ||pexuvais.net^
@@ -26366,6 +26383,7 @@
 ||psubooth.com^
 ||psucmulr.net^
 ||psuftoum.com^
+||psugkfqmys.com^
 ||psuphuns.net^
 ||psurdoak.com^
 ||psurigrabi.com^
@@ -26432,6 +26450,7 @@
 ||ptobsagn.com^
 ||ptochair.xyz^
 ||ptoftheca.xyz^
+||ptompeer.net^
 ||ptonauls.net^
 ||ptongouh.net^
 ||ptookaih.net^
@@ -26733,6 +26752,7 @@
 ||pyxzealot.com^
 ||pyzwxkb.com^
 ||pzawclkyxuno.com^
+||pzeazgmwem.com^
 ||pzgbqbk.com^
 ||pzoynkxexnx.com^
 ||pzwdtz.com^
@@ -26811,6 +26831,7 @@
 ||qhuguzodbd.com^
 ||qibkkioqqw.com^
 ||qickazzmoaxv.com^
+||qifxwiruhrr.com^
 ||qimwsxukxwnhba.xyz^
 ||qinvaris.com^
 ||qiqdpeovkobj.com^
@@ -26867,6 +26888,7 @@
 ||qokesjxpbds.com^
 ||qokira.uno^
 ||qomate.xyz^
+||qomtolfpbno.com^
 ||qomuchorindownlo.xyz^
 ||qooanabj.com^
 ||qootvuedh.com^
@@ -27224,6 +27246,7 @@
 ||rdtrck2.com^
 ||rdwmct.com^
 ||rdximaudovydtk.com^
+||rdxmjgp.com^
 ||re-captha-version-3-29.top^
 ||re-captha-version-3-33.top^
 ||reabitheconti.com^
@@ -28761,6 +28784,7 @@
 ||sdg.desihamster.pro^
 ||sdg.fwtrck.com^
 ||sdhfbvd.com^
+||sdhltncfqbu.com^
 ||sdkfjxjertertry.com^
 ||sdkl.info^
 ||sdmfyqkghzedvx.com^
@@ -29916,6 +29940,7 @@
 ||spatikona.com^
 ||spatterjointposition.com^
 ||spattermerge.com^
+||spbxgjcupg.com^
 ||spdate.com^
 ||speakinghostile.com^
 ||speakspurink.com^
@@ -32120,6 +32145,7 @@
 ||trodpigbays.com^
 ||troduc.com^
 ||trokemar.com^
+||trolleydemocratic.com^
 ||trolleydryerfunds.com^
 ||trollsvide.com^
 ||trollwarningpaws.com^
@@ -33046,6 +33072,7 @@
 ||uuhptejwmvn.com^
 ||uuuwhrxqnf.com^
 ||uvbyty.com^
+||uvgwtrkuhgwo.xyz^
 ||uviticketway.com^
 ||uvoovoachee.com^
 ||uvrdhasvzal.com^
@@ -35080,6 +35107,7 @@
 ||xvwebllndr.com^
 ||xwagtyhujov.com^
 ||xwcfvvnegv.com^
+||xwlidjauhdxzx.com^
 ||xwlketvkzf.com^
 ||xwqea.com^
 ||xwqvytuiko.com^
@@ -43819,7 +43847,6 @@ inapps.appsflyersdk.com^
 ||content-square.net^
 ||conversionfly.com^
 ||convertcart.com^
-||crashlytics.com^
 ||crazyclickstats.com^
 ||crtx.info^
 ||cuberoot.co^
@@ -44742,6 +44769,7 @@ inapps.appsflyersdk.com^
 ||acceptableauthority.com^
 ||accurateanimal.com^
 ||achieverknee.com^
+||acidicgrip.com^
 ||acidicstraw.com^
 ||acousticsapparel.com^
 ||acquireattention.com^
@@ -44767,6 +44795,7 @@ inapps.appsflyersdk.com^
 ||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
+||alertfaucet.com^
 ||aliasanvil.com^
 ||alikeaddition.com^
 ||alikearm.com^
@@ -44813,6 +44842,7 @@ inapps.appsflyersdk.com^
 ||aspiringattempt.com^
 ||astonishingair.com^
 ||astonishingfood.com^
+||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^
@@ -44834,6 +44864,7 @@ inapps.appsflyersdk.com^
 ||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
+||badgevolcano.com^
 ||baitbaseball.com^
 ||balancemailbox.com^
 ||balloonbelieve.com^
@@ -44858,6 +44889,7 @@ inapps.appsflyersdk.com^
 ||beastbeef.com^
 ||beautifulhobbies.com^
 ||bedsberry.com^
+||beetleend.com^
 ||beginnerpancake.com^
 ||begintrain.com^
 ||beneficialbeef.com^
@@ -44983,6 +45015,7 @@ inapps.appsflyersdk.com^
 ||chemicalcoach.com^
 ||chemicalsnake.com^
 ||cherriescare.com^
+||cherriescloud.com^
 ||chesscherry.com^
 ||chesscolor.com^
 ||chewcoat.com^
@@ -45025,9 +45058,11 @@ inapps.appsflyersdk.com^
 ||combbit.com^
 ||combcattle.com^
 ||combclover.com^
+||combcompetition.com^
 ||comfortablecheese.com^
 ||commonalmanac.com^
 ||commonswing.com^
+||companyparcel.com^
 ||comparereaction.com^
 ||competitionbeetle.com^
 ||compiledoctor.com^
@@ -45036,6 +45071,7 @@ inapps.appsflyersdk.com^
 ||conceptualizereading.com^
 ||concernedchickens.com^
 ||concernedcondition.com^
+||condemnedcomb.com^
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^
@@ -45099,6 +45135,8 @@ inapps.appsflyersdk.com^
 ||cutecushion.com^
 ||cutepopcorn.com^
 ||cuteturkey.com^
+||dailydivision.com^
+||damagedadvice.com^
 ||damageddistance.com^
 ||damagedroll.com^
 ||damdoor.com^
@@ -45198,6 +45236,7 @@ inapps.appsflyersdk.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
+||elegantboulevard.com^
 ||elephantqueue.com^
 ||embellishedmeadow.com^
 ||embermosaic.com^
@@ -45230,6 +45269,7 @@ inapps.appsflyersdk.com^
 ||erraticreaction.com^
 ||etherealripple.com^
 ||evaluateend.com^
+||evaluatestream.com^
 ||evanescentedge.com^
 ||eventexistence.com^
 ||exampleshake.com^
@@ -45370,6 +45410,7 @@ inapps.appsflyersdk.com^
 ||grandiosefire.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
+||grapeopinion.com^
 ||grayoranges.com^
 ||grayreceipt.com^
 ||greasegarden.com^
@@ -45475,6 +45516,7 @@ inapps.appsflyersdk.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
 ||informengine.com^
+||innatecomb.com^
 ||innocentinvention.com^
 ||innocentwax.com^
 ||inputicicle.com^
@@ -45502,6 +45544,7 @@ inapps.appsflyersdk.com^
 ||jubilantcanyon.com^
 ||justicejudo.com^
 ||k54nw.pw^
+||kaputquill.com^
 ||kitesquirrel.com^
 ||kittyaction.com^
 ||knitstamp.com^
@@ -45563,6 +45606,7 @@ inapps.appsflyersdk.com^
 ||makeshiftmine.com^
 ||maliciousmusic.com^
 ||maniacalappliance.com^
+||marblediscussion.com^
 ||markedcrayon.com^
 ||markedmeasure.com^
 ||markedpail.com^
@@ -45582,6 +45626,7 @@ inapps.appsflyersdk.com^
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||measurecaption.com^
+||measurefoot.com^
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
@@ -45671,6 +45716,7 @@ inapps.appsflyersdk.com^
 ||oppositeoperation.com^
 ||optimallimit.com^
 ||orangeoperation.com^
+||organizationdogs.com^
 ||orionember.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
@@ -45871,6 +45917,8 @@ inapps.appsflyersdk.com^
 ||resonantrock.com^
 ||respectrain.com^
 ||restrainstorm.com^
+||restructureinvention.com^
+||retrievemint.com^
 ||rhetoricalactivity.com^
 ||rhetoricalloss.com^
 ||rhetoricaltoes.com^
@@ -45975,6 +46023,7 @@ inapps.appsflyersdk.com^
 ||serenecascade.com^
 ||serioussuit.com^
 ||serpentshampoo.com^
+||settleshoes.com^
 ||shadeship.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
@@ -46019,6 +46068,7 @@ inapps.appsflyersdk.com^
 ||sixscissors.com^
 ||sizesidewalk.com^
 ||skillfulsock.com^
+||skisofa.com^
 ||slaysweater.com^
 ||sleepcartoon.com^
 ||slimopinion.com^
@@ -46118,6 +46168,7 @@ inapps.appsflyersdk.com^
 ||squirrelhands.com^
 ||stakingbasket.com^
 ||stakingscrew.com^
+||stakingshock.com^
 ||stakingslope.com^
 ||stakingsmile.com^
 ||staleseat.com^
@@ -46143,6 +46194,7 @@ inapps.appsflyersdk.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
 ||stewedge.com^
+||stewspiders.com^
 ||stickssheep.com^
 ||stickysheet.com^
 ||stiffgame.com^
@@ -46211,6 +46263,7 @@ inapps.appsflyersdk.com^
 ||sweepsheep.com^
 ||sweetslope.com^
 ||swellstocking.com^
+||swelteringsleep.com^
 ||swelteringsmile.com^
 ||swimslope.com^
 ||swingslip.com^
@@ -46359,6 +46412,7 @@ inapps.appsflyersdk.com^
 ||vibranthaven.com^
 ||vibrantsundown.com^
 ||victoriousrequest.com^
+||violetreading.com^
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
@@ -46372,12 +46426,14 @@ inapps.appsflyersdk.com^
 ||vq1qi.pw^
 ||waggishpig.com^
 ||wakefulcook.com^
+||wantingwindow.com^
 ||warmafterthought.com^
 ||warmquiver.com^
 ||warnwing.com^
 ||waryfog.com^
 ||washbanana.com^
 ||wateryvan.com^
+||waterywave.com^
 ||wearbasin.com^
 ||wearywater.com^
 ||wellgroomedapparel.com^
