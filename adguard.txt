@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-01-08T23:00:14.117Z
+! Last modified: 2024-01-09T23:00:13.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,9 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||s.cummerata.link^
+||cchbdata.net^
+||s.ccsyncuuid.net^
 ||bngtrak.com^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
@@ -4064,6 +4067,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||exad.smi2.ru^
+||tgb.hsmedia.ru^
 ||market-backend.api.2gis.ru^
 !
 ! Source name: AdGuard Mobile Ads filter ad servers
@@ -5337,6 +5342,7 @@
 ||341073be6e9db7d2.com^
 ||341k4gu76ywe.top^
 ||345f780221.com^
+||3467b7d02e.com^
 ||34710af267.com^
 ||3482f0c95a.com^
 ||34e224a3bf.com^
@@ -8388,6 +8394,7 @@
 ||awfullypersecution.com^
 ||awfulresolvedraised.com^
 ||awgfargnrw.xyz^
+||awhajdorzawd.com^
 ||awhileirrelevant.com^
 ||awistats.com^
 ||awkljjaaweyzm.top^
@@ -9494,6 +9501,7 @@
 ||bncloudfl.com^
 ||bnczrbrhiacp.com^
 ||bnfoeabisp.com^
+||bngdin.com^
 ||bngmadjd.de^
 ||bngprl.com^
 ||bngprm.com^
@@ -11310,6 +11318,7 @@
 ||cognateprogrammeteenage.com^
 ||cognitionmesmerize.com^
 ||cohabitrecipetransmitted.com^
+||cohade.uno^
 ||coherebehalf.com^
 ||coherenceinvest.com^
 ||coherentinflationescort.com^
@@ -12348,6 +12357,7 @@
 ||daweneath.com^
 ||dawirax.com^
 ||dawmal.com^
+||dawplm.com^
 ||dawtsboosted.com^
 ||dawutobliged.com^
 ||daxwfrbocaaau.com^
@@ -13128,6 +13138,7 @@
 ||dnavexch.com^
 ||dnavtbt.com^
 ||dnemkhkbsdbl.com^
+||dnfs24.com^
 ||dnhyakcwoedah.com^
 ||dnjsiye.com^
 ||dnnwebuxps.com^
@@ -13472,6 +13483,7 @@
 ||dtcpdvnojquf.com^
 ||dtedpypskgbdap.com^
 ||dthechildren.org^
+||dtkhbsictxpu.com^
 ||dtmpub.com^
 ||dtmvpkn.com^
 ||dtnacqswcieufy.com^
@@ -17331,6 +17343,7 @@
 ||hangtagcomonte.com^
 ||hansetwangy.com^
 ||hantlesberith.com^
+||hapbtualkfi.com^
 ||haphazardbleeding.com^
 ||haplic.com^
 ||happeningdeliverancenorth.com^
@@ -19791,6 +19804,7 @@
 ||jzbvpyvhus.com^
 ||jzeapwlruols.com^
 ||jzleekzkrwjll.top^
+||jzokkejmqrbyj.top^
 ||jzqgyccwefd.com^
 ||jzsqwkjvnz.com^
 ||jztchllgpcrwu.com^
@@ -20330,6 +20344,7 @@
 ||kwqgprdmmwxyhb.com^
 ||kwtnhdrmbx.com^
 ||kwyuivlaychxe.com^
+||kxemrjbvsrd.com^
 ||kxfwgqkuojcq.com^
 ||kxhmyeedwkbgrh.xyz^
 ||kxnaaxml.com^
@@ -20893,6 +20908,7 @@
 ||lirateblister.com^
 ||lirdooch.xyz^
 ||lispingwraths.space^
+||list-ads.com^
 ||listeraislatory.site^
 ||listfulhymnals.website^
 ||listguineaelementary.com^
@@ -21453,6 +21469,7 @@
 ||mademadelavish.com^
 ||madeupadoption.com^
 ||madlegendlawsuit.com^
+||madmoney.eu^
 ||madnessindians.com^
 ||madratesforall.com^
 ||madriyelowd.com^
@@ -22963,6 +22980,7 @@
 ||navigablepiercing.com^
 ||navigationconcept.com^
 ||navywilyoccur.com^
+||nawcgetfwpbff.com^
 ||nawpush.com^
 ||naxadrug.com^
 ||naysaywinless.guru^
@@ -22999,6 +23017,7 @@
 ||ndedaphon.com^
 ||ndejhe73jslaw093.com^
 ||ndentofinau.info^
+||nderthfeo.info^
 ||ndha4sding6gf.com^
 ||nditingdecord.org^
 ||ndjelsefd.com^
@@ -25415,6 +25434,7 @@
 ||pgonews.pro^
 ||pgpartner.com^
 ||pgssl.com^
+||pgtabxxmb.com^
 ||pgwcrtobrdjx.com^
 ||pgwlzodsll.com^
 ||phaarnsvqzlr.com^
@@ -25869,6 +25889,7 @@
 ||pnpmreuwqv.xyz^
 ||pnrblholty.com^
 ||pnsqsv.com^
+||pnufzbzzomt.com^
 ||pnuhondppw.com^
 ||pnvbfxwbeg.com^
 ||pnyjzdtirvufft.com^
@@ -25903,6 +25924,7 @@
 ||pognamta.net^
 ||pogothere.xyz^
 ||pohlbe.com^
+||poi3d.space^
 ||poinct.com^
 ||poined.com^
 ||poinsk.com^
@@ -27478,6 +27500,7 @@
 ||razingvexable.store^
 ||razzedlabras.com^
 ||razzlebuyer.com^
+||rbcxttd.com^
 ||rbgrckaysvrp.com^
 ||rbljoyvsvtj.xyz^
 ||rblrekay.com^
@@ -28724,6 +28747,7 @@
 ||sabaothamsonia.com^
 ||sabbedgurly.com^
 ||sabergood.com^
+||sabianic.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sacquebenzine.com^
@@ -29334,6 +29358,7 @@
 ||sexy-sluts.org^
 ||sexyadsrun.com^
 ||sexyepc.com^
+||seynatcreative.com^
 ||sfafabztidi.com^
 ||sfcfssgbrhnsb.com^
 ||sffsdvc.com^
@@ -29384,6 +29409,7 @@
 ||shakywinningcarnival.com^
 ||shaledpaidle.com^
 ||shallotuncord.com^
+||shalomitll.top^
 ||shalse.com^
 ||shamelesscry.pro^
 ||shamelessgoodwill.com^
@@ -31323,6 +31349,7 @@
 ||tazagdv.com^
 ||tazzasembays.digital^
 ||tberjonk.com^
+||tbgmckdemnv.com^
 ||tbhenherthertindn.xyz^
 ||tbiwkjomju.com^
 ||tbm09.com^
@@ -32262,6 +32289,7 @@
 ||trackpshgoto.win^
 ||trackpush.com^
 ||tracks20.com^
+||tracksfaster.com^
 ||trackspeeder.com^
 ||trackstracker.com^
 ||tracksystem.online^
@@ -34467,6 +34495,7 @@
 ||weeklyimplement.pro^
 ||weeksth.com^
 ||weepingpretext.com^
+||weestuch.com^
 ||weethery.com^
 ||weftsgeogeny.com^
 ||wegastroky.com^
@@ -36140,6 +36169,7 @@
 ||zudaichy.com^
 ||zufoloodylize.com^
 ||zufqmmwavdec.com^
+||zugeme.uno^
 ||zughoocm.com^
 ||zugnogne.com^
 ||zugo.com^
@@ -36384,6 +36414,7 @@
 ||adport.io^
 ||adpredictive.com^
 ||adpushup.com^
+||adquire.com^
 ||adqva.com^
 ||adreactor.com^
 ||adrecord.com^
@@ -37442,6 +37473,10 @@
 !
 !
 !
+||pb.adriver.ru^
+||sync.adspend.space^
+||sync.opendsp.ru^
+||sync.programmatica.com^
 ||tracker.smart-bdash.com^
 ||trk.a-dsp.com^
 ||metrics.plaid.com^
@@ -38155,7 +38190,6 @@
 ||analytics.chase.com^
 ||scripttags.jst.ai^
 ||trace21.dsb-ebusiness.com^
-||adjust.com^
 ||a.ddli.jp^
 ||b92.yahoo.co.jp^
 ||cf-native.karte.io^
@@ -41100,6 +41134,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.msk1.ru^
+||metrics.viqeo.tv^
+||rtb.videonow.ru^
 ||hn-ping*.hashnode.com^
 ||o920916.ingest.sentry.io^
 ||ping.hashnode.com^
@@ -44386,6 +44423,7 @@ inapps.appsflyersdk.com^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
+||analytics.vixcloud.co^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
 ||analytics.wildtangent.com^
@@ -44403,6 +44441,7 @@ inapps.appsflyersdk.com^
 ||ao-freegeoip.herokuapp.com^
 ||api-analytics-prd.pelcro.com^
 ||api.wipmania.com^
+||app.adjust.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
 ||argos.citruserve.com^
@@ -44570,6 +44609,7 @@ inapps.appsflyersdk.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
+||edge.adobedc.net^
 ||edge.bredg.com^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
@@ -44677,6 +44717,7 @@ inapps.appsflyersdk.com^
 ||jly24aw29n5m-a.akamaihd.net^
 ||jtracking-gate.lulusoft.com^
 ||k.streamrail.com^
+||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||kalstats.kaltura.com^
 ||l.fairblocker.com^
 ||laurel.macrovision.com^
