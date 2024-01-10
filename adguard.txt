@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-01-09T23:00:13.503Z
+! Last modified: 2024-01-10T23:00:14.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5136,6 +5136,7 @@
 ||1f6f6bfb05.com^
 ||1f7eece503.com^
 ||1f87527dc9.com^
+||1f98dc1262.com^
 ||1fd92n6t8.de^
 ||1fluxx-strean.com^
 ||1freestyl3domain.com^
@@ -5222,6 +5223,7 @@
 ||259luxu.xyz^
 ||25obpfr.de^
 ||2639iqjkl.de^
+||26485.top^
 ||2685da0b4d.com^
 ||268stephe5en3king.com^
 ||26q4nn691.de^
@@ -6336,6 +6338,7 @@
 ||additiontreason.com^
 ||addizhi.top^
 ||addkt.com^
+||addlnk.com^
 ||addoer.com^
 ||addonsmash.com^
 ||addotnet.com^
@@ -6709,6 +6712,7 @@
 ||advertica-cdn.com^
 ||advertica-cdn2.com^
 ||advertica.ae^
+||advertica.com^
 ||advertiserurl.com^
 ||advertiseserve.com^
 ||advertiseworld.com^
@@ -6825,6 +6829,7 @@
 ||affelseaeinera.org^
 ||affelseaeineral.xyz^
 ||affichwhists.uno^
+||affili.st^
 ||affiliate-robot.com^
 ||affiliate-wg.com^
 ||affiliateboutiquenetwork.com^
@@ -9240,6 +9245,7 @@
 ||bigbasketshop.com^
 ||bigbolz.com^
 ||bigbootymania.com^
+||bigbricks.org^
 ||bigbusinesstoday.xyz^
 ||bigchoicegroup.com^
 ||bigeagle.biz^
@@ -9760,6 +9766,7 @@
 ||bpplkotkpduwob.com^
 ||bptracking.com^
 ||bptssoahsfoz.com^
+||bpwwsusgb.com^
 ||bqadfytoqbyhdxs.xyz^
 ||bqklioghtnqs.com^
 ||bqkwfioyd.xyz^
@@ -12800,6 +12807,7 @@
 ||dicknearbyaircraft.com^
 ||diclotrans.com^
 ||dicouksa.com^
+||dicreativeideas.org^
 ||dictatepantry.com^
 ||dictaterepublicbog.com^
 ||dictationtense.com^
@@ -15895,6 +15903,7 @@
 ||friendshipmale.com^
 ||frightening-crack.pro^
 ||frightening-lesson.pro^
+||frightysever.org^
 ||frilly-number.pro^
 ||fringesdurocs.com^
 ||fripth.xyz^
@@ -16986,8 +16995,10 @@
 ||greatappland.com^
 ||greataseset.org^
 ||greatbonushere.life^
+||greatbonushere.top^
 ||greatcpm.com^
 ||greatdexchange.com^
+||greatlifebargains2024.com
 ||greatlove.pro^
 ||greatvpnoffers.com^
 ||grecheer.com^
@@ -17234,6 +17245,7 @@
 ||gzakxmzydpkwr.com^
 ||gzcxtuxgqjrhz.com^
 ||gzifhovadhf.com^
+||gzpphnbvqj.com^
 ||h0w-t0-watch.net^
 ||h12-media.com^
 ||h15maincat.com^
@@ -17650,6 +17662,7 @@
 ||hexovythi.pro^
 ||hf5rbejvpwds.com^
 ||hfc195b.com^
+||hfeoveukrn.info^
 ||hffdjxnyxckf.xyz^
 ||hffxc.com^
 ||hfggttxptxwdmb.com^
@@ -18189,6 +18202,7 @@
 ||hvooyieoei.com^
 ||hvvafunojvdlv.xyz^
 ||hwchvgpc.xyz^
+||hwicliktt.com^
 ||hwmlmcbwpbkwas.com^
 ||hwpnocpctu.com^
 ||hwpyfcxahv.com^
@@ -19802,6 +19816,7 @@
 ||jyrypezzzd.com^
 ||jyuirxswk.com^
 ||jzbvpyvhus.com^
+||jzbvwqezlwyaz.top^
 ||jzeapwlruols.com^
 ||jzleekzkrwjll.top^
 ||jzokkejmqrbyj.top^
@@ -21867,6 +21882,7 @@
 ||medfoodspace.com^
 ||medfoodtech.com^
 ||medgoodfood.com^
+||media-412.com^
 ||media-general.com^
 ||media-sapiens.com^
 ||media-servers.net^
@@ -21938,6 +21954,7 @@
 ||mekati.xyz^
 ||mekiroki.com^
 ||mekiroki.org^
+||meksicie.net^
 ||mekstolande.com^
 ||melancholygreedyhonour.com^
 ||melche.com^
@@ -23043,6 +23060,7 @@
 ||necessaryratio.pro^
 ||necessarysticks.com^
 ||nechupsu.com^
+||neckloveham.live^
 ||necmah.com^
 ||nectardoodled.com^
 ||nedandlooked.org^
@@ -23387,6 +23405,7 @@
 ||noclef.com^
 ||nocuousbestir.com^
 ||nodcaterercrochet.com^
+||nodderbeezers.com^
 ||noddinglavish.com^
 ||noddlegoop.com^
 ||nodouslover.com^
@@ -27476,6 +27495,7 @@
 ||raupothrepe.com^
 ||raupsica.net^
 ||raupsoap.com^
+||rausfml.com^
 ||rausougo.net^
 ||rauvoaty.net^
 ||rauwoukauku.com^
@@ -30895,6 +30915,7 @@
 ||suggest-recipes.com^
 ||suggestedhappyspun.com^
 ||suggestiongettingmaggot.com^
+||sugpgeaunpet.com^
 ||suicidechapterspartnership.com^
 ||suitbelongingoccasion.com^
 ||suitcasessheriffpilgrim.com^
@@ -31175,6 +31196,7 @@
 ||syxcwxur.com^
 ||syyycc.com^
 ||syyzbelmw.com^
+||syzijqaufe.com^
 ||szbnnqyqn.com^
 ||szhcyxtszb.com^
 ||szqxvo.com^
@@ -31703,6 +31725,7 @@
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theythourbonusgain.life^
 ||theyunm.com^
 ||thgebtibfyry.com^
 ||thick-ruin.pro^
@@ -32065,6 +32088,7 @@
 ||tolerableinflectionkazan.com^
 ||tollcondolences.com^
 ||tollyeric.com^
+||tolrock.com^
 ||toluatebrazee.com^
 ||toluenehoedown.com^
 ||toluenemoody.guru^
@@ -32496,6 +32520,7 @@
 ||troolyhonks.com^
 ||troopslinecut.website^
 ||troozescript.store^
+||tropbikewall.art^
 ||tropinpodgily.life^
 ||tropylskins.com^
 ||trotconceivedtheological.com^
@@ -34141,6 +34166,7 @@
 ||vuyngptxhjtmdn.com^
 ||vv8h9vyjgnst.com^
 ||vvfrdcuxrergrjy.com^
+||vvgpkowlun.com^
 ||vvickycira.com^
 ||vvobtrjtinsd.com^
 ||vvrbjtjxmlgcd.xyz^
@@ -34465,6 +34491,7 @@
 ||webclickengine.com^
 ||webclickmanager.com^
 ||webcontentassessor.com^
+||webdatatrace.com^
 ||webestablishedsunflower.com^
 ||webfeetdaidled.com^
 ||webmedrtb.com^
@@ -35734,6 +35761,7 @@
 ||yomeno.xyz^
 ||yonabrar.com^
 ||yonhelioliskor.com^
+||yoniskurt.digital^
 ||yonkerhallier.com^
 ||yonniefacture.com^
 ||yonsandileer.com^
@@ -36058,6 +36086,7 @@
 ||zimill.com^
 ||zimpolo.com^
 ||zincdatawipe.com^
+||zinipx.xyz^
 ||zinrora.pw^
 ||zipakrar.com^
 ||zipheeda.xyz^
@@ -36521,10 +36550,10 @@
 ||affbuzzads.com^
 ||affec.tv^
 ||affifix.com^
-||affili.st^
 ||affiliate-b.com^
 ||affiliateedge.com^
 ||affiliategroove.com^
+||affilist.com^
 ||afishamedia.net^
 ||afrikad.com^
 ||afront.io^
@@ -37473,6 +37502,7 @@
 !
 !
 !
+||usermetric.io^
 ||pb.adriver.ru^
 ||sync.adspend.space^
 ||sync.opendsp.ru^
@@ -45990,9 +46020,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Jan 2024 14:17 UTC+7
-! Version: 2401071417
-! Blocked: 854 rules
+! Last modified: 10 Jan 2024 11:18 UTC+7
+! Version: 2401101118
+! Blocked: 858 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -46045,6 +46075,7 @@ vkcdnservice.appspot.com^
 ||ambientdsp.com^
 ||analytics.saas-vn.network^
 ||analytics.vnncdn.net^
+||analytics.zapps.me^
 ||analytics.zapps.vn^
 ||anthill.vn^
 ||anymind360-com.cdn.ampproject.org^
@@ -46247,6 +46278,7 @@ vkcdnservice.appspot.com^
 ||t.sieu-viet.com^
 ||tebrand.asia^
 ||tebrand.vn^
+||tech.zapps.me^
 ||testcentre.vn^
 ||tiktok-ads.hara.vn^
 ||tjme.io^
@@ -46582,6 +46614,7 @@ vkcdnservice.appspot.com^
 ||log.kaka.me^
 ||log.kienthuc.net.vn^
 ||log.kinhtedouong.vn^
+||log.lichviet.org^
 ||log.mekongasean.vn^
 ||log.ngaynay.vn^
 ||log.nhandan.vn^
@@ -46628,6 +46661,7 @@ vkcdnservice.appspot.com^
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
+||measure.vndirect.com.vn^
 ||media.dabong247.com^
 ||menu.metu.vn^
 ||microad.vn^
@@ -46678,6 +46712,7 @@ vkcdnservice.appspot.com^
 ||s6.textlink.vn^
 ||sbbanner.com^
 ||sda.tamdiem247.com^
+||sentry.mediacdn.vn^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -46716,7 +46751,6 @@ vkcdnservice.appspot.com^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
-||tech.zapps.me^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
 ||thongke.bookingcare.vn^
