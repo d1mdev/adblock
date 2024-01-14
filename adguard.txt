@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-01-13T23:00:14.551Z
+! Last modified: 2024-01-14T23:00:15.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10172,6 +10172,7 @@
 ||bxacmsvmxb.com^
 ||bxqeagaef.xyz^
 ||bxscdyybtuxbfda.xyz^
+||bxvirhgaq.com^
 ||bxwmfozavo.com^
 ||byaiufr.com^
 ||byambipoman.com^
@@ -10358,6 +10359,7 @@
 ||candiruarf.com^
 ||candypeaches.com^
 ||candyprotected.com^
+||candyschoolmasterbullying.com^
 ||canelastram.com^
 ||cangatu.xyz^
 ||canhamrolltop.uno^
@@ -11843,6 +11845,7 @@
 ||cpcmart.com^
 ||cpcstdploqqh.com^
 ||cpddwyuyd.com^
+||cpfwffke.com^
 ||cplayer.pw^
 ||cpm-ad.com^
 ||cpm.biz^
@@ -13718,6 +13721,7 @@
 ||dzjv9gbu8a.com^
 ||dzkpopetrf.com^
 ||dzliege.com^
+||dzprcdskxn.com^
 ||dzuowpapvcu.com^
 ||e-cougar.fr^
 ||e007499ca9.com^
@@ -14061,6 +14065,7 @@
 ||effusedprankle.com^
 ||efinauknceiwou.info^
 ||efptjivneg.com^
+||eftsaudian.website^
 ||efumesok.xyz^
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
@@ -14712,6 +14717,7 @@
 ||evokeowedangers.com^
 ||evours.com^
 ||evouxoup.com^
+||evqpawhucyrdhu.com^
 ||evushuco.com^
 ||evwmwnd.com^
 ||evzhzppj5kel.com^
@@ -14994,6 +15000,7 @@
 ||fadegranted.com^
 ||fademployedtransactions.com^
 ||fadewaves.com^
+||fadf617f13.com^
 ||fadsims.com^
 ||fadsimz.com^
 ||fadsipz.com^
@@ -15572,6 +15579,7 @@
 ||flaxseedssoenrh4372ojd.com^
 ||flbpplqrvzopon.com^
 ||flbvmgxpgnblod.com^
+||flcrcyj.com^
 ||fldes6fq.de^
 ||fldkakjccxhgw.com^
 ||flecur.com^
@@ -16311,6 +16319,7 @@
 ||gaufaine.com^
 ||gaufferlarry.com^
 ||gaugeadroitself.com^
+||gaujephi.xyz^
 ||gaukluthern.website^
 ||gaulshiite.life^
 ||gaumishhipshot.com^
@@ -17790,6 +17799,7 @@
 ||hiccupcotman.com^
 ||hickclamour.com^
 ||hickunwilling.com^
+||hicovjpufo.com^
 ||hicpm10.com^
 ||hidatsabedim.space^
 ||hiddam.com^
@@ -17844,6 +17854,7 @@
 ||hildly.com^
 ||hilerant.site^
 ||hillbackserve.com^
+||hillhousehomes.co^
 ||hillsidejustificationstitch.com^
 ||hilltopads.com^
 ||hilltopads.net^
@@ -18687,6 +18698,7 @@
 ||impregnablehunt.com^
 ||impresseastsolo.com^
 ||impressivecontinuous.com^
+||impressiveporchcooler.com^
 ||imprintmake.com^
 ||improvebeams.com^
 ||improvebin.com^
@@ -19493,6 +19505,7 @@
 ||jeetyetmedia.com^
 ||jeffstrategic.com^
 ||jehobsee.com^
+||jeivreeultvgt.com^
 ||jekmmlwnyzyjr.top^
 ||jellifytayer.com^
 ||jelllearnedhungry.com^
@@ -19633,6 +19646,7 @@
 ||jlmokzndbiafs.com^
 ||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
+||jlufbcef.com^
 ||jmaomkosxfi.com^
 ||jmeeersdkmoir.xyz^
 ||jmiqbfhoar.com^
@@ -19655,6 +19669,7 @@
 ||joathihandsr.xyz^
 ||jobfilletfortitude.com^
 ||joblouder.com^
+||jobmkewrymmvb.top^
 ||jobsngeilvxm.com^
 ||jobsyndicate.com^
 ||jocauzee.net^
@@ -22911,6 +22926,7 @@
 ||myabsconds.com^
 ||myactualblog.com^
 ||myadcash.com^
+||myadsserver.com^
 ||mybestdc.com^
 ||mybestnewz.com^
 ||mybetterck.com^
@@ -23440,6 +23456,7 @@
 ||nimhuemark.com^
 ||nimrute.com^
 ||ninanceenab.com^
+||ninancukanking.info^
 ||nineanguish.com^
 ||nineteenthdipper.com^
 ||ninetyninesec.com^
@@ -25885,6 +25902,7 @@
 ||pjyvgdpvjp.com^
 ||pk910324e.com^
 ||pkhhyool.com^
+||pkjekjmzfiuvi.com^
 ||pkklkcdn.com^
 ||pkmxofozs.com^
 ||pkthyp.uno^
@@ -26043,6 +26061,7 @@
 ||pnufzbzzomt.com^
 ||pnuhondppw.com^
 ||pnvbfxwbeg.com^
+||pnxtsauba.com^
 ||pnyjzdtirvufft.com^
 ||poacawhe.net^
 ||poachfirewoodboast.com^
@@ -27135,6 +27154,7 @@
 ||puzzio.xyz^
 ||puzzlementangrily.com^
 ||puzzlepursued.com^
+||puzzoa.xyz^
 ||pvawydmmj.com^
 ||pvbgzjwyncthhl.com^
 ||pvclouds.com^
@@ -30658,6 +30678,7 @@
 ||stabilityincarnateillegally.com^
 ||stabilityvatinventory.com^
 ||stablefulfil.com^
+||stacckain.com^
 ||stackadapt.com^
 ||stackattacka.com^
 ||stadiumembezzlementoil.com^
@@ -35121,6 +35142,7 @@
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlawpzx.com^
+||wldepmzuwqvmyq.com^
 ||wledconsi.xyz^
 ||wlen1bty92.pro^
 ||wlfcwkijsknted.xyz^
@@ -35129,6 +35151,7 @@
 ||wliuahugpgo.com^
 ||wlmitgzbht.com^
 ||wltsgqnblq.com^
+||wlyxhdffvgz.com^
 ||wma.io^
 ||wmbbsat.com^
 ||wmgtr.com^
@@ -35396,6 +35419,7 @@
 ||wujyeflb.com^
 ||wukbgater.buzz^
 ||wukoopicee.com^
+||wukoulnhdlu.info^
 ||wuksaiho.net^
 ||wuksosta.com^
 ||wuluju.uno^
@@ -35904,6 +35928,7 @@
 ||yjrchhgs.com^
 ||yjrlciff.com^
 ||yjuxkncvy.com^
+||yjvuthpuwrdmdt.xyz^
 ||ykdwyf.com^
 ||ykmvnhue.com^
 ||ykqalsm.com^
@@ -35934,6 +35959,7 @@
 ||ymwehrducswbeu.com^
 ||ynaapihbulbky.com^
 ||yndmorvwdfuk.com^
+||yneaimn.com^
 ||yneationsliee.xyz^
 ||ynisramnmcm.com^
 ||ynkjwogined.com^
@@ -36040,6 +36066,7 @@
 ||yscntxil.com^
 ||ysemblyjusting.info^
 ||ysesials.net^
+||ysmbttmncrajnk.com^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
 ||ytbzqtrog.com^
@@ -36163,6 +36190,7 @@
 ||zbvhwaakws.com^
 ||zcaadfl.com^
 ||zcekqwlqktzrfq.com^
+||zcetwfqyzadizp.com^
 ||zchdbiper.com^
 ||zcode12.me^
 ||zcode7.me^
@@ -36271,6 +36299,7 @@
 ||zihditozlogf.com^
 ||zihogchfaan.com^
 ||zijaipse.com^
+||zikpwr.com^
 ||zikraist.net^
 ||zikroarg.com^
 ||zilchesmoated.com^
@@ -46226,8 +46255,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jan 2024 12:33 UTC+7
-! Version: 2401131233
+! Last modified: 14 Jan 2024 11:09 UTC+7
+! Version: 2401141109
 ! Blocked: 860 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
