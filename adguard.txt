@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-01-16T23:00:15.076Z
+! Last modified: 2024-01-17T23:00:16.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5904,6 +5904,7 @@
 ||a14refresh.com^
 ||a14tdsa.com^
 ||a15c5009bcbe272.com^
+||a1c99093b6.com^
 ||a1hosting.online^
 ||a26662f21f.com^
 ||a2914c746a.com^
@@ -12250,6 +12251,7 @@
 ||d4d48974197052ea.com^
 ||d5390684c4.com^
 ||d59936b940.com^
+||d5ca2318a1.com^
 ||d65a1fbe58.com^
 ||d6a206cf07.com^
 ||d6f8c08166.com^
@@ -13490,6 +13492,7 @@
 ||drepanevealy.uno^
 ||dressedfund.com^
 ||dresserderange.com^
+||dressingdedicatedmeeting.com^
 ||dressmakerdisturb.com^
 ||dresul.com^
 ||drewfoolery.com^
@@ -14607,6 +14610,7 @@
 ||eshkol.io^
 ||eshouloo.net^
 ||esignificanvi.info^
+||esmyinteuk.info^
 ||esmystem.com^
 ||esnlynotquiteso.com^
 ||esodnbhzdpl.com^
@@ -15195,6 +15199,7 @@
 ||fbffdfproxwqi.com^
 ||fbgdc.com^
 ||fbgwruetfgbhp.com^
+||fbmedia-bls.com^
 ||fbmedia-ckl.com^
 ||fbmedia-dhs.com^
 ||fbpgdlprsiz.com^
@@ -15304,6 +15309,7 @@
 ||femalehasslegloss.com^
 ||femefaih.com^
 ||femin.online^
+||femoafoo.com^
 ||femsoahe.com^
 ||fenacheaverage.com^
 ||fencerecollect.com^
@@ -15345,6 +15351,7 @@
 ||festusthedrag.com^
 ||fethungi.com^
 ||fetinhapinhedt.com^
+||feuageepitoke.com^
 ||feudistchub.uno^
 ||feuingcrche.com^
 ||fewcupboard.com^
@@ -15906,6 +15913,7 @@
 ||foutyoxyaena.website^
 ||foviyii.com^
 ||foxpush.io^
+||foxqck.com^
 ||foxypp.com^
 ||fpbvfwjwrayphgs.com^
 ||fpdbccngiujp.com^
@@ -16985,6 +16993,7 @@
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
 ||gossipprotectioncredentials.com^
+||gossipsize.com^
 ||got-to-be.com^
 ||gotchaih.com^
 ||goteat.xyz^
@@ -17283,6 +17292,7 @@
 ||guerrilla-links.com^
 ||guessstartlethrive.com^
 ||guesswhatnews.com^
+||guestblackmail.com^
 ||guesteaten.com^
 ||guestssum.com^
 ||guffawdecipher.com^
@@ -17538,6 +17548,7 @@
 ||hatagashira.com^
 ||hatbenchmajestic.com^
 ||hatchasked.com^
+||hatchetrenaissance.com^
 ||hatchetsiegecleverness.com^
 ||hatchetsummit.com^
 ||hatchord.com^
@@ -19673,6 +19684,7 @@
 ||jkkhzoiymjc.com^
 ||jklbilitukyd.xyz^
 ||jklpy.com^
+||jkls.life^
 ||jkthlsrdhni.com^
 ||jkttvpoxmk.com^
 ||jkwxaryiaoof.com^
@@ -20523,6 +20535,7 @@
 ||kwbmkwej.com^
 ||kwhenspokento.info^
 ||kwkkxztnjbr.com^
+||kwncbljexuc.com^
 ||kwnmhplnqnfxh.xyz^
 ||kwqelx.com^
 ||kwqgprdmmwxyhb.com^
@@ -20952,6 +20965,7 @@
 ||liaisondegreedaughters.com^
 ||liambafaying.com^
 ||liambahaloed.com^
+||liaoptse.net^
 ||libbetpalooka.life^
 ||libcdn.xyz^
 ||libedgolart.com^
@@ -21181,6 +21195,7 @@
 ||lltyfiqsdgsvnr.xyz^
 ||lludd-ize.com^
 ||lluwrenwsfh.xyz^
+||llvlzvrwkoaqm.top^
 ||llwcfovpl.com^
 ||llyighaboveth.com^
 ||lmalyjywqlwvk.top^
@@ -21636,6 +21651,7 @@
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
 ||ma2gs3wne3gfej70osium.com^
+||ma3ion.com^
 ||ma3ryh8l6v.de^
 ||maaphdiwuoetl.com^
 ||mabelasateens.com^
@@ -22028,6 +22044,7 @@
 ||mcqgfoc.com^
 ||mctailqwjke.com^
 ||mcurrentlyse.shop^
+||mcurrentlysea.info^
 ||mcvwjzj.com^
 ||mcxmke.com^
 ||mcycity.com^
@@ -22259,6 +22276,7 @@
 ||mfjpwroy.com^
 ||mfk-cpm.com^
 ||mflztgubvfo.com^
+||mfthkdj.com^
 ||mftracking.com^
 ||mfypxtfqngxw.com^
 ||mgalreveal.guru^
@@ -23717,6 +23735,7 @@
 ||notifysrv.com^
 ||notionsshrivelcustomer.com^
 ||notitiarondino.live^
+||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notorietynoblemanproposition.com^
 ||notoriousentice.com^
@@ -25660,6 +25679,7 @@
 ||pgwcrtobrdjx.com^
 ||pgwlzodsll.com^
 ||phaarnsvqzlr.com^
+||phabycebe.com^
 ||phaglalt.com^
 ||phague.com^
 ||phaignux.xyz^
@@ -26500,6 +26520,7 @@
 ||premiumredir.ru^
 ||premiumvertising.com^
 ||premonitioneuropeanstems.com^
+||premonitioninventdisagree.com^
 ||premovenonda.com^
 ||preoccupationjames.com^
 ||preoccupycommittee.com^
@@ -27289,6 +27310,7 @@
 ||qatsbesagne.com^
 ||qatttuluhog.com^
 ||qaydqvuzmu.com^
+||qaylocbaxunnav.com^
 ||qbkvksakslhgek.com^
 ||qbkzvophvva.com^
 ||qblcyqgn.com^
@@ -30750,6 +30772,7 @@
 ||stadiumembezzlementoil.com^
 ||staffsumptuouscovetous.com^
 ||stagepopkek.com^
+||stageseshoals.com^
 ||staggeredravehospitality.com^
 ||stagingjobshq.com^
 ||stagroam.net^
@@ -32705,6 +32728,7 @@
 ||trialsreticence.com^
 ||tribalfusion.com^
 ||tribalstrived.com^
+||tributesexually.com^
 ||trickerseasan.top^
 ||tricklesmartdiscourage.com^
 ||trickyneotits.com^
@@ -32963,6 +32987,7 @@
 ||tuxzlhrwejszu.com^
 ||tv1s4d6klh4n.com^
 ||tvbsfmswrjap.com^
+||tvdbspojay.com^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
 ||tvvon.coreforger.top^
@@ -34452,6 +34477,7 @@
 ||vuwmxjusucnh.com^
 ||vuyngptxhjtmdn.com^
 ||vv8h9vyjgnst.com^
+||vvehvch.com^
 ||vvfrdcuxrergrjy.com^
 ||vvgpkowlun.com^
 ||vvickycira.com^
@@ -34484,6 +34510,7 @@
 ||vycyqxnbrwz.com^
 ||vydfijoiw.com^
 ||vydwjwbul.xyz^
+||vyebzzbovvzvl.top^
 ||vyfrxuytzn.com^
 ||vyinglyfomites.com^
 ||vyiosamgdc.xyz^
@@ -35575,6 +35602,7 @@
 ||wzlbhfldl.com^
 ||wzmidfgwyxfrd.com^
 ||wzncuhcpbijx.com^
+||wzojibovpm.com^
 ||wzrqeos.com^
 ||wzxty168.com^
 ||x011bt.com^
@@ -35879,6 +35907,7 @@
 ||yakcphctjbzwnv.com^
 ||yakmakutopia.com^
 ||yallarec.com^
+||yamanaisleepry.com^
 ||yangtaotaming.com^
 ||yankbecoming.com^
 ||yankpainkiller.com^
@@ -37857,6 +37886,7 @@
 ||counter.packa2.cz^
 ||emlsend.com^
 ||lr-intake.com^
+||intake-lr.com^
 ||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^
@@ -41479,6 +41509,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||wwwstat.rz.uni-leipzig.de^
 ||analytics.fap.bar^
 ||analytics-batch.blitz.gg^
 ||tms-collect.sony.jp^
@@ -41625,7 +41656,6 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||tags.dxmdp.com^
-||dl.reg.163.com^
 ||adeventtrackermonitoring.spotify.com^
 ||pixel.ionos.com^
 ||d3p8zr0ffa9t17.cloudfront.net^
@@ -43739,6 +43769,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||sb.scorecard.research.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
