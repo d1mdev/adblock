@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-06T22:00:11.884Z
+! Last modified: 2024-05-07T22:00:13.851Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,9 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||tzbirdcod.com^
+||audiotouch.info^
+||videotouch88.info^
 ||ippunet.site^
 ||ssrv7.com^
 ||zszhfffyd.ru^
@@ -2604,6 +2607,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||mediation.unity3d.com^
 ||cdn-ad.wtzw.com^
 ||appsrv.display.io^
 ||ad.line-scdn.net^
@@ -2622,7 +2626,6 @@
 ||ads.rmbl.ws^
 ||adsassets-ipv6.waze.com^
 ||iads.unity3d.com^
-||o-iab.mediation.unity3d.com^
 ||togothermany.com^
 ||gdl.zmqdez.ru^
 ||rtblab.net^
@@ -4247,6 +4250,7 @@
 ||a64x.com^
 ||a69i.com^
 ||a6dc99d1a8.com^
+||a700fb9c8d.com^
 ||a718917a44.com^
 ||a899228ebf.com^
 ||a8rm1m4msbbh.com^
@@ -9333,6 +9337,7 @@
 ||c71genemobile.com^
 ||c7d263f5d8.com^
 ||c7ee346412.com^
+||c7vw6cxy7.com^
 ||c83cf15c4f.com^
 ||c86e7c49a2.com^
 ||c8d2c12c98.com^
@@ -9936,6 +9941,7 @@
 ||chaiphuy.com^
 ||chaiptefee.com^
 ||chaiptut.xyz^
+||chaipungie.xyz^
 ||chairgaubsy.com^
 ||chairmansmile.com^
 ||chairwaydenew.site^
@@ -10316,6 +10322,7 @@
 ||ciwhacheho.pro^
 ||cixaxuyu.xyz^
 ||cizare.xyz^
+||cizzwykcug.com^
 ||cjcbzqrwwi.com^
 ||cjewz.com^
 ||cjf25jklrwqt.com^
@@ -18394,6 +18401,7 @@
 ||hajoopteg.com^
 ||haksaigho.com^
 ||halachadivvers.com^
+||half-concert.pro^
 ||halflyfiscal.com^
 ||halfpriceozarks.com^
 ||halftimeaircraftsidewalk.com^
@@ -18834,6 +18842,7 @@
 ||heukwasanasosett.info^
 ||heusysianedu.com^
 ||hevc.site^
+||hevdnzqu.com^
 ||hewalleges.guru^
 ||hewawkward.com^
 ||hewdisobedienceliveliness.com^
@@ -22843,6 +22852,7 @@
 ||leedoash.com^
 ||leefosto.com^
 ||leegaroo.xyz^
+||leeptoadeesh.net^
 ||leesecobourg.com^
 ||leesymvlvck.xyz^
 ||leetaipt.net^
@@ -23079,6 +23089,7 @@
 ||lihhxayjmr.com^
 ||lihuwvokhonsni.com^
 ||liivhntsu.com^
+||lijybcfgnjh.com^
 ||likeads.com^
 ||likecontrol.com^
 ||likedpatpresent.com^
@@ -24344,6 +24355,7 @@
 ||mbvfawgcsnukb.com^
 ||mbvlmx.com^
 ||mbvlmz.com^
+||mbvndisplay.site^
 ||mbvsm.com^
 ||mbxudcghfy.com^
 ||mc7clurd09pla4nrtat7ion.com^
@@ -28018,6 +28030,7 @@
 ||overdates.com^
 ||overdonealthough.com^
 ||overduerebukeloyal.com^
+||overduerole.com^
 ||overestimateoption.com^
 ||overestimateyearly.com^
 ||overgalladean.com^
@@ -33778,6 +33791,7 @@
 ||shaledpaidle.com^
 ||shallarchbishop.com^
 ||shallotuncord.com^
+||shallowtwist.pro^
 ||shalomitll.top^
 ||shalse.com^
 ||shameless-sentence.pro^
@@ -33799,6 +33813,7 @@
 ||shareitpp.com^
 ||shareresults.com^
 ||sharesceral.uno^
+||shareusads.com^
 ||shareweeknews.com^
 ||sharieta.com^
 ||sharion.xyz^
@@ -34960,7 +34975,6 @@
 ||spotbeepgreenhouse.com^
 ||spotdimesulky.com^
 ||spotlessabridge.com^
-||spotlightstores.com^
 ||spotofspawn.com^
 ||spotrails.com^
 ||spotscenered.info^
@@ -40459,6 +40473,7 @@
 ||wlimrvsnusyawk.com^
 ||wlmitgzbht.com^
 ||wlvkzwqjlyzvr.top^
+||wlwbjjphtza.com^
 ||wlyfiii.com^
 ||wlzzwzekkrrzw.top^
 ||wma.io^
@@ -42567,6 +42582,7 @@
 ||ahvclick.com^
 ||aim4media.com^
 ||ainsyndication.com^
+||airfind.com^
 ||akavita.com^
 ||aklamator.com^
 ||alienhub.xyz^
@@ -43250,7 +43266,6 @@
 ||smartad.ee^
 ||smartadtags.com^
 ||smartadv.ru^
-||smartframe.io^
 ||smartico.one^
 ||smarttargetting.net^
 ||smartyads.com^
@@ -43437,6 +43452,7 @@
 ||3a2e.site^
 ||48a16802.site^
 ||4a0e.xyz^
+||4aae8f.site^
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
@@ -47083,6 +47099,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.myserverhome.de^
 ||amethyst.6pm.com^
 ||lma.npaw.com^
 ||collect.alphastream.io^
@@ -50480,6 +50497,7 @@ inapps.appsflyersdk.com^
 ||analytics.facebook.com^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
+||analytics.genial.ly^
 ||analytics.groupe-seb.com^
 ||analytics.gvim.mobi^
 ||analytics.jazel.net^
@@ -51079,6 +51097,7 @@ inapps.appsflyersdk.com^
 ||telemetry.goodlifefitness.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
+||telemetry.smartframe.io^
 ||telemetry.tableausoftware.com^
 ||telemetry.vtex.com^
 ||test.takedwn.ws^
@@ -51130,6 +51149,7 @@ inapps.appsflyersdk.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
 ||tracker.services.vaix.ai^
+||tracker.smartframe.io^
 ||tracker.ssl0d.com^
 ||tracker.timesgroup.com^
 ||tracker.twenga.
@@ -52087,8 +52107,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 May 2024 22:02 UTC+7
-! Version: 2405052202
+! Last modified: 07 May 2024 09:54 UTC+7
+! Version: 2405070954
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
