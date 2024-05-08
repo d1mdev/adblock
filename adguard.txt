@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-07T22:00:13.851Z
+! Last modified: 2024-05-08T22:00:17.595Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11246,6 +11246,7 @@
 ||corvetwoorari.com^
 ||corvinapaella.life^
 ||corymbszinzar.com^
+||cosiequiapo.com^
 ||cosmatitacker.top^
 ||cosmeticlevy.com^
 ||cosmeticsgenerosity.com^
@@ -17564,6 +17565,7 @@
 ||gloufteglouw.com^
 ||gloumsee.net^
 ||gloumsie.net^
+||glounugeepse.xyz^
 ||glouseer.net^
 ||gloussowu.xyz^
 ||gloustoa.net^
@@ -19327,6 +19329,7 @@
 ||hotvids.space^
 ||hotwildadult.com^
 ||hotwords.com^
+||houboajaithu.net^
 ||houdodoo.net^
 ||houfopsichoa.com^
 ||houlb.com^
@@ -30576,6 +30579,7 @@
 ||puerq.com^
 ||puerty.com^
 ||puffexies.com^
+||puffingtiffs.com^
 ||pugdisguise.com^
 ||pugehjjxdr.xyz^
 ||pughoomo.xyz^
@@ -43447,6 +43451,7 @@
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||02777e.site^
 ||05751c.site^
+||07e197.site^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
@@ -52107,9 +52112,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 May 2024 09:54 UTC+7
-! Version: 2405070954
-! Blocked: 870 rules
+! Last modified: 08 May 2024 10:48 UTC+7
+! Version: 2405081048
+! Blocked: 872 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52692,8 +52697,10 @@ vkcdnservice.appspot.com^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baolaocai.vn^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
+||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
