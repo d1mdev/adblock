@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-11T22:00:13.536Z
+! Last modified: 2024-05-12T22:00:18.355Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -43624,6 +43624,7 @@
 !
 !
 !
+||logger.torimochi-ad.net^
 ||mainting-minues.xyz^
 ||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
 ||antillephone.com^
@@ -52161,9 +52162,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 May 2024 10:48 UTC+7
-! Version: 2405081048
-! Blocked: 872 rules
+! Last modified: 12 May 2024 22:45 UTC+7
+! Version: 2405122245
+! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52531,8 +52532,10 @@ vkcdnservice.appspot.com^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
+||ads.cadovn.biz^
 ||ads.careerbuilder.vn^
 ||ads.carmudi.vn^
+||ads.cdvn.vip^
 ||ads.chanhtuoi.com^
 ||ads.cungcau.vn^
 ||ads.fpt.vn^
