@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-12T22:00:18.355Z
+! Last modified: 2024-05-13T22:00:13.118Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||v.strosin.biz^
 ||tzbirdcod.com^
 ||audiotouch.info^
 ||videotouch88.info^
@@ -6906,6 +6907,7 @@
 ||auditorydetainriddle.com^
 ||audmrk.com^
 ||audrault.xyz^
+||auesk.cfd^
 ||aufeeque.com^
 ||auficxqpyfgcd.xyz^
 ||auforau.com^
@@ -11052,6 +11054,7 @@
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||conscienciaecompletude.com^
 ||consciousnessmost.com^
 ||consciousslice.com^
 ||consecutionwrigglesinge.com^
@@ -13414,6 +13417,7 @@
 ||drctcldfffwr.com^
 ||dreadbreakupsomeone.com^
 ||dreadfullyclarifynails.com^
+||dreadfulprofitable.com^
 ||dreadluckdecidedly.com^
 ||dreadshavingmammal.com^
 ||dreambooknews.com^
@@ -18775,6 +18779,7 @@
 ||helpfulrectifychiefly.com^
 ||helpingnauseous.com^
 ||helplessdanpavilion.com^
+||helseeftie.net^
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
 ||hemhiveoccasion.com^
@@ -21376,6 +21381,7 @@
 ||jmopproojsc.xyz^
 ||jmqrogtmvfo.com^
 ||jmrnews.pro^
+||jmt7mbwce.com^
 ||jmtbmqchgpw.xyz^
 ||jmtbyiohpgugcsk.com^
 ||jmvscgd.com^
@@ -21532,6 +21538,7 @@
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jquturir.com^
 ||jqwsldso.com^
 ||jrbbavbmwmleb.top^
 ||jrbbavbmwqwjl.top^
@@ -21541,6 +21548,7 @@
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
 ||jrilkvjehrjlri.com^
+||jriravntivf.com^
 ||jrkbnvkrvamky.top^
 ||jrkkcssob.com^
 ||jrkkmpeqtlsawgf.com^
@@ -23182,6 +23190,7 @@
 ||liningemigrant.com^
 ||liningreduction.com^
 ||link2thesafeplayer.click^
+||linkadvdirect.com^
 ||linkbuddies.com^
 ||linkchangesnow.com^
 ||linkedassassin.com^
@@ -23932,6 +23941,7 @@
 ||m4clicks.com^
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
+||m9w6ldeg4.xyz^
 ||ma2gs3wne3gfej70osium.com^
 ||ma3ion.com^
 ||maaivkgdulv.com^
@@ -24179,6 +24189,7 @@
 ||mapakrogngi.com^
 ||mapamnni.com^
 ||mapbovdpdy.com^
+||maper.info^
 ||maquiags.com^
 ||maraewid.com^
 ||marantaarmures.guru^
@@ -26629,6 +26640,7 @@
 ||nrnma.com^
 ||nrqppdgnhaagjq.com^
 ||nrrdxyauavkdrc.com^
+||nrs6ffl9w.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nryanocytqc.com^
@@ -34327,6 +34339,7 @@
 ||skjwebmr.com^
 ||sklsnpqr.com^
 ||sknkwpvrkz.com^
+||skohssc.cfd^
 ||skolvortex.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
@@ -40289,6 +40302,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
 ||whotrundledthe.com^
@@ -41204,6 +41218,7 @@
 ||xruolsogwsi.com^
 ||xsjc4smhbyjf.com^
 ||xskctff.com^
+||xsknvlmjvrdqo.com^
 ||xsqfyvsc.com^
 ||xsrs.com^
 ||xstreamsoftwar3x.com^
@@ -41568,6 +41583,7 @@
 ||yogar2ti8nf09.com^
 ||yoginisairbus.com^
 ||yohavemix.live^
+||yoibbka.com^
 ||yojanaarabic.life^
 ||yokeeroud.com^
 ||yolkhandledwheels.com^
@@ -41679,6 +41695,7 @@
 ||ytimm.com^
 ||ytlhsmwu.com^
 ||ytndjaefvan.xyz^
+||ytnkdhmtdubhk.com^
 ||ytoworkwi.org^
 ||ytqnzvqfsr.com^
 ||ytsa.net^
@@ -43499,6 +43516,7 @@
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
+||485728.xyz^
 ||48a16802.site^
 ||4a0e.xyz^
 ||4aae8f.site^
@@ -43510,6 +43528,7 @@
 ||7fc8.site^
 ||8acc5c.site^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
+||a49ebd.xyz^
 ||a67d12.xyz^
 ||b211.xyz^
 ||b59c.xyz^
@@ -43841,7 +43860,6 @@
 ||t.adcell.com^
 ||iplogger.org^
 ||iplogger.com^
-||maper.info^
 ||iplogger.ru^
 ||iplogger.co^
 ||2no.co^
@@ -47152,6 +47170,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.andisearch.com^
 ||stlog.dmarket.docomo.ne.jp^
 ||stats.myserverhome.de^
 ||amethyst.6pm.com^
