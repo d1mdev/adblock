@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-13T22:00:13.118Z
+! Last modified: 2024-05-14T22:00:12.302Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5956,6 +5956,7 @@
 ||amnoctowlan.club^
 ||amnruvbmeoqp.com^
 ||amntx1.net^
+||amnwpircuomd.com^
 ||amoddishor.com^
 ||amofqosgs.com^
 ||amonar.com^
@@ -8964,6 +8965,7 @@
 ||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
+||bromusic3s.site^
 ||bronchichogset.com^
 ||broncogainer.top^
 ||bronzeinside.com^
@@ -18041,6 +18043,7 @@
 ||greenrecru.info^
 ||greensfallingperceive.com^
 ||greeter.me^
+||greeterracked.com^
 ||greetpanda.org^
 ||greewaih.xyz^
 ||greewepi.net^
@@ -19088,6 +19091,7 @@
 ||hjqdwmekhur.com^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
+||hjuswoulvp.xyz^
 ||hjxajf.com^
 ||hjyovlwtevwdjy.com^
 ||hkeibmpspxn.com^
@@ -20889,6 +20893,7 @@
 ||ivycarryingpillar.com^
 ||iwantuonly.com^
 ||iwantusingle.com^
+||iwaxurhebkn.com^
 ||iwdapjojrylh.xyz^
 ||iwevxujxzdpb.com^
 ||iwfxgkixsoma.com^
@@ -24806,6 +24811,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
 ||mimicbeeralb.com^
@@ -25076,6 +25082,10 @@
 ||mobifoth.com^
 ||mobile5shop.com^
 ||mobiledevel.com^
+||mobileoffers-7-j-download.com^
+||mobileoffers-ac-download.com^
+||mobileoffers-dld-download.com^
+||mobileoffers-downloadapp-a.com^
 ||mobileoffers-ep-download.com^
 ||mobilepreviouswicked.com^
 ||mobiletracking.ru^
@@ -25221,6 +25231,7 @@
 ||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
+||moonjscdn.info^
 ||moonoafy.net^
 ||moonovernegril.com^
 ||moonrocketaffiliates.com^
@@ -25752,6 +25763,7 @@
 ||naipatouz.com^
 ||naipsouz.net^
 ||nairapp.com^
+||naisepsaige.com^
 ||naiskosungueal.top^
 ||naisoops.net^
 ||naive-skin.pro^
@@ -26518,6 +26530,7 @@
 ||nothingpetwring.com^
 ||nothycantyo.com^
 ||noticebroughtcloud.com^
+||noticedbibi.com^
 ||notifcationpushnow.com^
 ||notifer.co.in^
 ||notification-list.com^
@@ -29850,6 +29863,7 @@
 ||poxcgxylozny.com^
 ||poxykhakis.com^
 ||poxypicine.com^
+||poxyrevise.com^
 ||poyqmngbxwsvnav.xyz^
 ||poyusww.com^
 ||pp2ppsch1hount1hf.com^
@@ -31068,6 +31082,7 @@
 ||qnkqurpyntrs.xyz^
 ||qnlranvabaqk.top^
 ||qnlranvabrnq.top^
+||qnp16tstw.com^
 ||qnqzbfgg.com^
 ||qnrscbotmsj.com^
 ||qnsr.com^
@@ -32557,6 +32572,7 @@
 ||robflea.com^
 ||robindefensivedancing.com^
 ||robotadserver.com^
+||roboticourali.com^
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
@@ -35146,6 +35162,7 @@
 ||stacckain.com^
 ||stackadapt.com^
 ||stackattacka.com^
+||stackmultiple.com^
 ||stackprotectnational.com^
 ||staerlcmplks.xyz^
 ||staffdollar.com^
@@ -40176,6 +40193,7 @@
 ||whauglorga.com^
 ||whaulaul.net^
 ||whaulids.com^
+||whaunsockou.xyz^
 ||whaurgoopou.com^
 ||whautsis.com^
 ||whaxanso.net^
@@ -43537,6 +43555,7 @@
 ||bcbe.site^
 ||ca3d.site^
 ||ca9246.xyz^
+||caa2c4.xyz^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -47170,6 +47189,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.carsales.com.au^
+||beacon.nc-net.or.jp^
+||lhe-beacon.team-rec.jp^
 ||analytics.andisearch.com^
 ||stlog.dmarket.docomo.ne.jp^
 ||stats.myserverhome.de^
@@ -49232,7 +49254,6 @@
 ||tracking.bdi-services.de^
 ||tracking.bloomberg.com^
 ||tracking.bonnier.news^
-||tracking.carsales.com.au^
 ||tracking.chacha.com^
 ||tracking.channelsight.com^
 ||tracking.conduit.com^
