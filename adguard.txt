@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-14T22:00:12.302Z
+! Last modified: 2024-05-15T22:00:12.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3956,6 +3956,7 @@
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
+||6-partner.com^
 ||6001628d3d.com^
 ||600z.com^
 ||6061de8597.com^
@@ -5178,6 +5179,7 @@
 ||adxchg.com^
 ||adxfire.in^
 ||adxfire.net^
+||adxhand.name^
 ||adxion.com^
 ||adxite.com^
 ||adxnexus.com^
@@ -12517,6 +12519,7 @@
 ||dessly.ru^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||destinysfavored.xyz^
 ||destroyedspear.com^
 ||destructionhybrids.com^
 ||desugeng.xyz^
@@ -17117,6 +17120,7 @@
 ||gecl.xyz^
 ||geechaid.xyz^
 ||geedoovu.net^
+||geegleshoaph.com^
 ||geeksundigne.com^
 ||geerairu.net^
 ||geethaihoa.com^
@@ -18974,6 +18978,7 @@
 ||higheurest.com^
 ||highjackclients.com^
 ||highjournalistbargain.com^
+||highlevelbite.com^
 ||highlypersevereenrapture.com^
 ||highlyrecomemu.info^
 ||highmaidfhr.com^
@@ -26871,6 +26876,7 @@
 ||oacfxrqghamyaq.com^
 ||oachailo.net^
 ||oackoubs.com^
+||oackoulimtoo.com^
 ||oadrojoa.net^
 ||oadsaurs.net^
 ||oadsouzi.net^
@@ -28229,6 +28235,7 @@
 ||oypucuqsuwabnxy.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
+||oyuvcqmqjyrqd.com^
 ||oywzrri.com^
 ||oyxctgotabvk.com^
 ||oyyihttyklfwcgy.xyz^
@@ -30200,6 +30207,7 @@
 ||professionalsly.com^
 ||professionalswebcheck.com^
 ||professmeeting.com^
+||professorrevealingoctopus.com^
 ||professtrespass.com^
 ||proffering.xyz
 ||proffering.xyz^
@@ -30446,6 +30454,7 @@
 ||psockapa.net^
 ||psognaih.xyz^
 ||psojeeng.com^
+||psomtenga.net^
 ||psoogaix.net^
 ||psoompou.xyz^
 ||psoopirdifty.xyz^
@@ -31567,6 +31576,7 @@
 ||rcvlinks.com^
 ||rcvsmbawwqodqt.com^
 ||rcwuzudjcsjmr.com^
+||rd-cdnp.name^
 ||rddywd.com^
 ||rderstartirrelea.info^
 ||rdgdjmgll.com^
@@ -35754,6 +35764,7 @@
 ||sunkenhexapla.top^
 ||sunkwarriors.com^
 ||sunlightirrationalhearty.com^
+||sunmediaads.com^
 ||sunnycategoryopening.com^
 ||sunnyscanner.com^
 ||sunnyseries.com^
@@ -40556,6 +40567,7 @@
 ||wmaoviagmphst.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
+||wmcdpt.com^
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
 ||wmeqobozarqyj.top^
@@ -43557,6 +43569,7 @@
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||d84bc26d.site^
+||d980ed.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||ec44.site^
@@ -47189,6 +47202,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||temp.twicomi.com^
 ||tracking.carsales.com.au^
 ||beacon.nc-net.or.jp^
 ||lhe-beacon.team-rec.jp^
@@ -52202,9 +52216,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 May 2024 22:45 UTC+7
-! Version: 2405122245
-! Blocked: 874 rules
+! Last modified: 15 May 2024 09:53 UTC+7
+! Version: 2405150953
+! Blocked: 881 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52263,13 +52277,18 @@ vkcdnservice.appspot.com^
 ||anthill.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||api.nas.nct.vn^
+||api.subiz.com.vn^
+||api.subiz.net^
+||api.subiz.xyz^
 ||api.widget.zalo.me^
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
 ||apinas.nct.vn^
+||apiv4.subiz.com^
 ||app.harafunnel.com^
 ||app.haraloyalty.com^
 ||app.harasocial.com^
+||app.subiz.com.vn^
 ||apps.haraads.com^
 ||assets.harafunnel.com^
 ||atdnetwork.com^
@@ -52411,6 +52430,7 @@ vkcdnservice.appspot.com^
 ||promotionbar.sapoapps.vn^
 ||promotionpopup.sapoapps.vn^
 ||pub.akadigital.vn^
+||public-gcs.subiz-cdn.com^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -52444,6 +52464,7 @@ vkcdnservice.appspot.com^
 ||stat.play.zing.vn^
 ||static-addtoany-com.cdn.ampproject.org^
 ||static.accesstrade.vn^
+||static.subiz.com^
 ||statistic-blog-v2.sapoapps.vn^
 ||stats.dev.zaloapp.com^
 ||stats.hara.vn^
@@ -52452,11 +52473,6 @@ vkcdnservice.appspot.com^
 ||stats.stg.zaloapp.com^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
-||subiz-cdn.com^
-||subiz.com^
-||subiz.com.vn^
-||subiz.net^
-||subiz.xyz^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
 ||t.sieu-viet.com^
@@ -52491,6 +52507,7 @@ vkcdnservice.appspot.com^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
+||vcdn.subiz-cdn.com^
 ||viam.com.vn^
 ||vietnamnetad.vn^
 ||vipads.cc^
@@ -52501,6 +52518,10 @@ vkcdnservice.appspot.com^
 ||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
+||widget.subiz.com^
+||widget.subiz.net^
+||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
 ||yeah1publishing.com^
