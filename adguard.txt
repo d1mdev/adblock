@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-16T22:00:12.524Z
+! Last modified: 2024-05-17T22:00:12.674Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8150,6 +8150,7 @@
 ||bilingualwalking.com^
 ||bilkedsquit.com^
 ||bilkersdtente.uno^
+||bilkersteds.com^
 ||billiardsnotealertness.com^
 ||billiardssequelsticky.com^
 ||billionpops.com^
@@ -9567,6 +9568,7 @@
 ||carfulsranquel.com^
 ||cargodescent.com^
 ||cargotropical.com^
+||caribedkurukh.com^
 ||caricaturechampionshipeye.com^
 ||caringdeath.pro^
 ||caringdefi.com^
@@ -9593,6 +9595,7 @@
 ||carsickpractice.com^
 ||cartedneogene.com^
 ||cartining-specute.com^
+||cartmansneest.com^
 ||cartrigechances.com^
 ||caruagedlr.com^
 ||carvedcoming.top^
@@ -11438,6 +11441,7 @@
 ||crackbroadcasting.com^
 ||crackquarrelsomeslower.com^
 ||cracktraumatic.com^
+||crackyunfence.com^
 ||cradspbsdarltng.com^
 ||craftsmancaptivity.com^
 ||craftsmangraygrim.com^
@@ -11921,6 +11925,7 @@
 ||daggerwantedliterally.com^
 ||daiboit.com^
 ||daichoho.com^
+||daichukoah.net^
 ||daicoaky.net^
 ||daikeethoo.com^
 ||daikersscrim.website^
@@ -14655,6 +14660,7 @@
 ||epailseptox.com^
 ||epcpbbqi.xyz^
 ||epctwfwy.com^
+||eperlanhelluo.com^
 ||epewvpvddaxtv.com^
 ||ephebedori.life^
 ||ephedrasebait.digital^
@@ -17355,6 +17361,7 @@
 ||gilcxqgcbebbo.xyz^
 ||giliakmisdaub.com^
 ||gilledwebeye.life^
+||gillnetstold.com^
 ||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
@@ -21853,6 +21860,7 @@
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
 ||kalifthorons.top^
+||kalmukrattail.com^
 ||kalpaksaffect.top^
 ||kalseech.xyz^
 ||kamachilinins.com^
@@ -22746,6 +22754,7 @@
 ||laulme.info^
 ||launchbit.com^
 ||laundrydesert.com^
+||laupelezoow.xyz^
 ||laureevie.com^
 ||lauriestatuestroll.com^
 ||laushoar.xyz^
@@ -31507,6 +31516,7 @@
 ||rapidlybeaver.com^
 ||rapidlypierredictum.com^
 ||rapidshookdecide.com^
+||rapingdistil.com^
 ||rapolok.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -37522,6 +37532,7 @@
 ||treasured-dad.pro^
 ||treasureralludednook.com^
 ||treasureravenvulgar.com^
+||treathuffily.com^
 ||treatmentaeroplane.com^
 ||treatrechurn.uno^
 ||treatyaccuserevil.com^
@@ -43575,6 +43586,7 @@
 ||4e68.xyz^
 ||58e0.site^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
+||68646f.xyz^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
 ||8acc5c.site^
@@ -43696,6 +43708,8 @@
 !
 !
 !
+||sentinelbi.com^
+||count.sibbo.net^
 ||umami.is^
 ||logger.torimochi-ad.net^
 ||mainting-minues.xyz^
@@ -47224,6 +47238,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.denimdream.com^
 ||ny77jj.washingtonpost.com^
 ||spoor-api.ft.com^
 ||temp.twicomi.com^
@@ -51860,7 +51875,6 @@ inapps.appsflyersdk.com^
 ||contador.biobiochile.cl^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
-||count.sibbo.net^
 ||creatives.sunmedia.tv^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
