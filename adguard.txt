@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-18T22:00:13.096Z
+! Last modified: 2024-05-19T22:00:13.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14048,6 +14048,7 @@
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzwmobmj.com^
 ||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
 ||eeab79bf10.com^
@@ -43602,6 +43603,7 @@
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
+||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
@@ -52281,9 +52283,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 May 2024 09:53 UTC+7
-! Version: 2405150953
-! Blocked: 881 rules
+! Last modified: 19 May 2024 22:32 UTC+7
+! Version: 2405192232
+! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52683,6 +52685,7 @@ vkcdnservice.appspot.com^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
 ||ads.salemall.vn^
+||ads.seovietnam.pro^
 ||ads.sexyland.vn^
 ||ads.songmoi.vn^
 ||ads.suckhoegiadinh.com.vn^
