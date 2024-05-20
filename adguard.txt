@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-19T22:00:13.731Z
+! Last modified: 2024-05-20T22:00:13.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bestssrv.com^
 ||v.strosin.biz^
 ||tzbirdcod.com^
 ||audiotouch.info^
@@ -4228,6 +4229,7 @@
 ||a00s.net^
 ||a06bbd98194c252.com^
 ||a11k.com^
+||a14net.com^
 ||a14refresh.com^
 ||a14tdsa.com^
 ||a15c5009bcbe272.com^
@@ -4237,6 +4239,7 @@
 ||a2tw6yoodsag.com^
 ||a31711123d.com^
 ||a317654204.com^
+||a32d9f2cc6.com^
 ||a32fc87d2f.com^
 ||a356ff8a25.com^
 ||a3595ccd38.com^
@@ -7168,6 +7171,7 @@
 ||axvkdpcnadgdt.com^
 ||axwakwdibkunq.com^
 ||axwnmenruo.com^
+||axwofwowdram.com^
 ||axwortbunko.com^
 ||axwpawahnwux.com^
 ||axxcqwxdcijxl.xyz^
@@ -8419,6 +8423,7 @@
 ||blunderadventurouscompound.com^
 ||blunksdaler.uno^
 ||blurbigdoable.com^
+||blurbreimbursetrombone.com^
 ||blurlorum.uno^
 ||blushbuiltonboard.com^
 ||blushgoats.com^
@@ -9140,6 +9145,7 @@
 ||bulletprofitpop.com^
 ||bulletproxy.ch^
 ||bulletrepeatedly.com^
+||bullionglidingscuttle.com^
 ||bullionyield.com^
 ||bullyingmusetransaction.com^
 ||bulochka.xyz^
@@ -16000,6 +16006,7 @@
 ||fjmgnfoedmsjj.xyz^
 ||fjmksbwxb.com^
 ||fjwymafkgqfq.xyz^
+||fjxdafshdrnnvdw.com^
 ||fjxowepqiwrdao.com^
 ||fkbkun.com^
 ||fkbwtoopwg.com^
@@ -16617,6 +16624,7 @@
 ||fridayarched.com^
 ||fridaylazy.com^
 ||fridaypatnod.com^
+||fridaywake.com^
 ||fridgejakepreposition.com^
 ||fridgestretched.com^
 ||fridw-isa.com^
@@ -17444,6 +17452,7 @@
 ||gjwos.org^
 ||gjzbcvatvn.com^
 ||gk79a2oup.com^
+||gkbhrj49a.com^
 ||gkbvnyk.com^
 ||gkcltxp.com^
 ||gkdafpdmiwwd.xyz^
@@ -20026,6 +20035,7 @@
 ||ilovemakingpics.com^
 ||iloxvxenlwsv.com^
 ||iluabuiukgpjb.com^
+||ilubn48t.xyz^
 ||iluemvh.com^
 ||ilumtoux.net^
 ||ilvpbrvrpzrys.com^
@@ -24996,6 +25006,7 @@
 ||mjzrebrjty.com^
 ||mkcurches.com^
 ||mkeliihb.com^
+||mkenativji.com^
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
 ||mkihakfuzv.com^
@@ -25304,6 +25315,7 @@
 ||morgueflabbergasted.com^
 ||morict.com^
 ||morionsluigini.digital^
+||morningamidamaruhal.com^
 ||morningglory101.io^
 ||moronesphotos.com^
 ||morrolorries.top^
@@ -33984,6 +33996,7 @@
 ||shepherdalmightyretaliate.com^
 ||sherryfaithfulhiring.com^
 ||sheschemetraitor.com^
+||shesseet.com^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -35725,6 +35738,7 @@
 ||suctionautomobile.com^
 ||suctionspelts.com^
 ||suddslife.com^
+||sudroockols.xyz^
 ||sudsguidon.com^
 ||sudvclh.com^
 ||suescollum.com^
@@ -37171,6 +37185,7 @@
 ||tominwigan.top^
 ||tomladvert.com^
 ||tomornpinjane.com^
+||tomorroweducated.com^
 ||tomorrowtardythe.com^
 ||tomsjousts.life^
 ||tonapplaudfreak.com^
@@ -37675,6 +37690,7 @@
 ||trotolhonor.com^
 ||troublebarbara.com^
 ||troubled-stress.com^
+||troubledcontradiction.com^
 ||troubleextremityascertained.com^
 ||troublesomeleerycarry.com^
 ||troutgorgets.com^
@@ -38813,6 +38829,7 @@
 ||uvzomxvbpbgo.com^
 ||uwadpksbkzp.com^
 ||uwavoptig.com^
+||uwaxoyfklhm.com^
 ||uwayemfogibbgh.xyz^
 ||uweqsrwoey.com^
 ||uwfcqtdb.xyz^
@@ -40205,7 +40222,6 @@
 ||wgchrrammzv.com^
 ||wghzbgmjpyig.com^
 ||wgkggub.com^
-||wgplayer.com^
 ||wgpsjcpdulptl.com^
 ||wgsxteihr.com^
 ||wgxpirautgxpap.com^
@@ -41115,6 +41131,7 @@
 ||xenopusbink.com^
 ||xenosmussal.com^
 ||xenylclio.com^
+||xeoprwhhiuig.xyz^
 ||xetlugupyug.com^
 ||xevbjycybvb.xyz^
 ||xfahjal.com^
@@ -43621,6 +43638,7 @@
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||d84bc26d.site^
+||d8b0a5.xyz^
 ||d980ed.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -43727,6 +43745,10 @@
 !
 !
 !
+||pbcs.nypost.com^
+||pbcs.decider.com^
+||pbcs.pagesix.com^
+||tagtoo.co^
 ||sentinelbi.com^
 ||count.sibbo.net^
 ||umami.is^
@@ -52283,8 +52305,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 May 2024 22:32 UTC+7
-! Version: 2405192232
+! Last modified: 20 May 2024 16:20 UTC+7
+! Version: 2405201620
 ! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
