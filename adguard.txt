@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-21T22:00:14.147Z
+! Last modified: 2024-05-22T22:00:17.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9213,6 +9213,7 @@
 ||busbymelpell.com^
 ||bushesawaitfeminine.com^
 ||bushicitrals.com^
+||bushipalpate.com^
 ||businessenviron.com^
 ||businessessities.com^
 ||businesslinenow.com^
@@ -16168,6 +16169,7 @@
 ||fluese.com^
 ||fluffychair.pro^
 ||fluffynyasquirell.com^
+||fluffytracing.com^
 ||fluid-company.pro^
 ||fluidallobar.com^
 ||fluiddisaster.pro^
@@ -17214,6 +17216,7 @@
 ||geodator.com^
 ||geodesyhoptree.com^
 ||geoffreyquitimpression.com^
+||geogenyveered.com^
 ||geographicaltruth.com^
 ||geoidsskift.guru^
 ||geoinventory.com^
@@ -20143,6 +20146,7 @@
 ||imperativetheirs.com^
 ||imperialbattervideo.com^
 ||imperialtense.com^
+||imperiicoloppe.top^
 ||impertinentwishing.com^
 ||imperturbableawesome.com^
 ||imperturbableclothes.com^
@@ -21201,6 +21205,7 @@
 ||jeejeetauz.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeephiney.net^
 ||jeerinfluencemedical.com^
 ||jeerouse.xyz^
 ||jeersoddisprove.com^
@@ -23234,6 +23239,7 @@
 ||linendrink.com^
 ||linensephraim.com^
 ||lingamretene.com^
+||lingamschymify.com^
 ||lingerdisquietcute.com^
 ||lingerincle.com^
 ||lingoumboylike.website^
@@ -38662,6 +38668,7 @@
 ||uptodateexpansionenvisage.com^
 ||uptodatefinishconferenceroom.com^
 ||uptownrecycle.com^
+||uptraceforlore.com^
 ||uptuwhum.net^
 ||upupoidoutjazz.website^
 ||upush.co^
@@ -40361,6 +40368,7 @@
 ||whizduly.com^
 ||whizzerknucks.com^
 ||whizzerlollard.top^
+||whizzerrapiner.com^
 ||whkyiuufzjt.com^
 ||whoachoh.com^
 ||whoajeex.xyz^
@@ -41884,6 +41892,7 @@
 ||zaicasoawoul.com^
 ||zaigaphy.net^
 ||zaihxti.com^
+||zaikasoatie.xyz^
 ||zailoanoy.com^
 ||zaimads.com^
 ||zaistaug.net^
@@ -43617,7 +43626,9 @@
 ||02777e.site^
 ||05751c.site^
 ||07e197.site^
+||1116c5.xyz^
 ||1350c3.xyz^
+||1a1fb6.xyz^
 ||20519a.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
@@ -43756,6 +43767,8 @@
 !
 !
 !
+||pageviews.tray.com.br^
+||convertbox.com^
 ||sync.outbrain.com^
 ||elb.the-ozone-project.com^
 ||pbcs.nypost.com^
@@ -43825,6 +43838,7 @@
 ||citrusad.net^
 ||pubperf.com^
 ||stats.getaim.org^
+||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
 ||tongjiniao.com^
 ||first-id.fr^
@@ -45066,7 +45080,6 @@
 ||piwik.pro^
 ||audiens.com^
 ||lift.acquia.com^
-||webtrekk.com^
 ||wcfbc.net^
 ||selfcampaign.com^
 ||upscore.com^
@@ -47032,10 +47045,6 @@
 ||webtrafficagents.com^
 ||webtraffiq.com^
 ||webtraxs.com^
-||webtrekk-asia.net^
-||webtrekk-us.net^
-||webtrekk.de^
-||webtrekk.net^
 ||webtrendslive.com^
 ||webttracking.de^
 ||webtuna.com^
@@ -47229,16 +47238,71 @@
 ||x3-predictor.goguardian.com^
 !
 ||jp-axia.m0mentum.net^
-! Keyade
-||keyade.net^
-||keyade.com^
-! Criteo
-||storetail.io^
-||dnsdelegation.io^
-! AT Internet
+!
+! NOTE: CNAME disguised tracking networks
+! SECTION: CNAME disguised tracking networks
+!
+! This section contains the list of the rules are against CNAME disguised tracking networks.
+! We include rules from AdGuard's cname-tracker repo here, and add some additional rules,
+! which will be used during the optimization by /optimizeDomainBlockingRules option.
+!
+! https://github.com/AdguardTeam/FiltersRegistry/pull/937
+! To fix the issue with the CNAME trackers, add problematic domains here:
+! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+!
+! https://github.com/AdguardTeam/FiltersCompiler/issues/190
+! To avoid email links breakage, include email tracking lists with a modifier here:
+! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/template.txt
+!
+! affilbox.cz : cz.affilbox.cz disguised trackers
+!
+! 2cnt.net : pl02.prolitteris.2cnt.net disguised trackers
+||vgwort.de^
+!
+! A8.net : a8.net disguised trackers
+!
+! Act-On : actonservice.com and actonsoftware.com disguised trackers
+||sharpmarketing.eu^
+||actonsoftware.com^
+||healthgrades.com^
+||actonservice.com^
+!
+! Actionlink.jp : mm.actionlink.jp disguised trackers
+!
+! AD EBiS : ebis.ne.jp disguised trackers
+!
+! Adobe Experience Cloud (formerly Omniture) : 2o7.net disguised trackers
+||2o7.net^
+||data.adobedc.net^
+! Disabled for AdGuard for Safari/iOS due to the limit on the number of rules
+!
+! AdSpyglass : 0i0i0i0.com disguised advertising networks
+! included to BaseFilter/sections/cname_adservers.txt
+!
+! AT Internet (formerly XiTi) : at-o.net disguised trackers
 ||at-o.net^
 ||atinternet.com^
-! Eulerian
+!
+! not included
+!
+! Clickaine : api.clickaine.com disguised trackers
+! included to BaseFilter/sections/cname_adservers.txt
+!
+! Commanders Act : tagcommander.com disguised trackers
+||tagcommander.com^
+||commandersact.com^
+!
+! Criteo : dnsdelegation.io disguised trackers
+||storetail.io^
+||dnsdelegation.io^
+!
+! DataUnlocker : dataunlocker.com disguised trackers
+||dataunlocker.com^
+!
+! Ensighten : nc0.co disguised trackers
+||ensighten.com^
+!
+! Eulerian : eulerian.net disguised trackers
 ||euleriancdn.net^
 ||eulerian.net^
 ||mj23.eulerian.com^
@@ -47250,18 +47314,96 @@
 ||eulerian.brandalley.fr^
 ||eulerian.belambra.fr^
 ||eulerian.belambra.be^
-! Adobe Experience Cloud
-||2o7.net^
-||data.adobedc.net^
-! Commanders Act
-||tagcommander.com^
-||commandersact.com^
-! DataUnlocker
-||dataunlocker.com^
-! Wizaly
-||wizaly.com^
-! Ingenious Technologies
+!
+! Extole : extole.com disguised trackers
+! not included
+!
+! Fathom : fathomdns.com disguised trackers
+!
+! GENIEE : genieespv.jp disguised trackers
+!
+! GMO Internet Group : ad-cloud.jp disguised trackers
+!
+! GoDaddy : ads2.bid disguised trackers
+! included to BaseFilter/sections/cname_adservers.txt
+!
+! Ingenious Technologies : affex.org disguised trackers
+||daraz.com^
 ||affex.org^
+||net.jumia.com^
+||net.iberia.com^
+||net.shop.com.mm^
+!
+! INFOnline : iocnt.net disguised trackers
+!
+! Keyade : k.keyade.com disguised trackers
+||keyade.net^
+||keyade.com^
+!
+! Lead Forensics : ghochv3eng.trafficmanager.net disguised trackers
+! not included
+!
+! LexisNexis Risk Solutions: online-metrix.net disguised trackers
+! removed from the blocking list - causes breakages
+! source: https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/trackers/lexisnexis-risk-solutions.txt
+!
+! Logly : logly.co.jp disguised trackers
+! not included
+!
+! NameSilo : ab1n.net disguised trackers
+! included to BaseFilter/sections/cname_adservers.txt
+!
+! Nativo : ntv.io disguised trackers
+! not included
+!
+! NP6 : tracking.bp01.net disguised trackers
+||espmp-nifr.net^
+||espmp-agfr.net^
+||espmp-pofr.net^
+||espmp-cufr.net^
+||devisdirect.com^
+||espmp-aufr.net^
+!
+! Oracle Eloqua : hs.eloqua.com disguised trackers
+!
+! Otto Group : oghub.io disguised trackers
+!
+! Pardot : go.pardot.com disguised trackers
+! not included
+!
+! Parse.ly : parsely.com disguised trackers
+!
+! Plausible Analytics : custom.plausible.io disguised trackers
+!
+! PopCash : popcashjs.b-cdn.net disguised advertising networks
+! included to BaseFilter/sections/cname_adservers.txt
+!
+! RedTrack : rdtk.io disguised advertising networks
+||trekkeeee.fun^
+||trk.agency^
+||treker.fun^
+||trekkww.space^
+||trekkeeee.space^
+||trekkww.fun^
+!
+! TraceDock : *.eu-central-1.elb.amazonaws.com disguised trackers
+! not included
+!
+! Webtrekk : webtrekk.net disguised trackers
+||webtrekk.com^
+||webtrekk-asia.net^
+||webtrekk-us.net^
+||webtrekk.de^
+||webtrekk.net^
+!
+! Wizaly : wizaly.com disguised trackers
+||wizaly.com^
+!
+! Rule for detecting hidden trackers when the main domain cannot be blocked.
+|mailgun.org^
+!
+! NOTE: CNAME disguised tracking networks end ⬆️
+! !SECTION: CNAME disguised tracking networks
 
 !
 ! Source name: AdGuard Tracking Protection filter first-party trackers
@@ -47292,6 +47434,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||vf.startpage.com^
+||analytics-prd.aws.wehaa.net^
 ||tracking-api.passeidireto.com^
 ||analytics.lasegunda.ecn.cl^
 ||analytics.emol.com^
@@ -48738,7 +48882,6 @@
 ||matomo.a1.by^
 ||mc.webvisor.org^
 ||mediator.imgsmail.ru^
-||met.vgwort.de^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
 ||metric.huya.com^
@@ -50680,7 +50823,6 @@ inapps.appsflyersdk.com^
 ||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
-||analytics-prd.aws.wehaa.net^
 ||analytics-scripts.cablelabs.com^
 ||analytics.30m.com^
 ||analytics.adobe.io^
@@ -52323,8 +52465,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 May 2024 16:20 UTC+7
-! Version: 2405201620
+! Last modified: 22 May 2024 15:02 UTC+7
+! Version: 2405221502
 ! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
