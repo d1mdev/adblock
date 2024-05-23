@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-22T22:00:17.763Z
+! Last modified: 2024-05-23T22:00:14.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7095,6 +7095,7 @@
 ||awecrptjmp.com^
 ||aweighmica.top^
 ||aweinkbum.com^
+||awejmp.com^
 ||awelsorsulte.com^
 ||awembd.com^
 ||awemdia.com^
@@ -9476,6 +9477,7 @@
 ||camplacecash.com^
 ||camprime.com^
 ||camptrck.com^
+||cams.gratis^
 ||camschat.net^
 ||camshq.info^
 ||camsitecash.com^
@@ -12821,6 +12823,7 @@
 ||dirhamsleered.com^
 ||dirtinessboiled.com^
 ||dirtrecurrentinapptitudeinapptitude.com^
+||dirty.games^
 ||dirtyasmr.com^
 ||dirtysuspension.com^
 ||disable-adverts.com^
@@ -15361,6 +15364,7 @@
 ||fademployedtransactions.com^
 ||fadf617f13.com^
 ||fadfussequipment.com^
+||fadingsulphur.com^
 ||fadraiph.xyz^
 ||fadrovoo.xyz^
 ||fadsims.com^
@@ -34368,6 +34372,7 @@
 ||sjkzeivw.com^
 ||sjmbwxnqz.com^
 ||sjolcdkqwiybh.xyz^
+||sjsabb.com^
 ||sjtactic.com^
 ||sjtbhdeakgsgr.com^
 ||sjteyeztnf.com^
@@ -35329,6 +35334,7 @@
 ||statisticresearch.com^
 ||statisticscensordilate.com^
 ||statisticseither.com^
+||statorkumyk.com^
 ||statossy.com^
 ||stats-best.site^
 ||statsforads.com^
@@ -36047,6 +36053,7 @@
 ||swingebudded.com^
 ||swingelinseys.com^
 ||swingtoeswinds.com^
+||swinity.com^
 ||swishedbigha.digital^
 ||swisstoothpastelipstick.com^
 ||swivinglydite.com^
@@ -39597,6 +39604,7 @@
 ||volna2babla1dh1.com^
 ||volumedpageboy.com^
 ||voluminoussoup.pro^
+||volumntime.com^
 ||voluntarilylease.com^
 ||voluntarilystink.com^
 ||volunteerbrash.com^
@@ -43645,6 +43653,7 @@
 ||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
+||7608d5.xyz^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
 ||8acc5c.site^
@@ -47400,7 +47409,7 @@
 ||wizaly.com^
 !
 ! Rule for detecting hidden trackers when the main domain cannot be blocked.
-|mailgun.org^
+||d1udjti6mtxz9q.cloudfront.net^
 !
 ! NOTE: CNAME disguised tracking networks end ⬆️
 ! !SECTION: CNAME disguised tracking networks
@@ -47434,6 +47443,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||c950.chronicle.com^
+||forecast.nouvelobs.com^
+||analytics.vg^
 ||vf.startpage.com^
 ||analytics-prd.aws.wehaa.net^
 ||tracking-api.passeidireto.com^
@@ -51580,6 +51592,7 @@ inapps.appsflyersdk.com^
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
 ||w4o7aea80ss3-a.akamaihd.net^
+||watchtower.graindata.com^
 ||wco.crownpeak.com^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
