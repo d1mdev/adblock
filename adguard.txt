@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-29T22:00:13.791Z
+! Last modified: 2024-05-30T22:00:13.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,8 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||adplay.ru^
+||isatonabench.com^
 ||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
@@ -3409,6 +3411,7 @@
 ||0b0db57b5f.com^
 ||0b73f85f92.com^
 ||0b7741a902.com^
+||0b85c2f9bb.com^
 ||0c6dd161e9.com^
 ||0cdn.xyz^
 ||0cf.io^
@@ -3714,6 +3717,7 @@
 ||2tq7pgs0f.de^
 ||2trafficcmpny.com^
 ||2ts55ek00.de^
+||2ucz3ymr1.com^
 ||3-mobiappu.com^
 ||300daytravel.com^
 ||302kslgdl.de^
@@ -4305,6 +4309,7 @@
 ||ab913aa797e78b3.com^
 ||ab93t2kc.de^
 ||ab97114bda.com^
+||abadit5rckb.com^
 ||abamatoyer.com^
 ||abandonrecommendationwars.com^
 ||abange.com^
@@ -4636,6 +4641,7 @@
 ||acutepropose.com^
 ||acvnhayikyutjsn.xyz^
 ||acylasecorers.top^
+||ad-adblock.com^
 ||ad-back.net^
 ||ad-balancer.net^
 ||ad-bay.com^
@@ -6851,6 +6857,7 @@
 ||atris.xyz^
 ||atrociouspsychiatricparliamentary.com^
 ||atrocityfingernail.com^
+||atropaimitant.top^
 ||atsabwhkox.com^
 ||atservineor.com^
 ||atshcaogrlhi.com^
@@ -10677,6 +10684,7 @@
 ||cmlwaup.com^
 ||cmmcqcvwc.com^
 ||cmnepalslma.com^
+||cmoa.pro^
 ||cmpgfltxv.xyz^
 ||cmpgns.net^
 ||cmpsywu.com^
@@ -13982,6 +13990,7 @@
 ||ecaursedeegh.com^
 ||ecchhelios.top^
 ||ecffmhajfgxw.com^
+||echaruropygi.com^
 ||echehalids.guru^
 ||echevintrunnel.top^
 ||echiovlhu.com^
@@ -14689,6 +14698,7 @@
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopleshouldt.info^
+||eopleshouldthink.info^
 ||eopogliguemvf.com^
 ||eopudxnabotrlsx.com^
 ||eoqctcsvskqlz.com^
@@ -15885,6 +15895,7 @@
 ||fieoefbvsu.com^
 ||fiercefacetwidely.com^
 ||fiercequips.com^
+||fieryinjure.com^
 ||fierymint.com^
 ||fierysolemncow.com^
 ||fieslobwg.com^
@@ -16111,6 +16122,7 @@
 ||flavorylenvoi.com^
 ||flavourdinerinadmissible.com^
 ||flavourforgave.com^
+||flaw.cloud^
 ||flawenormouslyattractive.com^
 ||flawerosion.com^
 ||flaweyesight.com^
@@ -17197,6 +17209,7 @@
 ||geethaihoa.com^
 ||geethaiw.xyz^
 ||geethoap.com^
+||geewooheene.net^
 ||gegbeiaojmfgnkw.com^
 ||geiouifksh.xyz^
 ||geiozdtpssgt.com^
@@ -17701,6 +17714,7 @@
 ||glurdoat.com^
 ||glursihi.net^
 ||gluteinavarch.com^
+||glutenmuttsensuous.com^
 ||gluttonstayaccomplishment.com^
 ||gluttonybrand.com^
 ||gluttonybuzzingtroubled.com^
@@ -18421,6 +18435,7 @@
 ||gxpiypxnjwtclv.com^
 ||gxpvnveyqowm.com^
 ||gxqjvuhsk.com^
+||gxtmsmni.com^
 ||gxuhoeynwghjd.com^
 ||gxvaunase.com^
 ||gxvpfppyktgaeo.com^
@@ -19175,6 +19190,7 @@
 ||hjiwoazeigefn.com^
 ||hjklq.com^
 ||hjmjmywncskyt.com^
+||hjmnfdab.com^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
 ||hjrvsw.info^
@@ -20562,6 +20578,7 @@
 ||insrvicigquj.com^
 ||insta-cash.net^
 ||instaflrt.com^
+||install-adblockers.com^
 ||install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
@@ -22817,6 +22834,7 @@
 ||latheendsmoo.com^
 ||lathilusted.top^
 ||latinchiniks.digital^
+||latinwayy.com^
 ||latkelotong.top^
 ||latonaheyday.space^
 ||latrinehelves.com^
@@ -25723,6 +25741,7 @@
 ||mwikpepfiw.com^
 ||mwirawdrexp.com^
 ||mwjkteucypb.com^
+||mwkusgotlzu.com^
 ||mwmqtisxndbjdr.com^
 ||mwmxyurgupy.com^
 ||mworkhovdimin.info^
@@ -26546,6 +26565,7 @@
 ||noisytariff.com^
 ||noisyunidentifiedinherited.com^
 ||nojhhsg.com^
+||noktaglaik.com^
 ||nollolofgulmof.com^
 ||nolrougn.com^
 ||noltaudi.com^
@@ -27848,6 +27868,7 @@
 ||oqeazohx.com^
 ||oqelpqoyyz.com^
 ||oqfgpdnwdbirpc.com^
+||oqfrudzatovc.com
 ||oqfvsgfj.com^
 ||oqhbykhlt.com^
 ||oqkedrojyy.xyz^
@@ -27949,6 +27970,7 @@
 ||orthronsmatter.com^
 ||ortontotlejohn.com^
 ||orxbqsvibjxqvai.com^
+||osageafresh.com^
 ||osangauh.net^
 ||osarmapa.net^
 ||osaunsot.net^
@@ -28609,6 +28631,7 @@
 ||parlouractivityattacked.com^
 ||parlourinvulnerablerighteous.com^
 ||paronymtethery.com^
+||parrallforums.top^
 ||parrecleftne.xyz^
 ||parrotlamista.top^
 ||parrotstrim.com^
@@ -32179,6 +32202,7 @@
 ||rentingimmoderatereflecting.com^
 ||reoiebco.com^
 ||reoilspinors.top^
+||reopensnews.com^
 ||reople.co.kr^
 ||reoreexpresi.com^
 ||reorganizeglaze.com^
@@ -34626,6 +34650,7 @@
 ||slumdombigot.top^
 ||slumid.com^
 ||slumpyclueing.com^
+||slurpsbeets.com^
 ||slushdevastating.com^
 ||sluxaaiabw.com^
 ||slvlrcalpodewn.com^
@@ -35767,6 +35792,7 @@
 ||styingjareed.guru^
 ||styletrackstable.com^
 ||stylewhiskerscreepy.com^
+||stylish-airport.com^
 ||styrianauf.com^
 ||stzhnfcxx.com^
 ||suaedaormer.top^
@@ -38354,6 +38380,7 @@
 ||umebella.com^
 ||umedadelempanyi.info^
 ||umentrandings.xyz^
+||umescomymanda.info^
 ||umexalim.com^
 ||umfsyvnufa.com^
 ||umhlnkbj.xyz^
@@ -38366,6 +38393,7 @@
 ||umplohzn.com^
 ||umqiapzsc.com^
 ||umqqfyqkjlxrh.xyz^
+||umtudo.com^
 ||umuotov.com^
 ||umvibwqrumfqk.com^
 ||umwmwxpivtwkyo.xyz^
@@ -38746,6 +38774,7 @@
 ||upstagecarvers.cfd^
 ||upstandhurls.website^
 ||upstandingmoscow.com^
+||upsups.click^
 ||upsweephalms.com^
 ||upswingmethyl.com^
 ||uptafashib.com^
@@ -40213,6 +40242,7 @@
 ||webregadvertising.com^
 ||webseeds.com^
 ||websitepromoserver.com^
+||webstats1.com^
 ||webteaser.ru^
 ||webteensyusa.com^
 ||webtradehub.com^
@@ -40291,6 +40321,7 @@
 ||werxebpnl.com^
 ||weshsofoij.xyz^
 ||wesicuros.com^
+||wesmallproclaim.com^
 ||wesmuqjisx.com^
 ||westerdayeol.site^
 ||westernhungryadditions.com^
@@ -42275,6 +42306,7 @@
 ||zokbywpncgqrq.com^
 ||zombiharshen.top^
 ||zonealta.com^
+||zontgohjw.com^
 ||zonupiza.com^
 ||zonureflakier.uno^
 ||zoocheeh.net^
@@ -43734,6 +43766,7 @@
 ||1350c3.xyz^
 ||1a1fb6.xyz^
 ||20519a.xyz^
+||22dd31.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
@@ -43772,6 +43805,7 @@
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||ce357c.xyz^
+||cfb98a.xyz^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
 ||d980ed.xyz^
@@ -43882,6 +43916,8 @@
 !
 !
 !
+||pearldiver.io^
+||trovo-tag.com^
 ||hzstats.com^
 ||plausible.scimago.es^
 ||analytics.qushad.com^
@@ -47550,6 +47586,26 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||v225.ksbw.com^
+||k030.koco.com^
+||u082.wapt.com^
+||f361.wvtm13.com^
+||t733.wjcl.com^
+||r255.wmtw.com^
+||j178.wmur.com^
+||p769.wgal.com^
+||v066.wxii12.com^
+||s811.ketv.com^
+||m886.kmbc.com^
+||w110.kcra.com^
+||u999.wcvb.com^
+||e459.kcci.com^
+||h019.wtae.com^
+||y000.wyff4.com^
+||q511.wpbf.com^
+||c677.wisn.com^
+||u578.wlwt.com^
+||e993.wlky.com^
 ||collect.biomedcentral.com^
 ||eproof.drudgereport.com^
 ||doppler-beacon.cbsivideo.com^
@@ -53631,8 +53687,6 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1692
-@@||cloud.roistat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
