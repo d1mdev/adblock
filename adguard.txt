@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-30T22:00:13.597Z
+! Last modified: 2024-05-31T22:00:13.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,9 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||23oct2023.site^
+||fcepahafyq.com^
+||6rn05mmbct.ru^
 ||adplay.ru^
 ||isatonabench.com^
 ||lzbgeg.com^
@@ -2219,6 +2222,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||r1.ati.su^
 ||rcmjs.rambler.ru^
 ||sharemefiles.ru^
 ||userdata.ati.su^
@@ -3499,6 +3503,7 @@
 ||1aqi93ml4.de^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
 ||1b264a0ca0.com^
+||1b32caa655.com^
 ||1b3tmfcbq.de^
 ||1b8873d66e.com^
 ||1b9cvfi0nwxqelxu.pro^
@@ -5893,6 +5898,7 @@
 ||alwhichhereal.com^
 ||alwhichhereallyw.com^
 ||alwingulla.com^
+||alwsbnvialll.com^
 ||alwubrhkxgqdiw.com^
 ||alxbgo.com^
 ||alxhiccwizce.com^
@@ -6191,6 +6197,7 @@
 ||antiquariancapricorn.com^
 ||antiquitytissuepod.com^
 ||antiredcessant.com^
+||antirgiocub.com^
 ||antisicollyba.top^
 ||antivirussprotection.com^
 ||antlerlode.com^
@@ -8136,6 +8143,7 @@
 ||bidvance.com^
 ||bidverdrd.com^
 ||biemedia.com^
+||bifnosblfdpslg.xyz^
 ||biforinslogs.life^
 ||biftoast.com^
 ||bigappboi.com^
@@ -10365,7 +10373,9 @@
 ||cisheeng.com^
 ||cisiwa.site^
 ||ciststoquets.space^
+||citadelpathstatue.com^
 ||citatumpity.com^
+||citizenhid.com^
 ||citizenshadowrequires.com^
 ||cittem.com^
 ||citycoordinatesnorted.com^
@@ -10595,6 +10605,7 @@
 ||clmcom.com^
 ||clnk.me^
 ||cloba.xyz^
+||clobberprocurertightwad.com^
 ||clockwisefamilyunofficial.com^
 ||clockwiseleaderfilament.com^
 ||clogcheapen.com^
@@ -12170,6 +12181,7 @@
 ||dbhhvmoq.com^
 ||dbizrrslifc.com^
 ||dblbkinsuswpr.com^
+||dbnxlpbtoqec.com^
 ||dbplygoi.com^
 ||dbqlghadltookjo.xyz^
 ||dbtbfsf.com^
@@ -13279,6 +13291,7 @@
 ||donutfulfilherd.com^
 ||donyandmark.xyz^
 ||doobaupu.xyz^
+||doobuphoo.com^
 ||doochoor.xyz^
 ||doodlelegitimatebracelet.com^
 ||doodoaru.net^
@@ -14909,6 +14922,7 @@
 ||esumeformo.info^
 ||eswsentatives.info^
 ||esxjpnkgyaeiu.xyz^
+||et5k413t.rest^
 ||etapescaisse.com^
 ||etbelpoyes.xyz^
 ||etbnbvlnhvr.com^
@@ -18425,6 +18439,7 @@
 ||gxcvxdeda.com^
 ||gxdzfyg.com^
 ||gxeireojvtfoq.com^
+||gxfuwkgsp.com^
 ||gxgu9gktreso.com^
 ||gxhbsapkkdni.xyz^
 ||gxikmksjuz.com^
@@ -19133,6 +19148,7 @@
 ||himselfthoughtless.com^
 ||himselves.com^
 ||himselvesobr.club^
+||himunpracticalwh.info^
 ||hinaprecent.info^
 ||hinavvogha.com^
 ||hindervoting.com^
@@ -19185,6 +19201,7 @@
 ||hizlireklam.com^
 ||hjalma.com^
 ||hjfonyiuo.com^
+||hjgapllydic.com^
 ||hjhbyywgzxxqzu.com^
 ||hjhwjphsryi.com^
 ||hjiwoazeigefn.com^
@@ -19291,6 +19308,7 @@
 ||hoisquit.buzz^
 ||hokarsoud.com^
 ||hokierloopy.digital^
+||holahupa.com^
 ||holdenthusiastichalt.com^
 ||holdhostel.space^
 ||holdingholly.space^
@@ -19755,6 +19773,7 @@
 ||hyibpgaa.com^
 ||hylomysslipper.digital^
 ||hymenicpirn.com^
+||hymenvapour.com^
 ||hymnarypoking.com^
 ||hynteroforion.com^
 ||hyofteraq.com^
@@ -20052,6 +20071,7 @@
 ||ikouthaupi.com^
 ||ikrail.com^
 ||ikrauteri.life^
+||ikrvvsliwar.com^
 ||ikunselt.com^
 ||ikwiwnnofgpzq.com^
 ||ikwzrix.com^
@@ -21223,6 +21243,7 @@
 ||jcovfmnlolsdsaa.com^
 ||jcpcfopwcae.com^
 ||jcqueawk.xyz^
+||jcqvfuztbvryk.com^
 ||jcrnbnw.com^
 ||jctxsjtgedii.com^
 ||jcufklto.com
@@ -24047,6 +24068,7 @@
 ||lyricspartnerindecent.com^
 ||lyrtyvqnbkknt.xyz^
 ||lysim-lre.com^
+||lysjpqhhzve.com^
 ||lyssapebble.com^
 ||lythonefa.com^
 ||lythrumnoetics.website^
@@ -24968,6 +24990,7 @@
 ||minently.com^
 ||mineralscreamrobes.com^
 ||mineraltip.com^
+||minessetion.info^
 ||mingleabstainsuccessor.com^
 ||minglebookwormdecency.com^
 ||mingledcommit.com^
@@ -27237,6 +27260,7 @@
 ||odorantpilkins.top^
 ||odouanmhndwipg.com^
 ||odoucessu.com^
+||odourcowspeculation.com^
 ||odpfujlimjuk.com^
 ||odpokjcucdax.com^
 ||odqicviub.com^
@@ -28288,6 +28312,7 @@
 ||overzoruaon.com^
 ||overzubatan.com^
 ||ovfjiktdr.com^
+||ovgjveaokedo.xyz^
 ||ovhacmobpval.com^
 ||ovhkfewhyqiz.com^
 ||ovibospeseta.com^
@@ -28902,6 +28927,7 @@
 ||peeringgrandflashing.com^
 ||peeringinvasion.com^
 ||peesopit.net^
+||peesteso.xyz^
 ||peethach.com^
 ||peethobo.com^
 ||peevishaboriginalzinc.com^
@@ -29044,6 +29070,7 @@
 ||perseverehang.com^
 ||persevereindirect.com^
 ||perseverevoice.com^
+||persicrejolt.com^
 ||persistarcticthese.com^
 ||persistbrittle.com^
 ||persona3.tech^
@@ -30531,6 +30558,7 @@
 ||prunestownpostman.com^
 ||prutosom.com^
 ||pruwwox.com^
+||prvc.io^
 ||prwave.info^
 ||prxeceafdxdlc.xyz^
 ||prxy.online^
@@ -31368,6 +31396,7 @@
 ||queergatewayeasier.com^
 ||queersodadults.com^
 ||queersynonymlunatic.com^
+||queerygenets.com^
 ||queiajowan.com^
 ||quellaplentyresolute.com^
 ||quellbustle.com^
@@ -31733,6 +31762,7 @@
 ||rcvsmbawwqodqt.com^
 ||rcwuzudjcsjmr.com^
 ||rd-cdnp.name^
+||rdairclewestoratesa.info^
 ||rddywd.com^
 ||rderstartirrelea.info^
 ||rdgdjmgll.com^
@@ -33411,6 +33441,7 @@
 ||satirevegetableshaw.com^
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
+||satisfied-tour.pro^
 ||satoripedary.com^
 ||sattiewitter.top^
 ||saturatecats.com^
@@ -34640,6 +34671,7 @@
 ||slpmcfdljsntwp.com^
 ||slqyrvijxviet.com^
 ||sltracl.com^
+||sltraffic.com^
 ||sltvhyjthx.com^
 ||slubbermunch.com^
 ||sluccju.com^
@@ -35563,6 +35595,7 @@
 ||stimtavy.net^
 ||stimulateartificial.com^
 ||stimulatemosque.com^
+||stimulatinggrocery.pro^
 ||stingeantonia.com^
 ||stinglackingrent.com^
 ||stingystoopedsuccession.com^
@@ -40749,6 +40782,7 @@
 ||wkpewkejefefhm.com^
 ||wkpfgjbmd.com^
 ||wkqcnkstso.com^
+||wkqqdchbbz.com^
 ||wkwqljwykojvm.top^
 ||wkwqljwykollz.top^
 ||wkwqljwykomlv.top^
@@ -41105,6 +41139,7 @@
 ||wunteetoco.com^
 ||wuqconn.com^
 ||wurqaz.com^
+||wurwhydimo.com^
 ||wussucko.com^
 ||wutcifjtapa.com^
 ||wutseelo.xyz^
@@ -41133,6 +41168,7 @@
 ||wwemleypftdook.com^
 ||wwfx.xyz^
 ||wwhnjrg.com^
+||wwicnmksxd.com^
 ||wwija.com^
 ||wwkedpbh4lwdmq16okwhiteiim9nwpds2.com^
 ||wwlaoryovljbv.top^
@@ -41318,6 +41354,7 @@
 ||xiaomengxiong.com^
 ||xibilitukydteam.info^
 ||xidx.org^
+||xigfqlwsbbtx.com^
 ||xigrtoai.com^
 ||xiifrwasfouifb.com^
 ||xijgedjgg5f55.com^
@@ -41344,6 +41381,7 @@
 ||xjsx.lol^
 ||xjupijxdt.xyz^
 ||xjwcnvnqdm.com^
+||xkaovzjasjw.com^
 ||xkbgqducppuan.xyz^
 ||xkbydybnle.com^
 ||xkcgjkwjbmki.xyz^
@@ -43760,6 +43798,7 @@
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||02777e.site^
 ||05751c.site^
+||072551.xyz^
 ||07e197.site^
 ||1116c5.xyz^
 ||11c7a3.xyz^
@@ -43916,6 +43955,9 @@
 !
 !
 !
+||a11ybar.com^
+||trackszn.median.eu^
+||rum.corewebvitals.io^
 ||pearldiver.io^
 ||trovo-tag.com^
 ||hzstats.com^
@@ -51513,7 +51555,6 @@ inapps.appsflyersdk.com^
 ||rtc.multiscreensite.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
-||rum.corewebvitals.io^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
 ||rum.perfops.net^
