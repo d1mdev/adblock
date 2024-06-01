@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-05-31T22:00:13.235Z
+! Last modified: 2024-06-01T22:00:13.483Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8103,6 +8103,7 @@
 ||bhnhejwj.com^
 ||bhnjwmega.com^
 ||bhnmkauncgr.com^
+||bhohazozps.com^
 ||bhozjskhzfdkh.com^
 ||bhqfnuq.com^
 ||bhuoeykefbnfgc.com^
@@ -10892,6 +10893,7 @@
 ||combinationpalmwhiskers.com^
 ||combinedexterior.com^
 ||combineencouragingutmost.com^
+||combinestronger.com^
 ||combitly.com^
 ||combotag.com^
 ||combustibleaccuracy.com^
@@ -11262,6 +11264,7 @@
 ||coonceder.space^
 ||cooperativechuckledhunter.com^
 ||cooperativepassenger.com^
+||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
 ||coosync.com^
@@ -14235,6 +14238,7 @@
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
 ||efwmpduvgedai.com^
+||egalitysarking.com^
 ||egallsylvate.com^
 ||egazedatthe.xyz^
 ||egbesnfzdfg.com^
@@ -14526,6 +14530,7 @@
 ||enclearmooch.com^
 ||enclforlane.com^
 ||enclosedsponge.com^
+||enclosedswoopbarnacle.com^
 ||encloseprecious.com^
 ||encodehelped.com^
 ||encodeinflected.com^
@@ -15243,6 +15248,7 @@
 ||exploitingenious.com^
 ||exploitpeering.com^
 ||exploittonlets.com^
+||explore-site.com^
 ||exploreannihilationquicker.com^
 ||explorecomparison.com^
 ||exploredefinitely.com^
@@ -16384,6 +16390,7 @@
 ||footcomefully.com^
 ||foothoupaufa.com^
 ||footnote.com^
+||footprintsfurnish.com^
 ||footprintssoda.com^
 ||footprintswarming.com^
 ||footstepnoneappetite.com^
@@ -31922,6 +31929,7 @@
 ||reconstructshutdown.com^
 ||record.guts.com^
 ||record.rizk.com^
+||recordedthereby.com^
 ||recordercrush.com^
 ||recordervesttasting.com^
 ||recordingadventurouswildest.com^
@@ -35951,6 +35959,7 @@
 ||sumids.com^
 ||summaryjustlybouquet.com^
 ||summaryvalued.com^
+||summer-notifications.com^
 ||summerboycottrot.com^
 ||summercovert.com^
 ||summingricracs.uno^
@@ -43855,6 +43864,7 @@
 ||f090.site^
 ||f2f8.xyz^
 ||f6176563.site^
+||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
@@ -43955,6 +43965,7 @@
 !
 !
 !
+||track.mailerlite.com^
 ||a11ybar.com^
 ||trackszn.median.eu^
 ||rum.corewebvitals.io^
@@ -51705,7 +51716,6 @@ inapps.appsflyersdk.com^
 ||track.emerse.com^
 ||track.juno.com^
 ||track.kinetiksoft.com^
-||track.mailerlite.com^
 ||track.mp4.center^
 ||track.mycliplister.com^
 ||track.pricespider.com^
@@ -52700,9 +52710,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 22 May 2024 15:02 UTC+7
-! Version: 2405221502
-! Blocked: 882 rules
+! Last modified: 01 Jun 2024 23:15 UTC+7
+! Version: 2406012315
+! Blocked: 883 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -53436,6 +53446,7 @@ vkcdnservice.appspot.com^
 ||stats.bizweb.vn^
 ||stats.dongphim.net^
 ||stats.hstatic.net^
+||stats.osd.vn^
 ||stats.petrotimes.vn^
 ||stats.tamdiem247.com^
 ||stats.vietnammoi.vn^
