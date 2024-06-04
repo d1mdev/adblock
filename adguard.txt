@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-03T22:00:13.471Z
+! Last modified: 2024-06-04T22:00:17.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3962,6 +3962,7 @@
 ||61zdn1c9.skin^
 ||6207684432.com^
 ||62b70ac32d4614b.com^
+||62ca04e27a.com^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
@@ -6640,6 +6641,7 @@
 ||asrelatercondi.org^
 ||asricewaterho.com^
 ||asrntiljustetyerec.info^
+||asrop.xyz^
 ||asrowjkagg.com^
 ||assailusefullyenemies.com^
 ||assassinationsteal.com^
@@ -10516,7 +10518,6 @@
 ||cmlwaup.com^
 ||cmmcqcvwc.com^
 ||cmnepalslma.com^
-||cmoa.pro^
 ||cmpgfltxv.xyz^
 ||cmpgns.net^
 ||cmpsywu.com^
@@ -11011,6 +11012,7 @@
 ||continuousformula.com^
 ||continuousowenspaniard.com^
 ||continuousselfevidentinestimable.com^
+||contradiction2.fun^
 ||contradictionclinch.com^
 ||contradictshaftfixedly.com^
 ||contributesieveusers.com^
@@ -20552,6 +20554,7 @@
 ||itheatmora.com^
 ||itheatmoran.com^
 ||ithergrouter.website^
+||ithoughtsustache.info^
 ||itineraryborn.com^
 ||itinerarymonarchy.com^
 ||itineraryupper.com^
@@ -27253,6 +27256,7 @@
 ||opmuudn.com^
 ||oponixa.com^
 ||opootsoa.net^
+||opositeasysemblyjus.info^
 ||opoxv.com^
 ||oppedtoalktoherh.info^
 ||oppersianor.com^
@@ -32841,6 +32845,7 @@
 ||sbecashqjk.com^
 ||sbfsdvc.com^
 ||sbonjqsxicqfo.xyz^
+||sbqptosht.com^
 ||sbrakepads.com^
 ||sbscribeme.com^
 ||sbscrma.com^
@@ -35335,6 +35340,7 @@
 ||suppermalignant.com^
 ||supperopeningturnstile.com^
 ||supplejog.com^
+||supplementary2.fun^
 ||suppliedhopelesspredestination.com^
 ||suppliesscore.com^
 ||supportedbushesimpenetrable.com^
@@ -35680,6 +35686,7 @@
 ||tailorfunctionknuckle.com^
 ||tainosapiece.com^
 ||taintvistacredulous.com^
+||taipeivermeil.top^
 ||taipsuwa.com^
 ||taisteptife.com^
 ||taiuxljddwh.com^
@@ -36369,6 +36376,7 @@
 ||thyouglasuntilj.info^
 ||thyroidaketon.com^
 ||ti583.com^
+||tiaoap.xyz^
 ||tiaraedmessing.uno^
 ||tiarasorthose.website^
 ||tibacta.com^
@@ -39393,6 +39401,7 @@
 ||waxingcesti.com^
 ||waxworksprotectivesuffice.com^
 ||waybillbulged.com^
+||wayfgwbipgiz.com^
 ||waymarkgentiin.com^
 ||waymentriddel.com^
 ||wazaki.xyz^
@@ -40900,6 +40909,7 @@
 ||ybtkzjm.com^
 ||ybuduzpe.com^
 ||ybujfcuqya.com^
+||ybutoakqkct.com^
 ||ybwcvhcnulrgbvy.com^
 ||ybxkfivvpmofh.com^
 ||ybyrudhdnrxcbe.com^
@@ -43027,6 +43037,7 @@
 ||4e55.xyz^
 ||4e68.xyz^
 ||4e990.xyz^
+||55cc9d.xyz^
 ||58e0.site^
 ||5ceea3.xyz^
 ||5fd6bc.xyz^
@@ -43048,6 +43059,7 @@
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
+||b82978.xyz^
 ||b903c2.xyz^
 ||b9f25b.site^
 ||bc98ad.xyz^
@@ -46843,6 +46855,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.poferries.com^
 ||collector-*.px-cloud.net^
 ||collector-*.px-cdn.net^
 ||collector-*.pxchk.net^
@@ -50252,6 +50265,7 @@ inapps.appsflyersdk.com^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
 ||a.opumo.net^
+||a.vturb.net^
 ||aan.amazon.com^
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
