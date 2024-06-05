@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-04T22:00:17.536Z
+! Last modified: 2024-06-05T22:00:17.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -9010,6 +9010,7 @@
 ||buggerygruffed.com^
 ||bugits.com^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||bugraubs.com^
 ||bugs2022.com^
 ||bugsattended.com^
@@ -10037,6 +10038,7 @@
 ||chimneylouderflank.com^
 ||china-netwave.com^
 ||chinagranddad.com^
+||chinaslauras.com^
 ||chineegibbet.com^
 ||chinemcg.website^
 ||chinoismoras.com^
@@ -11363,6 +11365,7 @@
 ||credibilityyowl.com^
 ||creditbitesize.com^
 ||creditorapido.xyz^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creedoverwork.com^
 ||creeguilds.com^
@@ -12198,6 +12201,7 @@
 ||delightful-page.pro^
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
+||deliman.net^
 ||deline-sunction.com^
 ||deliquencydeliquencyeyesight.com^
 ||deliquencydeliquencygangenemies.com^
@@ -15649,6 +15653,7 @@
 ||findslofty.com^
 ||findswiftresults.com^
 ||fine-wealth.pro^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||fineporno.com^
@@ -25417,6 +25422,7 @@
 ||naneducate.com^
 ||nanesbewail.com^
 ||nanfleshturtle.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nangkasec.com^
 ||nanhermione.com^
@@ -26517,6 +26523,7 @@
 ||oasazedy.com^
 ||oasishonestydemented.com^
 ||oasqrthubiub.com^
+||oastoamox.com^
 ||oataltaul.com^
 ||oatbcxnhacfjnc.com^
 ||oatchelt.com^
@@ -29865,6 +29872,7 @@
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prositzapas.com^
 ||prosocrawm.com^
@@ -33222,6 +33230,7 @@
 ||separationharmgreatest.com^
 ||separationheadlight.com^
 ||separationreverttap.com^
+||sepianshap.com^
 ||sepstough.com^
 ||septemberautomobile.com^
 ||septfd2em64eber.com^
@@ -37453,6 +37462,7 @@
 ||typicalsecuritydevice.com^
 ||typiccor.com^
 ||typiconrices.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -43064,6 +43074,7 @@
 ||b9f25b.site^
 ||bc98ad.xyz^
 ||bcbe.site^
+||bd5a57.xyz^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
@@ -46855,6 +46866,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collect.stepstone.co.uk^
 ||analytics.poferries.com^
 ||collector-*.px-cloud.net^
 ||collector-*.px-cdn.net^
@@ -52961,6 +52973,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
