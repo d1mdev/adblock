@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-05T22:00:17.929Z
+! Last modified: 2024-06-06T22:00:14.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10176,6 +10176,7 @@
 ||cifqfyafsolzb.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
+||ciizxsdr.com^
 ||ciksolre.net^
 ||ciliarycetus.com^
 ||cilvhypjiv.xyz^
@@ -11769,6 +11770,7 @@
 ||dacmaiss.com^
 ||dacmursaiz.xyz^
 ||dacnmevunbtu.com^
+||dacpibaqwsa.com^
 ||dacronblanchi.guru^
 ||dadsats.com^
 ||dadsimz.com^
@@ -13715,6 +13717,7 @@
 ||eaxhsjrlq.com^
 ||eayeewlvmeqel.top^
 ||eazyleads.com^
+||eb36c9bf12.com^
 ||eb5232b35d.com^
 ||ebannertraffic.com^
 ||ebb174824f.com^
@@ -15096,6 +15099,7 @@
 ||f3663618ff.com^
 ||f3f202565b.com^
 ||f3udfa7nfguhni.com^
+||f43f5a2390.com^
 ||f4823894ba.com^
 ||f48d1c06e4.com^
 ||f4961f1b2e.com^
@@ -15973,6 +15977,7 @@
 ||fnelqqh.com^
 ||fnlojkpbe.com^
 ||fnnmnupevx.com^
+||fnnvyvxiu.com^
 ||fnqcbxqvodj.com^
 ||fnrrm2fn1njl1.com^
 ||fntphihy.com^
@@ -18518,6 +18523,7 @@
 ||heftygift.pro^
 ||hegazedatthe.info^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||heiressplane.com^
 ||heiressscore.com^
 ||heiresstolerance.com^
@@ -32324,6 +32330,7 @@
 ||rpts.org^
 ||rpzbfftekjdz.com^
 ||rqakljxbs.com^
+||rqazepammrl.com^
 ||rqbugumvsprr.com^
 ||rqctubqtcbgeug.com^
 ||rqdcusltmryapg.com^
@@ -41611,6 +41618,7 @@
 ||zpbpenn.com^
 ||zpcfnzjq.com^
 ||zpdnisvzedgbw.com^
+||zphgadwnjro.com^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
@@ -43084,6 +43092,7 @@
 ||d8b0a5.xyz^
 ||d980ed.xyz^
 ||dd2270.xyz^
+||de214f.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||ec44.site^
@@ -43191,6 +43200,7 @@
 !
 !
 !
+||metrics.streaks.jp^
 ||lr-in-prod.com^
 ||track.mailerlite.com^
 ||a11ybar.com^
@@ -43250,7 +43260,6 @@
 ||fp.techinasia.com^
 ||create.lidstatic.com^
 ||cadmus.script.ac^
-||feliz.data.tm-awx.com^
 ||adoric-om.com^
 ||lz-pub-ads.com^
 ||w4h5ae.ru^
@@ -46866,6 +46875,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.junia.ai^
+||ad.dl.mz.de^
+||topspin.npo.nl^
 ||collect.stepstone.co.uk^
 ||analytics.poferries.com^
 ||collector-*.px-cloud.net^
@@ -50591,6 +50603,7 @@ inapps.appsflyersdk.com^
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
+||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
