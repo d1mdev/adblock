@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-10T22:00:12.912Z
+! Last modified: 2024-06-11T22:00:13.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3829,6 +3829,7 @@
 ||43sjmq3hg.com^
 ||43t53c9e.de^
 ||44288fa514.com^
+||442fc29954.com^
 ||445d1bd01a.com^
 ||44a9217f10.com^
 ||44ffd27303.com^
@@ -6101,6 +6102,7 @@
 ||anpptedtah.com^
 ||anqnbzyjlknbm.top^
 ||anseisjulus.com^
+||anselmbowwows.com^
 ||anstossassents.life^
 ||answeredthechi.org^
 ||answerroad.com^
@@ -8377,6 +8379,7 @@
 ||bnagilu.com^
 ||bncloudfl.com^
 ||bnczrbrhiacp.com^
+||bnevymqyjji.com^
 ||bnfoeabisp.com^
 ||bngdin.com^
 ||bngmadjd.de^
@@ -11676,6 +11679,7 @@
 ||cyacoxsgxjdylpy.com^
 ||cyamidfenbank.life^
 ||cyan92010.com^
+||cyathosaloesol.top^
 ||cybershieldfortress.buzz^
 ||cybersugardrew.com^
 ||cybertronads.com^
@@ -12629,6 +12633,7 @@
 ||diptaich.com^
 ||diptersowar.website^
 ||dipusdream.com^
+||dipxmakuja.com^
 ||diqnioryshzpge.com^
 ||dirdumsthetch.com^
 ||direct-specific.com^
@@ -13202,6 +13207,7 @@
 ||dpyaxzpudhp.com^
 ||dqbukuvuy.com^
 ||dqdrsgankrum.org^
+||dqeaa.com^
 ||dqfhudpnwdk.com^
 ||dqgmtzo.com^
 ||dqhezw.com^
@@ -20673,6 +20679,7 @@
 ||iwuh.org^
 ||iwwdcglj.com^
 ||iwxtbaoqgcxfdd.xyz^
+||iwyrldaeiyv.com^
 ||ixbwwwv.com^
 ||ixgrvdfktpm.com^
 ||ixhbroslylgz.com^
@@ -35886,6 +35893,7 @@
 ||tauphaub.net^
 ||taurinkimonos.uno^
 ||taurse.com^
+||tausaakcntiwp.com^
 ||tauspenup.top^
 ||tautcare.pro^
 ||tautenstapetta.com^
@@ -41278,6 +41286,7 @@
 ||yqpalfulpst.com^
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
+||yqxrjthpbolqq.com^
 ||yr9n47004g.com^
 ||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
@@ -43151,11 +43160,13 @@
 ||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
+||691f42ad.xyz^
 ||6a6672.xyz^
 ||7608d5.xyz^
 ||7ca989e1.xyz^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
+||814272c4.xyz^
 ||8acc5c.site^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
 ||977878.xyz^
@@ -46968,6 +46979,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||geo.wpforms.com^
 ||cdn.track.olx.com.br^
 ||analytics.junia.ai^
 ||ad.dl.mz.de^
@@ -51264,6 +51276,18 @@ inapps.appsflyersdk.com^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
+! Goatcounter CNAMES https://github.com/AdguardTeam/cname-trackers/issues/99
+||anal.sataniskwijt.be^
+||analytics.code.dccouncil.gov^
+||count.vidsrc.pro^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
+||st.mapleranks.com^
+||stats.afrocave.com^
+||stats.boringproxy.io^
+||stats.how.wtf^
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
 !||cefgo.com^
