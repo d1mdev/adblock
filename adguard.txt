@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-18T22:00:14.612Z
+! Last modified: 2024-06-19T22:00:17.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8030,6 +8030,7 @@
 ||biblesausage.com^
 ||bibletweak.com^
 ||bibtu.com^
+||bichosdamiana.com^
 ||bicyclelistoffhandpaying.com^
 ||bicyclelistpermanentlyenslave.com^
 ||bicyclelistworst.com^
@@ -9636,6 +9637,7 @@
 ||cc72fceb4f.com^
 ||cc954a8da8.com^
 ||cca63f7d30.com^
+||ccaa0e51d8.com^
 ||ccaahdancza.com^
 ||ccdneniusruhebl.com^
 ||ccdrofvofrfkqah.com^
@@ -30742,6 +30744,7 @@
 ||qlfqkjluvz.com^
 ||qlmwgibhbhar.com^
 ||qlnccjattetsoq.com^
+||qlnkt.com^
 ||qlrpbdhwebzpf.com^
 ||qlrxmuvghs.com^
 ||qlspx.com^
@@ -32595,6 +32598,7 @@
 ||rufwnrguipfep.com^
 ||rugcrucial.com^
 ||rugiomyh2vmr.com^
+||ruglhiahxam.com^
 ||ruineddefectivecurb.com^
 ||ruinedpenal.com^
 ||ruinedpersonnel.com^
@@ -36206,6 +36210,7 @@
 ||texturedetrimentit.com^
 ||textureeffacepleat.com^
 ||tfaln.com^
+||tfauwtzipxob.com^
 ||tfb7jc.de^
 ||tffkroute.com^
 ||tfgdybgb.com^
@@ -43230,6 +43235,8 @@
 ||1dd6e9ba.xyz^
 ||20519a.xyz^
 ||22dd31.xyz^
+||285b0b37.xyz^
+||28d591da.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
@@ -47087,6 +47094,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||status.techtarget.itmedia.co.jp^
 ||ephemeralcounters.api.roblox.com^
 ||px.adfulplatform.com^
 ||d9jj3mjthpub.cloudfront.net^
@@ -50650,6 +50658,7 @@ inapps.appsflyersdk.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||bento.agoda.com^
+||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||botdetection.hbrsd.com^
