@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-20T22:00:13.612Z
+! Last modified: 2024-06-21T22:00:13.448Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2619,6 +2619,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||s-odx.oleads.com^
 ||mediation.unity3d.com^
 ||cdn-ad.wtzw.com^
 ||appsrv.display.io^
@@ -5327,6 +5328,7 @@
 ||afgwsgl.com^
 ||afgzipohma.com^
 ||afiliapub.click^
+||afkearupl.com^
 ||afkwa.com^
 ||afloatroyalty.com^
 ||afm01.com^
@@ -8400,6 +8402,7 @@
 ||bngprm.com^
 ||bngpst.com^
 ||bngpt.com^
+||bngrol.com^
 ||bngwlt.com^
 ||bnhnkbknlfnniug.xyz^
 ||bnhtml.com^
@@ -9313,6 +9316,7 @@
 ||cafqeelk.com^
 ||caftaistes.com^
 ||cafvyfdqedjc.xyz^
+||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
 ||cagerssoohong.com^
 ||cagesscan.com^
@@ -12971,6 +12975,7 @@
 ||dmrdnujvzo.com^
 ||dmrtx.com^
 ||dmsktmld.com^
+||dmuqumodgwm.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
 ||dmxswwrregww.com^
@@ -13247,6 +13252,7 @@
 ||dqvnpbs.com^
 ||dqxbqubsknfc.com^
 ||dqxifbm.com^
+||dqypqewirrf.com^
 ||dqzsejvbr.com^
 ||dr0.biz^
 ||dr22.biz^
@@ -15973,6 +15979,7 @@
 ||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fluemantappall.guru^
+||fluencydepressing.com^
 ||fluencyinhabited.com^
 ||fluencythingy.com^
 ||fluentlydeadlineski.com^
@@ -16555,6 +16562,7 @@
 ||fucoustittup.uno^
 ||fucsarhyhlci.com^
 ||fudginghoners.com^
+||fudukrujoa.com^
 ||fuelcathine.top^
 ||fuelpearls.com^
 ||fugcgfilma.com^
@@ -18072,6 +18080,7 @@
 ||guestsfingertipchristian.com^
 ||guestssum.com^
 ||guftaujug.com^
+||gugletkvarner.top^
 ||guidonsfeeing.com^
 ||guigebichir.website^
 ||guiletoad.com^
@@ -24812,6 +24821,7 @@
 ||moaningbeautifulnobles.com^
 ||moaningtread.com^
 ||moanomoa.xyz^
+||moapaglee.net^
 ||moapevuwtv.com^
 ||moapuwhe.com^
 ||moartraffic.com^
@@ -27655,6 +27665,7 @@
 ||oukoushu.xyz^
 ||ouldhukelpm.org^
 ||ouleegneeje.com^
+||oulragart.xyz^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -28633,6 +28644,7 @@
 ||persuasivepenitentiary.com^
 ||pertawee.net^
 ||pertersacstyli.com^
+||pertfinds.com^
 ||pertlouv.com^
 ||perttogahoot.com^
 ||pertyvaluationia.monster^
@@ -28733,6 +28745,7 @@
 ||phaitaghy.com^
 ||phaixurd.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phamsacm.net^
 ||phanoaftapt.com^
 ||phantomattestationzillion.com^
@@ -29597,6 +29610,7 @@
 ||ppjqgbz.com^
 ||pplferio.com^
 ||pplgwic.com^
+||ppmzcafertd.com^
 ||ppoommhizazn.com^
 ||ppovysmcycmwvv.com^
 ||pppbr.com^
@@ -31091,6 +31105,7 @@
 ||ragged-weakness.pro^
 ||raggledordures.com^
 ||ragita.uno^
+||raglanyakking.com^
 ||raglassofrum.cc^
 ||ragsbxhchr.xyz^
 ||ragwviw.com^
@@ -31120,6 +31135,7 @@
 ||raisinmanagelivestock.com^
 ||raivoufe.xyz^
 ||rajabets.xyz^
+||rajmobbism.com^
 ||rakamu.com^
 ||rakhen.com^
 ||rakiblinger.com^
@@ -32492,6 +32508,7 @@
 ||rqnomljdot.xyz^
 ||rqtrk.eu^
 ||rqwel.com^
+||rqwyrdwlaygwxkw.com^
 ||rreauksofthecom.xyz^
 ||rrentlysearchi.info^
 ||rrhscsdlwufu.xyz^
@@ -32970,6 +32987,7 @@
 ||saunerema.net^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
@@ -33648,6 +33666,7 @@
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
+||shepsubsitha.com^
 ||sherryfaithfulhiring.com^
 ||sheschemetraitor.com^
 ||shesseet.com^
@@ -35950,6 +35969,7 @@
 ||tapixesa.pro^
 ||tapjoyads.com^
 ||tapproveofchild.info^
+||taproximo.com^
 ||taprtopcldfa.co^
 ||taprtopcldfard.co^
 ||taprtopcldfb.co^
@@ -38243,6 +38263,7 @@
 ||uphillgrandmaanger.com^
 ||uphilo.com^
 ||uphorter.com^
+||uphoveduke.com^
 ||uphoveeh.xyz^
 ||upinu.xyz^
 ||upkoffingr.com^
@@ -40710,6 +40731,7 @@
 ||xargijqtgysdvgj.com^
 ||xatesfrgkifde.com^
 ||xawlop.com^
+||xaxciisqwvk.com^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
 ||xayiqcwbmmhwf.com^
@@ -41259,6 +41281,7 @@
 ||ykdwyf.com^
 ||ykgkxcount.com^
 ||ykmvnhue.com^
+||ykopnlrbb.com^
 ||ykqalsm.com^
 ||ykraeij.com^
 ||ykrwopdxkw.com^
@@ -43274,6 +43297,7 @@
 ||4e55.xyz^
 ||4e68.xyz^
 ||4e990.xyz^
+||4fb60fd0.xyz^
 ||55cc9d.xyz^
 ||58e0.site^
 ||5ab2f817.xyz^
@@ -46948,7 +46972,6 @@
 ! Act-On : actonservice.com and actonsoftware.com disguised trackers
 ||sharpmarketing.eu^
 ||actonsoftware.com^
-||healthgrades.com^
 ||actonservice.com^
 !
 ! Actionlink.jp : mm.actionlink.jp disguised trackers
@@ -47118,6 +47141,11 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||events.tryamped.com^
+||track.sendlane.com^
+||tracking-v*.a.run.app^
+||m1tm.motor1.com^
+||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
 ||status.techtarget.itmedia.co.jp^
 ||ephemeralcounters.api.roblox.com^
@@ -50173,6 +50201,7 @@ inapps.appsflyersdk.com^
 ||counter-zaehler.de^
 ||dcmn.io^
 ||dl8.me^
+||durchsichtig.xyz^
 ||etrust.eu^
 ||fast-counter.net^
 ||giga-abs.de^
@@ -51801,6 +51830,7 @@ inapps.appsflyersdk.com^
 ||counter.insales.ru^
 ||counter.photopulse.ru^
 ||counter.reddigital.ru^
+||counter.smotrim.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
