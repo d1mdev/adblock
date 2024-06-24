@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-23T22:00:14.581Z
+! Last modified: 2024-06-24T22:00:13.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6239,6 +6239,7 @@
 ||aphemicstull.com^
 ||aphidsapprend.top^
 ||aphidsclee.com^
+||api168168.com^
 ||apiculirackman.top^
 ||apidata.info^
 ||apiecelee.com^
@@ -7586,6 +7587,7 @@
 ||bcuiaw.com^
 ||bcxcxixcwprccn.com^
 ||bczzwakqyae.com^
+||bd51static.com^
 ||bdbffuwrxmsekjp.com^
 ||bdbovbmfu.xyz^
 ||bddc935c97.com^
@@ -26326,6 +26328,7 @@
 ||noureewo.com^
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
+||nouveau-digital.com^
 ||nouveaulain.com^
 ||nouvhidtxryveg.com^
 ||novadune.com^
@@ -43477,6 +43480,7 @@
 !
 !
 !
+||api.sardine.ai^
 ||dmp.one^
 ||dmp-ai.ru^
 ||dmp-one.ru^
