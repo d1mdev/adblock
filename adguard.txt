@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-25T22:00:13.829Z
+! Last modified: 2024-06-26T22:00:22.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10894,6 +10894,7 @@
 ||condensedmassagefoul.com^
 ||condensedspoon.com^
 ||condescendingcertainly.com^
+||conditioneavesdroppingbarter.com^
 ||condles-temark.com^
 ||condodgy.com^
 ||condofeijoa.top^
@@ -23562,6 +23563,7 @@
 ||luckypushh.com^
 ||luckyz.xyz^
 ||lucrativeemotionallypromised.com^
+||lucrinearraign.com^
 ||lucrumvirga.life^
 ||lucvhrdlywvnwh.com^
 ||ludabmanros.com^
@@ -28347,6 +28349,7 @@
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
 ||paughtyrostrum.com^
+||paugrozefou.net^
 ||paularrears.com^
 ||paulastroid.com^
 ||paulcorrectfluid.com^
@@ -28528,6 +28531,7 @@
 ||pegirs.com^
 ||pegloang.com^
 ||peirs5tbakchios.com^
+||peisantcorneas.com^
 ||pejzeexukxo.com^
 ||pekcbuz.com^
 ||pekroace.net^
@@ -29738,6 +29742,7 @@
 ||preferencedrank.com^
 ||preferenceforfeit.com^
 ||preferredsaltshift.com^
+||prefershapely.com^
 ||preferunhair.com^
 ||prefleks.com^
 ||pregainpotgut.top^
@@ -35067,6 +35072,7 @@
 ||steamjaws.com^
 ||stedsous.xyz^
 ||steefaulrouy.xyz^
+||steegnow.com^
 ||steel-bedroom.pro^
 ||steeplederivedinattentive.com^
 ||steeplesaturday.com^
@@ -35259,6 +35265,7 @@
 ||straitchangeless.com^
 ||straitmeasures.com^
 ||straitsdeprive.com^
+||straletmitvoth.com^
 ||stranddecidedlydemeanour.com^
 ||strandedpeel.com^
 ||strandedprobable.com^
@@ -42025,6 +42032,7 @@
 ||zzjwblqbwlrnj.top^
 ||zzkwsosixkdu.com^
 ||zzqolojyqkamj.top^
+||zztsxepxumxoyw.com^
 ||zzzjvqzkmqjlo.top^
 ||zzzjvqzkmqjyb.top^
 ! Anti-drainer eth phishing
@@ -42145,13 +42153,18 @@
 ||yimkju.com^
 ||zhu-ni-hao-yun.sh^
 ||zxcbaby.ru^
+! $document blocks
+||5wzgtq8dpk.com^
+||65spy7rgcu.com^
 ||asqualmag.com^
 ||bestunfollow.com^
 ||chattedhelio.top^
 ||dianomi.com^
 ||emperilchilies.top^
+||hfr67jhqrw8.com^
 ||lookup-domain.com^
 ||mgid.com^
+||tbao684tryo.com^
 ||tracking.injoyalot.com^
 ||vpn-offers.org^
 ||vriddhipardee.top^
@@ -43373,6 +43386,7 @@
 ||9814b49f.xyz^
 ||a49ebd.xyz^
 ||a67d12.xyz^
+||a8b68645.xyz^
 ||b0eb63.xyz^
 ||b211.xyz^
 ||b2bf222e.xyz^
@@ -43391,6 +43405,7 @@
 ||cd57296e.xyz^
 ||ce357c.xyz^
 ||cfb98a.xyz^
+||d477275c.xyz^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
 ||d980ed.xyz^
@@ -43507,6 +43522,7 @@
 !
 !
 !
+||pixel.mintigo.com^
 ||api.sardine.ai^
 ||dmp.one^
 ||dmp-ai.ru^
@@ -47193,6 +47209,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||metrics.api.drift.com^
+||targeting.api.drift.com^
+||event.api.drift.com^
 ||matomo.promobil.de^
 ||api.ad-platform.jmty.jp^
 ||events.tryamped.com^
@@ -47213,9 +47232,6 @@
 ||topspin.npo.nl^
 ||collect.stepstone.co.uk^
 ||analytics.poferries.com^
-||collector-*.px-cloud.net^
-||collector-*.px-cdn.net^
-||collector-*.pxchk.net^
 ||v225.ksbw.com^
 ||k030.koco.com^
 ||u082.wapt.com^
@@ -47417,7 +47433,6 @@
 ||gtm.vanmoof.com^
 ||gtm.wonderbly.com^
 ||gtm.docswell.com^
-||collector-pxfqtaw5et.px-client.net^
 ||statistik.changing-cities.org^
 ||ping.paidy.com^
 ||a.deadlinefunnel.com^
@@ -50910,7 +50925,6 @@ inapps.appsflyersdk.com^
 ||event-api.rdstation.com.br^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
-||event.api.drift.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||events.api.secureserver.net^
@@ -51039,7 +51053,6 @@ inapps.appsflyersdk.com^
 ||measure.refinery89.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
-||metrics.api.drift.com^
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
@@ -51096,7 +51109,6 @@ inapps.appsflyersdk.com^
 ||pixel.ampry.com^
 ||pixel.archipro.co.nz^
 ||pixel.blivenyc.com^
-||pixel.mintigo.com^
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.redgifs.com^
@@ -51431,7 +51443,6 @@ inapps.appsflyersdk.com^
 ||d1733r3id7jrw5.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1hyarjnwqrenh.cloudfront.net^
