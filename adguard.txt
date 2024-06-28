@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-06-27T22:00:18.487Z
+! Last modified: 2024-06-28T22:00:14.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5841,6 +5841,7 @@
 ||altairaquilae.top^
 ||altarhackees.digital^
 ||altarrousebrows.com^
+||altcoin.care^
 ||alterassumeaggravate.com^
 ||alterationappealprison.com^
 ||alterhimdecorate.com^
@@ -9625,9 +9626,11 @@
 ||cavebummer.com^
 ||cavecredentialdeer.com^
 ||caveestate.com^
+||cavewrap.care^
 ||caviarconcealed.com^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -10422,7 +10425,6 @@
 ||clickgate.biz^
 ||clickgate08.biz^
 ||clickintext.com^
-||clickiocdn.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -11529,7 +11531,10 @@
 ||cryonickru.com^
 ||cryorganichash.com^
 ||cryptoatom.care^
+||cryptobeneluxbanner.care^
+||cryptomaster.care^
 ||cryptomcw.com^
+||cryptonewsdom.care^
 ||cryptraffic.de^
 ||cschyogh.com^
 ||csfabdtmrs.com^
@@ -17943,6 +17948,7 @@
 ||gribsastiw.com^
 ||griddedwarling.top^
 ||gridder.co^
+||gridrelay27.co^
 ||griecemae.top^
 ||grievedclaimed.com^
 ||grievethereafter.com^
@@ -20166,6 +20172,7 @@
 ||influxtabloidkid.com^
 ||influxtravellingpublicly.com^
 ||infodonorbranch.com^
+||infonewsz.care^
 ||infopicked.com^
 ||informalequipment.pro^
 ||informantbartonharass.com^
@@ -21631,6 +21638,7 @@
 ||jyozavoyyykby.top^
 ||jyqekzewvyojy.top^
 ||jyrfbtmbuqeaeo.com^
+||jysocexrxbodh.com^
 ||jytbxzil.com^
 ||jyuirxswk.com^
 ||jywczbx.com^
@@ -24088,6 +24096,7 @@
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
 ||massariuscdn.com^
+||massbrag.care^
 ||massecephid.uno^
 ||massesnieces.com^
 ||massiveunnecessarygram.com^
@@ -27790,6 +27799,7 @@
 ||outfoxnapalms.com^
 ||outgateniceish.com^
 ||outglowkeysets.guru^
+||outhauzours.com^
 ||outheelrelict.com^
 ||outhulem.net^
 ||outkisslahuli.com^
@@ -28441,6 +28451,7 @@
 ||pccasia.xyz^
 ||pcdgninekvch.com^
 ||pcfchubby.top^
+||pcglvhrln.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
 ||pcirurrkeazm.com^
@@ -29330,6 +29341,7 @@
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podefr.net^
+||podgilyfattens.com^
 ||podlersabir.com^
 ||podosupsurge.com^
 ||podsolnu9hi10.com^
@@ -32990,6 +33002,7 @@
 ||sandtheircle.com^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sangeiunzen.com^
 ||sanggilregard.com^
@@ -33587,6 +33600,7 @@
 ||sexyadsrun.com^
 ||sexyepc.com^
 ||seynatcreative.com^
+||sf-ads.io^
 ||sfafabztidi.com^
 ||sfcfssgbrhnsb.com^
 ||sffsdvc.com^
@@ -36024,6 +36038,7 @@
 ||taoyinbiacid.com^
 ||taozgpkjzpdtgr.com^
 ||tapallpurposepantomime.com^
+||tapchibitcoin.care^
 ||tapdb.net^
 ||tapeabruptlypajamas.com^
 ||tapestrygenus.com^
@@ -37022,6 +37037,7 @@
 ||torattatachan.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torioluor.com^
 ||toromclick.com^
 ||tororango.com^
@@ -39779,6 +39795,7 @@
 ||weaponsnondescriptperceive.com^
 ||weaponvelocitypredator.com^
 ||weaptqsmbshwd.xyz^
+||wearbald.care^
 ||wearevaporatewhip.com^
 ||wearinggenear.com^
 ||wearishalgins.com^
@@ -40093,6 +40110,7 @@
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehugestories.com^
 ||wholehugewords.com^
@@ -43549,6 +43567,7 @@
 !
 !
 !
+||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
 ||pixel.mintigo.com^
 ||api.sardine.ai^
@@ -44198,6 +44217,7 @@
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
 ||events-api.gazetadopovo.com.br^
+||s.clickiocdn.com^
 ||i-cmg-amlg-prod.appspot.com^
 ||a.myfidevs.io^
 ||capture-api.autopilotapp.com^
@@ -47237,6 +47257,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pyxis.atp.fox^
+||r.sib2.gardrops.com^
+||nst.trex.media^
+||pixel.kodixauto.ru^
 ||metrics.biddertmz.com^
 ||moduleanalysis.aliexpress.com^
 ||metrics.doppiostreams.com^
