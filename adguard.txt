@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-04T22:00:12.927Z
+! Last modified: 2024-07-05T22:00:12.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3829,6 +3829,7 @@
 ||44a9217f10.com^
 ||44ffd27303.com^
 ||452tapgn.de^
+||453130fa9e.com^
 ||46186911.vtt^
 ||46243b6252.com^
 ||463fca0d34.com^
@@ -9703,6 +9704,7 @@
 ||cesebtp.com^
 ||cesiumsemboite.com^
 ||cessationcorrectmist.com^
+||cessationhamster.com^
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
@@ -12749,6 +12751,7 @@
 ||dizzyrebozo.website^
 ||dizzyshe.pro^
 ||dj-updates.com^
+||dj2550.com^
 ||djadoc.com^
 ||djefosbx.com^
 ||djfiln.com^
@@ -15330,6 +15333,7 @@
 ||fgbthrsxnlo.xyz^
 ||fgdxwpht.com^
 ||fgfgnbmeieorr910.com^
+||fgigrmle.xyz^
 ||fgijincfktbguv.xyz^
 ||fgislklsqqytr.com^
 ||fgisstdudch.com^
@@ -16804,6 +16808,7 @@
 ||ggsbjzyo.com^
 ||ggsfq.com^
 ||ggvhbnkfc.com^
+||ggwifobvx.com^
 ||ggxcoez.com^
 ||ggxyyalrj.com^
 ||ggzckmlts.com^
@@ -26604,6 +26609,7 @@
 ||ongrpdwwnvliao.xyz^
 ||onibyezctus.com^
 ||oninewsful.life^
+||onkafxtiqcu.com^
 ||onkavst.com^
 ||online-adnetwork.com^
 ||onlinedeltazone.online^
@@ -34263,6 +34269,7 @@
 ||stealthlockers.com^
 ||steamdespicable.com^
 ||steamjaws.com^
+||stedrits.xyz^
 ||stedsous.xyz^
 ||steefaulrouy.xyz^
 ||steegnow.com^
@@ -35702,6 +35709,7 @@
 ||thongsalhagi.com^
 ||thongtechnicality.com^
 ||thongwarily.com^
+||thoohizoogli.xyz^
 ||thoorest.com^
 ||thoorgins.com^
 ||thoorteeboo.xyz^
@@ -42445,6 +42453,7 @@
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
+||fe30a5b4.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -42543,6 +42552,8 @@
 !
 !
 !
+||qobuz.surveysparrow.com^
+||srvr.dmvs-apac.com^
 ||analytics.freespee.com^
 ||dash.zintrack.com^
 ||revotas.com^
@@ -46237,6 +46248,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
 ||track.amebame.com^
 ||pks-analytics.raenonx.cc^
@@ -49867,7 +49879,6 @@ inapps.appsflyersdk.com^
 ||collect.rewardstyle.com^
 ||collect.verify.lnearn.com^
 ||collection.e-satisfaction.com^
-||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-soompi.viki.io^
 ||collector.api.video^
@@ -50861,6 +50872,7 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||log.f-tra.com^
+||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
