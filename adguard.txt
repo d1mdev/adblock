@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-05T22:00:12.940Z
+! Last modified: 2024-07-06T22:00:13.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3884,6 +3884,7 @@
 ||50382fd2f1.com^
 ||506f94d3ef.com^
 ||50745a9d63.com^
+||5165c0c080.com^
 ||5236b66b81.com^
 ||52dvzo62i.com^
 ||52ee3dc5fe.com^
@@ -6093,6 +6094,7 @@
 ||antibot.me^
 ||anticipatedlying.com^
 ||anticipatedthirteen.com^
+||anticipateplummorbid.com^
 ||anticipationit.com^
 ||anticipationnonchalanceaccustomed.com^
 ||antidotefoepersecution.com^
@@ -10371,6 +10373,7 @@
 ||clothingtentativesuffix.com^
 ||clotstupara.com^
 ||clotthirstyshare.com^
+||cloud-stats.info^
 ||cloudcnfare.com^
 ||cloudconvenient.com^
 ||clouddecrease.com^
@@ -11689,6 +11692,7 @@
 ||daithithapta.net^
 ||daiwheew.com^
 ||daizoode.com^
+||dajkq.com^
 ||dakjddjerdrct.online^
 ||dalecigarexcepting.com^
 ||dalecta.com^
@@ -15050,6 +15054,7 @@
 ||fardelbungo.com^
 ||fardemanjack.com^
 ||fardingsoiling.com^
+||farewell457.fun^
 ||farflungwelcome.pro^
 ||fargwyn.com^
 ||farmagegaudful.com^
@@ -19835,6 +19840,7 @@
 ||innity.net^
 ||innocencescarcelymoreover.com^
 ||innocencestrungdocumentation.com^
+||innocent154.fun^
 ||innovationcomet.com^
 ||innovationlizard.com^
 ||inntentativeflame.com^
@@ -20149,6 +20155,7 @@
 ||iredirect.net^
 ||iresandal.info^
 ||irgvfdwicqerqfy.com^
+||irhpzbrnoyf.com^
 ||iridizemohegan.com^
 ||irisaffectioneducate.com^
 ||irishormone.com^
@@ -23894,6 +23901,7 @@
 ||metsaubs.net^
 ||mettlecrating.com^
 ||metwandfertile.top^
+||metzia.xyz^
 ||mevarabon.com^
 ||mewgzllnsp.com^
 ||mewlstomolo.top^
@@ -26148,6 +26156,7 @@
 ||ocasosfjpbf.com^
 ||ocbyxycdl.xyz^
 ||occame.com^
+||occasion219.fun^
 ||occasionallyregionsadverb.com^
 ||occdmioqlo.com^
 ||occndvwqxhgeicg.xyz^
@@ -33316,6 +33325,7 @@
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
+||skilleservices.com^
 ||skilletperonei.com^
 ||skillpropulsion.com^
 ||skilyake.net^
@@ -39361,6 +39371,7 @@
 ||wizkrdxivl.com^
 ||wizssgf.com^
 ||wjgcygwgrvooio.com^
+||wjkhieahcmao.com^
 ||wjljwqbmmjjmw.top^
 ||wjljwqbmmjlmm.top^
 ||wjudihl.com^
@@ -40160,6 +40171,7 @@
 ||xxltr.com^
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
+||xxopairckrdhcx.com^
 ||xxpghuf.com^
 ||xxwflybvwbario.com^
 ||xxxbannerswap.com^
@@ -42385,6 +42397,7 @@
 ||4e55.xyz^
 ||4e68.xyz^
 ||4fb60fd0.xyz^
+||54eeeadb.xyz^
 ||55cc9d.xyz^
 ||58e0.site^
 ||5ab2f817.xyz^
@@ -42410,6 +42423,7 @@
 ||977878.xyz^
 ||97b448.xyz^
 ||9814b49f.xyz^
+||9bc639da.xyz^
 ||a49ebd.xyz^
 ||a67d12.xyz^
 ||a8b68645.xyz^
@@ -50119,6 +50133,7 @@ inapps.appsflyersdk.com^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
 ||myscoop-tracking.googlecode.com^
+||native-ads-events-api.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -50925,6 +50940,7 @@ inapps.appsflyersdk.com^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||track.noddus.com^
+||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -51367,8 +51383,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jun 2024 22:20 UTC+7
-! Version: 2406302220
+! Last modified: 06 Jul 2024 23:15 UTC+7
+! Version: 2407062315
 ! Blocked: 895 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
