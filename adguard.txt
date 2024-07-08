@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-07T22:00:13.972Z
+! Last modified: 2024-07-08T22:00:13.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42461,6 +42461,7 @@
 ||ec44.site^
 ||f090.site^
 ||f2f8.xyz^
+||f33d11b5.xyz^
 ||f417a726.xyz^
 ||f4c9a0fb.xyz^
 ||f6176563.site^
@@ -42567,6 +42568,8 @@
 !
 !
 !
+||exacttarget.com^
+||analytics.launch.bz^
 ||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
 ||analytics.freespee.com^
@@ -46263,6 +46266,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trc.r25.jp^
 ||anal.doubledouble.top^
 ||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
