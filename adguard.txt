@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-09T22:00:14.872Z
+! Last modified: 2024-07-10T22:00:13.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4022,6 +4022,7 @@
 ||71d7511a4861068.com^
 ||71dd1ff9fd.com^
 ||71ec0646e6.com^
+||721ffc3ec5.com^
 ||722cba612c.com^
 ||7253d56acf.com^
 ||72hdgb5o.de^
@@ -4346,6 +4347,7 @@
 ||ablecolony.com^
 ||abletoprese.org^
 ||ablitleoor.com^
+||ablkkukpaoc.com^
 ||abluentshinny.com^
 ||abluvdiscr.com^
 ||ablybeastssarcastic.com^
@@ -6043,6 +6045,7 @@
 ||annotationmadness.com^
 ||announcedseaman.com^
 ||announceflealanding.com^
+||announcement317.fun^
 ||announcementlane.com^
 ||announceproposition.com^
 ||announcinglyrics.com^
@@ -10096,6 +10099,7 @@
 ||ciazdymfepv.com^
 ||cibouleamazer.com^
 ||cicamica.xyz^
+||cickofou.com^
 ||cideparenhem.com^
 ||cidrulj.com^
 ||ciedpso.com^
@@ -11382,6 +11386,7 @@
 ||cryptomaster.care^
 ||cryptomcw.com^
 ||cryptonewsdom.care^
+||cryptotyc.care^
 ||cschyogh.com^
 ||csfabdtmrs.com^
 ||csggmxrbt.com^
@@ -12009,6 +12014,7 @@
 ||deecqem892bg5er.com^
 ||deedeedthowel.top^
 ||deedeedwinos.com^
+||deedeisasbeaut.info^
 ||deedtampertease.com^
 ||deefauph.com^
 ||deeginews.com^
@@ -12358,6 +12364,7 @@
 ||dgtklmbypacjq.com^
 ||dgttkthhgjm.com^
 ||dguhjlbefeuf.com^
+||dgxmvglp.com^
 ||dh956.com^
 ||dhadbeensoattr.info^
 ||dhfkavse.com^
@@ -13999,6 +14006,7 @@
 ||ellcurvth.com^
 ||ellicecaesura.com^
 ||elliotannouncing.com^
+||ellipticaldatabase.pro^
 ||ellmtlvlpihr.com^
 ||elltheprecise.org^
 ||elmonopolicycr.info^
@@ -14083,6 +14091,7 @@
 ||empowertranslatingalloy.com^
 ||emptorrevalue.digital^
 ||emqomxdwrhol.com^
+||emqrjjvalnqbm.top^
 ||emqrjjveqnjab.top^
 ||emqrjjveqnnav.top^
 ||emqrjjveqnnjw.top^
@@ -15544,6 +15553,7 @@
 ||fitting-population.com^
 ||fittingcentermonday.com^
 ||fittitfucose.com^
+||fivcgqubtfowus.com^
 ||fivelegant.com^
 ||fivetrafficroads.com^
 ||fivulsou.xyz^
@@ -16848,6 +16858,7 @@
 ||ghilliebottles.com^
 ||ghisiva.top^
 ||ghjhucekiywqrk.com^
+||ghmwlirru.com^
 ||ghnvfncbleiu.xyz^
 ||ghostchisel.com^
 ||ghostnewz.com^
@@ -17196,6 +17207,7 @@
 ||gmiqicw.com^
 ||gmixiwowford.com^
 ||gmkflsdaa.com^
+||gmknz.com^
 ||gml-grp.com^
 ||gmlebdifvxzzl.com^
 ||gmltiiu.com^
@@ -17895,6 +17907,7 @@
 ||gzigudxidz.com^
 ||gzkkbuvz.com^
 ||gzpphnbvqj.com^
+||gzqihxnfhq.com^
 ||gzqsxbgnggnho.com^
 ||h0w-t0-watch.net^
 ||h12-media.com^
@@ -18063,6 +18076,7 @@
 ||harlequinsleepyfrog.xyz^
 ||harmalpilotry.com^
 ||harmfulresolution.com^
+||harmfulsong.pro^
 ||harmless-sample.pro^
 ||harmlessepic.com^
 ||harmlesstacticalhonorable.com^
@@ -19089,6 +19103,7 @@
 ||hutajkerfvbman.com^
 ||hutanz.xyz^
 ||hutlockshelter.com^
+||hutoumseet.com^
 ||hutremindbond.com^
 ||huvohjvpaog.com^
 ||huwkiycoup.com^
@@ -20017,6 +20032,7 @@
 ||interestmoments.com^
 ||interestsubsidereason.com^
 ||interfacemotleyharden.com^
+||interference350.fun^
 ||interfereparagraphinterrogate.com^
 ||interferepenetrate.com^
 ||intergient.com^
@@ -20448,6 +20464,7 @@
 ||jagice.uno^
 ||jagnoans.com^
 ||jagqrhvcvoqjw.com^
+||jaifeeveely.com^
 ||jaigaivi.xyz^
 ||jainapse.com^
 ||jainbagong.com^
@@ -21788,6 +21805,7 @@
 ||kstjqjuaw.xyz^
 ||kstvhknmhfppbf.com^
 ||ksurpiwdayc.com^
+||ksvrvtehpmfbylm.com^
 ||ksvtdifdlqyrv.com^
 ||kswiwxupqa.com^
 ||ksykbucea.com^
@@ -23763,6 +23781,7 @@
 ||mediocrecount.com^
 ||meditateenhancements.com^
 ||mediuln.com^
+||mediumtunapatter.com^
 ||medleyads.com^
 ||medoofty.com^
 ||medusasglance.com^
@@ -27219,6 +27238,7 @@
 ||overlivedub.com^
 ||overlook.fun^
 ||overlooked-scratch.pro^
+||overlookedtension.pro^
 ||overlookrapt.com^
 ||overlyindelicatehoard.com^
 ||overmewer.com^
@@ -27319,6 +27339,7 @@
 ||oxmoonlint.com^
 ||oxmqzeszyo.com^
 ||oxnhhswdzwam.com^
+||oxowcjxiffsj.com^
 ||oxrqdkfftw.com^
 ||oxthrilled.com^
 ||oxtkmgvmgu.com^
@@ -31848,6 +31869,7 @@
 ||rsaltsjt.com^
 ||rscilx49h.com^
 ||rsdoxzmhrjovcz.com^
+||rsfmzirxwg.com^
 ||rsgouhlbhfl.com^
 ||rsldfvt.com^
 ||rsnjmocfenkewq.com^
@@ -32277,6 +32299,7 @@
 ||satinelicheny.com^
 ||satireunhealthy.com^
 ||satirevegetableshaw.com^
+||satisfaction399.fun^
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
 ||satisfied-tour.pro^
@@ -33166,7 +33189,6 @@
 ||sidewalkcrazinesscleaning.com^
 ||sidewayfrosty.com^
 ||sidewaysuccession.com^
-||sielsmaats.com^
 ||sierradissolved.com^
 ||sierrasectormacaroni.com^
 ||sieveallegeministry.com^
@@ -34818,6 +34840,7 @@
 ||supervisebradleyrapidly.com^
 ||supervisionlanguidpersonnel.com^
 ||supervisionprohibit.com^
+||supervisofosevera.com^
 ||superxxxfree.com^
 ||supgedcowxkmzr.com^
 ||suphelper.com^
@@ -36394,6 +36417,7 @@
 ||traffoxx.uk^
 ||trafget.com^
 ||trafogon.com^
+||trafsupr.com^
 ||trafyield.com^
 ||tragedyhaemorrhagemama.com^
 ||tragency-clesburg.icu^
@@ -37337,6 +37361,7 @@
 ||unmightboxen.com^
 ||unmisdreavusom.com^
 ||unnamesline.com^
+||unnaturalstring.com^
 ||unnecessarydispleasedleak.com^
 ||unnish.com^
 ||unoblotto.net^
@@ -37906,6 +37931,7 @@
 ||vbmfeuvrtnxafy.com^
 ||vbqbtfkon.com^
 ||vbrbgki.com^
+||vbrusdiifpfd.com^
 ||vbtrax.com^
 ||vbzsjkrnsqewy.com^
 ||vcbydvfouqqyls.com^
@@ -38074,6 +38100,7 @@
 ||vheoggjiqaz.com^
 ||vhihvqsuarpp.com^
 ||vhneajupavrb.com^
+||vhrtgvzcmrfoo.com^
 ||vhsugcbelruygy.com^
 ||vhvmiinx.com^
 ||vi-serve.com^
@@ -38853,6 +38880,7 @@
 ||wcmcs.net^
 ||wcnhhqqueu.com^
 ||wcnndaazbwmane.com^
+||wcpltnaoivwob.xyz^
 ||wcqtgwsxur.xyz^
 ||wct.link^
 ||wcuolmojkzir.com^
@@ -40004,6 +40032,7 @@
 ||xipaaqgnrehpdns.com^
 ||xipehexose.com^
 ||xipteq.com^
+||xipwdvkessqguv.com^
 ||xiqougw.com^
 ||xiryrnrz.com^
 ||xissidearm.com^
@@ -40674,6 +40703,7 @@
 ||yzyvfrfran.com^
 ||z0il3m3u2o.pro^
 ||z1sz88obrtb5.shop^
+||z54a.xyz^
 ||z5x.net^
 ||z7yru.com^
 ||zabanit.xyz^
@@ -42481,6 +42511,7 @@
 ||caa2c4.xyz^
 ||cd57296e.xyz^
 ||ce357c.xyz^
+||cf959857.live^
 ||cfb98a.xyz^
 ||d23d450d.xyz^
 ||d477275c.xyz^
@@ -42501,6 +42532,7 @@
 ||f4c9a0fb.xyz^
 ||f6176563.site^
 ||f6b458fd.xyz^
+||f700fa18.live^
 ||f816e81d.xyz^
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
@@ -46304,6 +46336,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||beacon.necotracks.jp^
+||logs2.jobs.com^
+||t.semafor.com^
 ||trc.r25.jp^
 ||anal.doubledouble.top^
 ||peach-analytics.vercel.app^
@@ -50357,6 +50392,7 @@ inapps.appsflyersdk.com^
 ||t.cfjump.com^
 ||t.dgm-au.com^
 ||t.enuygun.com^
+||t.fullres.net^
 ||t.jobsyn.org^
 ||t.menepe.com^
 ||t.playwayfinder.com^
