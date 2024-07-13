@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-12T22:00:12.236Z
+! Last modified: 2024-07-13T22:00:12.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -7704,6 +7704,7 @@
 ||beklefkiom.com^
 ||beklinkor.com^
 ||belamicash.com^
+||belatedsafety.pro^
 ||belavoplay.com^
 ||belaya2shu1ba1.com^
 ||belengougha.com^
@@ -33083,6 +33084,7 @@
 ||shocked-failure.com^
 ||shockedfoxed.top^
 ||shocking-design.pro^
+||shocking-profile.pro^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shodaisy.com^
@@ -39284,6 +39286,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopping-sea.com^
 ||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
@@ -48405,7 +48408,6 @@
 ||tdep.kvk.nl^
 ||tdk.petsplace.nl^
 ||ted.dailymail.co.uk^
-||telegraf.detmir-stats.ru^
 ||telemetry-in.battle.net^
 ||telemetry.art19.com^
 ||telemetry.battle.net^
@@ -49764,6 +49766,7 @@ inapps.appsflyersdk.com^
 ||botdetector.ru^
 ||bumlam.com^
 ||checkru.net^
+||detmir-stats.ru^
 ||directcrm.ru^
 ||e-kuzbass.ru^
 ||idntfy.ru^
@@ -51108,6 +51111,7 @@ inapps.appsflyersdk.com^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
+||ga-tracker-dot-detmir-bonus.appspot.com^
 ||hubrus.com^
 ||ip.up66.ru^
 ||logs.viavideo.digital^
