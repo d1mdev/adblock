@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-13T22:00:12.968Z
+! Last modified: 2024-07-14T22:00:13.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6226,6 +6226,7 @@
 ||apostropheammunitioninjure.com^
 ||apostrophepanediffer.com^
 ||app.tippp.io^
+||app2up.info^
 ||appads.com^
 ||apparatusditchtulip.com^
 ||apparelbrandsabotage.com^
@@ -6889,6 +6890,7 @@
 ||auneghus.net^
 ||aungudie.com^
 ||aunsagoa.xyz^
+||aunsaick.com^
 ||auntlyseniors.top^
 ||auobxpvjej.xyz^
 ||auphirtie.com^
@@ -7054,6 +7056,7 @@
 ||awkljjaaweyzm.top^
 ||awkwardpurfles.com^
 ||awkwardsuperstition.com^
+||awldcupu.com^
 ||awledconside.xyz^
 ||awlov.info^
 ||awltovhc.com^
@@ -7192,6 +7195,7 @@
 ||b2o6b39taril.com^
 ||b30674b49e.com^
 ||b397db8f50.com^
+||b3b526dee6.com^
 ||b3kyo0de1fr0.com^
 ||b3mccglf4zqz.shop^
 ||b3ra6hmstrioek54er.com^
@@ -10218,6 +10222,7 @@
 ||clairekabobs.com^
 ||clampalarmlightning.com^
 ||clangearnest.com^
+||clankexpelledidentification.com^
 ||clanklastingfur.com^
 ||clapperfone.uno^
 ||clarifyeloquentblackness.com^
@@ -15058,6 +15063,7 @@
 ||falsechasingdefine.com^
 ||falsifybrightly.com^
 ||falsifylilac.com^
+||familiarpyromaniasloping.com^
 ||familyborn.com^
 ||familycomplexionardently.com^
 ||famobmf.com^
@@ -16289,6 +16295,7 @@
 ||ftslrfl.com^
 ||ftte.fun^
 ||ftte.xyz^
+||fttervlvoj.com^
 ||fttjyji.com^
 ||ftuaxqokbxow.com^
 ||ftv-publicite.fr^
@@ -17047,6 +17054,7 @@
 ||glazegha.com^
 ||glazepalette.com^
 ||glbtrk.com^
+||gldrdr.com^
 ||gleagainedam.info^
 ||gleamcalumnygeneralize.com^
 ||gleamcoupgently.com^
@@ -17465,6 +17473,7 @@
 ||gqalqi656.com^
 ||gqcmqihonrx.com^
 ||gqdvbkmnkox.com^
+||gqfuf.com^
 ||gqhrflhprg.com^
 ||gqilaywrqy.com^
 ||gqskcsljniadk.com^
@@ -18689,6 +18698,7 @@
 ||hmrxsxvl.com^
 ||hmsykhbqvesopt.xyz^
 ||hmutggsidcnhj.com^
+||hmxg5mhyx.com^
 ||hmyuokltxplqwfa.com^
 ||hn1l.site^
 ||hnfljokqhc.com^
@@ -19363,6 +19373,7 @@
 ||ifsjqcqja.xyz^
 ||ifsnickshriek.click^
 ||ifsnickshriek.com^
+||ifulasaweatherc.info^
 ||ifvxoluyhof.com^
 ||ifzpvnrjp.com^
 ||ig0nr8hhhb.com^
@@ -20080,6 +20091,7 @@
 ||interstateflannelsideway.com^
 ||interstitial-07.com^
 ||interstitial-08.com^
+||intervention304.fun^
 ||interviewabonnement.com^
 ||interviewearnestlyseized.com^
 ||interviewidiomantidote.com^
@@ -21811,6 +21823,7 @@
 ||krixyncbsyhju.com^
 ||krjxhvyyzp.com^
 ||krkmkvxneig.com^
+||krkstrk.com^
 ||kronentriduo.top^
 ||kronosspell.com^
 ||krqjfirm.com^
@@ -23228,6 +23241,7 @@
 ||lydebbqcuam.com^
 ||lydiacorneredreflect.com^
 ||lydiapain.com^
+||lyearsfoundhertob.com^
 ||lyfoldqwyihiv.xyz^
 ||lygbbkgykzcr.com^
 ||lygvtmeaekuv.com^
@@ -25030,6 +25044,7 @@
 ||namesakecapricorntotally.com^
 ||namesakedisappointmentpulverize.com^
 ||namesakeoscilloscopemarquis.com^
+||namjzoa.xyz^
 ||namol.xyz^
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
@@ -25248,6 +25263,7 @@
 ||negyuk.com^
 ||nehree.com^
 ||neigh11.xyz^
+||neighborhood268.fun^
 ||neigna.com^
 ||neintheworld.org^
 ||neitherpennylack.com^
@@ -26401,6 +26417,7 @@
 ||ogrrmasukq.com^
 ||ogtakvkpoaxt.com^
 ||ogvkyxx.com^
+||ogwkwcgmnarq.com^
 ||ogwmubfnjbzyo.com^
 ||ogwnjcumfbgm.com^
 ||ogwqkgtboxol.com^
@@ -26959,6 +26976,7 @@
 ||oreyeshe.info^
 ||orfa1st5.de^
 ||orgagetnization.org^
+||organiccopiedtranquilizer.com^
 ||organizecoldness.com^
 ||organrydipody.com^
 ||organsthud.com^
@@ -27534,6 +27552,7 @@
 ||palsybrush.com^
 ||palsyowe.com^
 ||paltryheadline.com^
+||paluinho.cloud^
 ||palvanquish.com^
 ||palycaid.life^
 ||palzscurou.com^
@@ -28216,6 +28235,7 @@
 ||pheptoam.com^
 ||pheselta.net^
 ||phesheet.net^
+||phetsaikrugi.com^
 ||phewhouhopse.com^
 ||phftcml.com^
 ||phglobk.com^
@@ -29547,6 +29567,7 @@
 ||pseidpmubwu.com^
 ||psemotion.top^
 ||psensuds.net^
+||psergete.com^
 ||psfdi.com^
 ||psfgobbet.com^
 ||pshb.me^
@@ -31130,6 +31151,7 @@
 ||renewdateromance.life^
 ||renewedinexorablepermit.com^
 ||renewmodificationflashing.com^
+||renewpacificdistrict.com^
 ||renomeeguze.com^
 ||renovatefairfaxmope.com^
 ||renownsimultaneouslyunresolved.com^
@@ -31634,6 +31656,7 @@
 ||rmixfgusqoc.com^
 ||rmndme.com^
 ||rmrtgsheui.com^
+||rmshqa.com^
 ||rmuuspy.com^
 ||rmvvawqobqvaq.top^
 ||rmvvawqobqvmv.top^
@@ -32509,6 +32532,7 @@
 ||scjhnjvlyd.com^
 ||scl6gc5l.site^
 ||sclerasliflod.top^
+||sclimbwidower.top^
 ||sclrnnp.com^
 ||scnd-tr.com^
 ||scobbypseudo.guru^
@@ -33167,6 +33191,7 @@
 ||shrillwife.pro^
 ||shrillyfinland.com^
 ||shrimpexclusive.com^
+||shrimpgenerator.com^
 ||shrinebroom.com^
 ||shrinersstor.com^
 ||shriteringle.digital^
@@ -34748,6 +34773,7 @@
 ||succeedingpeacefully.com^
 ||succeedprosperity.com^
 ||success-news.net^
+||successcuff.com^
 ||successfulpatience.com^
 ||successionfireextinguisher.com^
 ||successionflimsy.com^
@@ -40302,6 +40328,7 @@
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
 ||xxxviijmp.com^
+||xxxvijmp.com^
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
 ||xyardnle.com^
@@ -41357,6 +41384,7 @@
 ||actiondesk.com^
 ||activedancer.com^
 ||ad-adapex.io^
+||ad-mixr.com^
 ||ad-tech.ru^
 ||ad.plus^
 ||ad.style^
@@ -42496,10 +42524,12 @@
 ||1350c3.xyz^
 ||156fd4.xyz^
 ||1a1fb6.xyz^
+||1c52e1e2.live^
 ||1dd6e9ba.xyz^
 ||1f6a725b.xyz^
 ||20519a.xyz^
 ||22dd31.xyz^
+||258104d2.live^
 ||285b0b37.xyz^
 ||28d591da.xyz^
 ||295c.site^
@@ -50228,7 +50258,6 @@ inapps.appsflyersdk.com^
 ||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||kalstats.kaltura.com^
 ||l.fairblocker.com^
-||lambda-url.us-east-1.on.aws^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||leadtracking.plumvoice.com^
@@ -51534,8 +51563,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Jul 2024 23:35 UTC+7
-! Version: 2407072335
+! Last modified: 14 Jul 2024 16:54 UTC+7
+! Version: 2407141654
 ! Blocked: 910 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
