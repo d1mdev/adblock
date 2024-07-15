@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-14T22:00:13.865Z
+! Last modified: 2024-07-15T22:00:13.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3848,6 +3848,7 @@
 ||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
+||4a9517991d.com^
 ||4b215e3bcf.com^
 ||4b41484f8e.com^
 ||4b6994dfa47cee4.com^
@@ -17931,6 +17932,7 @@
 ||gyudlffoisng.com^
 ||gyxkmpf.com^
 ||gzcxtuxgqjrhz.com^
+||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||gzigudxidz.com^
 ||gzkkbuvz.com^
@@ -31431,6 +31433,7 @@
 ||rfaatlrdr.com^
 ||rfeablduda.com^
 ||rfhddwa.com^
+||rficarolnak.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfimzurarqk.com^
@@ -37991,6 +37994,7 @@
 ||vauthaud.net^
 ||vavcashpop.com^
 ||vavhhpkmfc.com^
+||vavuwetus.com^
 ||vawauoggraokog.com^
 ||vawsmoocah.com^
 ||vax-boost.com^
@@ -42725,6 +42729,7 @@
 !
 !
 !
+||sec.webeyez.com^
 ||michiganrobotflower.com^
 ||uid.mediacorp.sg^
 ||exacttarget.com^
@@ -46426,6 +46431,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||akn.analytics.autodesk.com^
 ||marketing.dropbox.com^
 ||ok88okg.infinityscans.net^
 ||evt.24.com^
@@ -51563,9 +51569,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jul 2024 16:54 UTC+7
-! Version: 2407141654
-! Blocked: 910 rules
+! Last modified: 15 Jul 2024 23:10 UTC+7
+! Version: 2407152310
+! Blocked: 911 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52407,6 +52413,7 @@ vkcdnservice.appspot.com^
 ||vieon-tracking.vieon.vn^
 ||vietbuzzad.com^
 ||vietdorje.com^
+||vietnamdaily-log.trithuccuocsong.vn^
 ||vlxx.host^
 ||vnadssb.com^
 ||web-analytic.ghtk.vn^
