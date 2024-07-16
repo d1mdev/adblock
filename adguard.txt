@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-15T22:00:13.257Z
+! Last modified: 2024-07-16T22:00:13.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||srvd2204.com^
 ||miradres.com^
 ||ufouxbwn.com^
 ||eehhabacgieacfjeaacg.world^
@@ -7932,6 +7933,7 @@
 ||bewarevampiresister.com^
 ||bewathis.com^
 ||bewdnkh.com^
+||bewhigwithier.com^
 ||bewitchadmiringconstraint.com^
 ||bewoobaton.com^
 ||bewsejqcbm.com^
@@ -9034,6 +9036,7 @@
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bungeedubbah.com^
+||bungingimpasto.com^
 ||bunintruder.com^
 ||bunquaver.com^
 ||bunth.net^
@@ -9854,6 +9857,7 @@
 ||chartersettlingtense.com^
 ||charterunwelcomealibi.com^
 ||chassirsaud.com^
+||chassnincom.com^
 ||chastehandkerchiefclassified.com^
 ||chatheez.net^
 ||chats2023.online^
@@ -21388,6 +21392,7 @@
 ||keenmosquitosadly.com^
 ||keepinfit.net^
 ||keepingconcerned.com^
+||keepsagri.net^
 ||keepsosto.com^
 ||keeptaza.com^
 ||keewoach.net^
@@ -22374,6 +22379,7 @@
 ||lentmatchwith.info^
 ||lentoidreboast.top^
 ||leonbetvouum.com^
+||leonistenstyle.com^
 ||leonodikeu9sj10.com^
 ||leoojlxbcvnmpbe.com^
 ||leoparddisappearcrumble.com^
@@ -23820,6 +23826,7 @@
 ||medicationneglectedshared.com^
 ||medicineflogaccumulate.com^
 ||medimnbream.top^
+||medinewaps.com^
 ||mediocrecount.com^
 ||meditateenhancements.com^
 ||mediuln.com^
@@ -25282,6 +25289,7 @@
 ||neoftheownouncillo.info^
 ||neonedfilmier.com^
 ||neopowerlab.com^
+||neousaunce.com^
 ||nereserv.com^
 ||nereu-gdr.com^
 ||nerfctv.com^
@@ -28363,6 +28371,7 @@
 ||pigistles.com^
 ||pigletinerm.com^
 ||pigletsmunsee.top^
+||pigmewpiete.com^
 ||pigmydocent.com^
 ||pignuwoa.com^
 ||pigrewartos.com^
@@ -36015,6 +36024,7 @@
 ||timetoagree.com^
 ||timidtraumaticterminate.com^
 ||timingbitternessgreasy.com^
+||timmerintice.com^
 ||timoggownduj.com^
 ||timot-cvk.info^
 ||timsef.com^
@@ -38504,6 +38514,7 @@
 ||vocalreverencepester.com^
 ||vocath.com^
 ||vocationalenquired.com^
+||voderbhungi.com^
 ||vodjnqarncm.com^
 ||vodlpsf.com^
 ||vodobyve.pro^
@@ -38849,6 +38860,7 @@
 ||washinexhaustible.com^
 ||washingbustlewhack.com^
 ||washingoccasionally.com^
+||washokanap.com^
 ||washpottelly.website^
 ||wasortg.com^
 ||wasp-182b.com^
@@ -42514,6 +42526,7 @@
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||00701059.xyz^
 ||02777e.site^
+||03180d2d.live^
 ||0395d1.xyz^
 ||05751c.site^
 ||072551.xyz^
@@ -42527,6 +42540,7 @@
 ||11c7a3.xyz^
 ||1350c3.xyz^
 ||156fd4.xyz^
+||164de830.live^
 ||1a1fb6.xyz^
 ||1c52e1e2.live^
 ||1dd6e9ba.xyz^
@@ -42538,7 +42552,7 @@
 ||28d591da.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
-||2d8bc293.xyz
+||2d8bc293.xyz^
 ||3a2e.site^
 ||3a55f02d.xyz^
 ||3ffa255f.xyz^
@@ -46431,6 +46445,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cnt.web-apps-prod.wo-cloud.com^
 ||akn.analytics.autodesk.com^
 ||marketing.dropbox.com^
 ||ok88okg.infinityscans.net^
@@ -51569,8 +51584,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jul 2024 23:10 UTC+7
-! Version: 2407152310
+! Last modified: 16 Jul 2024 11:15 UTC+7
+! Version: 2407161115
 ! Blocked: 911 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
