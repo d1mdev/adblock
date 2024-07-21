@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-20T22:00:12.919Z
+! Last modified: 2024-07-21T22:00:14.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10193,6 +10193,7 @@
 ||ciwedsem.xyz^
 ||ciwhacheho.pro^
 ||cizzwykcug.com^
+||cj2550.com^
 ||cjcbzqrwwi.com^
 ||cjewz.com^
 ||cjhkmsguxlxgy.com^
@@ -34718,6 +34719,7 @@
 ||strikinghystericalglove.com^
 ||stringssymptomfishing.com^
 ||stringthumbprowl.com^
+||stripedcover.pro^
 ||stripedonerous.com^
 ||striperaised.com^
 ||striperewind.com^
@@ -35560,6 +35562,7 @@
 ||teeglimu.com^
 ||teelconch.com^
 ||teemcapablespinal.com^
+||teemingweekend.com^
 ||teemooge.net^
 ||teenagerapostrophe.com^
 ||teensexgfs.com^
@@ -42716,6 +42719,7 @@
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
+||e75d10b9.live^
 ||ec44.site^
 ||f090.site^
 ||f2f8.xyz^
@@ -46531,6 +46535,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||test.torrentfreak.com^
+||datum.jsdelivr.com^
 ||trackid.globoid.globo.com^
 ||stats.habr.com^
 ||analytics.qs-apps.com^
@@ -51107,6 +51113,7 @@ inapps.appsflyersdk.com^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
+||parsley.detik.com^
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
 ||analytics.gtechgroup.it^
@@ -51645,8 +51652,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Jul 2024 23:07 UTC+7
-! Version: 2407202307
+! Last modified: 21 Jul 2024 22:12 UTC+7
+! Version: 2407212212
 ! Blocked: 911 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
