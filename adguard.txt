@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-21T22:00:14.005Z
+! Last modified: 2024-07-22T22:00:14.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5449,6 +5449,7 @@
 ||ahaxoenizuaon.com^
 ||ahbdsply.com^
 ||ahcdsply.com^
+||ahdvpuovkaz.com^
 ||aheadreflectczar.com^
 ||aheaptorsos.life^
 ||aheave.com^
@@ -6908,6 +6909,7 @@
 ||aupsugnee.com^
 ||aupteens.com^
 ||aurdoagnoak.net^
+||aurgersoagnu.net^
 ||aurgoast.com^
 ||auroraveil.bid^
 ||aurousroseola.com^
@@ -7099,6 +7101,7 @@
 ||awzvpbg.com^
 ||axalgyof.xyz^
 ||axallarded.top^
+||axductile.com^
 ||axeldivision.com^
 ||axhpkbvibdn.com^
 ||axill.com^
@@ -7358,6 +7361,7 @@
 ||bamahseines.com^
 ||bambarmedia.com^
 ||banalrestart.com^
+||banawgaht.com^
 ||banawyhjc.com^
 ||banbuyserve.com^
 ||banclip.com^
@@ -9303,6 +9307,7 @@
 ||calichevigogne.com^
 ||calicutscrubby.top^
 ||caliphmalign.website^
+||calksenfire.com^
 ||callalelel.info^
 ||calledoccultimprovement.com^
 ||callmeooumou.com^
@@ -11629,6 +11634,7 @@
 ||cyih0e43aty7.com^
 ||cyijr.com^
 ||cyilxkpkf.com^
+||cykcxgsvg.com^
 ||cylindermonastery.com^
 ||cylindrical-form.com^
 ||cylnkee.com^
@@ -13228,6 +13234,7 @@
 ||drewfoolery.com^
 ||dreyeli.info^
 ||drfaultlessplays.com^
+||drgcnsnohnf.com^
 ||dribbleads.com^
 ||dribletbogled.com^
 ||dribturbot.com^
@@ -14986,6 +14993,7 @@
 ||f4823894ba.com^
 ||f48d1c06e4.com^
 ||f4961f1b2e.com^
+||f59408d48d.com^
 ||f5v1x3kgv5.com^
 ||f773a03dcb.com^
 ||f794d2f9d9.com^
@@ -16206,6 +16214,7 @@
 ||fresnobench.com^
 ||fretsawlekanai.com^
 ||frettedmalta.top^
+||freyaacronal.com^
 ||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -19654,6 +19663,7 @@
 ||imperturbableawesome.com^
 ||imperturbableclothes.com^
 ||imperturbableresponsive.com^
+||imperysavers.click^
 ||impetremondial.com^
 ||impishelizabethjumper.com^
 ||implix.com^
@@ -24704,6 +24714,7 @@
 ||mpanythathaveresultet.info^
 ||mpbohwtqqnw.com^
 ||mpbpuctr.com^
+||mpcbjnku.com^
 ||mpcrvcbwdouo.com^
 ||mpfofpynoououe.xyz^
 ||mpfqphqf.com^
@@ -26845,6 +26856,7 @@
 ||oonasuhghjmzyw.com^
 ||oongouha.xyz^
 ||oonsaigu.xyz^
+||oonsouque.com^
 ||oopatet.com^
 ||oophoame.xyz^
 ||oophuvum.net^
@@ -30241,6 +30253,7 @@
 ||qivolcgcemi.com^
 ||qizjkwx9klim.com^
 ||qjdlivr.com^
+||qjmlmaffrqj.com^
 ||qjpotvwljgw.xyz^
 ||qjrhacxxk.xyz^
 ||qjsknpxwlesvou.com^
@@ -31108,6 +31121,7 @@
 ||reignprofessionally.com^
 ||reindaks.com^
 ||reinstandpointdumbest.com^
+||reisoctene.com^
 ||reissue2871.xyz^
 ||reitbokgona.com^
 ||reivereme.com^
@@ -33313,6 +33327,7 @@
 ||sicknessfestivity.com^
 ||sickoaji.com^
 ||sicleclarets.com^
+||sicouthautso.net^
 ||sidanarchy.net^
 ||sidebyx.com^
 ||sidebyz.com^
@@ -38479,6 +38494,7 @@
 ||virtuousescape.pro^
 ||virusscanner.to^
 ||visaexasperation.com^
+||visargadimmit.com^
 ||visariomedia.com^
 ||visaspecialtyfluid.com^
 ||viscountquality.com^
@@ -41294,6 +41310,7 @@
 ||zxwhkosabux.com^
 ||zxxgoikbqyiu.com^
 ||zy16eoat1w.com^
+||zyaaobgwnhts.com^
 ||zybbiez.com^
 ||zybrdr.com^
 ||zycaphede.com^
@@ -42616,6 +42633,7 @@
 ||072551.xyz^
 ||076f66b2.live^
 ||07e197.site^
+||08f8f073.xyz^
 ||09bd5a69.xyz^
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
@@ -50250,7 +50268,6 @@ inapps.appsflyersdk.com^
 ||dig.ultimedia.com^
 ||dl.episerver.net^
 ||doppler-client-events.cbsivideo.com^
-||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||dynamic.ziftsolutions.com^
@@ -50683,6 +50700,7 @@ inapps.appsflyersdk.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
 ||tracker.myyschool.xyz^
+||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
 ||tracker.services.vaix.ai^
