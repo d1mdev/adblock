@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-07-29T22:00:14.321Z
+! Last modified: 2024-07-30T22:00:13.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6110,6 +6110,7 @@
 ||anqnbzyjlknbm.top^
 ||anseisjulus.com^
 ||anselmbowwows.com^
+||ansusalina.com^
 ||answeredthechi.org^
 ||answerroad.com^
 ||antagonizelabourer.com^
@@ -6329,6 +6330,7 @@
 ||appzjax.com^
 ||aprilineffective.com^
 ||apritifyapok.top^
+||apritvun.com^
 ||apromoweb.com^
 ||apsidalmungoos.top^
 ||apsmediaagency.com^
@@ -6352,6 +6354,7 @@
 ||aqcutwom.xyz^
 ||aqdkciossswu.com^
 ||aqewvatwqzoigh.com^
+||aqhz.xyz^
 ||aqiefntjh.com^
 ||aqjambmfgobntt.com^
 ||aqjbfed.com^
@@ -6641,6 +6644,7 @@
 ||asoulrox.com^
 ||asoursuls.com^
 ||asozordoafie.com^
+||aspaceloach.com^
 ||asparagusburstscanty.com^
 ||asparagusinterruption.com^
 ||asparaguspallorspoken.com^
@@ -9637,6 +9641,7 @@
 ||cbhvuivvkkrjrsg.com^
 ||cbnkmisvop.com^
 ||cbpslot.com^
+||cbtpfkilcv.com^
 ||cbvxguwbuq.com^
 ||cbyiqsfp.com^
 ||cbyqzt.xy^
@@ -11772,6 +11777,7 @@
 ||d7e13aeb98.com^
 ||d871f74395.com^
 ||d90be87e47.com^
+||d9db994995.com^
 ||d9fb2cc166.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
@@ -15626,6 +15632,7 @@
 ||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
+||fineest-accession.life^
 ||fineporno.com^
 ||finesseboisterous.com^
 ||finessesherry.com^
@@ -16475,6 +16482,7 @@
 ||fumersoctoon.com^
 ||fumeuprising.com^
 ||fummkxa.com^
+||funappgames.com^
 ||funcats.info^
 ||functionfreaklacerate.com^
 ||functionsprecision.com^
@@ -16784,6 +16792,7 @@
 ||gaunchdelimes.com^
 ||gauntletjanitorjail.com^
 ||gauntletslacken.com^
+||gaupambolic.com^
 ||gaupsaur.xyz^
 ||gaushaih.xyz^
 ||gaustele.xyz^
@@ -18071,6 +18080,7 @@
 ||gymellionize.com^
 ||gymgipsy.com^
 ||gymnasiumfilmgale.com^
+||gypperywyling.com^
 ||gypsiedjilt.com^
 ||gypufahuyhov.xyz^
 ||gyudlffoisng.com^
@@ -18951,6 +18961,7 @@
 ||honeymoonregular.com^
 ||honeyreadinesscentral.com^
 ||honitonchyazic.com^
+||honksbiform.com^
 ||honorablehalt.com^
 ||honorbustlepersist.com^
 ||honourcunninglowest.com^
@@ -19895,6 +19906,7 @@
 ||increasevoluntaryhour.com^
 ||increasingdeceased.com^
 ||increasinglycockroachpolicy.com^
+||incremydeal.sbs^
 ||indebtedatrocious.com^
 ||indefinitelytonsil.com^
 ||indefinitelyunlikelyplease.com^
@@ -20732,6 +20744,7 @@
 ||javacid.fun^
 ||javascriptcdnlive.com^
 ||javgg.eu^
+||javgulf.fun^
 ||javmust.fun^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
@@ -21126,6 +21139,7 @@
 ||jootizud.net^
 ||joowkijejv.com^
 ||joqowqyaayqmz.top^
+||joramskittly.click^
 ||jorbfstarn.com^
 ||jorttiuyng.com^
 ||josephineravine.com^
@@ -24243,6 +24257,7 @@
 ||micechillyorchard.com^
 ||micghiga2n7ahjnnsar0fbor.com^
 ||michealmoyite.com^
+||mickiesetheric.com^
 ||micmacsortes.com^
 ||microad.net^
 ||microadinc.com^
@@ -25003,6 +25018,7 @@
 ||murkybrashly.com^
 ||murkymouse.online^
 ||murreyequate.com^
+||muscatscurls.click^
 ||muscledarcysilly.com^
 ||musclehaulse.top^
 ||muscleomnipresent.com^
@@ -25557,6 +25573,7 @@
 ||newlyleisure.com^
 ||newlywedexperiments.com^
 ||newmayads.com^
+||newmownbuttes.com^
 ||newoctads.com^
 ||newprofitcontrol.com^
 ||newrtbbid.com^
@@ -28306,6 +28323,7 @@
 ||perpetratoralienglory.com^
 ||perryflealowest.com^
 ||perryvolleyball.com^
+||persaonwhoisablet.com^
 ||persecutenosypajamas.com^
 ||persecutionmachinery.com^
 ||perseducatiuca.com^
@@ -29249,6 +29267,7 @@
 ||poutrevenueeyeball.com^
 ||povlnlq.com^
 ||povoarge.com^
+||povsefcrdj.com^
 ||powchro.com^
 ||powdermealfilth.com^
 ||powenin.com^
@@ -34426,6 +34445,7 @@
 ||sports-streams-online.best^
 ||sports-streams-online.com^
 ||sportsmanmeaning.com^
+||sportstoday.pro^
 ||sportstreams.xyz^
 ||sportsyndicator.com^
 ||sportzflix.xyz^
@@ -35956,6 +35976,7 @@
 ||thatbeefysit.com^
 ||thatmonkeybites3.com^
 ||thatshab.website^
+||thauckeesse.net^
 ||thaucmozsurvey.space^
 ||thaudray.com^
 ||thauftoa.net^
@@ -39826,6 +39847,7 @@
 ||withholdstandstill.com^
 ||withinresentful.com^
 ||withinsdraco.com^
+||withmefeyaukna.com^
 ||withnimskither.com^
 ||withoutcontrol.com^
 ||withyouryretye.info^
@@ -40583,6 +40605,7 @@
 ||xswhbitplhase.com^
 ||xszcdn.com^
 ||xszpuvwr7.com^
+||xtalfuwcxh.com^
 ||xtarwjgv.com^
 ||xtdioaawlam.com^
 ||xtijeyyeqwjegz.com^
@@ -41686,6 +41709,7 @@
 ||zhu-ni-hao-yun.sh^
 ||zxcbaby.ru^
 ! $document blocks
+||123-stream.org^
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||allsportsflix.
@@ -42954,6 +42978,7 @@
 ||b2bf222e.xyz^
 ||b51475b8.xyz^
 ||b59c.xyz^
+||b70456bf.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
 ||b82978.xyz^
 ||b903c2.xyz^
@@ -42969,6 +42994,7 @@
 ||caa2c4.xyz^
 ||cd57296e.xyz^
 ||ce357c.xyz^
+||ce56df44.xyz^
 ||cf959857.live^
 ||cfb98a.xyz^
 ||d23d450d.xyz^
@@ -43097,6 +43123,7 @@
 !
 !
 !
+||api.receptivity.io^
 ||static.target2sell.com^
 ||sumatra.ai^
 ||nkdyzf.com^
@@ -46803,6 +46830,15 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||telemetry.stytch.com^
+||stat.le.com^
+||fe-go.letv.com^
+||dc.letv.com^
+||c.webp2p.letv.com^
+||s-webp2p.letv.com^
+||banana.le.com^
+||apple-*.le.com^
+||sst.thebanker.com^
 ||analytics.mailmunch.co^
 ||tracker.adsales.rakuten.co.jp^
 ||revengine-tracker.remp.dailymaverick.co.za^
@@ -51317,6 +51353,7 @@ inapps.appsflyersdk.com^
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
+||dt.xfyun.cn^
 ||dup.baidustatic.com^
 ||epro.sogou.com^
 ||experiments.sparanoid.net^
