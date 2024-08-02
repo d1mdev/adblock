@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-08-01T22:00:14.881Z
+! Last modified: 2024-08-02T22:00:13.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||newton1.ru^
 ||sheisnotateacher.com^
 ||kissedthetrain.com^
 ||srvd2204.com^
@@ -3245,7 +3246,6 @@
 ||mediate-ios-*.hyprmx.com^
 ||metamx.com^
 ||mgage.com^
-||mi.gdt.qq.com^
 ||mixmarket.biz^
 ||moba8.net^
 ||mobads.baidu.com^
@@ -6929,6 +6929,7 @@
 ||aulsidakr.com^
 ||aulteeby.net^
 ||aultesou.net^
+||aultopurg.xyz^
 ||aultseemedto.xyz^
 ||aumaupoy.net^
 ||aumeryyaruran.live^
@@ -7852,6 +7853,7 @@
 ||beonixom.com^
 ||bepapersurmise.space^
 ||beparaspr.com^
+||bepawrepave.com^
 ||bephungoagno.com^
 ||bepilelaities.com^
 ||bepqevudfoha.com^
@@ -8801,6 +8803,7 @@
 ||braveryinherited.com^
 ||bravetense.com^
 ||bravotrk.com^
+||brawerverism.com^
 ||brawlperennialcalumny.com^
 ||brazenwholly.com^
 ||brbupali.com^
@@ -9948,6 +9951,7 @@
 ||chaubseet.com^
 ||chauckee.net^
 ||chauckoo.xyz^
+||chaudoubeets.net^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chauinubbins.com^
@@ -13561,6 +13565,7 @@
 ||dvfmdgdk.com^
 ||dvigutying.top^
 ||dvjkmskks.xyz^
+||dvkxchzb.com^
 ||dvvemmg.com^
 ||dvypar.com^
 ||dvzkkug.com^
@@ -13631,6 +13636,7 @@
 ||dzuowpapvcu.com^
 ||e-cougar.fr^
 ||e0a79821ec.com^
+||e0ad1f3ca8.com^
 ||e0e5bc8f81.com^
 ||e1eacb6f88.com^
 ||e2078be122.com^
@@ -14323,6 +14329,7 @@
 ||energeticdryeyebrows.com^
 ||energeticrecognisepostcard.com^
 ||energypopulationpractical.com^
+||eneughghaffir.com^
 ||eneverals.biz^
 ||eneverseen.org^
 ||enframetump.com^
@@ -16047,6 +16054,7 @@
 ||foolishyours.com^
 ||foolproofanatomy.com^
 ||foomaque.net^
+||foonerne.com^
 ||fooptoat.com^
 ||footageaccomplishment.com^
 ||footagegift.com^
@@ -19240,6 +19248,7 @@
 ||hugelyimmovable.com^
 ||hugenicholas.com^
 ||hugfromoctopus.com^
+||huggerslycaena.com^
 ||hughjonah.com^
 ||hugodeservedautopsy.com^
 ||hugoinexperiencedsat.com^
@@ -19250,6 +19259,7 @@
 ||hukogpanbs.com^
 ||hulabipptemux.com^
 ||hulledaries.top^
+||hulocvvma.com^
 ||humaffableconsulate.com^
 ||humandiminutionengaged.com^
 ||humanjeep.com^
@@ -26263,6 +26273,7 @@
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutgxfwechkcuf.com^
+||nutiipwkk.com^
 ||nutletcorvees.com^
 ||nutmegshow.com^
 ||nutrientassumptionclaims.com^
@@ -27294,6 +27305,7 @@
 ||orrisesdepute.com^
 ||orrmmdsdc.com^
 ||orrvucstaxip.com^
+||orrwavakgqr.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortontotlejohn.com^
@@ -29097,6 +29109,7 @@
 ||polydarth.com^
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
+||polypedoutkeep.com^
 ||pomegranateheroin.com^
 ||pomeroyhagdown.com^
 ||pompadawe.com^
@@ -36397,6 +36410,7 @@
 ||tinbuadserv.com^
 ||tingeedy.xyz^
 ||tingexcelelernodyden.info^
+||tingisincused.com^
 ||tingleswhisker.top^
 ||tinkermockingmonitor.com^
 ||tinkerwidth.com^
@@ -43075,6 +43089,7 @@
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
 ||e75d10b9.live^
+||e8e2063b.xyz^
 ||ea6c0ac4.xyz^
 ||ec44.site^
 ||f090.site^
@@ -43190,6 +43205,8 @@
 !
 !
 !
+||yatr.ru^
+||analytics-fe.digital-cloud.medallia.eu^
 ||umami.aigenerations.net^
 ||brilliantcollector.com^
 ||flag.lab.amplitude.com^
@@ -46903,6 +46920,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.aws.judge.me^
+||analytics.rev.iq^
+||error-tracking.reddit.com^
 ||c1-stats.shopifysvc.com^
 ||telemetry.stytch.com^
 ||stat.le.com^
@@ -51436,6 +51456,7 @@ inapps.appsflyersdk.com^
 ||epro.sogou.com^
 ||experiments.sparanoid.net^
 ||g.yccdn.com^
+||gdt.qq.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
 ||imp.ad-plus.cn^
