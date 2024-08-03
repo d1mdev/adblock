@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-08-02T22:00:13.779Z
+! Last modified: 2024-08-03T22:00:13.802Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6075,6 +6075,7 @@
 ||anlytics.co^
 ||anmdr.link^
 ||anmgaxrujfru.com^
+||anmhtutajog.com^
 ||anmiphglqn.com^
 ||anmjqqtevhsqwb.com^
 ||anncmq.com^
@@ -7246,6 +7247,7 @@
 ||b1298d230d.com^
 ||b16a07996c.com^
 ||b18a21ab3c9cb53.com^
+||b194c1c862.com^
 ||b1bf05979e.com^
 ||b1dd039f40.com^
 ||b21be0a0c8.com^
@@ -13822,6 +13824,7 @@
 ||ecsxtrhfgvs.com^
 ||ecuebovjrnn.com^
 ||ecusemis.com^
+||ecxgjqjjkpsx.com^
 ||ecypliujlkuh.com^
 ||ecyxbhvnntj.com^
 ||eczemagrison.uno^
@@ -14729,6 +14732,7 @@
 ||eusmadhlyjn.xyz^
 ||euugbutvb.com^
 ||euvtoaw.com^
+||euygjjorvxty.com^
 ||euz.net^
 ||ev-dating.com^
 ||evaluateuncanny.com^
@@ -19937,6 +19941,7 @@
 ||indefinitelytonsil.com^
 ||indefinitelyunlikelyplease.com^
 ||indeliblehang.pro^
+||indeliblestill.com^
 ||indelicatecanvas.com^
 ||indelicatepokedoes.com^
 ||indelphoxom.com^
@@ -21742,6 +21747,7 @@
 ||kihmnulxt.com^
 ||kihudevo.pro^
 ||kihwmtvzvi.com^
+||kiisetbtkaul.com^
 ||kiiysgjmuy.com^
 ||kikibobo.top^
 ||kikoucuy.net^
@@ -22012,6 +22018,7 @@
 ||koublxdh.com^
 ||kouceeptait.com^
 ||koucerie.com^
+||koucqfpnsamftw.com^
 ||kougloar.com^
 ||koujaups.xyz^
 ||kouptufezi.com^
@@ -29862,6 +29869,7 @@
 ||psaurdoofy.com^
 ||psaurteepo.com^
 ||psausuck.net^
+||psauwaun.com^
 ||psauwush.net^
 ||psclicks.com^
 ||psdn.xyz^
@@ -33825,6 +33833,7 @@
 ||skivingepileny.top^
 ||skjwebmr.com^
 ||sklsnpqr.com^
+||skltrachqwbd.com^
 ||skohssc.cfd^
 ||skolvortex.com^
 ||skuligpzifan.com^
@@ -37176,6 +37185,7 @@
 ||ttlmqhbbkd.com^
 ||ttlphmgvnjuilta.com^
 ||ttney.com^
+||ttnpxtsp.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
 ||ttsbtdgdo.com^
@@ -38586,6 +38596,7 @@
 ||vhdbohe.com^
 ||vheoggjiqaz.com^
 ||vhihvqsuarpp.com^
+||vhjgeivll.com^
 ||vhneajupavrb.com^
 ||vhrtgvzcmrfoo.com^
 ||vhsugcbelruygy.com^
@@ -40083,6 +40094,7 @@
 ||woodymotherhood.com^
 ||woofoafi.xyz^
 ||woogoust.com^
+||woohazaz.net^
 ||woolasib.net^
 ||woolenabled.com^
 ||woolensulking.com^
@@ -41800,6 +41812,7 @@
 ||hfr67jhqrw8.com^
 ||lookup-domain.com^
 ||mgid.com^
+||tatrck.com^
 ||tbao684tryo.com^
 ||tracking.injoyalot.com^
 ||vpn-offers.org^
