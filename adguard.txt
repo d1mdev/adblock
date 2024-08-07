@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-08-06T22:00:12.698Z
+! Last modified: 2024-08-07T22:00:13.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3616,6 +3616,7 @@
 ||2471april2024.com^
 ||2473april2024.com^
 ||2475april2024.com^
+||2477april2024.com^
 ||2479april2024.com^
 ||247dbf848b.com^
 ||2481april2024.com^
@@ -6800,6 +6801,7 @@
 ||atiretrously.com^
 ||ativesathyas.info^
 ||atjigglypuffor.com^
+||atjtpbnwxmfavy.com^
 ||atlhjtmjrj.com^
 ||atlxpstsf.com^
 ||atmalinks.com^
@@ -7268,6 +7270,7 @@
 ||b3ra6hmstrioek54er.com^
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
+||b41732fb1b.com^
 ||b42rracj.com^
 ||b44794baad.com^
 ||b4dda3f4a1.com^
@@ -13287,6 +13290,7 @@
 ||dramamutual.com^
 ||dramasoloist.com^
 ||dramaticagreementsalt.com^
+||dramshaplite.com^
 ||drankpool.com^
 ||dranktonsil.com^
 ||drapefabric.com^
@@ -14473,6 +14477,7 @@
 ||eo62cocntx.com^
 ||eoasxirquewfyn.com^
 ||eobvppi.com^
+||eoedchucdtkep.com^
 ||eofripvanwin.org^
 ||eofst.com^
 ||eoftheappyrinc.info^
@@ -15653,6 +15658,7 @@
 ||filthysignpod.com^
 ||fimserve.com^
 ||fin.ovh^
+||finafnhara.com^
 ||finalice.net^
 ||finance-hot-news.com^
 ||finance2you.org^
@@ -16638,6 +16644,7 @@
 ||fzamtef.com^
 ||fzfcrqlwph.com^
 ||fzipipalkri.com^
+||fzivunnigra.com^
 ||fzszuvb.com^
 ||g-statistic.com^
 ||g0-g3t-msg.com^
@@ -17011,6 +17018,7 @@
 ||getsharedstore.com^
 ||getshowads.com^
 ||getsmartyapp.com^
+||getsozoaque.xyz^
 ||getstart3d12.monster^
 ||getsthis.com^
 ||getsurv2you.net^
@@ -18758,6 +18766,7 @@
 ||highperformancedisplayformat.com^
 ||highperformancegate.com^
 ||highprofitnetwork.com^
+||highratecpm.com^
 ||highrevenuecpm.com^
 ||highrevenuecpmnetrok.com^
 ||highrevenuecpmnetwork.com^
@@ -19945,6 +19954,7 @@
 ||incompletethong.com^
 ||incomprehensibleacrid.com^
 ||incomptstress.uno^
+||inconsequential-working.com^
 ||inconsistencygasdifficult.com^
 ||inconveniencemimic.com^
 ||incorphishor.com^
@@ -20793,6 +20803,7 @@
 ||javacid.fun^
 ||javascriptcdnlive.com^
 ||javdawn.fun^
+||javgenetic11.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javjean.fun^
@@ -21021,6 +21032,7 @@
 ||jillbuildertuck.com^
 ||jimpysinters.top^
 ||jimzryxbsgjs.com^
+||jindepux.xyz^
 ||jingalbundles.com^
 ||jingbaiteether.top^
 ||jingenfirm.com^
@@ -22119,6 +22131,7 @@
 ||ktmayxvea.com^
 ||ktnukmtsbfko.com^
 ||ktobedirectu.xyz^
+||ktpcsqnij.com^
 ||ktqiyjojiya.com^
 ||ktrfzka.com^
 ||ktrmmxocabjd.com^
@@ -23882,6 +23895,7 @@
 ||masqueradeflashy.com^
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
+||massagefumaria.click^
 ||massariuscdn.com^
 ||massbrag.care^
 ||massecephid.uno^
@@ -23944,6 +23958,7 @@
 ||maxonclick.com^
 ||maxprofitcontrol.com^
 ||maxserving.com^
+||maxvaluead.com^
 ||maxytrk.com^
 ||maybejanuarycosmetics.com^
 ||maybenowhereunstable.com^
@@ -25951,6 +25966,7 @@
 ||nogxlplmx.xyz^
 ||nohezu.xyz^
 ||noiselessvegetables.com^
+||noisesperusemotel.com^
 ||noisybeforemorton.com^
 ||noisyjoke.pro^
 ||noisyoursarrears.com^
@@ -27675,6 +27691,7 @@
 ||oweoumoughtcal.com^
 ||owevel.com^
 ||owewary.com^
+||owhlmuxze.com^
 ||owhoalagly.com^
 ||owhoogryinfo.com^
 ||owingsorthealthy.com^
@@ -37627,10 +37644,12 @@
 ||ukcomparends.pro^
 ||ukdliketobepa.monster^
 ||ukdtzkc.com^
+||ukecqypnt.com^
 ||ukentaspe.xyz^
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
 ||ukidiayddbshfl.com^
+||ukindwouldmeu.com^
 ||ukizeiasninan.info^
 ||uklgakwqy.com^
 ||ukloxmchcdnn.com^
@@ -39045,6 +39064,7 @@
 ||vpico.com^
 ||vpipi.com^
 ||vpixrlkggv.com^
+||vpkdrxyx.com^
 ||vplgggd.com^
 ||vpn-defend.com^
 ||vpn-offers.com^
@@ -41458,6 +41478,7 @@
 ||zhuwjujpub.com^
 ||zhyivocrjeplby.com^
 ||zhzclbysg.com^
+||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
 ||zibaweva.com^
 ||ziblo.cloud^
@@ -41565,6 +41586,7 @@
 ||zoizfaodz.com^
 ||zokaukree.net^
 ||zokbywpncgqrq.com^
+||zombyfairfax.com^
 ||zonealta.com^
 ||zontgohjw.com^
 ||zonupiza.com^
@@ -43038,6 +43060,7 @@
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
 ||0d785fd7.xyz^
+||10523745.xyz^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
@@ -43269,6 +43292,7 @@
 !
 !
 !
+||data.media-lab.ai^
 ||kapetracking.com^
 ||tr.dec-connect.decsuite.com^
 ||yatr.ru^
@@ -46992,6 +47016,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ylog.huya.com^
 ||ax.amnezia.org^
 ||events.betterhelp.com^
 ||web-analytics.lastpass.com^
