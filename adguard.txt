@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-08-07T22:00:13.425Z
+! Last modified: 2024-08-08T22:00:20.250Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3846,6 +3846,7 @@
 ||44ffd27303.com^
 ||452tapgn.de^
 ||453130fa9e.com^
+||45f2a90583.com^
 ||46186911.vtt^
 ||46243b6252.com^
 ||463fca0d34.com^
@@ -4452,6 +4453,7 @@
 ||absorptionpersonalforesee.com^
 ||absorptionsuspended.com^
 ||abstaininquisitive.com^
+||abstortvarna.com^
 ||absump.com^
 ||absurdunite.com^
 ||abtaurosa.club^
@@ -5549,6 +5551,7 @@
 ||airtightfaithful.com^
 ||airyeject.com^
 ||aisaipty.xyz^
+||aisgnetaoasorjn.com^
 ||aishaibe.com^
 ||aisletransientinvasion.com^
 ||aisrvyvstyq.xyz^
@@ -6695,6 +6698,7 @@
 ||assobredrouked.com^
 ||associationstoopedacid.com^
 ||associationwish.com^
+||assodbobfad.com^
 ||assoilrehboc.top^
 ||assortmentberry.com^
 ||assortmentcriminal.com^
@@ -6827,6 +6831,7 @@
 ||atraichuor.com^
 ||atriblethetch.com^
 ||atris.xyz^
+||atriumsmiddum.com^
 ||atrkmankubf.com^
 ||atrociouspsychiatricparliamentary.com^
 ||atrocityfingernail.com^
@@ -6967,6 +6972,7 @@
 ||auspipe.com^
 ||austaihauna.com^
 ||austaits.xyz^
+||austeemsa.com^
 ||austeritylegitimate.com^
 ||austow.com^
 ||autchoog.net^
@@ -7200,6 +7206,7 @@
 ||ayrather.com^
 ||ayudvbjbvdojt.com^
 ||ayvfzwttm.com^
+||aywivflptwd.com^
 ||ayxuadkeh.com^
 ||ayyjenjkbnrya.top^
 ||ayyjenjqlrbya.top^
@@ -8512,6 +8519,7 @@
 ||boggyamrit.com^
 ||bognunub.com^
 ||bogrodius.com^
+||bogus-disk.com^
 ||boharaf.com^
 ||boheasceile.top^
 ||boheir.com^
@@ -9959,6 +9967,7 @@
 ||chassnincom.com^
 ||chastehandkerchiefclassified.com^
 ||chatheez.net^
+||chatmazeful.shop^
 ||chats2023.online^
 ||chattedhelio.top
 ||chatterboxtardy.com^
@@ -11573,6 +11582,7 @@
 ||ctykxlvztyy.com^
 ||cubbingrebbes.com^
 ||cubchillysail.com^
+||cubeletrewater.shop^
 ||cubeslichees.com^
 ||cubeuptownpert.com^
 ||cubgeographygloomily.com^
@@ -12081,6 +12091,7 @@
 ||dearfiring.com^
 ||dearlyseedsad.com^
 ||dearlystoop.com^
+||deasandcomemunic.com^
 ||deatchshipsmotor.com^
 ||deathssm.com^
 ||debatableslippers.com^
@@ -14107,6 +14118,7 @@
 ||ejipaifaurga.com^
 ||ejnrvilfilnz.com^
 ||ejpzqnqwcszfsz.com^
+||ejqsqmqohwav.com^
 ||ejrigxesvg.com^
 ||ejsgxapv.xyz^
 ||ejuiashsateam.info^
@@ -14725,6 +14737,7 @@
 ||etystoass.com^
 ||euauosx.xyz^
 ||euavokhqrxhteot.com^
+||euchresgryllus.com^
 ||eucing.com^
 ||eucli-czt.com^
 ||eucosiaepeiric.com^
@@ -18832,6 +18845,7 @@
 ||hipvaeciaqqtrhy.xyz^
 ||hirelinghistorian.com^
 ||hiringairport.com^
+||hirtplbsryjyfb.com^
 ||hirurdou.net^
 ||hisismoyche.com^
 ||hispherefair.com^
@@ -20607,6 +20621,7 @@
 ||itwkuouldhuke.info^
 ||itwoheflewround.info^
 ||ityonatallco.info^
+||itzajear.com^
 ||itzekromom.com^
 ||iuc1.online^
 ||iuc1.space^
@@ -20974,6 +20989,7 @@
 ||jfdmdpefk.com^
 ||jfdvjpksdqhdhjo.com^
 ||jfedgbskofck.com^
+||jfiavkaxdm.com^
 ||jfixhuovpa.com^
 ||jfjle4g5l.com^
 ||jfjlfah.com^
@@ -22312,6 +22328,7 @@
 ||laharal.com^
 ||lahemal.com^
 ||laichook.net^
+||laichsbedamns.com^
 ||laidapproximatelylacerate.com^
 ||lailoasaiho.com^
 ||lainaumi.com^
@@ -25017,6 +25034,7 @@
 ||mrwdgugoie.com^
 ||mryinerg.com^
 ||mrykkulwenw.com^
+||mryzroahta.com^
 ||mrzikj.com^
 ||ms3t.club^
 ||msads.net^
@@ -25038,6 +25056,7 @@
 ||mtbbsewhceqgv.com^
 ||mtgzlnugxej.com^
 ||mthvjim.com^
+||mtkgyrzfygdh.com^
 ||mttjepfakwch.com^
 ||mtwdmk9ic.com^
 ||mtypitea.net^
@@ -25862,6 +25881,7 @@
 ||nishoagn.com^
 ||nitonsbanc.com^
 ||nitqbanrbcv.xyz^
+||nitridslah.com^
 ||nitriotgillian.digital^
 ||nitrogendetestable.com^
 ||nitrousacuity.top^
@@ -26448,6 +26468,7 @@
 ||oalitoug.com^
 ||oalsauwy.net^
 ||oalselry.com^
+||oaltusoamp.com^
 ||oamoatch.com^
 ||oamtorsa.net^
 ||oanimsen.net^
@@ -26610,6 +26631,7 @@
 ||octavdtabacco.top^
 ||octavianimmaculate.com^
 ||octinerep.com^
+||octmikvehs.com^
 ||octoatesamhain.com^
 ||octobergypsydeny.com^
 ||octobermindless.com^
@@ -28300,6 +28322,7 @@
 ||pegasuson.com^
 ||peggyhypoid.com^
 ||pegirs.com^
+||peglikedioecia.com^
 ||pegloang.com^
 ||peirs5tbakchios.com^
 ||peisantcorneas.com^
@@ -30093,6 +30116,7 @@
 ||ptoubeeh.net^
 ||ptouckop.xyz^
 ||ptoumsid.net^
+||ptoupisso.net^
 ||ptoushoa.com^
 ||ptoutsexe.com^
 ||ptowouse.xyz^
@@ -33689,6 +33713,7 @@
 ||sightsskinnyintensive.com^
 ||sightyiambs.com^
 ||sigilsspeiss.com^
+||sigloiexedent.com^
 ||signalassure.com^
 ||signalsparfum.uno^
 ||signalspotsharshly.com^
@@ -36300,6 +36325,7 @@
 ||thongsalhagi.com^
 ||thongtechnicality.com^
 ||thongwarily.com^
+||thoocheegee.xyz^
 ||thoohizoogli.xyz^
 ||thoorest.com^
 ||thoorgins.com^
@@ -37726,6 +37752,7 @@
 ||unactedrobbers.com^
 ||unafeed.com^
 ||unairedcushite.com^
+||unamplespalax.com^
 ||unanac.com^
 ||unanimousbrashtrauma.com^
 ||unaptsullens.com^
@@ -38399,6 +38426,7 @@
 ||valvyre.com^
 ||vamjfssdvjit.com^
 ||vampedcortine.com^
+||vampednorbert.com^
 ||vampersyacal.com^
 ||vamsoupowoa.com^
 ||vandalismblackboard.com^
@@ -38449,6 +38477,7 @@
 ||varyingcanteenartillery.com^
 ||varyinginvention.com^
 ||varyingsnarl.com^
+||vasclabimorph.com^
 ||vasebehaved.com^
 ||vasgenerete.com^
 ||vasgenerete.site^
@@ -38605,6 +38634,7 @@
 ||versatileadvancement.com^
 ||verse-content.com^
 ||versedarkenedhusky.com^
+||versinehopper.com^
 ||versionlatticecheek.com^
 ||versionsfordisplay.com^
 ||versionslent.com^
@@ -39655,6 +39685,7 @@
 ||whagrogiva.com^
 ||whagrolt.com^
 ||whaidree.com^
+||whaidroansee.net^
 ||whaijoorgoo.com^
 ||whairtoa.com^
 ||whaishub.net^
@@ -40175,6 +40206,7 @@
 ||wopsedoaltuwp.com^
 ||woqycyda.com^
 ||wordbodily.com^
+||wordfence.me^
 ||wordingget.com^
 ||wordpersonify.com^
 ||wordsnought.com^
@@ -42554,6 +42586,7 @@
 ||infinite-ads.com^
 ||infinityads.com^
 ||influads.com^
+||infostation.digital^
 ||innity.com^
 ||insideall.com^
 ||inskinad.com^
@@ -43071,6 +43104,7 @@
 ||1dd6e9ba.xyz^
 ||1f6a725b.xyz^
 ||20519a.xyz^
+||224cc86d.xyz^
 ||22dd31.xyz^
 ||24052107.live^
 ||258104d2.live^
@@ -43184,6 +43218,7 @@
 ||f33d11b5.xyz^
 ||f417a726.xyz^
 ||f4c9a0fb.xyz^
+||f54cd504.xyz^
 ||f6176563.site^
 ||f6b458fd.xyz^
 ||f700fa18.live^
@@ -43192,6 +43227,7 @@
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
 ||fe30a5b4.xyz^
+||fe9dc503.xyz^
 ||img-load.com^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
@@ -43292,6 +43328,7 @@
 !
 !
 !
+||app.kuvio.io^
 ||data.media-lab.ai^
 ||kapetracking.com^
 ||tr.dec-connect.decsuite.com^
@@ -47016,6 +47053,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pixels.spotify.com^
 ||ylog.huya.com^
 ||ax.amnezia.org^
 ||events.betterhelp.com^
@@ -47506,7 +47544,6 @@
 ||stat.gc.my.games^
 ||1l-hit.vkplay.ru^
 ||1l-view.my.games^
-||apptics.zoho.com^
 ||a*.smlog.co.kr^
 ||collector-statistics.nhn-commerce.com^
 ||insight.danawa.com^
