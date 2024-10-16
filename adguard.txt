@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-15T00:00:11.287Z
+! Last modified: 2024-10-16T00:00:11.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2637,15 +2637,15 @@
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 ! AfreecaTV
-||reqde.afreecatv.com^
-||adballoon.afreecatv.com^
-||deapi.afreecatv.com^
+||reqde.sooplive.co.kr^
+||adballoon.sooplive.co.kr^
+||deapi.sooplive.co.kr^
 ! Yandex ads in apps
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
 ||ad.zijieapi.com^
-||ads*-normal-hl.zijieapi.com^
+||ads*-normal-*.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||ad.snaptube.app^
 ||ad.mobiuspace.net^
@@ -3437,6 +3437,7 @@
 ||0b85c2f9bb.com^
 ||0cdn.xyz^
 ||0cf.io^
+||0d076be0f4.com^
 ||0eade9dd8d.com^
 ||0eijh8996i.com^
 ||0emn.com^
@@ -6628,6 +6629,7 @@
 ||attributedminded.com^
 ||attributedrelease.com^
 ||attritioncombustible.com^
+||atttkaapqvh.com^
 ||atukjpdh.xyz^
 ||atwola.com^
 ||atwuqrzupd.com^
@@ -6859,6 +6861,7 @@
 ||awfulresolvedraised.com^
 ||awhauchoa.net^
 ||awhausaifoog.com^
+||awhoupsou.com^
 ||awistats.com^
 ||awkiktwfvhqiwb.com^
 ||awkkkpktq.com^
@@ -7281,6 +7284,7 @@
 ||bd33500074.com^
 ||bd51static.com^
 ||bdbovbmfu.xyz^
+||bdckqpofmclr.com^
 ||bddc935c97.com^
 ||bdenwsfmnmhkk.com^
 ||bdf7a07377.com^
@@ -8222,6 +8226,7 @@
 ||bovidsacate.com^
 ||bowedcounty.com^
 ||boweddemand.com^
+||bowermisrule.com^
 ||bowerywill.com^
 ||bowldescended.com^
 ||bowlinfiorite.com^
@@ -9240,6 +9245,7 @@
 ||cgeckmydirect.biz^
 ||cgjesashoipn.com^
 ||cgphqnflgee.com^
+||cgpnhjatakwqnjd.xyz^
 ||cgsjaulupnd.com^
 ||cgupialoensa.com^
 ||cgyqybeqthaeb.com^
@@ -9335,6 +9341,7 @@
 ||chaussew.net^
 ||chautcho.com^
 ||chbujyjyvshtcr.com^
+||chbwe.space^
 ||chdkxgjtwflba.com^
 ||cheap-celebration.pro^
 ||cheapenleaving.com^
@@ -11974,6 +11981,7 @@
 ||dockaround.com^
 ||dockboulevardshoes.com^
 ||dockdeity.com^
+||dockoolser.net^
 ||doctorenticeflashlights.com^
 ||doctorhousing.com^
 ||doctorpost.net^
@@ -13323,6 +13331,7 @@
 ||erosionyonderviolate.com^
 ||erosyndc.com^
 ||erovation.com^
+||erpabsjbxlb.com^
 ||errantstetrole.com^
 ||erratatoecap.top^
 ||errbandsillumination.com^
@@ -14012,6 +14021,7 @@
 ||febatigr.com^
 ||februarybogus.com^
 ||februarynip.com^
+||fecguzhzeia.vip^
 ||fedapush.net^
 ||fedassuagecompare.com^
 ||federalcertainty.com^
@@ -14464,6 +14474,7 @@
 ||flourishbriefing.com^
 ||flourishingcollaboration.com^
 ||flourishinghardwareinhibit.com^
+||flower1266.fun^
 ||flowerbooklet.com^
 ||flowerdicks.com^
 ||flowitchdoctrine.com^
@@ -15287,6 +15298,7 @@
 ||gcjzuzldn.com^
 ||gcomfbzrsa.com^
 ||gctnkqjelwnwlcx.com^
+||gcvir.xyz^
 ||gcyzgld.com^
 ||gdasaasnt.com^
 ||gdbjurnxxhnro.com^
@@ -15485,6 +15497,7 @@
 ||giaythethaonuhcm.com^
 ||gibadvpara.com^
 ||gibaivoa.com^
+||gibizosutchoakr.net^
 ||giboxdwwevu.com^
 ||gibsuncap.shop^
 ||gichaisseexy.net^
@@ -15588,6 +15601,7 @@
 ||gl-cash.com^
 ||gla63a4l.de^
 ||glaciergrimly.com^
+||glacierwaist.com^
 ||gladiol9us10.com^
 ||gladsince.com^
 ||gladthereis.org^
@@ -16577,6 +16591,7 @@
 ||hardabbuy.live^
 ||hardaque.xyz^
 ||hardboileddearlyaccomplish.com^
+||harderjuniormisty.com^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
 ||hardynylon.com^
@@ -19137,6 +19152,7 @@
 ||jqafetxoermhue.com^
 ||jqcyacoxrvada.com^
 ||jqdfehrixzyb.com^
+||jqgludwwmaa.com^
 ||jqgqrsvcaos.xyz^
 ||jqimofnrrzxqcl.com^
 ||jqitetsk.com^
@@ -19559,6 +19575,7 @@
 ||kgsehayyvhk.com^
 ||kgwlfrdtf.com^
 ||kgyhxdh.com^
+||kh-bkcvqxc.online^
 ||khangalenten.click^
 ||khanjeeyapness.website^
 ||khatexcepeded.info^
@@ -20466,6 +20483,7 @@
 ||likenewvids.online^
 ||likescenesfocused.com^
 ||liktufmruav.com^
+||likutaencoil.shop^
 ||lilacbeaten.com^
 ||lilacsloppy.com^
 ||lilcybu.com^
@@ -24665,6 +24683,7 @@
 ||outlookreservebennet.com^
 ||outlopunnytor.com^
 ||outmatchurgent.com^
+||outnidorinoom.com^
 ||outnumberconnatetomato.com^
 ||outnumberminded.com^
 ||outnumberpickyprofessor.com^
@@ -27325,6 +27344,7 @@
 ||qekgygdkyewbzv.com^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
+||qelvaykwazvoo.top^
 ||qemyetwxfcwhtyy.com^
 ||qerkbejqwqakw.top^
 ||qerkbejqwqjkr.top^
@@ -27797,6 +27817,7 @@
 ||rapidlypierredictum.com^
 ||rapidshookdecide.com^
 ||rapingdistil.com^
+||rapmqouaqpmir.com^
 ||rapolok.com^
 ||rappjsps.com^
 ||raptingy.net^
@@ -28056,6 +28077,7 @@
 ||reddockbedman.com^
 ||redenyswallet.click^
 ||redetaailshiletteri.com^
+||redfootchiros.click^
 ||redheadpublicityjug.com^
 ||redi.teengirl-pics.com^
 ||redirect-path1.com^
@@ -28941,6 +28963,7 @@
 ||rqsaxxdbt.com^
 ||rqtrk.eu^
 ||rqwel.com^
+||rrdhtqhgu.com^
 ||rreauksofthecom.xyz^
 ||rrgbjybt.com^
 ||rrhscsdlwufu.xyz^
@@ -35897,6 +35920,7 @@
 ||womangathering.com^
 ||wombalayah.com^
 ||wombierfloc.com^
+||wombjingle.com^
 ||womenvocationanxious.com^
 ||womerasecocide.com^
 ||woncherish.com^
@@ -36130,6 +36154,7 @@
 ||wunishamjch.com^
 ||wuqconn.com^
 ||wurqaz.com^
+||wurunoax.com^
 ||wussucko.com^
 ||wutseelo.xyz^
 ||wuujae.com^
@@ -37035,6 +37060,7 @@
 ||zaugrauvaps.com^
 ||zauthuvy.com^
 ||zautouchiste.com^
+||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zayac2volk11.com^
 ||zbdcrnfheyfu.com^
@@ -37744,7 +37770,6 @@
 ||ads01.com^
 ||ads4media.online^
 ||adsbookie.com^
-||adscendmedia.com^
 ||adscout.io^
 ||adscpm.net^
 ||adsenix.com^
@@ -38787,6 +38812,7 @@
 ||30937261.xyz^
 ||32472254.xyz^
 ||33848102.xyz^
+||34475780.xyz^
 ||36833185.xyz^
 ||38835571.xyz^
 ||38941752.xyz^
@@ -39057,7 +39083,7 @@
 ||log*.zijieapi.com^
 ||minigame5-normal-hl.zijieapi.com^
 ||minigame5-normal-lq.zijieapi.com^
-||mssdk.zijieapi.com^
+||mssdk*.zijieapi.com^
 ||os-mon.zijieapi.com^
 ||pc-mon.zijieapi.com^
 ||polaris.zijieapi.com^
@@ -42814,6 +42840,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracker.jkplayers.com^
 ||collect.dolap.com^
 ||b.ranking.apis.sankei-digital.co.jp^
 ||is-log.furunavi.jp^
@@ -43782,7 +43809,7 @@
 ||alxc.addlv.smt.docomo.ne.jp^
 ||ampltd.top.gg^
 ||an.reflektion.com^
-||analysis.afreecatv.com^
+||analysis.sooplive.co.kr^
 ||analytic.imlive.com^
 ||analytic20.detik.com^
 ||analytics-api.smzdm.com^
@@ -44149,7 +44176,7 @@
 ||deepdive.zum.com^
 ||dejavu.mlapps.com^
 ||deliver.oztam.com.au^
-||delog.afreecatv.com^
+||delog.sooplive.co.kr^
 ||detwzgl8cvciv.cloudfront.net^
 ||device-metrics-us*.amazon.com^
 ||df.tanx.com^
@@ -44207,7 +44234,7 @@
 ||event.condenastdigital.com^
 ||event.impression-neo.naver.com^
 ||event.scimo.io^
-||eventapi.afreecatv.com^
+||eventapi.sooplive.co.kr^
 ||eventbus.intuit.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
@@ -45786,7 +45813,7 @@ inapps.appsflyersdk.com^
 ||sensors.snappea.com^
 ||analytics.snaptube.app^
 ||px.ucweb.com^
-||collector1.afreecatv.com^
+||collector1.sooplive.co.kr^
 ||adtima-static.zadn.vn^
 ||ztevents.zaloapp.com^
 ||tunion-api.m.taobao.com^
