@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-16T00:00:11.211Z
+! Last modified: 2024-10-17T00:00:11.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4551,6 +4551,7 @@
 ||acridbloatparticularly.com^
 ||acridtaxiworking.com^
 ||acridtubsource.com^
+||acrityezra.shop^
 ||acrobatalar.shop^
 ||acrobaticdesire.com^
 ||acronkkky.com^
@@ -5698,6 +5699,7 @@
 ||almightypush.com^
 ||almightyroomsimmaculate.com^
 ||almondusual.com^
+||almonryminuter.com^
 ||almonsituate.com^
 ||almostspend.com^
 ||almstda.tv^
@@ -5821,6 +5823,7 @@
 ||amjoltiktor.com^
 ||amjsiksirkh.com^
 ||amkbpcc.com^
+||amkxihjuvo.com^
 ||amlumineona.com^
 ||ammankeyan.com^
 ||amnew.net^
@@ -7297,6 +7300,7 @@
 ||bdyumwlf.com^
 ||bdzhonovixyhkf.com^
 ||bdzyqohhw.com^
+||be30660063.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
 ||beakerweedjazz.com^
@@ -9456,6 +9460,7 @@
 ||chitchooms.net^
 ||chitika.net^
 ||chitsnooked.com^
+||chiwaiwhor.xyz^
 ||chl7rysobc3ol6xla.com^
 ||chlift.com^
 ||chmnscaurie.space^
@@ -9853,6 +9858,7 @@
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
 ||cluttered-win.pro^
+||clutteredassociate.pro^
 ||clvacjv.com^
 ||clxlxmbtysabn.com^
 ||clyqguyadnebts.com^
@@ -10815,6 +10821,7 @@
 ||cvrkjnaoazazh.com^
 ||cvuduufdewm.com^
 ||cvuvoljuqlkeuc.com^
+||cvwrkqfpapsg.com^
 ||cvxwaslonejulyha.info^
 ||cvyimypsjxca.com^
 ||cwhrfkpniuvkn.xyz^
@@ -11586,6 +11593,7 @@
 ||dictumstortil.com^
 ||dicyiish.com^
 ||didodadn.com^
+||didspack.com^
 ||didstfineer.com^
 ||didthere.com^
 ||diedpractitionerplug.com^
@@ -11738,6 +11746,7 @@
 ||discloseapplicationtreason.com^
 ||discloseprogramwednesday.com^
 ||disclosestockingsprestigious.com^
+||disclosesweepraincoat.com^
 ||discomantles.com^
 ||discomforttruant.com^
 ||disconnectedponder.com^
@@ -13750,6 +13759,7 @@
 ||ezjhhapcoe.com^
 ||ezmob.com^
 ||eznoz.xyz^
+||eznwukoceebp.com^
 ||ezoufdpeyqaain.com^
 ||ezsbhlpchu.com^
 ||ezulqzssxnu.com^
@@ -13979,6 +13989,7 @@
 ||fbxyuleyktun.com^
 ||fc0a58af2e.com^
 ||fc29334d79.com^
+||fc3ppv.xyz^
 ||fc7c8be451.com^
 ||fc861ba414.com^
 ||fccinteractive.com^
@@ -14168,6 +14179,7 @@
 ||fhujotrb.com^
 ||fhuvfdycagmkhr.com^
 ||fhv00rxa2.com^
+||fhvfznpehzgl.com^
 ||fhyazslzuaw.com^
 ||fhzgeqk.com^
 ||fiatgrabbed.com^
@@ -14497,6 +14509,7 @@
 ||fluidintolerablespectacular.com^
 ||fluingdulotic.com^
 ||flukepopped.com^
+||flungsnibble.com^
 ||fluqualificationlarge.com^
 ||flurrdid.top^
 ||flurrylimmu.com^
@@ -15293,6 +15306,7 @@
 ||gbullgmqfsgf.com^
 ||gbvnfbrg.com^
 ||gbztputcfgp.com^
+||gbzvldguay.com^
 ||gcfabtyir.com^
 ||gcfynlyvab.com^
 ||gcjzuzldn.com^
@@ -15921,6 +15935,7 @@
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
+||goobefirumaupt.net^
 ||gooblesdd.com^
 ||goocivede.com^
 ||good-ads-online.com^
@@ -16323,6 +16338,7 @@
 ||guardedtabletsgates.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardsslate.com^
+||guareacelling.com^
 ||guchihyfa.pro^
 ||gudouzov.com^
 ||guerrilla-links.com^
@@ -19365,6 +19381,7 @@
 ||jzqgyccwefd.com^
 ||jztchllgpcrwu.com^
 ||jztucbb.com^
+||jztwidpixa.icu^
 ||jzycnlq.com^
 ||k-09mobiles.com^
 ||k28maingeneral.com^
@@ -19402,6 +19419,7 @@
 ||kalmukrattail.com^
 ||kalseech.xyz^
 ||kamachilinins.com^
+||kamahiunvisor.shop^
 ||kamalafooner.space^
 ||kamassmyalia.com^
 ||kaminari.space^
@@ -19565,6 +19583,7 @@
 ||kfngvuu.com^
 ||kfpljakmiousajl.com^
 ||kfxkxyb.com^
+||kfyrquavidn.com^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
 ||kgfrstw.com^
@@ -19656,6 +19675,7 @@
 ||kitwwuowjv.com^
 ||kityour.com^
 ||kiweftours.com^
+||kixestalsie.net^
 ||kiynew.com^
 ||kiyyrilqb.com^
 ||kizklqqj.com^
@@ -20003,6 +20023,7 @@
 ||labadena.com^
 ||labbyplop.com^
 ||labeldollars.com^
+||labelstrinkum.com^
 ||labourattention.com^
 ||labourcucumberarena.com^
 ||labourerlavender.com^
@@ -21116,6 +21137,7 @@
 ||lzoasvofvzw.com^
 ||lzukrobrykk.com^
 ||lzxdx24yib.com^
+||m-fmfadcfm.icu^
 ||m-rtb.com^
 ||m.xrum.info^
 ||m0hcppadsnq8.com^
@@ -22077,6 +22099,7 @@
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mnnxqjvewinmxc.com^
+||mnpdylwayjbh.com^
 ||mntzr11.net^
 ||mntzrlt.net^
 ||mnvgvhksif.com^
@@ -22256,6 +22279,7 @@
 ||moonvids.online^
 ||moonvids.space^
 ||mooroore.xyz^
+||mooruptraiks.com^
 ||mootermedia.com^
 ||mooxar.com^
 ||mopedisods.com^
@@ -23230,6 +23254,7 @@
 ||noerwe5gianfor19e4st.com^
 ||nofashot.com^
 ||nofidroa.xyz^
+||nogaiboccaro.com^
 ||nognoongut.com^
 ||nohezu.xyz^
 ||nohowsankhya.com^
@@ -24122,6 +24147,7 @@
 ||omgt5.com^
 ||omguk.com^
 ||omgwowgirls.com^
+||omhxguadsvq.com^
 ||ominousgutter.com^
 ||omission119.fun^
 ||omissionmexicanengineering.com^
@@ -24889,6 +24915,7 @@
 ||ozvnumjdncpfvt.com^
 ||ozwxhoonxlm.com^
 ||ozznarazdtz.com^
+||ozzvjbdqcw.com^
 ||p-analytics.life^
 ||p1yhfi19l.com^
 ||p59othersq.com^
@@ -27599,6 +27626,7 @@
 ||quickwest.pro^
 ||quidclueless.com^
 ||quietlybananasmarvel.com^
+||quiffredsear.com^
 ||quintag.com^
 ||quintessential-telephone.pro^
 ||quippedtcawi.com^
@@ -29194,6 +29222,7 @@
 ||rysjkulq.xyz^
 ||ryvjgiyoxomii.com^
 ||rzaxroziwozq.com^
+||rzdcdjxg.com^
 ||rzgiyhpbit.com^
 ||rzkphskfifmo.com^
 ||rzneekilff.com^
@@ -29505,6 +29534,7 @@
 ||scentservers.com^
 ||scepticalchurch.com^
 ||scfsdvc.com^
+||scheduleginnarcotic.com^
 ||schedulerationally.com^
 ||schizypdq.com^
 ||schjmp.com^
@@ -29680,6 +29710,7 @@
 ||seedlingneurotic.com^
 ||seedlingpenknifecambridge.com^
 ||seedoupo.com^
+||seedouptoanapsy.xyz^
 ||seedsmurids.shop^
 ||seegamezpicks.info^
 ||seegraufah.com^
@@ -30239,6 +30270,7 @@
 ||silveraddition.pro^
 ||similarlength.pro^
 ||similarlyrelicrecovery.com^
+||similarpresence.com^
 ||simple-isl.com^
 ||simplebrutedigestive.com^
 ||simplewebanalysis.com^
@@ -30337,6 +30369,7 @@
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
+||skhgzrtxy.com^
 ||skhmjezzj.com^
 ||skhqmobc.com^
 ||skiddyteapots.com^
@@ -32138,6 +32171,7 @@
 ||techniciancocoon.com^
 ||technoratimedia.com^
 ||technoshadows.com^
+||techourtoapingu.com^
 ||techreviewtech.com^
 ||tecominchisel.com^
 ||tecuil.com^
@@ -33228,6 +33262,7 @@
 ||trmobc.com^
 ||trmzum.com^
 ||trndabegvhndg.com^
+||trocarssubpool.shop^
 ||trodspivery.com^
 ||trokemar.com^
 ||trolandmattes.com^
@@ -33267,6 +33302,7 @@
 ||truazka.xyz^
 ||trucelabwits.com^
 ||trucemallow.website^
+||trullercurrant.com^
 ||trulydevotionceramic.com^
 ||trulysuitedcharges.com^
 ||trulyunderestimatediscard.com^
@@ -35619,6 +35655,7 @@
 ||whoartairg.com^
 ||whoavaud.net^
 ||whoawhoug.com^
+||whoawoansoo.com^
 ||whofiguredso.org^
 ||whokrour.net^
 ||wholeactualjournal.com^
@@ -35941,6 +35978,7 @@
 ||woodejou.net^
 ||woodenguardsheartburn.com^
 ||woodhenmils.com^
+||woodieababua.com^
 ||woodlandsmonthlyelated.com^
 ||woodlotrubato.com^
 ||woodtipvpnrh.com^
@@ -38783,6 +38821,7 @@
 ||16327739.xyz^
 ||164de830.live^
 ||16972675.xyz^
+||17022993.xyz^
 ||19009143.xyz^
 ||19199675.xyz^
 ||19706903.xyz^
@@ -42840,6 +42879,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logsdk.kwai-pro.com^
+||w9g7dlhw3kaank.www.eldorado.gg^
+||unl1zvy2zuyn.franchiseplus.nl^
+||mt.gigazine.net^
 ||tracker.jkplayers.com^
 ||collect.dolap.com^
 ||b.ranking.apis.sankei-digital.co.jp^
@@ -45383,7 +45426,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
--attr.appsflyersdk.com
+-attr.appsflyersdk.com^
 register.appsflyersdk.com^
 conversions.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
@@ -45448,6 +45491,10 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||iot-in-logser.realme.com^
+||push-api.topaz-analytics.com^
+||analytics.wildlifestudios.com^
+||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||mediation.mwmadnetworks.com^
 ||adui.tg.meitu.com^
 ||meitustat.com^
@@ -45458,9 +45505,6 @@ inapps.appsflyersdk.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^
-||push-api.topaz-analytics.com^
-||analytics.wildlifestudios.com^
-||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||log-verify.mob.com^
 ||app-analytics-services.com^
 ||sg.log.ulivetv.net^
@@ -45577,6 +45621,7 @@ inapps.appsflyersdk.com^
 ||node.aibeacon.jp^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
+||rtlog.isnssdk.com^
 ||mon.isnssdk.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
@@ -45993,7 +46038,7 @@ inapps.appsflyersdk.com^
 ||ymtracking.com^
 !
 ! TikTok
-||log16-normal-useast5.tiktokv.us^
+||log*-normal-*.tiktokv.us^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||mon*-platform-*.tiktokv.com^
 ||rtlog*.tiktokv.us^
