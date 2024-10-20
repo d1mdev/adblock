@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-19T00:00:11.254Z
+! Last modified: 2024-10-20T00:00:11.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6552,6 +6552,7 @@
 ||awhoupsou.com^
 ||awistats.com^
 ||awkkkpktq.com^
+||awkwardpurfles.com^
 ||awkwardsuperstition.com^
 ||awldcupu.com^
 ||awledconside.xyz^
@@ -6576,6 +6577,7 @@
 ||awsurveys.com^
 ||awvracajcsu.com^
 ||awwagqorqpty.com^
+||awwnaqax.com^
 ||awwprjafmfjbvt.xyz^
 ||awxgfiqifawg.com^
 ||awytythbxujkz.com^
@@ -8859,6 +8861,7 @@
 ||cho7932105co3l2ate3covere53d.com^
 ||choachim.com^
 ||choacmax.xyz^
+||choafaidoonsoy.net^
 ||choagrie.com^
 ||choakalsimen.com^
 ||choakaucmomt.com^
@@ -11765,6 +11768,7 @@
 ||ebolat.xyz^
 ||ebonizerebake.com^
 ||ebooktheft.com^
+||ebqptawxdxrrdsu.xyz^
 ||ebsbqexdgb.xyz^
 ||ebuzzing.com^
 ||ebwvjkvd.com^
@@ -12030,6 +12034,7 @@
 ||elewasgiwiththi.info^
 ||elfcoexistbird.com^
 ||elfnxscnmtao.com^
+||elgnnpl-ukgs.global^
 ||elhdxexnra.xyz^
 ||elicaowl.com^
 ||eligiblecompetitive.com^
@@ -13248,6 +13253,7 @@
 ||firmhurrieddetrimental.com^
 ||firmmaintenance.com^
 ||firnebmike.live^
+||firrycandour.com^
 ||first-rate.com^
 ||firstlightera.com^
 ||firstlyfirstpompey.com^
@@ -16633,6 +16639,7 @@
 ||inheritedgravysuspected.com^
 ||inheritedunstable.com^
 ||inheritedwren.com^
+||inheritknow.com^
 ||inhonedgean.com^
 ||inhospitablebamboograduate.com^
 ||inhospitablededucefairness.com^
@@ -18159,6 +18166,7 @@
 ||kvovs.xyz^
 ||kvstithy.top^
 ||kvtgl4who.com^
+||kvum-bpelzw.icu^
 ||kvymlsb.com^
 ||kvyptbqhtyeq.com^
 ||kw3y5otoeuniv7e9rsi.com^
@@ -23151,6 +23159,7 @@
 ||pinesichor.click^
 ||ping-traffic.info^
 ||pingerswrier.click^
+||pinklabel.com^
 ||pinkleo.pro^
 ||pinkpig2le8tt09.com^
 ||pinprickmerry.com^
@@ -26128,6 +26137,7 @@
 ||rukanw.com^
 ||ruktllqjvsafr.com^
 ||rulrahed.com^
+||rumkhprg.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
 ||rummyaffiliates.com^
@@ -30049,6 +30059,7 @@
 ||tuesdayfetidlit.com^
 ||tuffoonincaged.com^
 ||tuftoawoo.xyz^
+||tugraughilr.xyz^
 ||tuhwjkesxo.com^
 ||tuitionpancake.com^
 ||tujofclqgazqa.com^
@@ -34911,6 +34922,7 @@
 ||65035033.xyz^
 ||656f1ba3.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
+||65894140.xyz^
 ||68646f.xyz^
 ||691f42ad.xyz^
 ||6a6672.xyz^
