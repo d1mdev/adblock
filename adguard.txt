@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-24T00:00:11.504Z
+! Last modified: 2024-10-25T00:00:09.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2251,6 +2251,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||sdk.kokocads.com^
 ||r1.ati.su^
 ||rcmjs.rambler.ru^
 ||sharemefiles.ru^
@@ -3799,6 +3800,7 @@
 ||3b1ac6ca25.com^
 ||3bc9b1b89c.com^
 ||3bq57qu8o.com^
+||3cb9b57efc.com^
 ||3cg6sa78w.com^
 ||3d5affba28.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
@@ -5180,6 +5182,7 @@
 ||agajx.com^
 ||agakoffingan.com^
 ||agalarvitaran.com^
+||agalumineonr.com^
 ||agamaevascla.top^
 ||agamagcargoan.com^
 ||agamantykeon.com^
@@ -6085,6 +6088,7 @@
 ||ascensionunfinished.com^
 ||ascentflabbysketch.com^
 ||ascentloinconvenience.com^
+||ascentsboni.com^
 ||ascertainedthetongs.com^
 ||ascertainintend.com^
 ||ascraftan.com^
@@ -9465,6 +9469,7 @@
 ||compensationdeviseconnote.com^
 ||compensationpropulsion.com^
 ||compensationstout.com^
+||competemerriment.com^
 ||competencesickcake.com^
 ||compiledonatevanity.com^
 ||compileformality.com^
@@ -9769,6 +9774,7 @@
 ||cosmicpartially.com^
 ||costaquire.com^
 ||costhandbookfolder.com^
+||costivecohorts.top^
 ||coststunningconjure.com^
 ||costumefilmimport.com^
 ||cosysuppressed.com^
@@ -10049,6 +10055,8 @@
 ||csrrxwd.com^
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
+||csyzhztgs.com^
+||cszjyqqpj.com^
 ||ctasnet.com^
 ||ctengine.io^
 ||cteripre.com^
@@ -11157,6 +11165,7 @@
 ||djldrhxb.com^
 ||djmwxpsijxxo.xyz^
 ||djosbhwpnfxmx.com^
+||djrsvwtt.com^
 ||dkagiqnjsdoqli.com^
 ||dkfqrsqg.com^
 ||dkrbus.com^
@@ -11484,6 +11493,7 @@
 ||drtlgtrnqvnr.xyz^
 ||drubbersestia.com^
 ||druggedforearm.com^
+||drugstoredemuretake.com^
 ||druguniverseinfected.com^
 ||drumfailedthy.com^
 ||drummerconvention.com^
@@ -11670,6 +11680,7 @@
 ||dwuxbazvi.com^
 ||dwvbfnqrbif.com^
 ||dwwpofwebdwm.com^
+||dwydqnclgflug.com^
 ||dxmjyxksvc.com^
 ||dxotbknruf.com
 ||dxouwbn7o.com^
@@ -12360,6 +12371,7 @@
 ||eptougry.net^
 ||epu.sh^
 ||eputysolomon.com^
+||epynkklzkvnvs.com^
 ||eqads.com^
 ||eqdudaj.com^
 ||eqffdgnpysx.com^
@@ -12861,6 +12873,7 @@
 ||faecesjazies.top^
 ||faeryreified.com^
 ||faestara.com^
+||fagarauvitic.com^
 ||faggapmunost.com^
 ||faggrim.com^
 ||fagovwnavab.com^
@@ -13759,6 +13772,7 @@
 ||freelancebeheld.com^
 ||freelancepicketpeople.com^
 ||freelancerarity.com^
+||freepopnews.skin^
 ||freesoftwarelive.com^
 ||freestar.io^
 ||freetrckr.com^
@@ -16295,6 +16309,7 @@
 ||ievjrgjid.com^
 ||ievjylvqfjry.com^
 ||ievwagscwgpjm.com^
+||ieyri61b.xyz^
 ||iezptsoc.com^
 ||iezxmddndn.com^
 ||if20jadf8aj9bu.shop^
@@ -16382,6 +16397,7 @@
 ||ijobloemotherofh.com^
 ||ijukwkxpek.xyz^
 ||ijulpfhnufwpci.com^
+||ijwkdmzru.com^
 ||ijynarif.xyz^
 ||ikahnruntx.com^
 ||ikcaru.com^
@@ -17185,6 +17201,7 @@
 ||izjzkye.com^
 ||izlok.xyz^
 ||izlutev.com^
+||izoaghiwoft.net^
 ||izrnvo.com^
 ||izzzlfrzmwtter.com^
 ||j45.webringporn.com^
@@ -20064,6 +20081,7 @@
 ||mittenheatdied.com^
 ||miuo.cloud^
 ||miveci.uno^
+||mivibsegnuhaub.xyz^
 ||miwllmo.com^
 ||mixandfun.com^
 ||mixclckchat.net^
@@ -21303,6 +21321,7 @@
 ||nqn7la7.de^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
+||nrarnesjbsef.com^
 ||nrcykmnukb.com^
 ||nreg.world^
 ||nretholas.com^
@@ -22299,6 +22318,7 @@
 ||oungimuk.net^
 ||oungoowe.xyz^
 ||ounigaugsurvey.space^
+||ounobdlzzks.world^
 ||ounsamie.xyz^
 ||oupaumul.net^
 ||ouphouch.com^
@@ -22374,6 +22394,7 @@
 ||outtunova.com^
 ||outvoteloco.shop^
 ||outwhirlipedeer.com^
+||outwingullom.com^
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
@@ -22520,6 +22541,7 @@
 ||ozmspawupo.com^
 ||ozobsaib.com^
 ||ozonemedia.com^
+||ozonerexhaled.click^
 ||ozongees.com^
 ||ozsturgeonafford.com^
 ||ozvnumjdncpfvt.com^
@@ -23167,6 +23189,7 @@
 ||phoulade.xyz^
 ||phoutchounse.com^
 ||phouvemp.net^
+||phovaiksou.net^
 ||phraa-lby.com^
 ||phrasespokesmansurmise.com^
 ||phraseybeulah.com^
@@ -23863,6 +23886,7 @@
 ||preferenceforfeit.com^
 ||prefershapely.com^
 ||prefleks.com^
+||pregainskilly.shop^
 ||pregnancyslayidentifier.com^
 ||prehistoricprefecturedale.com^
 ||prejudiceinsure.com^
@@ -24634,6 +24658,7 @@
 ||pysfhgdpi.com^
 ||pyxiscablese.com^
 ||pyzwxkb.com^
+||pzpcgiaj.com^
 ||pzqfmhy.com^
 ||pztpygaul.com^
 ||pzvai.site^
@@ -25810,6 +25835,7 @@
 ||rhxdsplm.com^
 ||rhythmxchange.com^
 ||riaoz.xyz^
+||riazrk-oba.online^
 ||ribqpiocnzc.com^
 ||ribsaiji.com^
 ||ribsegment.com^
@@ -27447,6 +27473,7 @@
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skunscold.top^
 ||skyadsmart.com^
 ||skyedtonify.click^
 ||skygtbwownln.xyz^
@@ -28956,6 +28983,7 @@
 ||taprtopcldfb.co^
 ||tapwhigwy.com^
 ||tarafnagging.com^
+||tarcavbul.com^
 ||targechirtil.net^
 ||targhe.info^
 ||tarinstinctivewee.com^
@@ -29127,6 +29155,7 @@
 ||tenoneraliners.top^
 ||tenoremediary.shop^
 ||tensagesic.com^
+||tensasscarify.com^
 ||tenseapprobation.com^
 ||tensorsbancos.com^
 ||tentativenegotiate.com^
@@ -29429,6 +29458,7 @@
 ||throwsceases.com^
 ||thrtle.com^
 ||thrustlumpypulse.com^
+||thsantmirza.shop^
 ||thterras.com^
 ||thuangreith.shop^
 ||thubanoa.com^
@@ -29654,6 +29684,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||toftheca.buzz^
 ||togenron.com^
 ||togetherballroom.com^
@@ -30274,6 +30305,7 @@
 ||tvkaimh.com^
 ||tvlaavcxdxlqan.com^
 ||tvprocessing.com^
+||tvrzftbmhkeuuc.com^
 ||tvvnofqard.com^
 ||twaitevirgal.com^
 ||twangruble.top^
@@ -31109,6 +31141,7 @@
 ||vazshojt.com^
 ||vazypteke.pro^
 ||vbhuivr.com^
+||vbozbkzvyzloy.top^
 ||vbrbgki.com^
 ||vbrusdiifpfd.com^
 ||vbtrax.com^
@@ -31654,6 +31687,7 @@
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
 ||vwedfijcm.xyz^
@@ -32783,6 +32817,7 @@
 ||xfvkxbouozw.com^
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
+||xg-jbpmnru.online^
 ||xgdljiasdo.xyz^
 ||xgeuzcfrkeb.com^
 ||xgihlgcfuu.com^
@@ -32895,6 +32930,7 @@
 ||xtraserp.com^
 ||xtremeserve.xyz^
 ||xtremeviewing.com^
+||xtroglobal.com^
 ||xttaff.com^
 ||xtvrgxbiteit.xyz^
 ||xtxlijkjtlln.xyz^
@@ -33175,6 +33211,7 @@
 ||yoads.net^
 ||yoc-adserver.com^
 ||yocksniacins.com^
+||yodpbbkoe.com^
 ||yogacomplyfuel.com^
 ||yogaprimarilyformation.com^
 ||yogar2ti8nf09.com^
@@ -35092,6 +35129,7 @@
 ||7608d5.xyz^
 ||77886044.xyz^
 ||7841ffda.xyz^
+||78847798.xyz^
 ||78b78ff8.xyz^
 ||79180284.xyz^
 ||7ca989e1.xyz^
@@ -35294,6 +35332,7 @@
 !
 !
 !
+||analytics.wikitide.net^
 ||shgcdn3.com^
 ||rmonitor.qq.com^
 ||api.revenuads.com^
@@ -43026,6 +43065,7 @@ inapps.appsflyersdk.com^
 ||highway.cablecar.sph.com.sg^
 ||hit.mybestpro.com^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.informer.com^
 ||hydro-ma-proxy.akamaized.net^
 ||i.posthog.com^
@@ -43173,6 +43213,7 @@ inapps.appsflyersdk.com^
 ||pt.ispot.tv^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
+||pulse.shopflo.com^
 ||px.marchex.io^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
@@ -43219,6 +43260,7 @@ inapps.appsflyersdk.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||spa-tracker.spapi.io^
 ||speedtrap.shopdirect.com^
+||src.freshmarketer.in^
 ||ssa.stepstone.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
