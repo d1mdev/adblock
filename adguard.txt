@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-27T00:00:10.338Z
+! Last modified: 2024-10-28T00:00:10.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -13990,6 +13990,7 @@
 ||fvckeip.com^
 ||fvgxfupisy.com^
 ||fvohyywkbc.com^
+||fwbejnuplyuxufm.xyz^
 ||fwbntw.com^
 ||fwealjdmeptu.com^
 ||fwelbbhdlxmn.com^
@@ -16318,6 +16319,7 @@
 ||iekrtaas.com^
 ||ieldrjjkxwo.com^
 ||ielmzzm.com^
+||ieluqiqttdwv.com^
 ||ieo8qjp3x9jn.pro^
 ||ieqmxymlyz.com^
 ||iessjhfdsyn.com^
@@ -17270,6 +17272,7 @@
 ||japegr.click^
 ||japw.cloud^
 ||jaqxaqoxwhce.com^
+||jareechargu.xyz^
 ||jargonwillinglybetrayal.com^
 ||jarguvie.xyz^
 ||jarsoalton.com^
@@ -18747,6 +18750,7 @@
 ||lightsriot.com^
 ||lightssyrupdecree.com^
 ||ligninenchant.com^
+||ligvraojlrr.com^
 ||liivhntsu.com^
 ||lijjk.space^
 ||lijybcfgnjh.com^
@@ -19481,6 +19485,7 @@
 ||malthaeurite.com^
 ||maltohoo.xyz^
 ||maltunfaithfulpredominant.com^
+||mamaunweft.click^
 ||mamblubamblua.com^
 ||mamluksburion.com^
 ||mammaclassesofficer.com^
@@ -20518,6 +20523,7 @@
 ||multstorage.com^
 ||mumintend.com^
 ||mummydiverseprovided.com^
+||mumoartoor.net^
 ||munilf.com^
 ||munpracticalwh.info^
 ||munqb.xyz^
@@ -35155,6 +35161,7 @@
 ||56514411.xyz^
 ||58e0.site^
 ||59644010.xyz^
+||59768910.xyz^
 ||5ab2f817.xyz^
 ||5afc476a.xyz^
 ||5cc3ac02.xyz^
