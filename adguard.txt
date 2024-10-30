@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-10-29T00:00:09.892Z
+! Last modified: 2024-10-30T00:00:10.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10757,6 +10757,7 @@
 ||detectedadvancevisiting.com^
 ||detectedpectoral.com^
 ||detectiveestrange.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -14845,6 +14846,7 @@
 ||goufldsbktds.com^
 ||gouheethsurvey.space^
 ||gounevou.net^
+||gounodogaptofok.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||goutee.top^
@@ -18198,6 +18200,7 @@
 ||kq272lw4c.com^
 ||kqbjdvighp.com^
 ||kqduogttdmryguw.com^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqjpipl.com^
@@ -21324,6 +21327,7 @@
 ||novadune.com^
 ||novel-inevitable.com^
 ||novelcompliance.com^
+||novelslopeoppressive.com^
 ||novelty.media^
 ||noveltyensue.com^
 ||novemberadventures.com^
@@ -21479,6 +21483,7 @@
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvtvssczb.com^
 ||nvuwqcfdux.xyz^
 ||nvzaezebhow.com^
@@ -22038,6 +22043,7 @@
 ||onmanectrictor.com^
 ||onmantineer.com^
 ||onmarshtompor.com^
+||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onraltstor.com^
@@ -23140,6 +23146,7 @@
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||petsavoury.com^
+||pettyachras.shop^
 ||pexkmaebfy.xyz^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -28243,6 +28250,7 @@
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -31746,6 +31754,7 @@
 ||vuftouks.com^
 ||vufzuld.com^
 ||vugnubier.com^
+||vugpakba.com^
 ||vuhnvtrfj.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -31766,6 +31775,7 @@
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
@@ -35426,6 +35436,8 @@
 !
 !
 !
+||prodregistryv2.org^
+||ads.mythad.com^
 ||ga2.getresponse.com^
 ||events.split.io^
 ||analytics.wikitide.net^
@@ -39199,6 +39211,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
@@ -43590,7 +43604,6 @@ inapps.appsflyersdk.com^
 ||wds.weqs.me^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
-||webcare.byside.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||webtracker.apicasystem.com^
