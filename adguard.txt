@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-03T00:00:11.598Z
+! Last modified: 2024-11-04T00:00:10.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2653,6 +2653,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-delivery.gunosy.com^
 ||ads-config-engine-noneu.truecaller.com^
 ||ad.inston.ltd^
 ||ad.deepthought.industries^
@@ -4063,6 +4064,7 @@
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
 ||80055404.vtt^
 ||81438456aa.com^
@@ -5704,6 +5706,7 @@
 ||anatomybravely.com^
 ||anattospursier.com^
 ||anaxialaphonia.com^
+||ancamcdu.com^
 ||anceenablesas.com^
 ||anceenablesas.info^
 ||ancestor3452.fun^
@@ -6491,6 +6494,7 @@
 ||avbang3431.fun^
 ||avbulb3431.fun^
 ||avdebt3431.fun^
+||avecmessougnauy.net^
 ||avenaryconcent.com^
 ||aveneverseeno.info^
 ||avengeburglar.com^
@@ -7655,6 +7659,7 @@
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bofhlzu.com^
+||bogletdent.shop^
 ||bogrodius.com^
 ||bogus-disk.com^
 ||boharaf.com^
@@ -8613,6 +8618,7 @@
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdoqjxlnegnhm.com^
 ||cdosagebreakfast.com^
 ||cdrvrs.com^
 ||cdryuoe.com^
@@ -10303,6 +10309,7 @@
 ||dallavel.com^
 ||dallthroughthe.info^
 ||daltongrievously.com^
+||daly2024.com^
 ||dalyai.com^
 ||dalyio.com^
 ||dalymix.com^
@@ -11977,6 +11984,7 @@
 ||eetsooso.net^
 ||eewhapseepoo.net^
 ||eeycumpmwy.com^
+||eeyrfrqdfey.xyz^
 ||eeywmvwaqqrrl.top^
 ||eezavops.net^
 ||eezegrip.net^
@@ -16120,6 +16128,7 @@
 ||humanjeep.com^
 ||humiliatemoot.com^
 ||hummingexam.com^
+||hummockpenner.shop^
 ||humoralpurline.com^
 ||humpdecompose.com^
 ||humplollipopsalts.com^
@@ -17501,6 +17510,7 @@
 ||joachoag.xyz^
 ||joaglouwulin.com^
 ||joagroamy.com^
+||joajazaicoa.xyz^
 ||joanneehretia.com^
 ||joaqaylueycfqw.xyz^
 ||joastaca.com^
@@ -18161,6 +18171,7 @@
 ||kqrcijq.com^
 ||kquptfjubrbp.xyz^
 ||kquzgqf.com^
+||kra18.com^
 ||krankenwagenmotor.com^
 ||kraoqsvumatd.com^
 ||krazil.com^
@@ -24860,6 +24871,7 @@
 ||qroagwadndwy.com^
 ||qrprobopassor.com^
 ||qrredraws.com^
+||qrroyrdbjeeffw.com^
 ||qrrqysjnwctp.xyz^
 ||qrubv.buzz^
 ||qrwkkcyih.xyz^
@@ -39096,6 +39108,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.ahrefs.
 ||montelena.gmarket.co.kr^
 ||stats.hitwebcloud.de^
 ||amplitude.bandlab.com^
@@ -44382,8 +44395,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Nov 2024 16:01 UTC+7
-! Version: 2411021601
+! Last modified: 03 Nov 2024 16:26 UTC+7
+! Version: 2411031626
 ! Blocked: 926 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
