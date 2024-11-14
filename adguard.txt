@@ -3,21 +3,9 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-13T00:00:10.992Z
+! Last modified: 2024-11-14T00:00:10.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
-!
-!
-! Source name: AdGuard Russian filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt
-!
-!
-! This section contains the list of third-party advertising networks domains.
-! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
-!
-! Good: ||doubleclick.net^$third-party
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
@@ -2391,6 +2379,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||broredir*s.site^
 ||banner.kiev.ua
 ||orbit*.lun.ua^
 ||yxhstwzjbu.info
@@ -2656,6 +2645,10 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||httpdns.bilivideo.com^
+||dataflow.biliapi.com^
+||grpc.biliapi.net^
+||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
 ||ads-delivery.gunosy.com^
@@ -6241,6 +6234,7 @@
 ||atethebenefitsshe.com^
 ||atgallader.com^
 ||atgenesecton.com^
+||athalarilouwo.net^
 ||athbzeobts.com^
 ||atheismperplex.com^
 ||atherthishinhe.com^
@@ -6273,6 +6267,7 @@
 ||atmosphericurinebra.com^
 ||atmtaoda.com^
 ||ato.mx^
+||atodiler.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atonato.de^
@@ -6743,6 +6738,7 @@
 ||balvalur.com^
 ||bam-bam-slam.com^
 ||bambarmedia.com^
+||bamtinseefta.xyz^
 ||banalrestart.com^
 ||banawgaht.com^
 ||banclip.com^
@@ -9006,6 +9002,7 @@
 ||cliffestablishedcrocodile.com^
 ||climatedetaindes.com^
 ||clinkeasiestopponent.com^
+||clintonchewet.com^
 ||clintsflawed.click^
 ||clipperroutesevere.com^
 ||cliquedmuggish.top^
@@ -14048,6 +14045,7 @@
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
+||goobakocaup.com^
 ||goobefirumaupt.net^
 ||goocivede.com^
 ||good-ads-online.com^
@@ -16474,6 +16472,7 @@
 ||jggegj-rtbix.top^
 ||jggldfvx.com^
 ||jghjhtz.com^
+||jgltbxlougpg.xyz^
 ||jgqaainj.buzz^
 ||jgrjldc.com^
 ||jgxavkopotthxj.xyz^
@@ -18640,6 +18639,7 @@
 ||memorizematch.com^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mendedrefuel.com^
 ||menews.org^
 ||mentallyissue.com^
@@ -19762,6 +19762,7 @@
 ||nezygmobha.com^
 ||nfctoroxi.xyz^
 ||nfgxadlbfzuy.click^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||nfuwlooaodf.com^
 ||nfuwpyx.com^
@@ -22645,6 +22646,7 @@
 ||producerplot.com^
 ||productanychaste.com^
 ||producthub.info^
+||productive-chemical.pro^
 ||proeroclips.pro^
 ||proetusbramble.com^
 ||professdeteriorate.com^
@@ -27898,6 +27900,7 @@
 ||tonicdivedfounded.com^
 ||tonicneighbouring.com^
 ||toninjaska.com^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontrinevengre.com^
 ||toocssfghbvgqb.com^
@@ -29328,6 +29331,7 @@
 ||vfl81ea28aztw7y3.pro^
 ||vflouksffoxmlnk.xyz^
 ||vfthr.com^
+||vfuqivac.com^
 ||vfvdsati.com^
 ||vfyhwapi.com^
 ||vfzqtgr.com^
@@ -31029,6 +31033,7 @@
 ||yohavemix.live^
 ||yoibbka.com^
 ||yokeeroud.com^
+||yoksamhain.com^
 ||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yonabrar.com^
@@ -33041,6 +33046,7 @@
 !
 !
 !
+||p7cloud.net^
 ||kobel.services^
 ||useraction.de^
 ||analytically.net^
@@ -36823,6 +36829,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mst.rnd.de^
 ||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
@@ -39456,6 +39463,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
 ||event-dot-learning-piano.appspot.com^
@@ -42115,9 +42123,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 926 rules
+! Last modified: 13 Nov 2024 16:12 UTC+7
+! Version: 2411131612
+! Blocked: 928 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42609,6 +42617,7 @@ vkcdnservice.appspot.com^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
+||analytics.mobiedu.vn^
 ||analytics.molistar.com^
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
@@ -42965,6 +42974,7 @@ vkcdnservice.appspot.com^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||upfile16.mediaphim.com^
 ||upl.net-solutions.vn^
+||us.mplis.gov.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
