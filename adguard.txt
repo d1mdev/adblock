@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-15T00:00:10.155Z
+! Last modified: 2024-11-16T00:00:10.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5470,6 +5470,7 @@
 ||allocatelacking.com^
 ||allocationhistorianweekend.com^
 ||allodsubussu.com^
+||allorfrryz.com^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
 ||allow-to-continue.com^
@@ -8958,6 +8959,7 @@
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
+||clickadsource.com^
 ||clickagy.com^
 ||clickalinks.xyz^
 ||clickallow.net^
@@ -26666,6 +26668,7 @@
 ||stpd.cloud^
 ||stpmgo.com^
 ||stpmneaywgib.com^
+||stqagmrylm.xyz^
 ||stquality.org^
 ||straight-shift.pro^
 ||straight-storage.pro^
@@ -27082,6 +27085,7 @@
 ||syiwgwsqwngrdw.xyz^
 ||sykfmgu.com^
 ||syllableliking.com^
+||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||sylxisys.com^
@@ -29588,6 +29592,7 @@
 ||vksphze.com^
 ||vlitag.com^
 ||vlkmcpnfo.com^
+||vlkvchof.com^
 ||vllsour.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
@@ -30203,6 +30208,7 @@
 ||whollyneedy.com^
 ||whomspreadbeep.com^
 ||whomsudsikaxu.com^
+||whoobaumpairto.xyz^
 ||whoodiksaglels.net^
 ||whookrair.xyz^
 ||whookroo.com^
@@ -31439,6 +31445,7 @@
 ||zumfzaamdxaw.com^
 ||zumid.xyz^
 ||zumrieth.com^
+||zungiwhaigaunsi.net^
 ||zunsoach.com^
 ||zuoltlhh.com^
 ||zupee.cim^
@@ -34334,7 +34341,6 @@
 ||stats.datawrapper.de^
 ||bigdata.riamedia.com.ua^
 ||track.adabra.com^
-||monu.delivery^
 ||uniqodo.com^
 ||collectfasttracks.com^
 ||realizerecess.com^
@@ -36843,6 +36849,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||telemetry*.api.playstation.com^
+||telemetry.zoom.us^
+||agi-static.indiatimes.com^
 ||fail.adr.ec^
 ||t.adii.se^
 ||stats.bunkr.ru^
@@ -39482,6 +39491,13 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||tatrack.thinkyeah.com^
+-rtb.gravite.net^
+||sdk-04.moengage.com^
+||mon*-misc-lf.fqnovel.com^
+||vcs.zijieapi.com^
+||monsetting.toutiao.com^
+-applog*.fqnovel.com^
 ||atsod.launch.liveramp.com^
 ||ads-image.production-public.tubi.io^
 ||user-signals.production-public.tubi.io^
