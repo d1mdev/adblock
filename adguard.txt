@@ -3,10 +3,23 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-18T00:00:10.274Z
+! Last modified: 2024-11-19T00:00:10.412Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+!
+! Source name: AdGuard Russian filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/common-sections/adservers.txt
+!
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+||hfnuqljjnt.com^
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
 ||xjwzbo.com^
@@ -6455,6 +6468,7 @@
 ||avgads.space^
 ||avgive3431.fun^
 ||avhduwvirosl.com^
+||avhjzemp.com^
 ||avhtaapxml.com^
 ||aviatedrasure.top^
 ||aviationbe.com^
@@ -7095,6 +7109,7 @@
 ||besidesparties.com^
 ||beskittyan.com^
 ||besmeargleor.com^
+||best-girls-around.com^
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-protection4.me^
@@ -9816,6 +9831,7 @@
 ||cryingforanythi.com^
 ||cryjun.com^
 ||cryorganichash.com^
+||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
 ||cryptomaster.care^
@@ -9881,6 +9897,7 @@
 ||cupoabie.net^
 ||cupswiss.com^
 ||cupulaeveinal.top^
+||curatekrait.com^
 ||curledbuffet.com^
 ||curlsl.info^
 ||curlsomewherespider.com^
@@ -12212,6 +12229,7 @@
 ||exemplarsensor.com^
 ||exemplarychemistry.com^
 ||exertionbesiege.com^
+||exgjhawccb.com^
 ||exhaleveteranbasketball.com^
 ||exhaustfirstlytearing.com^
 ||exhauststreak.com^
@@ -14065,6 +14083,7 @@
 ||gomain.pro^
 ||gomain2.pro^
 ||gomnlt.com^
+||gomucreu.com^
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
@@ -14150,6 +14169,7 @@
 ||gqfuf.com^
 ||gqjdweqs.com^
 ||gqjeqaqrxexmd.com^
+||gquwuefddojikxo.xyz^
 ||gr3hjjj.pics^
 ||graboverhead.com^
 ||gracefullisten.pro^
@@ -15425,6 +15445,7 @@
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 ||hzr0dm28m17c.com^
 ||hzychcvdmjo.com^
+||i-svzgrtibs.rocks^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
 ||i65wsmrj5.com^
@@ -15952,6 +15973,7 @@
 ||insistballisticclone.com^
 ||insistent-worker.com^
 ||insistinestimable.com^
+||insistpeerbeef.com^
 ||insitepromotion.com^
 ||insnative.com^
 ||insomniacultural.com^
@@ -16773,6 +16795,7 @@
 ||jxvilsjyrh.com^
 ||jxxnnhdgbfo.xyz^
 ||jxybgyu.com^
+||jybaekajjmqrz.top^
 ||jycrjkuspyv.fun^
 ||jyfirjqojg.xyz^
 ||jygcv.sbs^
@@ -19146,6 +19169,7 @@
 ||moonrocketaffiliates.com^
 ||moonvids.online^
 ||moonvids.space^
+||mooptoasinudy.net^
 ||mooroore.xyz^
 ||mootermedia.com^
 ||mooxar.com^
@@ -21111,6 +21135,7 @@
 ||outhulem.net^
 ||outkisslahuli.com^
 ||outlayomnipresentdream.com^
+||outlayreliancevine.com^
 ||outlineappearbar.com^
 ||outloginequity.com^
 ||outlookabsorb.com^
@@ -21942,6 +21967,7 @@
 ||picsti.com^
 ||pictela.net^
 ||pictorialtraverse.com^
+||pictunoctette.com^
 ||pieceresponsepamphlet.com^
 ||piecreatefragment.com^
 ||pienbitore.com^
@@ -22702,6 +22728,7 @@
 ||profilingerror.online^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
+||profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
@@ -26374,6 +26401,7 @@
 ||sptrkr.com^
 ||spuezain.com^
 ||spuncomplaintsapartment.com^
+||spunorientation.com^
 ||spuppeh.com^
 ||spurproteinopaque.com^
 ||spurryalgoid.top^
@@ -26550,6 +26578,7 @@
 ||steeplederivedinattentive.com^
 ||steeplesaturday.com^
 ||steepto.com^
+||steepuleltou.xyz^
 ||steeringsunshine.com^
 ||steesamax.com^
 ||steessay.com^
@@ -30595,6 +30624,7 @@
 ||wpadmngr.com^
 ||wparcunnv.xyz^
 ||wpcjyxwdsu.xyz^
+||wpfly-sbpkrd.icu^
 ||wpiajkniqnty.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
@@ -30654,6 +30684,7 @@
 ||wtg-ads.com^
 ||wthbjrj.com^
 ||wtmhwnv.com^
+||wtyankriwnza.com^
 ||wuchaurteed.com^
 ||wuci1.xyz^
 ||wuckaity.com^
@@ -33108,6 +33139,7 @@
 !
 !
 !
+||cts.vresp.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||p7cloud.net^
 ||kobel.services^
@@ -35069,7 +35101,6 @@
 ||crwdcntrl.net^
 ||csdata1.com^
 ||cuntador.com^
-||curalate.com^
 ||customerconversio.com^
 ||cya1t.net^
 ||cya2.net^
@@ -39535,6 +39566,9 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.heartratepros.com^
+||hw-sh-pcdn-*.biliapi.net^
+||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
 -rtb.gravite.net^
 ||sdk-04.moengage.com^
@@ -40785,7 +40819,6 @@ inapps.appsflyersdk.com^
 ||ct.needlive.com^
 ||ct.thegear-box.com^
 ||cts.businesswire.com^
-||cts.vresp.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||d.shareaholic.com^
@@ -43286,6 +43319,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
 ! Blocked by CNAME s1search.co
 @@||www.dogpile.com^|
