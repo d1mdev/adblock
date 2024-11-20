@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-19T00:00:10.412Z
+! Last modified: 2024-11-20T00:00:10.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3501,6 +3501,7 @@
 ||12ezo5v60.com^
 ||130gelh8q.de^
 ||13199960a1.com^
+||132ffebe8c.com^
 ||1370065b3a.com^
 ||137kfj65k.de^
 ||13b3403320.com^
@@ -5544,6 +5545,7 @@
 ||alreadyballetrenting.com^
 ||alreadywailed.com^
 ||alrightlemonredress.com^
+||alsdebaticalfelixsto.org^
 ||alsindustrate.info^
 ||alsindustratebil.com^
 ||alspearowa.com^
@@ -6706,6 +6708,7 @@
 ||bagelseven.com^
 ||bageltiptoe.com^
 ||baggageconservationcaught.com^
+||baghlachalked.com^
 ||baghoglitu.net^
 ||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
@@ -6852,6 +6855,7 @@
 ||bastarduponupon.com^
 ||baste-znl.com^
 ||bastingestival.com^
+||batanwqwo.com^
 ||batatasendere.top^
 ||bataviforsee.com^
 ||batchhermichermicsecondly.com^
@@ -7985,6 +7989,7 @@
 ||bulbousloth.shop^
 ||bulcqmteuc.com^
 ||bulginglair.com^
+||bulgingquintet.top^
 ||bulkaccompanying.com^
 ||bulkagetufas.com^
 ||bulkconflictpeculiarities.com^
@@ -8094,6 +8099,7 @@
 ||bwtcilgll.com^
 ||bwvofgqhmab.com^
 ||bxacmsvmxb.com^
+||bxbkh.love^
 ||bxjqevhksabqp.com^
 ||bxpjpkldxrsss.xyz^
 ||bxpwfdmmhlgccon.com^
@@ -9719,6 +9725,7 @@
 ||crawlerjamie.shop^
 ||crayonreareddreamt.com^
 ||crazefiles.com^
+||crazesmalto.com^
 ||craziesprelaty.com^
 ||crazy-baboon.com^
 ||crazylead.com^
@@ -10218,6 +10225,7 @@
 ||dddashasledopyt.xyz^
 ||dddomainccc.com^
 ||ddkf.xyz^
+||ddndbjuseqi.com^
 ||ddqfgamwnhp.com^
 ||ddrsemxv.com^
 ||ddtvskish.com^
@@ -10670,6 +10678,7 @@
 ||dinerpropagandatoothbrush.com^
 ||dingerhoes.shop^
 ||dinghologyden.org^
+||dingytiredfollowing.com^
 ||diningconsonanthope.com^
 ||diningprefixmyself.com^
 ||diningsovereign.com^
@@ -11161,6 +11170,7 @@
 ||dressingdedicatedmeeting.com^
 ||dressmakerdecisivesuburban.com^
 ||dressmakertumble.com^
+||drewitecossic.com^
 ||dreyeli.info^
 ||drfaultlessplays.com^
 ||dribbleads.com^
@@ -11580,6 +11590,7 @@
 ||eeleekso.com^
 ||eelempee.xyz^
 ||eelroave.xyz^
+||eemsautsoay.net^
 ||eenbies.com^
 ||eengange.com^
 ||eengilee.xyz^
@@ -11829,6 +11840,7 @@
 ||endream.buzz^
 ||endurancetransmitted.com^
 ||enduresopens.com^
+||endwaysdsname.com^
 ||endymehnth.info^
 ||energeticdryeyebrows.com^
 ||energeticrecognisepostcard.com^
@@ -13098,6 +13110,7 @@
 ||formteddy.com^
 ||formulacountess.com^
 ||formulamuseconnected.com^
+||fornaxmetered.com^
 ||forooqso.tv^
 ||forprimeapeon.com^
 ||forsawka.com^
@@ -13310,6 +13323,7 @@
 ||fudukrujoa.com^
 ||fuelpearls.com^
 ||fugcgfilma.com^
+||fugitiveautomaticallybottled.com^
 ||fuhbimbkoz.com^
 ||fujigar.com^
 ||fukpapsumvib.com^
@@ -13866,6 +13880,7 @@
 ||gleeltukaweetho.xyz^
 ||gleemsomto.com^
 ||gleemsub.com^
+||gleerdoacmockuy.xyz^
 ||gleetchisurvey.top^
 ||gleewhor.xyz^
 ||glelroalso.xyz^
@@ -15156,6 +15171,7 @@
 ||honoursdashed.com^
 ||honoursimmoderate.com^
 ||honwjjrzo.com^
+||honzoenjewel.shop^
 ||hoo1luha.com^
 ||hoodboth.com^
 ||hoodentangle.com^
@@ -16705,6 +16721,7 @@
 ||jsfir.cyou^
 ||jsftzha.com^
 ||jsfuz.com^
+||jsiygcyzrhg.club^
 ||jsmcrpu.com^
 ||jsmcrt.com^
 ||jsmentry.com^
@@ -17806,6 +17823,7 @@
 ||llbonxcqltulds.xyz^
 ||llboqevyavvjy.top^
 ||lljultmdl.xyz^
+||llozybovlozvk.top^
 ||llq9q2lacr.com^
 ||llthwkoqlxwajb.com^
 ||lluwrenwsfh.xyz^
@@ -20931,6 +20949,7 @@
 ||oqpahlskaqal.com^
 ||oqsttfy.com^
 ||oquftwsabsep.xyz^
+||oqyictvedqfhhd.com^
 ||orabsola.com^
 ||oralmaliciousmonday.com^
 ||oralsproxied.com^
@@ -24086,6 +24105,7 @@
 ||remedyabruptness.com^
 ||remembercompetitioninexplicable.com^
 ||rememberdeterminedmerger.com^
+||remembergirl.com^
 ||remembermaterialistic.com^
 ||remembertoolsuperstitious.com^
 ||remindleftoverpod.com^
@@ -24876,6 +24896,7 @@
 ||ryrmvbnpmhphkx.com^
 ||rysheatlengthanl.xyz^
 ||rysjkulq.xyz^
+||rytransionsco.org^
 ||rzaxroziwozq.com^
 ||rzgiyhpbit.com^
 ||rzneekilff.com^
@@ -25022,6 +25043,7 @@
 ||saryprocedentw.info^
 ||sasinsetuid.com^
 ||sassaglertoulti.xyz^
+||satiresboy.com^
 ||satireunhealthy.com^
 ||satisfaction399.fun^
 ||satisfaction423.fun^
@@ -25233,6 +25255,7 @@
 ||searchmulty.com^
 ||searchrespectivelypotency.com^
 ||searchsecurer.com^
+||searswalers.com^
 ||seashorelikelihoodreasonably.com^
 ||seashoremessy.com^
 ||seashorepigeonsbanish.com^
@@ -25856,6 +25879,7 @@
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
+||sketfarinha.shop^
 ||skewserer.com^
 ||skidgleambrand.com^
 ||skieppeerical.click^
@@ -26413,6 +26437,7 @@
 ||sqrobmpshvj.com^
 ||squadapologiesscalp.com^
 ||squareforensicbones.com^
+||squarertubal.com^
 ||squashperiodicmen.com^
 ||squatcowarrangement.com^
 ||squeaknicheentangled.com^
@@ -26950,6 +26975,7 @@
 ||sunkwarriors.com^
 ||sunmediaads.com^
 ||sunnshele.com^
+||sunnudvelure.com^
 ||sunnycategoryopening.com^
 ||sunnyscanner.com^
 ||sunriseholler.com^
@@ -28424,6 +28450,7 @@
 ||tsarkinds.com^
 ||tsbck.com^
 ||tsiwqtng8huauw30n.com^
+||tsjjbvbgrugs.com^
 ||tslomhfys.com^
 ||tsml.fun^
 ||tsmqbyd.com^
@@ -30099,6 +30126,7 @@
 ||welfaremarsh.com^
 ||wellexpressionrumble.com^
 ||wellhello.com^
+||welliesazoxime.com^
 ||welllwrite.com^
 ||wellmov.com^
 ||wellpdy.com^
@@ -30580,6 +30608,7 @@
 ||worldwidemailer.com^
 ||worlowedonhi.info^
 ||wormdehydratedaeroplane.com^
+||wormsunflame.com^
 ||wornie.com^
 ||wornshoppingenvironment.com^
 ||worritsmahra.com^
@@ -30677,6 +30706,7 @@
 ||wsjlbbqemr23.com^
 ||wsmobltyhs.com^
 ||wsokomw.com^
+||wsoldiyajjufmvk.xyz^
 ||wspsbhvnjk.com^
 ||wstyruafypihv.xyz^
 ||wt20trk.com^
@@ -32266,6 +32296,7 @@
 ||germaniavid.com^
 ||girls.xyz^
 ||goadserver.com^
+||goclicknext.com^
 ||gourmetads.com^
 ||gplinks.in^
 ||graciamediaweb.com^
@@ -36921,6 +36952,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||stats.amur.life^
 ||pixel.smartnews.com^
 ||pixel.dev.smartnews.com^
 ||t.rentio.jp^
