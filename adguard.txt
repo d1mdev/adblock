@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-21T00:00:10.964Z
+! Last modified: 2024-11-22T00:00:10.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2658,6 +2658,8 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||bidjora.com^
+||aomsitf.com^
 ||richlifeads.ru^
 ||tapulsads.ru^
 ||httpdns.bilivideo.com^
@@ -5288,6 +5290,7 @@
 ||ailteesh.net^
 ||aimairou.net^
 ||aimatch.com^
+||aimaunongeez.net^
 ||aimpocket.com^
 ||aimukreegee.net^
 ||aintydevelelastic.com^
@@ -8013,6 +8016,7 @@
 ||bulserv.com^
 ||bultaika.net^
 ||bulyiel.com^
+||bumaqblyqviw.fun^
 ||bumblecash.com^
 ||bumlabhurt.live^
 ||bummerentertain.com^
@@ -9937,6 +9941,7 @@
 ||customernormallyseventh.com^
 ||customsalternative.com^
 ||customselliot.com^
+||cuteab.com^
 ||cutelylookups.shop^
 ||cuterbond.com^
 ||cutescale.online^
@@ -11573,6 +11578,7 @@
 ||eegookiz.com^
 ||eegroosoad.com^
 ||eeheersoat.com^
+||eehir.tech^
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
@@ -13876,6 +13882,7 @@
 ||gleerdoacmockuy.xyz^
 ||gleetchisurvey.top^
 ||gleewhor.xyz^
+||gleloamseft.xyz^
 ||glelroalso.xyz^
 ||gleneditor.com^
 ||glenmexican.com^
@@ -14071,6 +14078,7 @@
 ||godpvqnszo.com^
 ||godroonrefrig.com^
 ||godspeaks.net^
+||goeducklactase.com^
 ||goesintakehaunt.com^
 ||gofecuhxltcqj.xyz^
 ||gofenews.com^
@@ -14234,6 +14242,7 @@
 ||grapselu.com^
 ||graptaupsi.net^
 ||grartoag.xyz^
+||grashaksoudry.net^
 ||grasshusk.com^
 ||grasutie.net^
 ||graterpatent.com^
@@ -14943,6 +14952,7 @@
 ||hhklc.com^
 ||hhkld.com^
 ||hhmako.cloud^
+||hhndmpql.com^
 ||hhrmmwdep.com^
 ||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
@@ -16581,6 +16591,7 @@
 ||jjrvlrslb.com^
 ||jjthmis.com^
 ||jjtnadbcbovqarv.xyz^
+||jjvpbstg.com^
 ||jk4lmrf2.de^
 ||jkha742.xyz^
 ||jklpy.com^
@@ -17210,6 +17221,7 @@
 ||ksnbiepnvjdi.com^
 ||ksnbtmz.com^
 ||ksnooastqr.xyz^
+||kspmaaiayadg.com^
 ||kstjqjuaw.xyz^
 ||ksykbucea.com^
 ||ksyompbwor.xyz^
@@ -18289,6 +18301,7 @@
 ||madurird.com^
 ||maebtjn.com^
 ||maestroconfederate.com^
+||mafflerplaids.com^
 ||mafiaemptyknitting.com^
 ||mafiaillegal.com^
 ||mafon.xyz^
@@ -19124,6 +19137,7 @@
 ||moksoxos.com^
 ||moleconcern.com^
 ||molecularhouseholdadmiral.com^
+||mollesscar.top^
 ||molokerpterion.shop^
 ||molseelr.xyz^
 ||molttenglobins.casa^
@@ -19696,6 +19710,7 @@
 ||neepomiba.net^
 ||neerecah.xyz^
 ||neesihoothak.net^
+||neewouwoafisha.net^
 ||neezausu.net^
 ||nefdcnmvbt.com^
 ||negative-might.pro^
@@ -21945,6 +21960,7 @@
 ||photographcrushingsouvenirs.com^
 ||photographerinopportune.com^
 ||photographyprovincelivestock.com^
+||phouckusogh.net^
 ||phoulade.xyz^
 ||phoutchounse.com^
 ||phouvemp.net^
@@ -22688,6 +22704,7 @@
 ||privateappealingsymphony.com^
 ||privatedqualizebrui.info^
 ||privatelydevotionrewind.com^
+||privilegedmansfieldvaguely.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -23120,6 +23137,7 @@
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
+||pudicalnablus.com^
 ||pudraugraurd.net^
 ||puerty.com^
 ||puffingtiffs.com^
@@ -24331,6 +24349,7 @@
 ||revenuestripe.com^
 ||revenuevids.com^
 ||revenuewasadirect.com^
+||reverercowier.com^
 ||reversiondisplay.com^
 ||revfusion.net^
 ||revimedia.com^
@@ -25096,6 +25115,7 @@
 ||savourethicalmercury.com^
 ||savourmarinercomplex.com^
 ||savvcsj.com^
+||sawdustreives.top^
 ||saweathercock.info^
 ||sawfluenttwine.com^
 ||sawneywigger.top^
@@ -25661,6 +25681,7 @@
 ||shoessaucepaninvoke.com^
 ||shokala.com^
 ||sholke.com^
+||sholraidsoalro.net^
 ||shomsouw.xyz^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
@@ -29315,6 +29336,7 @@
 ||vatcertaininject.com^
 ||vaugroar.com^
 ||vaukoloon.net^
+||vauloops.net^
 ||vaultmultiple.com^
 ||vaultwrite.com^
 ||vavcashpop.com^
@@ -30102,6 +30124,7 @@
 ||webtradehub.com^
 ||wecontemptceasless.com^
 ||wecouldle.com^
+||wedauspicy.com^
 ||wedgierbirsit.com^
 ||wednesdaynaked.com^
 ||wednesdaywestern.com^
@@ -30241,6 +30264,7 @@
 ||wheeledfunctionstruthfully.com^
 ||wheelsbullyingindolent.com^
 ||wheelscomfortlessrecruiting.com^
+||wheelsetsur.net^
 ||wheelssightsdisappointed.com^
 ||wheelstweakautopsy.com^
 ||wheempet.xyz^
@@ -31429,6 +31453,7 @@
 ||zimpolo.com^
 ||zincypalmy.top^
 ||zinipx.xyz^
+||zinniafianced.com^
 ||zinovu.com^
 ||zipakrar.com^
 ||ziphay.com^
@@ -36974,6 +36999,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||matomo.oekoloewe.de^
 ||stats.amur.life^
 ||pixel.smartnews.com^
 ||pixel.dev.smartnews.com^
@@ -41405,6 +41431,7 @@ inapps.appsflyersdk.com^
 ||user.userguiding.com^
 ||usersegment.wpdigital.net^
 ||usr.interactiveone.com^
+||utics.nodejibi.in^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
 ||video-analytics-api.cloudinary.com^
