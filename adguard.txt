@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-11-23T00:00:10.668Z
+! Last modified: 2024-11-24T00:00:10.588Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3990,6 +3990,7 @@
 ||61zdn1c9.skin^
 ||62ca04e27a.com^
 ||63912b9175.com^
+||639c909d45.com^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
@@ -7163,6 +7164,7 @@
 ||besteasyclick.com^
 ||bestevermotorie.com^
 ||bestexp1.com^
+||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestladymeet.life^
 ||bestloans.tips^
@@ -9622,6 +9624,7 @@
 ||cotchaug.com^
 ||coticoffee.com^
 ||cottersguayabi.click^
+||cottoidearldom.com^
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||cotwcpcjcrjfj.xyz^
@@ -11175,6 +11178,7 @@
 ||dressmakertumble.com^
 ||drewitecossic.com^
 ||dreyeli.info^
+||dreyntbynames.top^
 ||drfaultlessplays.com^
 ||dribbleads.com^
 ||dribturbot.com^
@@ -11973,6 +11977,7 @@
 ||eptougry.net^
 ||epu.sh^
 ||eputysolomon.com^
+||epylliafending.com^
 ||eqads.com^
 ||eqdudaj.com^
 ||eqhadccx.com^
@@ -12302,6 +12307,7 @@
 ||exposureawelessawelessladle.com^
 ||expressalike.com^
 ||expressingblossomjudicious.com^
+||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
 ||expulsionfluffysea.com^
@@ -13906,6 +13912,7 @@
 ||glideimpulseregulate.com^
 ||glidelamppost.com^
 ||gligheew.xyz^
+||gligoubsed.com^
 ||glimpaid.net^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
@@ -13983,6 +13990,7 @@
 ||gloustoa.net^
 ||gloutanacard.com^
 ||gloutchi.com^
+||glouvugnirsy.net^
 ||glouxaih.net^
 ||glouxalt.net^
 ||glouzokrache.com^
@@ -14048,6 +14056,7 @@
 ||go-g3t-som3.com^
 ||go-rillatrack.com^
 ||go-srv.com^
+||go-static.info^
 ||go.syndcloud.com^
 ||go2.global^
 ||go2affise.com^
@@ -14156,6 +14165,7 @@
 ||goshbiopsy.com^
 ||gositego.live^
 ||gosoftwarenow.com^
+||gosrv.cl^
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
 ||gossipinvest.com^
@@ -16343,6 +16353,7 @@
 ||ixafr.com^
 ||ixnow.xyz^
 ||ixnp.com^
+||ixtbiwi-jf.world^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
 ||ixxljgh.com^
@@ -17857,6 +17868,7 @@
 ||llyighaboveth.com^
 ||lmaghokalqji.xyz^
 ||lmdfmd.com^
+||lmeegwxcasdyo.com^
 ||lmgyjug31.com^
 ||lmj8i.pro^
 ||lmn-pou-win.com^
@@ -18439,6 +18451,7 @@
 ||mangzoi.xyz^
 ||maniasensiblecompound.com^
 ||maniconclavis.com^
+||maniconfiscal.top^
 ||manifefashiona.info^
 ||manipulativegraphic.com^
 ||manitusbaclava.com^
@@ -21420,6 +21433,7 @@
 ||painsdire.com^
 ||paintednarra.top^
 ||paintwandering.com^
+||paintydevelela.org^
 ||paipsuto.com^
 ||paishoonain.net^
 ||paiwariaroids.shop^
@@ -22082,6 +22096,7 @@
 ||pinttalewag.com^
 ||pioneercomparatively.com^
 ||pioneerusual.com^
+||piotyo.xyz^
 ||piouscheers.com^
 ||piouspoemgoodnight.com^
 ||pip-pip-pop.com^
@@ -23825,6 +23840,7 @@
 ||razzlebuyer.com^
 ||rbcxttd.com^
 ||rblgfyvwse.com^
+||rboyqkyrwrvkq.top^
 ||rbqcg6g.de^
 ||rbrightscarletcl.info^
 ||rbropocxt.com^
@@ -26826,6 +26842,7 @@
 ||strandedprobable.com^
 ||strangelyfaintestgreenhouse.com^
 ||strangineer.info^
+||strangineersalyl.org^
 ||strangledisposalfox.com^
 ||strastconversity.com^
 ||stratebilater.com^
@@ -28625,6 +28642,7 @@
 ||twentycustomimprovement.com^
 ||twentydisappearance.com^
 ||twentydruggeddumb.com^
+||twewmykfe.com^
 ||twi-hjritecl.world^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
@@ -29591,6 +29609,7 @@
 ||viewyentreat.guru^
 ||vigilantprinciple.pro^
 ||vigorouslyflamboyant.com^
+||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
 ||vihub.ru^
@@ -31097,6 +31116,7 @@
 ||yaxgszv.com^
 ||yazuda.xyz^
 ||ybhyziittfg.com^
+||ybnksajy.com^
 ||ybriifs.com^
 ||ybs2ffs7v.com^
 ||ybtkzjm.com^
@@ -31387,6 +31407,7 @@
 ||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zcaadfl.com^
+||zcaappcthktx.com^
 ||zchtpzu.com^
 ||zcode12.me^
 ||zcode7.me^
