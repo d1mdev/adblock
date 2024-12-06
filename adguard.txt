@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-05T00:00:10.160Z
+! Last modified: 2024-12-06T00:00:11.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6642,6 +6642,7 @@
 ||baileybenedictionphony.com^
 ||bailihaiw.com^
 ||bailoaso.xyz^
+||bailorunwaged.com^
 ||bainushe.com^
 ||baipahanoop.net^
 ||baiphefim.com^
@@ -7597,6 +7598,7 @@
 ||bouptosaive.com^
 ||bourrepardale.com^
 ||boustahe.com^
+||bousyapinoid.top^
 ||bouteesh.com^
 ||bouwehee.xyz^
 ||bouwhaici.net^
@@ -8222,6 +8224,7 @@
 ||casinohacksforyou.com^
 ||casinousagevacant.com^
 ||casionest292flaudient.com^
+||casitasoutgnaw.com^
 ||caskcountry.com^
 ||caspion.com^
 ||cassabahotcake.top^
@@ -8405,6 +8408,7 @@
 ||centrenicelyteaching.com^
 ||centurybending.com^
 ||centwrite.com^
+||cephidcoastal.top^
 ||cepsidsoagloko.net^
 ||cer43asett2iu5m.com^
 ||ceramicalienate.com^
@@ -8611,6 +8615,7 @@
 ||chinagranddad.com^
 ||chinaslauras.com^
 ||chioneflake.com^
+||chioursorspolia.com^
 ||chipheeshimseg.net^
 ||chipleader.com^
 ||chipmanksmochus.com^
@@ -9581,6 +9586,7 @@
 ||creamssicsite.com^
 ||creamy-confidence.pro^
 ||creaseinprofitst.com^
+||createsgummous.com^
 ||creative-bars1.com^
 ||creative-serving.com^
 ||creative-stat1.com^
@@ -9723,6 +9729,7 @@
 ||cudgeletc.com^
 ||cudgelsupportiveobstacle.com^
 ||cudjgcnwoo-s.icu^
+||cue-oxvpqbt.space^
 ||cuefootingrosy.com^
 ||cueistratting.com^
 ||cuesingle.com^
@@ -9789,6 +9796,7 @@
 ||cuzsgqr.com^
 ||cvastico.com^
 ||cvgto-akmk.fun^
+||cvvemdvrojgo.com^
 ||cvxwaslonejulyha.info^
 ||cwoapffh.com^
 ||cwqljsecvr.com^
@@ -11750,6 +11758,7 @@
 ||ephebedori.life^
 ||epheefere.net^
 ||epicgameads.com^
+||epilinserts.com^
 ||epipialbeheira.com^
 ||eplndhtrobl.com^
 ||epnredirect.ru^
@@ -13053,6 +13062,7 @@
 ||fstsrv8.com^
 ||fstsrv9.com^
 ||fsznjdg.com^
+||ftajryaltna.com^
 ||ftblltrck.com^
 ||ftd.agency^
 ||ftheusysianeduk.com^
@@ -13191,11 +13201,13 @@
 ||gafmajosxog.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gagheroinintact.com^
 ||gaghygienetheir.com^
 ||gagxsbnbu.xyz^
 ||gaibjhicxrkng.xyz^
 ||gaietyexhalerucksack.com^
 ||gaijiglo.net^
+||gaimauroogrou.net^
 ||gaimoupy.net^
 ||gaiphaud.xyz^
 ||gaipochipsefoud.net^
@@ -15451,6 +15463,7 @@
 ||imvjcds.com^
 ||imyanmarads.com^
 ||in-appadvertising.com^
+||in-bdcvlj.love^
 ||in-page-push.com^
 ||in-page-push.net^
 ||inabsolor.com^
@@ -19504,6 +19517,7 @@
 ||nitohptzo.com^
 ||nitridslah.com^
 ||nitrogendetestable.com^
+||niveausatan.shop^
 ||niwluvepisj.site^
 ||niwooghu.com^
 ||nixbsprhupgor.com^
@@ -19916,6 +19930,7 @@
 ||oaphogekr.com^
 ||oaphooftaus.com^
 ||oapsoulreen.net^
+||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
 ||oarsparttimeparent.com^
@@ -20412,6 +20427,7 @@
 ||ootchaig.xyz^
 ||ootchobuptoo.com^
 ||ootchoft.com^
+||oovoonganeegry.xyz^
 ||oowhoaphick.com^
 ||ooxobsaupta.com^
 ||op00.biz^
@@ -21111,6 +21127,7 @@
 ||patsyfactorygallery.com^
 ||patsypropose.com^
 ||pattedearnestly.com^
+||patteefief.shop^
 ||patternimaginationbull.com^
 ||pattyheadlong.com^
 ||pauchalopsin.com^
@@ -22182,6 +22199,7 @@
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
+||prinksdammit.com^
 ||printaugment.com^
 ||printerswear.com^
 ||printgrownuphail.com^
@@ -23149,6 +23167,7 @@
 ||raekq.online^
 ||raeoaxqxhvtxe.xyz^
 ||raffleinsanity.com^
+||rafikfangas.com^
 ||ragapa.com^
 ||rageagainstthesoap.com^
 ||raglassofrum.cc^
@@ -23455,6 +23474,7 @@
 ||reedsinterfering.com^
 ||reedthatm.biz^
 ||reefcolloquialseptember.com^
+||reekedtravels.shop^
 ||reeledou.com^
 ||reelnk.com^
 ||reenakun.com^
@@ -23923,6 +23943,7 @@
 ||riluaneth.com^
 ||rimefatling.com^
 ||riminghoggoofy.com^
+||rimoadoumo.net^
 ||rimwigckagz.com^
 ||rincipledecli.info^
 ||rinddelusional.com^
@@ -24616,6 +24637,7 @@
 ||scenistgracy.life^
 ||scentbracehardship.com^
 ||scentservers.com^
+||scfhspacial.com^
 ||scfsdvc.com^
 ||schcdfnrhxjs.com^
 ||scheduleginnarcotic.com^
@@ -25039,6 +25061,7 @@
 ||sheeltaibu.net^
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
+||sheeshumte.net^
 ||sheesimo.net^
 ||sheetvibe.com^
 ||sheewoamsaun.com^
@@ -25559,6 +25582,7 @@
 ||soalonie.com^
 ||soaneefooy.net^
 ||soaperdeils.com^
+||soaphokoul.xyz^
 ||soaphoupsoas.xyz^
 ||soapsudkerfed.com^
 ||soathouchoa.xyz^
@@ -26401,6 +26425,7 @@
 ||sunflowerinformed.com^
 ||sunglassesexpensive.com^
 ||sunglassesmentallyproficient.com^
+||sunkcosign.com^
 ||sunkwarriors.com^
 ||sunmediaads.com^
 ||sunnshele.com^
@@ -27487,6 +27512,7 @@
 ||totalwownews.com^
 ||totemcash.com^
 ||totentacruelor.com^
+||totersoutpay.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||totogetica.com^
@@ -29524,6 +29550,7 @@
 ||whateyesight.com^
 ||whatisnewappforyou.top^
 ||whatisuptodaynow.com^
+||whatredkm.com^
 ||whatsoeverlittle.com^
 ||whaudsur.net^
 ||whauglorga.com^
@@ -29791,6 +29818,7 @@
 ||wkpgetvhidtj.com^
 ||wkqcnkstso.com^
 ||wkwqljwykoamr.top^
+||wkwqljwykorov.top^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlen1bty92.pro^
@@ -30714,6 +30742,7 @@
 ||zirdrax.com^
 ||zirkiterocklay.com^
 ||zisboombah.net^
+||zishezetchadsi.net^
 ||zitaptugo.com^
 ||zitchaug.xyz^
 ||zitchuhoove.com^
@@ -36224,6 +36253,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trk.joinrs.com^
+||atom-qa.warnermedia.com^
 ||tralut.chatpdf.com^
 ||tracking.leadspark.io^
 ||femetrics.grammarly.io^
@@ -41566,8 +41597,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Dec 2024 23:09 UTC+7
-! Version: 2412042309
+! Last modified: 05 Dec 2024 22:50 UTC+7
+! Version: 2412052250
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
