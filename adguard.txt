@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-18T00:00:10.711Z
+! Last modified: 2024-12-19T00:00:10.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10994,6 +10994,7 @@
 ||dovictinian.com^
 ||down1oads.com^
 ||download-adblock-zen.com^
+||download-privacybear.com^
 ||download-ready.net^
 ||download4.cfd^
 ||download4allfree.com^
@@ -32702,6 +32703,9 @@
 !
 !
 !
+||bt.dns-finder.com^
+||btloader.com^
+||glamipixel.com^
 ||nocodelytics.com^
 ||stat.fly.codes^
 ||events.engager.ecbsn.com^
@@ -33601,7 +33605,6 @@
 ||fastly-insights.com^
 ||cdn.trackclicks.info^
 ||mm.actionlink.jp^
-||btloader.com^
 ||tracklog.58.com^
 ||wtstats.ro^
 ||static.terratraf.io^
