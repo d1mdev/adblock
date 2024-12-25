@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-24T00:00:10.027Z
+! Last modified: 2024-12-25T00:00:09.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8925,6 +8925,7 @@
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clmbtech.com^
 ||clnk.me^
 ||cloakedpsyche.click^
@@ -11011,6 +11012,7 @@
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
@@ -27979,7 +27981,6 @@
 ||tvprocessing.com^
 ||twaitevirgal.com^
 ||twazzyoidwlfe.com^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
@@ -32471,6 +32472,7 @@
 !
 !
 !
+||cdn-gw-dv.vip^
 ||cloudad.icu^
 ||stats2.indianpornempire.com^
 ||bt.dns-finder.com^
@@ -36266,6 +36268,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
@@ -37639,7 +37642,6 @@
 ||data-collector.wefi.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
-||dbfukofby5ycr.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^
@@ -38998,6 +39000,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||sf16-static.i18n-pglstatp.com^
+||log.pullcenter.live^
 ||log.documentmanagerpdfdocxlssale.live^
 ||stats.samsungpass.com^
 ||log.pdfviewerscannerstore.live^
@@ -40642,6 +40646,7 @@ inapps.appsflyersdk.com^
 ||statsadv.dadapro.com^
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
+||statsig.anthropic.com^
 ||statt-collect.herokuapp.com^
 ||stream-log.dditscdn.com^
 ||streams.cablecar.sph.com.sg^
