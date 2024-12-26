@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-25T00:00:09.727Z
+! Last modified: 2024-12-26T00:00:10.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8413,6 +8413,7 @@
 ||centalkochab.com^
 ||centeredfailinghotline.com^
 ||centeredmotorcycle.com^
+||centlyhavebed.com^
 ||centralnervous.net^
 ||centredrag.com^
 ||centrenicelyteaching.com^
@@ -9840,6 +9841,7 @@
 ||cynoidfudging.shop^
 ||cypfdxbynb.com^
 ||cypresslocum.com^
+||cyrociest.shop^
 ||cytomecruor.top^
 ||cyuyvjwyfvn.com^
 ||cyvjmnu.com^
@@ -11493,6 +11495,7 @@
 ||ehpxmsqghx.xyz^
 ||ehrydnmdoe.com^
 ||ehutzaug.life^
+||eibzywva.com^
 ||eidoscruster.com^
 ||eighteenderived.com^
 ||eighteenprofit.com^
@@ -15209,6 +15212,7 @@
 ||iarrowtoldilim.info^
 ||iasbetaffiliates.com^
 ||iasrv.com^
+||ibbmkdooqkj.com^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||iboobeelt.net^
@@ -16070,6 +16074,7 @@
 ||jalewaads.com^
 ||jambosmodesty.com^
 ||jamstech.store^
+||janads.shop^
 ||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
@@ -22395,6 +22400,7 @@
 ||protawe.com^
 ||protectonlinenow.com^
 ||protectorincorporatehush.com^
+||protectwborcn.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
 ||proteininnovationpioneer.com^
@@ -24843,6 +24849,7 @@
 ||sehlicegxy.com^
 ||seibertspart.com^
 ||seichesditali.click^
+||seishinyoga.com^
 ||seizecrashsophia.com^
 ||seizefortunesdefiant.com^
 ||seizeshoot.com^
@@ -25528,6 +25535,7 @@
 ||smhmayvtwii.xyz^
 ||smigdxy.com^
 ||smigro.info^
+||smileesidesuk.com^
 ||smileoffennec.com^
 ||smilesalesmanhorrified.com^
 ||smilewanted.com^
@@ -32472,6 +32480,8 @@
 !
 !
 !
+||ascendeummedia.com^
+||agma-analytics.de^
 ||cdn-gw-dv.vip^
 ||cloudad.icu^
 ||stats2.indianpornempire.com^
@@ -36268,6 +36278,12 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.shortbread.analytics.console.aws.a2z.com^
+||log.shortbread.aws.dev^
+||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
+||minerva.devices.a2z.com^
+||s.pie.org^
+||t.pie.org^
 ||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
@@ -36507,7 +36523,6 @@
 ||m1tm.motor1.com^
 ||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
-||status.techtarget.itmedia.co.jp^
 ||px.adfulplatform.com^
 ||d9jj3mjthpub.cloudfront.net^
 ||logs.openbank.com^
@@ -39000,6 +39015,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
 ||log.pullcenter.live^
 ||log.documentmanagerpdfdocxlssale.live^
