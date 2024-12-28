@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-27T00:00:09.591Z
+! Last modified: 2024-12-28T00:00:09.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3683,6 +3683,7 @@
 ||291hkcido.de^
 ||295a9f642d.com^
 ||2989f3f0ff.com^
+||29a7397be5.com^
 ||29apfjmg2.de^
 ||29b124c44a.com^
 ||29s55bf2.de^
@@ -3964,6 +3965,7 @@
 ||5ea36e0eb5.com^
 ||5ed55e7208.com^
 ||5eef1ed9ac.com^
+||5f631bb110.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
 ||5f93004b68.com^
@@ -4217,6 +4219,7 @@
 ||a5jogo.biz^
 ||a5jogo.club^
 ||a64x.com^
+||a67c5c438d.com^
 ||a6dc99d1a8.com^
 ||a700fb9c8d.com^
 ||a717b6d31e.com^
@@ -7529,6 +7532,7 @@
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||boodaisi.xyz^
+||boodiecawquaw.top^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -11589,6 +11593,7 @@
 ||embogsoarers.com^
 ||embowerdatto.com^
 ||embracetrace.com^
+||embrawnseeping.top^
 ||embtrk.com^
 ||embwmpt.com^
 ||emediate.dk^
@@ -14338,6 +14343,7 @@
 ||hadtwobr.info^
 ||hadute.xyz^
 ||haffnetworkmm.com^
+||hafhwagagswy.com^
 ||hafonmadp.com^
 ||hagdenlupulic.top^
 ||hagdispleased.com^
@@ -22225,6 +22231,7 @@
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
+||prinkergp.top^
 ||prinksdammit.com^
 ||printaugment.com^
 ||printerswear.com^
@@ -28080,6 +28087,7 @@
 ||uads.guru^
 ||uads.space^
 ||uafkcvpvvelp.com^
+||uahosnnx.com^
 ||uaiqkjkw.com^
 ||uavbgdw.com^
 ||uawvmni.com^
@@ -30672,6 +30680,7 @@
 ||zealsalts.com^
 ||zebeaa.click^
 ||zeebestmarketing.com^
+||zeecajichaiw.net^
 ||zeechoog.net^
 ||zeechumy.com^
 ||zeeduketa.net^
@@ -32482,6 +32491,7 @@
 !
 !
 !
+||untho.de^
 ||k-words.io^
 ||tlmtr.org^
 ||sentinelbi.com^
@@ -36294,7 +36304,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
-||syndication.twitter.com^
+||stat.pravdafrance.com^
+||telemetry.dzen.ru^
 ||gtm.temu.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.analytics.console.aws.a2z.com^
