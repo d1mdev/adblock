@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2024-12-28T00:00:09.630Z
+! Last modified: 2024-12-29T00:00:10.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2270,6 +2270,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ssp.rutube.ru^
 ||media-advcycle.imgsmail.ru^
 ||sdk.kokocads.com^
 ||r1.ati.su^
@@ -4004,6 +4005,7 @@
 ||64580df84b.com^
 ||65wenv5f.xyz^
 ||665166e5a9.com^
+||6657e4f5c2.com^
 ||66a3413a7e.com^
 ||67trackdomain.com^
 ||68069795d1.com^
@@ -6846,6 +6848,7 @@
 ||bdxhujrned.buzz^
 ||be-frioaj.love^
 ||be30660063.com^
+||be51586160.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
 ||beakerweedjazz.com^
@@ -12364,6 +12367,7 @@
 ||fc7c8be451.com^
 ||fc861ba414.com^
 ||fccinteractive.com^
+||fceedf7652.com^
 ||fckmedate.com^
 ||fcwlctdg.com^
 ||fd2cd5c351.com^
@@ -14602,6 +14606,7 @@
 ||heliumwinebluff.com^
 ||hellominimshanging.com^
 ||helltraffic.com^
+||helmethomicidal.com^
 ||helmetregent.com^
 ||helmfireworkssauce.com^
 ||helmingcensers.shop^
@@ -15005,6 +15010,7 @@
 ||hotkabachok.com^
 ||hotlinedisappointed.com^
 ||hotnews1.me^
+||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotwords.com^
 ||houdodoo.net^
@@ -16144,6 +16150,7 @@
 ||jbm6c54upkui.com^
 ||jbrlsr.com^
 ||jbtul.com^
+||jbvoejzamqjzl.top^
 ||jbwiujl.com^
 ||jbzmwqmqwowaz.top^
 ||jc32arlvqpv8.com^
@@ -19017,6 +19024,7 @@
 ||muriheem.net^
 ||murkybrashly.com^
 ||murkymouse.online^
+||murolwsi.com^
 ||musclesadmonishment.com^
 ||musclesprefacelie.com^
 ||muscularcopiedgulp.com^
@@ -23278,6 +23286,7 @@
 ||rapepush.net^
 ||raphanysteers.com^
 ||raphidewakener.com^
+||rapidfoxengine.com^
 ||rapidhits.net^
 ||rapidhunchback.com^
 ||rapidlypierredictum.com^
@@ -25878,6 +25887,7 @@
 ||spo-play.live^
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
+||spokanchap.com^
 ||spokesperson254.fun^
 ||spondeekitling.top^
 ||spongecell.com^
@@ -28925,6 +28935,7 @@
 ||vihub.ru^
 ||viiavjpe.com^
 ||viibest.com^
+||viibmmqc.com^
 ||viicylmb.com^
 ||viiczfvm.com^
 ||viiddai.com^
@@ -41758,8 +41769,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Dec 2024 22:56 UTC+7
-! Version: 2412262256
+! Last modified: 28 Dec 2024 15:38 UTC+7
+! Version: 2412281538
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
