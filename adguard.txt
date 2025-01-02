@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-01T00:00:10.264Z
+! Last modified: 2025-01-02T00:00:09.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4303,6 +4303,7 @@
 ||ablebodiedsweatisolated.com^
 ||ablecolony.com^
 ||ablestsigma.click^
+||abletopreseyna.com^
 ||ablitleoor.com^
 ||ablkkukpaoc.com^
 ||abluentshinny.com^
@@ -5804,6 +5805,7 @@
 ||anzabboktk.com^
 ||aoalmfwinbsstec23.com^
 ||aoihaizo.xyz^
+||aopapp.com^
 ||aortismbutyric.com^
 ||ap-srv.net^
 ||ap3lorf0il.com^
@@ -7016,6 +7018,7 @@
 ||beneathgirlproceed.com^
 ||benefactorstoppedfeedback.com^
 ||beneficialviewedallude.com^
+||benefitssheasha.com^
 ||benengagewriggle.com^
 ||benevolencepair.com^
 ||benidorinor.com^
@@ -9184,6 +9187,7 @@
 ||commongratificationtimer.com^
 ||commongrewadmonishment.com^
 ||commonvivacious.com^
+||communication3x.fun^
 ||comoideludes.shop^
 ||comparativeexclusion.com^
 ||comparativelyoccursdeclaration.com^
@@ -12854,6 +12858,7 @@
 ||foolproofanatomy.com^
 ||foomaque.net^
 ||fooptoat.com^
+||foorcdn.com^
 ||foostoug.com^
 ||footar.com^
 ||footcomefully.com^
@@ -13212,6 +13217,7 @@
 ||fxdmnmsna.space^
 ||fxjpbpxvfofa.com^
 ||fxmnba.com^
+||fxmvxhwcusaq.com^
 ||fxpqcygxjib.com^
 ||fxrbsadtui.com^
 ||fxsvifnkts.com^
@@ -16056,6 +16062,7 @@
 ||iyfbodn.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
+||iyoztgdrxbcs.com^
 ||iyqaosd.com^
 ||iystrbftlwif.icu^
 ||iyyuvkd.com^
@@ -16974,6 +16981,7 @@
 ||kveww.com^
 ||kvexx.com^
 ||kvezz.com^
+||kvgbtozgcmox.com^
 ||kviglxabhwwhf.xyz^
 ||kvjkkwyomjrx.com^
 ||kvovs.xyz^
@@ -17667,6 +17675,7 @@
 ||loomplyer.com^
 ||loomscald.com^
 ||loomspreadingnamely.com^
+||looodrxopzvi.com^
 ||loooutlet.com^
 ||loopanews.com^
 ||loopme.me^
@@ -17758,6 +17767,7 @@
 ||loyalracingelder.com^
 ||loyeesihighlyreco.info^
 ||lozeecalreek.com^
+||lozna.xyz^
 ||lp-preview.net^
 ||lp247p.com^
 ||lpair.xyz^
@@ -19637,6 +19647,7 @@
 ||noisyunidentifiedinherited.com^
 ||noktaglaik.com^
 ||nolduniques.shop^
+||nolojo.com^
 ||nomadodiouscherry.com^
 ||nomadsbrand.com^
 ||nomadsfit.com^
@@ -20587,6 +20598,7 @@
 ||optyruntchan.com^
 ||optzsrv.com^
 ||opvanillishan.com^
+||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqdkftnubqa.com^
 ||oqejupqb.xyz^
@@ -23842,6 +23854,7 @@
 ||responservbzh.icu^
 ||responserver.com^
 ||responsibleprohibition.com^
+||responsibleroyalscrap.com^
 ||responsiveproportion.com^
 ||responsiverender.com^
 ||restabbingenologistwoollies.com^
@@ -23954,6 +23967,7 @@
 ||rfihub.com^
 ||rfihub.net^
 ||rfinidtirz.com^
+||rfjuoqrbnknop.com^
 ||rfogqbystvgb.com^
 ||rfsjuxlip.com^
 ||rftslb.com^
@@ -24755,6 +24769,7 @@
 ||scisselfungus.com^
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
+||sckjzfahoizclt.com^
 ||scl6gc5l.site^
 ||sclrnnp.com^
 ||scnd-tr.com^
@@ -25252,6 +25267,7 @@
 ||shorthandsixpencemap.com^
 ||shortssibilantcrept.com^
 ||shoubsee.net^
+||shoulderadmonishstore.com^
 ||shouldmeditate.com^
 ||shouldscornful.com^
 ||shoulsos.com^
@@ -25641,6 +25657,7 @@
 ||sneezeboring.com^
 ||snhcnjjxrlqkml.com^
 ||snhtvtp.com^
+||snidestpaluli.shop^
 ||sninancukanki.com^
 ||snipersex.com^
 ||snippystowstool.com^
@@ -28081,6 +28098,7 @@
 ||twevpgjeai.com^
 ||twewmykfe.com^
 ||twi-hjritecl.world^
+||twiebayed.com^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
 ||twinadsrv.com^
@@ -28342,6 +28360,7 @@
 ||understandablephilosophypeeves.com^
 ||understandassure.com^
 ||understandcomplainawestruck.com^
+||understanding3x.fun^
 ||understandingspurt.com^
 ||understandskinny.com^
 ||understatedworking.com^
@@ -30474,6 +30493,7 @@
 ||yceml.net^
 ||ycpwdvsmtn.com^
 ||ydagjjgqxmrlqjj.xyz^
+||ydccmwrpnfy.com^
 ||ydenknowled.com^
 ||ydevelelasticals.info^
 ||ydjdrrbg.com^
@@ -30911,6 +30931,7 @@
 ||zog.link^
 ||zograughoa.net^
 ||zogrepsili.com^
+||zoiefwqhcaczun.com^
 ||zokaukree.net^
 ||zokrodes.com^
 ||zoltran.top^
@@ -30939,6 +30960,7 @@
 ||zouzougri.net^
 ||zovidree.com^
 ||zpbpenn.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zplfwuca.com^
 ||zpreland.com^
@@ -30950,6 +30972,7 @@
 ||zqmblmebyvkjz.top^
 ||zqpztal.com^
 ||zqwe.ru^
+||zrakos.com^
 ||zrfzrwqiah.com^
 ||zrmtrm.com^
 ||zrqsmcx.top^
@@ -41849,8 +41872,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Dec 2024 00:24 UTC+7
-! Version: 2412300024
+! Last modified: 01 Jan 2025 16:57 UTC+7
+! Version: 2501011657
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
