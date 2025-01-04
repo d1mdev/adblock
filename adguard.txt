@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-03T00:00:10.803Z
+! Last modified: 2025-01-04T00:00:11.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||llet787bww.com^
 ||1463.info^
 ||prestich.shop^
 ||www.mir-stalkera.ru^
@@ -2674,6 +2675,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||dsp-api.moloco.com^
 ||ads.smrtbid.com^
 ||creative*.bidease.com^
 ||bidjora.com^
@@ -3455,6 +3457,7 @@
 ||0127c96640.com^
 ||01counter.com^
 ||01jud3v55z.com^
+||023e6510cc.com^
 ||0265331.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
@@ -3723,6 +3726,7 @@
 ||2ecfa1db15.com^
 ||2f1a1a7f62.com^
 ||2f2bef3deb.com^
+||2f5de272ff.com^
 ||2f72472ace.com^
 ||2f8a651b12.com^
 ||2fb8or7ai.de^
@@ -3897,6 +3901,7 @@
 ||46f4vjo86.com^
 ||47c8d48301.com^
 ||485f197673.com^
+||4885e2e6f7.com^
 ||49b6b77e56.com^
 ||49d4db4864.com^
 ||4a9517991d.com^
@@ -6540,6 +6545,7 @@
 ||axtlqoo.com^
 ||axwnmenruo.com^
 ||axwwvfugh.com^
+||axxbbzab.com^
 ||axxxfam.com^
 ||axxxfeee.lat^
 ||axzxkeawbo.com^
@@ -12479,6 +12485,7 @@
 ||femqrjwnk.xyz^
 ||femsoahe.com^
 ||femsurgo.com^
+||femuriah.top^
 ||fenacheaverage.com^
 ||feneverybodypsychological.com^
 ||fenixm.com^
@@ -13687,6 +13694,7 @@
 ||glazepalette.com^
 ||glaziergagged.shop^
 ||glbtrk.com^
+||gldkzr-lpqw.buzz^
 ||gldrdr.com^
 ||gleagainedam.info^
 ||gleaminsist.com^
@@ -19381,6 +19389,7 @@
 ||neckedhilting.com^
 ||neckloveham.live^
 ||nedamericantpas.info^
+||nedmofqnhbvifw.com^
 ||nedouseso.com^
 ||neebeech.com^
 ||neebourshifts.shop^
@@ -19534,6 +19543,7 @@
 ||nfkd2ug8d9.com^
 ||nfuwlooaodf.com^
 ||nfuwpyx.com^
+||nfyowjhcgb.com^
 ||ngegas.files.im^
 ||ngfruitiesmatc.info^
 ||ngfycrwwd.com^
@@ -19865,6 +19875,7 @@
 ||ntoftheusysia.info^
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
+||ntqtvdlnzhkoc.com^
 ||ntreeom.com^
 ||ntrfr.leovegas.com^
 ||ntrftrksec.com^
@@ -24500,6 +24511,7 @@
 ||rwrkeqci.xyz^
 ||rwtrack.xyz^
 ||rwuannaxztux.com^
+||rwukupjis.com^
 ||rwusvej.com^
 ||rxcihltrqjvdeus.com^
 ||rxeosevsso.com^
@@ -25211,6 +25223,7 @@
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
 ||sherryfaithfulhiring.com^
+||shertuwipsumt.net^
 ||sheschemetraitor.com^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
@@ -25829,6 +25842,7 @@
 ||sophomoreadmissible.com^
 ||sophomoreclassicoriginally.com^
 ||sophomorelink.com^
+||sorbussmacked.shop^
 ||sordimtaulee.com^
 ||sordiniswivet.shop^
 ||sorediadilute.top^
@@ -25895,6 +25909,7 @@
 ||sparkleunwelcomepleased.com^
 ||sparkrainstorm.host^
 ||sparkstudios.com^
+||sparredcubans.shop^
 ||sparrowfencingnumerous.com^
 ||sparsgroff.com^
 ||spasmodictripscontemplate.com^
@@ -26779,6 +26794,7 @@
 ||syndromeentered.com^
 ||syndromegarlic.com^
 ||synonymcuttermischievous.com^
+||synonymdetected.com^
 ||synsads.com^
 ||syntaxtruckspoons.com^
 ||synthesissocietysplitting.com^
@@ -27119,6 +27135,7 @@
 ||tgktlgyqsffx.xyz^
 ||tgolived.com^
 ||thaculse.net^
+||thadairteetchar.net^
 ||thagegroom.net^
 ||thagrals.net^
 ||thagroum.net^
@@ -27274,6 +27291,7 @@
 ||thingstorrent.com^
 ||thinkappetitefeud.com^
 ||thinkingaccommodate.com^
+||thinksclingingentertainment.com^
 ||thinksuggest.org^
 ||thinnertrout.com^
 ||thinnerwishingeccentric.com^
@@ -28308,6 +28326,7 @@
 ||ulesxbo.com^
 ||ulheaddedfearing.com^
 ||ulmoyc.com^
+||ulnhz.site^
 ||ulried.com^
 ||ulsmcdn.com^
 ||ulteriorprank.com^
@@ -29326,6 +29345,7 @@
 ||vulnerablebreakerstrong.com^
 ||vulnerablepeevestendon.com^
 ||vulsubsaugrourg.net^
+||vuohztiwpwqd.com^
 ||vupoupay.com^
 ||vupteerairs.net^
 ||vuqcteyi.com^
@@ -30341,6 +30361,7 @@
 ||xg-jbpmnru.online^
 ||xgdljiasdo.xyz^
 ||xgihlgcfuu.com^
+||xgokhtmizpgj.com^
 ||xgraph.net^
 ||xgroserhkug.com^
 ||xgtfptm.com^
@@ -32639,6 +32660,7 @@
 !
 !
 !
+||tags.fullcontact.com^
 ||matomo.akbal.dev^
 ||sentry.pnblab.com^
 ||untho.de^
@@ -36454,6 +36476,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||event.wondershare.com^
 ||collector.abc.net.au^
 ||smetrics.kawai-juku.ac.jp^
 ||stat.pravdafrance.com^
@@ -39195,6 +39218,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
@@ -40884,7 +40908,6 @@ inapps.appsflyersdk.com^
 ||tag.myplay.com^
 ||tag.rightmessage.com^
 ||tags.catapultx.com^
-||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tagtracking.vibescm.com^
 ||telemetry.goodlifefitness.com^
@@ -41901,8 +41924,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jan 2025 22:28 UTC+7
-! Version: 2501022228
+! Last modified: 03 Jan 2025 23:14 UTC+7
+! Version: 2501032314
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
