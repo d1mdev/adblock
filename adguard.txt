@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-05T00:00:11.822Z
+! Last modified: 2025-01-06T00:00:10.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -9042,7 +9042,6 @@
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
-||coalkitchen.com^
 ||coaphauk.net^
 ||coarseauthorization.com^
 ||coashoohathaija.net^
@@ -9650,7 +9649,6 @@
 ||creativeformatsnetwork.com^
 ||creativelardyprevailed.com^
 ||creativesumo.com^
-||creatorpassenger.com^
 ||creaturescoinsbang.com^
 ||creaturespendsfreak.com^
 ||crechecatholicclaimed.com^
@@ -10835,7 +10833,6 @@
 ||doesbitesizeadvantages.com^
 ||doflygonan.com^
 ||dofrogadiera.com^
-||dogcollarfavourbluff.com^
 ||dogecalloo.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
@@ -12771,7 +12768,6 @@
 ||flounderhomemade.com^
 ||flounderpillowspooky.com^
 ||flourishbriefing.com^
-||flourishingcollaboration.com^
 ||flourishinghardwareinhibit.com^
 ||flousecuprate.top^
 ||flower1266.fun^
@@ -13571,7 +13567,6 @@
 ||ghlyrecomemurg.com^
 ||ghnvfncbleiu.xyz^
 ||ghostchisel.com^
-||ghostgenie.com^
 ||ghostnewz.com^
 ||ghostsinstance.com^
 ||ghosttardy.com^
@@ -15363,6 +15358,7 @@
 ||igoognou.xyz^
 ||igouthoatsord.net^
 ||igpkppknqeblj.com^
+||igraard.xyz^
 ||igvhfmubsaqty.xyz^
 ||igwatrsthg.site^
 ||ihappymuttered.info^
@@ -18455,7 +18451,6 @@
 ||memorableanticruel.com^
 ||memorablecutletbet.com^
 ||memorableeditor.com^
-||memorizematch.com^
 ||mempoonsoftoow.net^
 ||menacehabit.com^
 ||menacing-awareness.pro^
@@ -21604,7 +21599,6 @@
 ||phokukse.com^
 ||phomoach.net^
 ||phoneboothsabledomesticated.com^
-||phonicsblitz.com^
 ||phoobsoalrie.com^
 ||phoognol.com^
 ||phoojeex.xyz^
@@ -22108,7 +22102,6 @@
 ||possibilityformal.com^
 ||possibilityfoundationwallpaper.com^
 ||possibilityrespectivelyenglish.com^
-||possiblepencil.com^
 ||post-redirecting.com^
 ||postalfranticallyfriendship.com^
 ||postaoz.xyz^
@@ -23392,7 +23385,6 @@
 ||rapolok.com^
 ||rapturemeddle.com^
 ||rar-vpn.com^
-||rarestcandy.com^
 ||rarrwcfe.com^
 ||rascalbygone.com^
 ||rashbarnabas.com^
@@ -25022,7 +25014,6 @@
 ||sentenceinformedveil.com^
 ||sentientfog.com^
 ||sentimenthailstonesubjective.com^
-||sentinelp.com^
 ||seo-overview.com^
 ||separatepattern.pro^
 ||separationalphabet.com^
@@ -25544,7 +25535,6 @@
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
-||skullmagnets.com^
 ||skunscold.top^
 ||skvxbool.xyz^
 ||skyadsmart.com^
@@ -26168,7 +26158,6 @@
 ||startappexchange.com^
 ||startd0wnload22x.com^
 ||starterblackened.com^
-||startercost.com^
 ||startfinishthis.com^
 ||startpagea.com^
 ||startperfectsolutions.com^
@@ -28244,6 +28233,7 @@
 ||ubish.com^
 ||uboungera.com^
 ||ucationinin.info^
+||ucavu.live^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
 ||ucheephu.com^
@@ -29026,7 +29016,6 @@
 ||viatechonline.com^
 ||viatepigan.com^
 ||vibanioa.com^
-||vibrantvale.com^
 ||vibrateapologiesshout.com^
 ||vic-m.co^
 ||vicious-instruction.pro^
@@ -41933,8 +41922,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Jan 2025 23:56 UTC+7
-! Version: 2501042356
+! Last modified: 05 Jan 2025 14:24 UTC+7
+! Version: 2501051424
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
