@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-06T00:00:10.336Z
+! Last modified: 2025-01-07T00:00:14.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4178,6 +4178,7 @@
 ||9cd76b4462bb.com^
 ||9d2cca15e4.com^
 ||9d603009eb.com^
+||9d87b35397.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
 ||9e3810a418.com^
@@ -32654,6 +32655,7 @@
 !
 !
 !
+||view.mngusr.com^
 ||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
@@ -36471,6 +36473,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||qbrth.ezcontacts.com^
 ||intake-analytics.wikimedia.org^
 ||lgforbes.akamaized.net^
 ||event.wondershare.com^
@@ -39149,6 +39152,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+-adrevenue.appsflyersdk.com^
 -attr.appsflyersdk.com^
 register.appsflyersdk.com^
 conversions.appsflyersdk.com^
@@ -41922,8 +41926,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Jan 2025 14:24 UTC+7
-! Version: 2501051424
+! Last modified: 06 Jan 2025 22:58 UTC+7
+! Version: 2501062258
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
