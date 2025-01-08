@@ -25,11 +25,13 @@ jobs:
       - name: Build
         run: |
           sudo apt update
-          sudo apt dist-upgrade
+          sudo apt install npm
           git clone --depth 1 https://github.com/d1mdev/adblock.git
           cd adblock
           npm i -g @adguard/hostlist-compiler
           ls -la
+          echo "Running compiler"
+          hostlist-compiler --help
           echo "Test results:" >> $GITHUB_STEP_SUMMARY
 
       # Runs a set of commands using the runners shell
