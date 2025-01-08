@@ -26,7 +26,8 @@ jobs:
         run: |
           git clone --depth 1 https://github.com/d1mdev/adblock.git
           cd adblock
-          docker build -t hlistcompiler .
+          npm i -g @adguard/hostlist-compiler
+          ls -la
           echo "Test results:" >> $GITHUB_STEP_SUMMARY
 
       # Runs a set of commands using the runners shell
