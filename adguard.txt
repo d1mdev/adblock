@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-11T00:00:10.102Z
+! Last modified: 2025-01-12T00:00:10.132Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4272,6 +4272,7 @@
 ||abattoirpleatsprinkle.com^
 ||abazelfan.com^
 ||abbasidquippy.shop^
+||abbateerupted.com^
 ||abberantdiscussion.com^
 ||abberantdoggie.com^
 ||abberantpawnpalette.com^
@@ -9958,6 +9959,7 @@
 ||daejyre.com^
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
+||dagassapereion.com^
 ||dagheepsoach.net^
 ||dagnar.com^
 ||dagnurgihjiz.com^
@@ -11738,6 +11740,7 @@
 ||endwaysdsname.com^
 ||endymehnth.info^
 ||energeticdryeyebrows.com^
+||energeticprovocation.com^
 ||energeticrecognisepostcard.com^
 ||energypopulationpractical.com^
 ||eneughghaffir.com^
@@ -12258,6 +12261,7 @@
 ||f3f202565b.com^
 ||f43f5a2390.com^
 ||f4823894ba.com^
+||f53d954cc5.com^
 ||f58x48lpn.com^
 ||f59408d48d.com^
 ||f62b2a8ac6.com^
@@ -12751,6 +12755,7 @@
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
 ||flaxconfession.com^
+||flaxdescale.com^
 ||flaxierfilmset.com^
 ||flcrcyj.com^
 ||fldes6fq.de^
@@ -14921,6 +14926,7 @@
 ||hj6y7jrhnysuchtjhw.info^
 ||hjalma.com^
 ||hjklq.com^
+||hjmawbrxzq.space^
 ||hjrvsw.info^
 ||hjsvhcyo.com^
 ||hjuswoulvp.xyz^
@@ -16343,6 +16349,7 @@
 ||jicamadoless.com^
 ||jicamasosteal.shop^
 ||jiclzori.com^
+||jicmivojvsa.com^
 ||jidroumsaghetu.xyz^
 ||jifflebreasts.com^
 ||jighucme.com^
@@ -17595,6 +17602,7 @@
 ||livezombymil.com^
 ||livingshedhowever.com^
 ||livrfufzios.com^
+||livvbkx-vejj.xyz^
 ||livxlilsq.click^
 ||lixnirokjqp.com^
 ||lizzieforcepincers.com^
@@ -20646,6 +20654,7 @@
 ||opleshouldthink.com^
 ||oplpectation.xyz^
 ||opmxizgcacc.com^
+||opnbylag.com^
 ||opoduchadmir.com^
 ||oponixa.com^
 ||opositeasysemblyjus.info^
@@ -20781,6 +20790,7 @@
 ||oshoothoolo.com^
 ||oskiwood.com^
 ||osmeticjewlike.com^
+||osminaclumber.com^
 ||osmosedshrined.top^
 ||ospartners.xyz^
 ||ospreyorceins.com^
@@ -22236,6 +22246,7 @@
 ||ppjdfki.com^
 ||ppjqgbz.com^
 ||pplgwic.com^
+||pplhfhuwyv.com^
 ||ppoommhizazn.com^
 ||pppbr.com^
 ||ppqy.fun^
@@ -22504,6 +22515,7 @@
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||prolatecyclus.com^
+||proleclips.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
 ||promiseyuri.com^
@@ -25252,6 +25264,7 @@
 ||shatterconceal.com^
 ||shauduptel.net^
 ||shaugacakro.net^
+||shaughixefooz.net^
 ||shauladubhe.com^
 ||shauladubhe.top^
 ||shaulauhuck.com^
@@ -27087,6 +27100,7 @@
 ||techourtoapingu.com^
 ||techreviewtech.com^
 ||tecominchisel.com^
+||tectureclod.top^
 ||tecuil.com^
 ||tedhilarlymcken.org^
 ||tediousgorgefirst.com^
@@ -27101,6 +27115,7 @@
 ||teepoomo.xyz^
 ||teestoagloupaza.net^
 ||teetusee.xyz^
+||teewhilemath.net^
 ||tefrjctjwuu.com^
 ||tefuse.com^
 ||tegleebs.com^
@@ -27756,6 +27771,7 @@
 ||touchupchows.com^
 ||touchyeccentric.com^
 ||touchytautogs.com^
+||tougaipteehuboo.xyz^
 ||toughdrizzleleftover.com^
 ||tougrauwaizus.net^
 ||touptaisu.com^
@@ -29766,6 +29782,7 @@
 ||wetnesstommer.com^
 ||wetpeachcash.com^
 ||wetsireoverload.com^
+||wevechinse.com^
 ||wewaixor.com^
 ||wewearegogogo.com^
 ||wextap.com^
@@ -30066,6 +30083,7 @@
 ||wizssgf.com^
 ||wjct3s8at.com^
 ||wjljwqbmmjaqz.top^
+||wjqssnujrbyu.com^
 ||wjtzvvdqvfjd.com^
 ||wjvavwjyaso.com^
 ||wka4jursurf6.com^
@@ -40839,8 +40857,6 @@ inapps.appsflyersdk.com^
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
 ||ping.dozuki.com^
-||ping.fastsimon.com^
-||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
 ||pix.revjet.com^
 ||pix.speedbit.com^
@@ -42042,8 +42058,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Jan 2025 23:34 UTC+7
-! Version: 2501092334
+! Last modified: 11 Jan 2025 23:25 UTC+7
+! Version: 2501112325
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
