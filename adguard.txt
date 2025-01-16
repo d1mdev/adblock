@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-15T00:00:10.372Z
+! Last modified: 2025-01-16T00:00:11.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5460,6 +5460,7 @@
 ||alingrethertantin.info^
 ||aliposite.site^
 ||aliquidalgesic.top^
+||aliteartful.com^
 ||alitems.co^
 ||alitems.site^
 ||alivebald.com^
@@ -7165,6 +7166,7 @@
 ||betrayedrecorderresidence.com^
 ||betrendatimon.top^
 ||betriolua.com^
+||betrustdoms.com^
 ||betshucklean.com^
 ||bett2you.net^
 ||bett2you.org^
@@ -9775,6 +9777,7 @@
 ||crudelouisa.com^
 ||crudemonarchychill.com^
 ||crudequeenrome.com^
+||crudyfilters.com^
 ||crueltysugar.shop^
 ||cruiserx.net^
 ||crumblerefunddiana.com^
@@ -14285,6 +14288,7 @@
 ||groampez.xyz^
 ||groamsal.net^
 ||groaxonsoow.net^
+||groazaimsadroa.xyz^
 ||grobido.info^
 ||grobungairdoul.net^
 ||grobuveexeb.net^
@@ -14747,6 +14751,7 @@
 ||heiressscore.com^
 ||heiresstolerance.com^
 ||heirloomreasoning.com^
+||heirsacost.com^
 ||heixidor.com^
 ||hejqtbnmwze.com^
 ||hekowutus.com^
@@ -20181,6 +20186,7 @@
 ||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
+||oarsoathaihoamt.net^
 ||oarsparttimeparent.com^
 ||oarssamgrandparents.com^
 ||oarswithdraw.com^
@@ -22456,6 +22462,7 @@
 ||prevuesthurl.com^
 ||prfwhite.com^
 ||prhdvhx.com^
+||priceyawol.com^
 ||pricklyachetongs.com^
 ||pridenovicescammer.com^
 ||priestboundsay.com^
@@ -22990,6 +22997,7 @@
 ||purgescholars.com^
 ||purgoaho.xyz^
 ||purifybaptism.guru^
+||purlingresews.com^
 ||purpleads.io^
 ||purpleflag.net^
 ||purplepatch.online^
@@ -28574,6 +28582,7 @@
 ||uncoverarching.com^
 ||uncrobator.com^
 ||uncrownarmenic.com^
+||undatedifreal.com^
 ||under2given.com^
 ||underaccredited.com^
 ||underagebeneath.com^
@@ -29033,6 +29042,7 @@
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||variouspheasantjerk.com^
+||varletsngaio.com^
 ||varnishmosquitolocust.com^
 ||varshacundy.com^
 ||vartoken.com^
@@ -29050,6 +29060,7 @@
 ||vastsneezevirtually.com^
 ||vatanclick.ir^
 ||vatcertaininject.com^
+||vaufekonaub.net^
 ||vaugroar.com^
 ||vaukoloon.net^
 ||vauloops.net^
@@ -29916,6 +29927,7 @@
 ||whampamp.com^
 ||whandpolista.com^
 ||wharployn.com^
+||wharrownecia.com^
 ||wharvemotet.com^
 ||whateyesight.com^
 ||whatisnewappforyou.top^
@@ -30990,6 +31002,7 @@
 ||z54a.xyz^
 ||z5x.net^
 ||zaamgqlgdhac.love^
+||zabaismtempi.top^
 ||zabanit.xyz^
 ||zachunsears.com^
 ||zacleporis.com^
@@ -32875,6 +32888,7 @@
 !
 !
 !
+||log-auth.zztfly.com^
 ||adsave.co^
 ||analytics.bitchute.com^
 ||actiontracking.jp^
@@ -36701,6 +36715,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||s.c-ctrip.com^
+||ma-adx.ctrip.com^
 ||logs.mezmo.com^
 ||acr-*-prd.samsungcloud.tv^
 ||publictelemetry.tophat.com^
@@ -39456,6 +39472,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 ||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
