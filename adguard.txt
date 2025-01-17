@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-16T00:00:11.655Z
+! Last modified: 2025-01-17T00:00:10.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2725,7 +2725,6 @@
 ||vs-api.voodoo-tech.io^
 ||psvpromo.psvgamestudio.com^
 -adx-*.rayjump.com^
-||reachableads-av.*.amazonaws.com^
 ||static.timetreeads.com^
 ||kfvjdvjzhddhc.com^
 ||zgzxs.weathercn.com^
@@ -7337,6 +7336,7 @@
 ||bitx.tv^
 ||biunialpawnie.top^
 ||biuskye.com^
+||biuyuximbrutr.com^
 ||bivos.xyz^
 ||biwipuque.com^
 ||bizographics.com^
@@ -11951,6 +11951,7 @@
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
+||ero-vtuber.com^
 ||erofherlittleboy.com^
 ||erosionyonderviolate.com^
 ||erosyndc.com^
@@ -13088,6 +13089,7 @@
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourteenthcongratulate.com^
 ||fouwheepoh.com^
@@ -17014,6 +17016,7 @@
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
 ||kolkwi4tzicraamabilis.com^
+||kolleqasforsale.com^
 ||kologyrtyndwean.info^
 ||koluraishimtouw.net^
 ||komarchlupoid.com^
@@ -18499,6 +18502,7 @@
 ||measuredshared.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
+||meatabdicatedelicatessen.com^
 ||meatjav11.fun^
 ||meawo.cloud^
 ||mechaelpaceway.com^
@@ -21489,6 +21493,7 @@
 ||peasbishopgive.com^
 ||pebadu.com^
 ||pebbleoutgoing.com^
+||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
 ||peckrespectfully.com^
@@ -21922,6 +21927,7 @@
 ||pjsos.xyz^
 ||pjtoaewbccpchu.com^
 ||pjvartonsbewand.info^
+||pjwfihbmwq.com^
 ||pk0grqf29.com^
 ||pk910324e.com^
 ||pkazd.xyz^
@@ -22502,6 +22508,7 @@
 ||privacycounter.com^
 ||privacynicerresumed.com^
 ||privacysearching.com^
+||private-stage.com^
 ||privateappealingsymphony.com^
 ||privatelydevotionrewind.com^
 ||privilegedmansfieldvaguely.com^
@@ -23366,6 +23373,7 @@
 ||querysteer.com^
 ||quesid.com^
 ||questeelskin.com^
+||questioningcomplimentarypotato.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
 ||questioningtosscontradiction.com^
@@ -25046,6 +25054,7 @@
 ||seaboblit.com^
 ||seafoodclickwaited.com^
 ||seafooddiscouragelavishness.com^
+||seafoodmesarch.top^
 ||sealeryshilpit.com^
 ||sealthatleak.com^
 ||seamanphaseoverhear.com^
@@ -25400,6 +25409,7 @@
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
 ||sheschemetraitor.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -25640,6 +25650,7 @@
 ||siruperunlinks.com^
 ||sirwcniydewu.com^
 ||sisewepod.com^
+||sisfulylydevelope.com^
 ||sismoycheii.cc^
 ||sisteraboveaddition.com^
 ||sisterexpendabsolve.com^
@@ -26488,6 +26499,7 @@
 ||stixeepou.com^
 ||stjpezyt.com^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
@@ -33127,6 +33139,7 @@
 ||gtm.taginstall.com^
 ||mdstats.info^
 ||site-config.com^
+||getui.net^
 ||getui.com^
 ||pixel.glimr.io^
 ||scripts.jixie.media^
@@ -36715,6 +36728,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||hikari.jiocinema.com^
 ||s.c-ctrip.com^
 ||ma-adx.ctrip.com^
 ||logs.mezmo.com^
@@ -39472,6 +39486,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
 ||nstool.netease.com^
@@ -42188,8 +42203,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
+! Last modified: 16 Jan 2025 22:55 UTC+7
+! Version: 2501162255
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
