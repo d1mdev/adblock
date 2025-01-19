@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-18T00:00:10.863Z
+! Last modified: 2025-01-19T00:00:10.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3851,6 +3851,7 @@
 ||3cg6sa78w.com^
 ||3d5affba28.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
+||3e1898dbbe.com^
 ||3e6072834f.com^
 ||3ead4fd497.com^
 ||3fc0ebfea0.com^
@@ -9986,6 +9987,7 @@
 ||d9fb2cc166.com^
 ||da-ads.com^
 ||da066d9560.com^
+||da52d550a0.com^
 ||daailynews.com^
 ||daboovip.xyz^
 ||daccroi.com^
@@ -12309,6 +12311,7 @@
 ||f07neg4p.de^
 ||f092680893.com^
 ||f0eba64ba6.com^
+||f10f9df901.com^
 ||f145794b22.com^
 ||f14b0e6b0b.com^
 ||f1617d6a6a.com^
@@ -23512,6 +23515,7 @@
 ||ragapa.com^
 ||rageagainstthesoap.com^
 ||raglassofrum.cc^
+||ragofkanc.com^
 ||ragsbxhchr.xyz^
 ||ragwviw.com^
 ||raheglin.xyz^
@@ -25935,6 +25939,7 @@
 ||soadaupaila.net^
 ||soadicithaiy.net^
 ||soaheeme.net^
+||soajaihebu.net^
 ||soakcompassplatoon.com^
 ||soalonie.com^
 ||soaneefooy.net^
@@ -26954,6 +26959,7 @@
 ||swelteringcrazy.pro^
 ||sweptbroadarchly.com^
 ||swesomepop.com^
+||swiftlybloodlesseconomic.com^
 ||swiggermahwa.com^
 ||swimmerallege.com^
 ||swimmerperfectly.com^
@@ -27299,6 +27305,7 @@
 ||tentmess.com^
 ||tentubu.xyz^
 ||tenutoboma.click^
+||tepirhdbauahk.com^
 ||tepysilscpm.xyz^
 ||terabigyellowmotha.info^
 ||terabzxqb.com^
@@ -28494,6 +28501,7 @@
 ||ufpcdn.com^
 ||ufphkyw.com^
 ||ufvxiyewsyi.com^
+||ufykspupgxgzz.com^
 ||ufzanvc.com^
 ||ugailidsay.xyz^
 ||ugbkfsvqkayt.icu^
@@ -30932,6 +30940,7 @@
 ||yoomanies.com^
 ||yopard.com^
 ||yoredi.com^
+||yorkvillemarketing.net^
 ||yoshatia.com^
 ||yottacash.com^
 ||you4cdn.com^
@@ -31098,6 +31107,7 @@
 ||zcode7.me^
 ||zcoptry.com^
 ||zcswet.com^
+||zdgeoqvzo.com^
 ||zdkgxeeykuhs.today^
 ||zeads.com^
 ||zealotillustrate.com^
@@ -32930,6 +32940,7 @@
 !
 !
 !
+||sygrip.info^
 ||flippback.com^
 ||log-auth.zztfly.com^
 ||adsave.co^
@@ -40921,6 +40932,7 @@ inapps.appsflyersdk.com^
 ||gsp1.baidu.com^
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^
+||h-bid.com^
 ||happen.spkt.io^
 ||harvest.graindata.com^
 ||hb.vhsrv.com^
