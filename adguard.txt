@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-23T00:00:10.929Z
+! Last modified: 2025-01-24T00:00:13.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cdn.dmtgvn.com^
 ||llet787bww.com^
 ||1463.info^
 ||prestich.shop^
@@ -5675,6 +5676,7 @@
 ||ampxchange.com^
 ||amre.work^
 ||amshroomishan.com^
+||amtmenlana.com^
 ||amtracking01.com^
 ||amtropiusr.com^
 ||amucresol.com^
@@ -5996,6 +5998,7 @@
 ||argumentsadrenaline.com^
 ||argumentsmaymadly.com^
 ||arilsoaxie.xyz^
+||ariotgribble.com^
 ||aristianewr.club^
 ||arithpouted.com^
 ||arkdcz.com^
@@ -6317,6 +6320,7 @@
 ||atthewonderfu.com^
 ||atticepuces.com^
 ||atticshepherd.com^
+||attingepicrate.com^
 ||attractioninvincibleendurance.com^
 ||attractivesurveys.com^
 ||attractwarningkeel.com^
@@ -6678,6 +6682,7 @@
 ||backsweka.com^
 ||backupcelebritygrave.com^
 ||baconbedside.com^
+||baculeprudery.com^
 ||badeldestarticulate.com^
 ||badgeclodvariable.com^
 ||badgegirdle.com^
@@ -6784,6 +6789,7 @@
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
 ||bardatm.ru^
+||bardeearmsize.com^
 ||bardicjazzed.com^
 ||barecurldiscovering.com^
 ||barefootedleisurelypizza.com^
@@ -7097,6 +7103,7 @@
 ||berush.com^
 ||berwickveered.shop^
 ||besandileom.com^
+||besaylecran.com^
 ||besidesparties.com^
 ||besitreggae.com^
 ||besmeargleor.com^
@@ -8248,6 +8255,7 @@
 ||capricetheme.com^
 ||captainad.com^
 ||captchafine.live^
+||captionconjecture.com^
 ||captivatecustomergentlemen.com^
 ||captivatepestilentstormy.com^
 ||captivebleed.com^
@@ -8338,6 +8346,7 @@
 ||catgride.com^
 ||catharskeek.top^
 ||cathedralinthei.info^
+||cathodeoutwood.com^
 ||catholicprevalent.com^
 ||cathrynslues.com^
 ||catiligh.ru^
@@ -9082,6 +9091,7 @@
 ||cmclean.club^
 ||cmfads.com^
 ||cmhoriu.com^
+||cmjvuwtgfzl.com^
 ||cmpgns.net^
 ||cmpsywu.com^
 ||cmrdr.com^
@@ -9860,7 +9870,9 @@
 ||cuesingle.com^
 ||cuevastrck.com^
 ||cufultahaur.com^
+||cugaksoogleptix.xyz^
 ||cuhlsl.info^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cuisineomnipresentinfinite.com^
 ||cullemple-motline.com^
@@ -10147,6 +10159,7 @@
 ||datingtopgirls.com^
 ||datingvr.ru^
 ||datqagdkurce.com^
+||datsunepizzoa.com^
 ||daughterinlawrib.com^
 ||daughtersarbourbarrel.com^
 ||daukshewing.com^
@@ -10906,6 +10919,7 @@
 ||doastaib.xyz^
 ||doblazikena.com^
 ||doblonsurare.shop^
+||dociblessed.com^
 ||dockboulevardshoes.com^
 ||dockdeity.com^
 ||dockoolser.net^
@@ -16816,6 +16830,7 @@
 ||kauleeci.com^
 ||kauraishojy.com^
 ||kaurieseluxate.com^
+||kauriessizzler.shop^
 ||kaushooptawo.net^
 ||kauzishy.com^
 ||kavanga.ru^
@@ -21186,6 +21201,7 @@
 ||owlerydominos.cam^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownhoodmucro.shop^
 ||ownzzohggdfb.com^
 ||owojqopr.com^
 ||owppijqakeo.com^
@@ -21278,6 +21294,7 @@
 ||pafteejox.com^
 ||pagejunky.com^
 ||pagemystery.com^
+||paginaltreitre.shop^
 ||pagnawhouk.net^
 ||paguridrenilla.com^
 ||pahbasqibpih.com^
@@ -23663,6 +23680,7 @@
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
+||rauheestuma.xyz^
 ||raujouca.com^
 ||raumipti.net^
 ||raunooligais.net^
@@ -24258,6 +24276,7 @@
 ||reypelis.tv^
 ||reyungojas.com^
 ||rficarolnak.com^
+||rfidpytri.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfinidtirz.com^
@@ -24701,6 +24720,7 @@
 ||rufadses.net^
 ||ruftodru.net^
 ||rugcrucial.com^
+||ruggyscallop.top^
 ||rugiomyh2vmr.com^
 ||ruglhiahxam.com^
 ||rugupheessupaik.net^
@@ -24973,6 +24993,7 @@
 ||sauroajy.net^
 ||sausagefaithfemales.com^
 ||sausagegirlieheartburn.com^
+||sauthooptoo.net^
 ||sauwoaptain.com^
 ||savableee.com^
 ||savefromad.net^
@@ -25164,6 +25185,7 @@
 ||seatedparanoiaenslave.com^
 ||seatrackingdomain.com^
 ||seatsrehearseinitial.com^
+||seawantyroma.com^
 ||seayipsex.com^
 ||sebateastrier.com^
 ||sebkhapaction.com^
@@ -26157,6 +26179,7 @@
 ||sourceconvey.com^
 ||sourishpuler.com^
 ||sourne.com^
+||southeestais.net^
 ||southmailboxdeduct.com^
 ||southolaitha.com^
 ||southsturdy.com^
@@ -26250,6 +26273,7 @@
 ||spicy-development.pro^
 ||spicy-effect.com^
 ||spicygirlshere.life^
+||spijdawmqvs.com^
 ||spikearsonembroider.com^
 ||spikedelishah.com^
 ||spikethat.xyz^
@@ -26581,6 +26605,7 @@
 ||stillfolder.com^
 ||stimaariraco.info^
 ||stimtavy.net^
+||stimtoughougnax.net^
 ||stimulateartificial.com^
 ||stimulatinggrocery.pro^
 ||stinglackingrent.com^
@@ -28384,6 +28409,7 @@
 ||tumboaovernet.shop^
 ||tumidlyacorus.shop^
 ||tumordied.com^
+||tumpsmolla.com^
 ||tumri.net^
 ||tumultmarten.com^
 ||tunatastesentertained.com^
@@ -28484,6 +28510,7 @@
 ||txeefgcutifv.info^
 ||txgeszx.com^
 ||txjhmbn.com^
+||txtspjaorddrjqq.com^
 ||txumirk.com^
 ||txzaazmdhtw.com^
 ||tyburnpenalty.com^
@@ -30000,6 +30027,7 @@
 ||weshooship.net^
 ||wesicuros.com^
 ||wesmallproclaim.com^
+||westcoa.com^
 ||westernhungryadditions.com^
 ||westernwhetherowen.com^
 ||wet-maybe.pro^
@@ -31158,6 +31186,7 @@
 ||zanoogha.com^
 ||zaokko.com^
 ||zaparena.com^
+||zapasizzard.com^
 ||zaphakesleigh.com^
 ||zaphararidged.com^
 ||zapunited.com^
@@ -31814,7 +31843,6 @@
 ||affiliategroove.com^
 ||affilimatejs.com^
 ||affilist.com^
-||affilizz.com^
 ||afishamedia.net^
 ||afrikad.com^
 ||afront.io^
@@ -36850,6 +36878,11 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pixels.argusplatform.com^
+||egg.afisha.ru^
+||tracking-app.diginetica.net^
+||c.us.heap-api.com^
+||apay-us.amazon.com^
 ||logging.g.sst.secureserver.net^
 ||metricreceiver.cellrebel.com^
 ||events.app-performance.music.amazon.dev^
@@ -39619,6 +39652,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
@@ -41294,6 +41328,7 @@ inapps.appsflyersdk.com^
 ||t.bimvid.com^
 ||t.buyist.app^
 ||t.cfjump.com^
+||t.commandbar.com^
 ||t.dgm-au.com^
 ||t.enuygun.com^
 ||t.fullres.net^
