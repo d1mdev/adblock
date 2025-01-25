@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-24T00:00:13.803Z
+! Last modified: 2025-01-25T00:00:10.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5065,6 +5065,7 @@
 ||aeffe3nhrua5hua.com^
 ||aegagrilariats.top^
 ||aelgdju.com^
+||aemghfxq.com^
 ||aenoprsouth.com^
 ||aeolinemonte.shop^
 ||aerialmistaken.com^
@@ -6601,6 +6602,7 @@
 ||aymobi.online^
 ||ayrather.com^
 ||aywivflptwd.com^
+||aywnaoliigc.com^
 ||ayzylwqazaemj.top^
 ||azads.com^
 ||azawv.rocks^
@@ -6904,6 +6906,7 @@
 ||be51586160.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
+||beaconyirred.com^
 ||beakerweedjazz.com^
 ||beakexcursion.com^
 ||beakobjectcaliber.com^
@@ -8044,6 +8047,7 @@
 ||businessmenmerchandise.com^
 ||businesstremendoushad.com^
 ||buskerreshoes.website^
+||bustaumtatelt.net^
 ||busticsfibrose.com^
 ||bustlefungus.com^
 ||bustlemiszone.com^
@@ -10390,6 +10394,7 @@
 ||delusionpenal.com^
 ||delutza.com^
 ||deluxe-download.com^
+||delveactivity.com^
 ||demanding-application.pro^
 ||demba.xyz^
 ||demeanourgrade.com^
@@ -11201,6 +11206,7 @@
 ||ds3.biz^
 ||ds7hds92.de^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dseveralmefarketi.com^
 ||dsnextgen.com^
 ||dsoodbye.xyz^
 ||dsp.wtf^
@@ -11518,6 +11524,7 @@
 ||edgbas.com^
 ||edgevertise.com^
 ||edgychancymisuse.com^
+||edgypollnormandy.com^
 ||ediatesuperviso.com^
 ||edibleinvite.com^
 ||edingrigoguter.com^
@@ -11941,6 +11948,7 @@
 ||eplndhtrobl.com^
 ||epnredirect.ru^
 ||epochheelbiography.com^
+||epreswsentativ.com^
 ||epsaivuz.com^
 ||epsashoofil.net^
 ||epsauthoup.com^
@@ -13688,6 +13696,7 @@
 ||getyoursoft.ru^
 ||gevmrjok.com^
 ||gforanythingam.com^
+||gfrekjhrlc.com^
 ||gfsdloocn.com^
 ||gfufutakba.com^
 ||gfunwoakvgwo.com^
@@ -13708,6 +13717,7 @@
 ||ggxcoez.com^
 ||ggxqzamc.today^
 ||gharryronier.click^
+||ghcaoaefmj.com^
 ||ghettosteal.shop^
 ||ghhleiaqlm.com^
 ||ghlyrecomemurg.com^
@@ -17967,6 +17977,7 @@
 ||lousyfastened.com^
 ||louxoxo.com^
 ||love-world.me^
+||lovedenimori.com^
 ||lovehiccuppurple.com^
 ||lovely-sing.pro^
 ||lovelybingo.com^
@@ -19773,6 +19784,7 @@
 ||ngjgnidajyls.xyz^
 ||nglestpeoplesho.com^
 ||nglmedia.com^
+||ngplansforourco.com^
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
 ||ngvcalslfbmtcjq.xyz^
@@ -21933,6 +21945,7 @@
 ||pihmvhv.com^
 ||pihu.xxxpornhd.pro^
 ||pihzhhn.com^
+||piiqrmvymwue.world^
 ||pilapilkelps.shop^
 ||pilaryhurrah.com^
 ||piledannouncing.com^
@@ -23091,6 +23104,7 @@
 ||puqvwadzaa.com^
 ||puranasebriose.top^
 ||puranaszaramo.com^
+||purchase-shop.com^
 ||purchaserdisgustingwrestle.com^
 ||purchasertormentscoundrel.com^
 ||purgeregulation.com^
@@ -25590,6 +25604,7 @@
 ||shopliftingrung.com^
 ||shopmonthtravel.com^
 ||shoppinglifestyle.biz^
+||shopsonnies.top^
 ||shorantonto.com^
 ||shoresmmrnews.com^
 ||shortagefollows.com^
@@ -27866,6 +27881,7 @@
 ||tocontraceptive.com^
 ||toddlecausebeeper.com^
 ||toddlespecialnegotiate.com^
+||todlht-xnm.rocks^
 ||toeapesob.com^
 ||toenailannouncehardworking.com^
 ||toffeeallergythrill.com^
@@ -27972,6 +27988,7 @@
 ||toquetbircher.com^
 ||torchtrifling.com^
 ||toreddorize.com^
+||torekareau.com^
 ||torgadroukr.com^
 ||torhydona.com^
 ||torioluor.com^
@@ -28651,6 +28668,7 @@
 ||uksjogersamyre.com^
 ||ukskxmh.com^
 ||uksofthecomp.com^
+||ukuleqasforsale.com^
 ||ukzoweq.com^
 ||ulaiwhiw.xyz^
 ||ulathana.com^
@@ -29158,6 +29176,7 @@
 ||vanirausones.shop^
 ||vanishedentrails.com^
 ||vanishedpatriot.com^
+||vannaxacqpm.com^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vapourfertile.com^
@@ -29314,6 +29333,7 @@
 ||vespymedia.com^
 ||vessoupy.com^
 ||vestigeencumber.com^
+||vestrydual.top^
 ||vesuvinaqueity.top^
 ||vetchesthiever.com^
 ||vetoembrace.com^
@@ -29399,6 +29419,7 @@
 ||viewsoz.com^
 ||viewyentreat.guru^
 ||vigilantprinciple.pro^
+||vigorneptune.com^
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
@@ -30657,6 +30678,7 @@
 ||wyvlljvbbjvvm.top^
 ||wywkwqqvbvyvr.top^
 ||wzcuinglezyz.one^
+||wzijtuxzut.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
 ||wzxty168.com^
@@ -33046,6 +33068,10 @@
 !
 !
 !
+||mktp-base.mktplatforms.com^
+||f-tra.com^
+||event.dfinery.io^
+||polaranalytics.com^
 ||wsknow.net^
 ||api.taggrs.io^
 ||obseu.netgreencolumn.com^
@@ -33059,7 +33085,6 @@
 ||pabidding.io^
 ||danatrak.com^
 ||optiyield.opti-digital.com^
-||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -36878,6 +36903,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||apmplus.ap-southeast-1.volces.com^
 ||pixels.argusplatform.com^
 ||egg.afisha.ru^
 ||tracking-app.diginetica.net^
@@ -40787,7 +40813,6 @@ inapps.appsflyersdk.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
-||analytics.pinterest.com^
 ||analytics.plasmic.app^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -41873,7 +41898,6 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||collector.t-idr.com^
-||log.f-tra.com^
 ||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
