@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-01-30T00:00:14.676Z
+! Last modified: 2025-01-31T00:00:13.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3964,6 +3964,7 @@
 ||56bfc388bf12.com^
 ||56ovido.site^
 ||56rt2692.de^
+||5707f9766c.com^
 ||574ae48fe5.com^
 ||578d72001a.com^
 ||57d38e3023.com^
@@ -4270,6 +4271,7 @@
 ||aabtestsproxydomain.top^
 ||aagm.link^
 ||aagmmrktriz.vip^
+||aajjfemnw.com^
 ||aarghclothy.com^
 ||aarswtcnoz.com^
 ||aawdlvr.com^
@@ -5701,6 +5703,7 @@
 ||amusementrehearseevil.com^
 ||amusementstepfatherpretence.com^
 ||amyfixesfelicity.com^
+||amylo.site^
 ||amzargfaht.com^
 ||amzbtuolwp.com^
 ||anacampaign.com^
@@ -5969,6 +5972,7 @@
 ||arabicpostboy.shop^
 ||arabinprotoma.com^
 ||araifourabsa.net^
+||arakcdn.com^
 ||aralego.com^
 ||aralomomolachan.com^
 ||araneidboruca.com^
@@ -6015,6 +6019,7 @@
 ||ariotgribble.com^
 ||aristianewr.club^
 ||arithpouted.com^
+||arjokas.com^
 ||arkdcz.com^
 ||arketingefifortw.com^
 ||arkfacialdaybreak.com^
@@ -9884,6 +9889,7 @@
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
 ||ctasnet.com^
+||cteakmwtivr.com^
 ||ctengine.io^
 ||cteripre.com^
 ||ctiotjobkfu.com^
@@ -10263,6 +10269,7 @@
 ||dddashasledopyt.com^
 ||dddashasledopyt.xyz^
 ||dddomainccc.com^
+||ddijapp.com^
 ||ddkf.xyz^
 ||ddndbjuseqi.com^
 ||ddrsemxv.com^
@@ -10658,6 +10665,7 @@
 ||dictatorsanguine.com^
 ||dictumstortil.com^
 ||didspack.com^
+||dieadi.com^
 ||diedpractitionerplug.com^
 ||diedstubbornforge.com^
 ||diench.com^
@@ -11357,6 +11365,7 @@
 ||dupy-hsjctyn.icu^
 ||durableordinarilyadministrator.com^
 ||durantconvey.com^
+||duringherenurew.com^
 ||durith.com^
 ||duskinglocus.com^
 ||dust-0001.delorazahnow.workers.dev^
@@ -12704,6 +12713,7 @@
 ||fenixm.com^
 ||fenloxstream.wiki^
 ||fennecsenlard.shop^
+||fenoofaussut.net^
 ||fer2oxheou4nd.com^
 ||feralopponentplum.com^
 ||ferelatedmothes.com^
@@ -15317,6 +15327,7 @@
 ||hosieryplum.com^
 ||hosierypressed.com^
 ||hospitalsky.online^
+||hostadsmarkets.com^
 ||hostave.net^
 ||hostave4.net^
 ||hostingcloud.racing^
@@ -16384,6 +16395,7 @@
 ||izoaghiwoft.net^
 ||izrnvo.com^
 ||izumoukraumsew.net^
+||j-mxponyz.love^
 ||j45.webringporn.com^
 ||j6mn99mr0m2n.com^
 ||j6rudlybdy.com^
@@ -16450,6 +16462,7 @@
 ||jaudoleewe.xyz^
 ||jaumevie.com^
 ||jauntycrystal.com^
+||jauntyit.com^
 ||jaupaptaifoaw.net^
 ||jauphauzee.net^
 ||jaupozup.xyz^
@@ -16527,6 +16540,7 @@
 ||jehobsee.com^
 ||jeinugsnkwe.xyz^
 ||jekesjzv.com^
+||jekkfqndxe.com^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
 ||jellyprehistoricpersevere.com^
@@ -18134,6 +18148,7 @@
 ||lptrck.com^
 ||lptyuosfcv.com^
 ||lpuafmkidvm.com^
+||lqbvjmkoomerm.top^
 ||lqbzuny.com^
 ||lqcaznzllnrfh.com^
 ||lqcdn.com^
@@ -18494,6 +18509,7 @@
 ||manoirshrine.com^
 ||manompas.com^
 ||manorfunctions.com^
+||manrec.cc^
 ||manrootarbota.com^
 ||mansfieldspurtvan.com^
 ||manslaughterhallucinateenjoyment.com^
@@ -19614,6 +19630,7 @@
 ||namol.xyz^
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
+||nanai-clw.com^
 ||nanakotrilith.com^
 ||nanborderrocket.com^
 ||nancontrast.com^
@@ -21805,6 +21822,7 @@
 ||perennialmythcooper.com^
 ||perennialsecondly.com^
 ||perfb.com^
+||perfect-interest.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
 ||perfectmarket.com^
@@ -22281,6 +22299,7 @@
 ||plumbfullybeehive.com^
 ||plumbsplash.com^
 ||plummychewer.com^
+||plumousfouldre.shop^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -22889,6 +22908,7 @@
 ||prosecutorkettle.com^
 ||prosedisavow.com^
 ||proselyaltars.com^
+||prospectsirresistible.com^
 ||prosperent.com^
 ||prosperitysemiimpediment.com^
 ||prosperousdreary.com^
@@ -24561,6 +24581,7 @@
 ||rjeruqs.com^
 ||rjlkibvwgxiduq.com^
 ||rjowzlkaz.today^
+||rjvmxdhfmyvsuy.com^
 ||rjw4obbw.com^
 ||rkapghq.com^
 ||rkatamonju.info^
@@ -25235,6 +25256,7 @@
 ||scholarsgrewsage.com^
 ||scholarsslate.com^
 ||schoolboyfingernail.com^
+||schoolhangoverearlier.com^
 ||schoolmasterconveyedladies.com^
 ||schoolnotwithstandingconfinement.com^
 ||schoolunmoved.com^
@@ -25727,6 +25749,7 @@
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shodaisy.com^
+||shoeinggrimy.top^
 ||shoessaucepaninvoke.com^
 ||sholke.com^
 ||sholraidsoalro.net^
@@ -26006,6 +26029,7 @@
 ||skylindo.com^
 ||skymobi.agency^
 ||skyscraperearnings.com^
+||skyscrapertowel.com^
 ||skytraf.xyz^
 ||skyxqbbv.xyz^
 ||slabreasonablyportions.com^
@@ -26368,6 +26392,7 @@
 ||spadeandloft.com^
 ||spaderonium.com^
 ||spadsync.com^
+||spamimpunity.com^
 ||spankalternate.com^
 ||spannercopyright.com^
 ||sparkle-industries-i-205.site^
@@ -27810,6 +27835,7 @@
 ||tholor.com^
 ||thomasalthoughhear.com^
 ||thomasbarlowpro.com^
+||thomasmonks.com^
 ||thongrooklikelihood.com^
 ||thongtechnicality.com^
 ||thoocheegee.xyz^
@@ -27818,6 +27844,7 @@
 ||thoorest.com^
 ||thoorgins.com^
 ||thoorteeboo.xyz^
+||thoosatheedo.net^
 ||thootsoumsoa.com^
 ||thordoodovoo.net^
 ||thornfloatingbazaar.com^
@@ -27872,6 +27899,7 @@
 ||thumpssleys.com^
 ||thunderdepthsforger.top^
 ||thunderhead.com^
+||thuoccultive.com^
 ||thuphedsaup.com^
 ||thupsirsifte.xyz^
 ||thurnflfant.com^
@@ -30178,6 +30206,7 @@
 ||weightfeathersoffhand.com^
 ||weinas.co.in^
 ||weird-lab.pro^
+||weird-speed.pro^
 ||weirddistribution.pro^
 ||wejeestuze.net^
 ||wel-wel-fie.com^
@@ -31086,6 +31115,7 @@
 ||yardr.net^
 ||yarlnk.com^
 ||yarningbursal.com^
+||yasesumedadele.com^
 ||yashi.com^
 ||yauperstote.top^
 ||yauponbotone.com^
@@ -33247,6 +33277,7 @@
 !
 !
 !
+||bicp-analytics.postscript.io^
 ||plausible.flamekiller.org^
 ||mktp-base.mktplatforms.com^
 ||f-tra.com^
@@ -37083,6 +37114,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||eventcollector.mcf-prod.a.intuit.com^
 ||fnl.quizizz.com^
 ||jg7y.quizlet.com^
 ||apmplus.ap-southeast-1.volces.com^
@@ -39793,6 +39825,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.qoqa.com^
 !
 ! Appsflyer
+-skadsdkless.appsflyersdk.com^
 -adrevenue.appsflyersdk.com^
 -attr.appsflyersdk.com^
 register.appsflyersdk.com^
@@ -39864,7 +39897,6 @@ inapps.appsflyersdk.com^
 ||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
-||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
 ||ye.dun.163yun.com^
@@ -41207,7 +41239,6 @@ inapps.appsflyersdk.com^
 ||event-api.rdstation.com.br^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
-||eventcollector.mcf-prod.a.intuit.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||events-endpoint.pointandplace.com^
