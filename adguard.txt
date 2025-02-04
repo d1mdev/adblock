@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-02-03T00:00:10.860Z
+! Last modified: 2025-02-04T00:00:11.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3862,6 +3862,7 @@
 ||3cg6sa78w.com^
 ||3d5affba28.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
+||3e0605983a.com^
 ||3e1898dbbe.com^
 ||3e6072834f.com^
 ||3ead4fd497.com^
@@ -5115,6 +5116,7 @@
 ||affectdeveloper.com^
 ||affectincentiveyelp.com^
 ||affectionatelypart.com^
+||affectionatereply.pro^
 ||affectionavenue.site^
 ||affelseaeinera.org^
 ||affflow.com^
@@ -5556,6 +5558,7 @@
 ||allureencourage.com^
 ||allureoutlayterrific.com^
 ||allusionfussintervention.com^
+||alluviopurreic.com^
 ||allworkovergot.com^
 ||allyes.com^
 ||allyprimroseidol.com^
@@ -9775,6 +9778,7 @@
 ||crawlcoxed.com^
 ||crawledlikely.com^
 ||crawlerjamie.shop^
+||crawlinglandnameless.com^
 ||crayonreareddreamt.com^
 ||crazefiles.com^
 ||crazesmalto.com^
@@ -10055,6 +10059,7 @@
 ||d08l9a634.com^
 ||d0main.ru^
 ||d15a035f27.com^
+||d170971757.com^
 ||d19a04d0igndnt.cloudfront.net^
 ||d1a0c6affa.com^
 ||d1f76eb5a4.com^
@@ -10085,6 +10090,7 @@
 ||d78eee025b.com^
 ||d7c6491da0.com^
 ||d8c04a25e8.com^
+||d95bda138b.com^
 ||d9db994995.com^
 ||d9fb2cc166.com^
 ||da-ads.com^
@@ -16012,6 +16018,7 @@
 ||initiallycoffee.com^
 ||initiallycompetitionunderwear.com^
 ||initiateadvancedhighlyinfo-program.info^
+||initiategunpowder.com^
 ||injcxwircl.com^
 ||injectreunionshorter.com^
 ||injuredjazz.com^
@@ -16058,6 +16065,7 @@
 ||inscribereclaim.com^
 ||inscriptiontinkledecrepit.com^
 ||insectearly.com^
+||insecure-motor.pro^
 ||insecurepaint.pro^
 ||insecurepainting.pro^
 ||insecuritydisproveballoon.com^
@@ -16399,6 +16407,7 @@
 ||iwmavidtg.com^
 ||iwouhoft.com^
 ||iwovfiidszrk.tech^
+||iwrxsrjl.com^
 ||iwuh.org^
 ||iwwznvvqzwqw.com^
 ||iwyrldaeiyv.com^
@@ -16804,6 +16813,7 @@
 ||js2json.com^
 ||js7k.com^
 ||jsadapi.com^
+||jsbergrle.com^
 ||jscdn.online^
 ||jscloud.org^
 ||jscount.com^
@@ -16892,6 +16902,7 @@
 ||jvcjnmd.com^
 ||jvmhtxiqdfr.xyz^
 ||jwalf.com^
+||jwalkin.com^
 ||jwamnd.com^
 ||jwia0.top^
 ||jwympcc.com^
@@ -19461,6 +19472,7 @@
 ||muddiedbubales.com^
 ||muddyharold.com^
 ||muddyquote.pro^
+||mudrouraung.net^
 ||muendakutyfore.info^
 ||mufflercypress.com^
 ||mufflerlightsgroups.com^
@@ -20077,6 +20089,7 @@
 ||nofashot.com^
 ||nofidroa.xyz^
 ||nognoongut.com^
+||nohcutlips.com^
 ||nohezu.xyz^
 ||nohowsankhya.com^
 ||noiselessvegetables.com^
@@ -21075,6 +21088,7 @@
 ||oqpahlskaqal.com^
 ||oqsttfy.com^
 ||oquftwsabsep.xyz^
+||oqxogfazdz.com^
 ||oqyictvedqfhhd.com^
 ||oraefleers.top^
 ||oraheadyguinner.org^
@@ -24484,6 +24498,7 @@
 ||rewakenreaware.top^
 ||rewardjav128.fun^
 ||rewardsaffiliates.com^
+||rewarmsmorella.com^
 ||rewearoutwale.shop^
 ||rewindgills.com^
 ||rewindgranulatedspatter.com^
@@ -24640,6 +24655,7 @@
 ||rjw4obbw.com^
 ||rkapghq.com^
 ||rkatamonju.info^
+||rkbqtnqfudt.com^
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rknwwtg.com^
@@ -25052,6 +25068,7 @@
 ||rzgiyhpbit.com^
 ||rzneekilff.com^
 ||rzuokcobzru.com^
+||rzxosmhvruyye.com^
 ||rzyosrlajku.com^
 ||rzzhrbbnghoue.com^
 ||rzzlhfx.com^
@@ -27573,6 +27590,7 @@
 ||teapotripencorridor.com^
 ||teapotsobbing.com^
 ||tearingsinnerprinciples.com^
+||tearoomzebus.top^
 ||tearsskin.cfd^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
@@ -28598,6 +28616,7 @@
 ||trusting-produce.com^
 ||trusting-secret.pro^
 ||trustmaxonline.com^
+||trustvarietywee.com^
 ||trustworthyturnstileboyfriend.com^
 ||trusty-research.com^
 ||trustyable.com^
@@ -28639,6 +28658,7 @@
 ||ttributoraheadyg.org^
 ||ttwmed.com^
 ||ttzmedia.com^
+||tuavzlpzhxs.com^
 ||tubberlo.com^
 ||tubbyconversation.pro^
 ||tubeadvisor.com^
@@ -29425,6 +29445,7 @@
 ||valvyre.com^
 ||vampedcortine.com^
 ||vampingrichest.shop^
+||vamqt.vip^
 ||vamsoupowoa.com^
 ||vandalismblackboard.com^
 ||vandalismundermineshock.com^
@@ -29541,7 +29562,6 @@
 ||veincartrigeforceful.com^
 ||veinourdreams.com^
 ||vekseptaufin.com^
-||velloxfire.pro^
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velocitypaperwork.com^
@@ -29631,6 +29651,7 @@
 ||vhdbohe.com^
 ||vhducnso.com^
 ||vheoggjiqaz.com^
+||vhevbyox.com^
 ||vhkgzudn.com^
 ||vhngny-cfwm.life^
 ||vi-serve.com^
@@ -31234,6 +31255,7 @@
 ||yellowblue.io^
 ||yellowish-yesterday.pro^
 ||yellowishmixture.pro^
+||yellowprotection.com^
 ||yellsurpass.com^
 ||yequiremuke.com^
 ||yernbiconic.com^
@@ -31316,6 +31338,7 @@
 ||yncvbqh.com^
 ||yneaimn.com^
 ||ynfhnbjsl.xyz^
+||yngqqqrrghms.com^
 ||ynhmwyt.com^
 ||ynklendr.online^
 ||ynonymlxtqisyka.xyz^
@@ -33359,6 +33382,11 @@
 !
 !
 !
+||geotags.refinery89.com^
+||logg9r.io^
+||api.statsig.com^
+||beyondwickedmapping.org^
+||featureassets.org^
 ||gw.conversionsapigateway.com^
 ||bicp-analytics.postscript.io^
 ||plausible.flamekiller.org^
@@ -37197,6 +37225,15 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mon-*.lemon8-app.com^
+||mon-*.lemon8-app.us^
+||mcs-*.lemon8-app.com^
+||mcs-*.lemon8-app.us^
+||mssdk.tiktokw.us^
+||gc.newsweek.com^
+||events.onet.pl^
+||utiq.actu.fr^
+||apollo.miniclip.com^
 ||mega.mydealz.de^
 ||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
@@ -37798,10 +37835,12 @@
 ||a.brack.ch^
 ||go.bidfluence.com^
 ||stracker.rmg.ru^
-||mcs-sg.tiktok.com^
+||mcs-*.tiktok.com^
 ||mssdk.bytedance.com^
-||mssdk-sg.tiktok.com^
-||mssdk-*.tiktokw.us^
+||mssdk*.tiktokv.eu^
+||mssdk*.tiktokv.us^
+||mssdk*.tiktok.com^
+||mssdk*.tiktokw.us^
 ||mssdk-sg.byteoversea.com^
 ||tracker.smartseminar.jp^
 ||tracker.shanon-services.com^
@@ -39982,6 +40021,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||jpush.io^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
@@ -41991,7 +42031,6 @@ inapps.appsflyersdk.com^
 ||data.econa.com^
 ||data.kameleoon.io^
 ||et.twyn.com^
-||events.onet.pl^
 ||fd.bawag.at^
 ||geo.mtvnn.com^
 ||info.elba.at^
@@ -42699,9 +42738,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Feb 2025 23:26 UTC+7
-! Version: 2502012326
-! Blocked: 891 rules
+! Last modified: 03 Feb 2025 15:54 UTC+7
+! Version: 2502031554
+! Blocked: 873 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42716,7 +42755,6 @@ vkcdnservice.appspot.com^
 ||adfly.vn^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
-||adnetwork.vn^
 ||adop.asia^
 ||adp.vnecdn.net^
 ||adpia.vn^
@@ -42793,7 +42831,6 @@ vkcdnservice.appspot.com^
 ||chatbox-static.botbanhang.vn^
 ||chatbox-tracking.botbanhang.vn^
 ||chatbox-widget.botbanhang.vn^
-||cheap-ads.net^
 ||cityadstrack.com^
 ||clevernet.vn^
 ||cococx.com^
@@ -42815,7 +42852,6 @@ vkcdnservice.appspot.com^
 ||ff.imacdn.com^
 ||fly-ads.net^
 ||flygame.io^
-||gammadsp.com^
 ||gammassp.com^
 ||genmonet.com^
 ||google-ads.hara.vn^
@@ -42862,12 +42898,10 @@ vkcdnservice.appspot.com^
 ||m.zedcdn.me^
 ||matomo.*.vn^
 ||mautic.*.vn^
-||mautic.hubs.vn^
 ||mclick.mobi^
 ||mda.zadn.vn^
 ||me.zedcdn.me^
 ||media-ads.zaloapp.com^
-||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
 ||mediazcorp.com^
@@ -42902,9 +42936,7 @@ vkcdnservice.appspot.com^
 ||phanquang.vn^
 ||philacct.com^
 ||photo-ads.zaloapp.com^
-||piads.vn^
 ||pinetech.vn^
-||piwik.*.com.vn^
 ||piwik.*.vn^
 ||pixel.coccoc.com^
 ||popup.sapoapps.vn^
@@ -42933,16 +42965,12 @@ vkcdnservice.appspot.com^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||service.adlinknetwork.vn^
-||serving-system.com^
 ||sharefb.cnnd.vn^
 ||shop-cdn.coccoc.com^
 ||slimads.vn^
-||smartadnetwork.net^
-||smartconvert.co^
 ||socialloginplus-apps.haravan.com^
 ||sourcetobin.com^
 ||sponsor.imacdn.com^
-||sporttv.today^
 ||starseed.fr^
 ||stat.play.zing.vn^
 ||static-addtoany-com.cdn.ampproject.org^
@@ -42958,7 +42986,6 @@ vkcdnservice.appspot.com^
 ||stc-support-app-brand.zdn.vn^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
-||t.sieu-viet.com^
 ||tebrand.asia^
 ||tebrand.vn^
 ||tech.zapps.me^
@@ -42993,12 +43020,9 @@ vkcdnservice.appspot.com^
 ||vda.viettel.vn^
 ||vdacdn1.viettel.vn^
 ||vdacdn2.viettel.vn^
-||viam.com.vn^
 ||vietnamnetad.vn^
 ||vipads.cc^
-||viraads.com^
 ||vnn-tracking.vnncdn.net^
-||vnnayngaytin.vn^
 ||wataads.com^
 ||watanet.work^
 ||wg.zaloapp.com^
@@ -43010,7 +43034,6 @@ vkcdnservice.appspot.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
 ||yeah1publishing.com^
-||yoads.network^
 ||yomedia.vn^
 ||younetmedia.com^
 ||za.zapps.vn^
@@ -43157,7 +43180,6 @@ vkcdnservice.appspot.com^
 ||aff2.linksht.online^
 ||affiliate.chiaki.vn^
 ||affiliate.k4.tinhte.vn^
-||aj2393.online^
 ||ak9.6895588.com^
 ||alexajstrack.com^
 ||an.dongphim.net^
@@ -43338,7 +43360,6 @@ vkcdnservice.appspot.com^
 ||log.vneconomy.vn^
 ||log.vnfinance.vn^
 ||log.vov.vn^
-||log.vovplus.vn^
 ||log.vovworld.vn^
 ||log.xoso.com.vn^
 ||log.zamba.vn^
