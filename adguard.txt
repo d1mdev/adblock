@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-02-05T00:00:12.959Z
+! Last modified: 2025-02-06T00:00:11.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2678,6 +2678,13 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||api.youngle.tech^
+||api.myadsget.com^
+||api.sve.cc^
+||adx-sg-req.bridgeoos.com^
+||adx-os.bridgeoos.com^
+||api.kickoffo.site^
+||api.bridgeoos.com^
 ||r0.mail.ru^
 ||r0.mradx.net^
 ||serveraddr.service.kugou.com^
@@ -3916,6 +3923,7 @@
 ||46f4vjo86.com^
 ||47c8d48301.com^
 ||485f197673.com^
+||487ed86ea3.com^
 ||4885e2e6f7.com^
 ||49b6b77e56.com^
 ||49d4db4864.com^
@@ -4551,7 +4559,6 @@
 ||ad-m.asia^
 ||ad-mapps.com^
 ||ad-maven.com^
-||ad-nex.com^
 ||ad-recommend.com^
 ||ad-score.com^
 ||ad-server.co.za^
@@ -6126,6 +6133,7 @@
 ||asdkfefanvt.com^
 ||asdpoi.com^
 ||asecv.xyz^
+||asensoithecb.com^
 ||asespeonom.com^
 ||asewlfjqwlflkew.com^
 ||asf4f.us^
@@ -7127,6 +7135,7 @@
 ||benignitydesirespring.com^
 ||benignityprophet.com^
 ||benignitywoofovercoat.com^
+||beniluuxen.com^
 ||benonblkd.xyz^
 ||benoopto.com^
 ||bensonshowd.com^
@@ -7424,6 +7433,7 @@
 ||bjjkuoxidr.xyz^
 ||bjqug.xyz^
 ||bjxiangcao.com^
+||bk-xctgdnf.life^
 ||bkirfeu.com^
 ||bkjhqkohal.com^
 ||bklhnlv.com^
@@ -15553,6 +15563,7 @@
 ||huzzahscurl.top^
 ||hvkwmvpxvjo.xyz
 ||hvooyieoei.com^
+||hvwqgedwpckc.com^
 ||hwderdk.com^
 ||hwhqbjhrqekbvh.com^
 ||hwof.info^
@@ -15928,6 +15939,7 @@
 ||inconsequential-working.com^
 ||inconsistencygasdifficult.com^
 ||inconveniencemimic.com^
+||incorddrag.com^
 ||incorphishor.com^
 ||increaseplanneddoubtful.com^
 ||increaseprincipal.com^
@@ -16283,6 +16295,7 @@
 ||iredirect.net^
 ||iresandal.info^
 ||irhpzbrnoyf.com^
+||iringtgandmotiv.com^
 ||irisaffectioneducate.com^
 ||irishormone.com^
 ||irisunitepleased.com^
@@ -16921,6 +16934,7 @@
 ||jwympcc.com^
 ||jxldpjxcp.com^
 ||jxlxeeo.com^
+||jxmtttqb.com^
 ||jxxnnhdgbfo.xyz^
 ||jxybgyu.com^
 ||jybaekajjmqrz.top^
@@ -17030,6 +17044,7 @@
 ||kczu-ohhuf.site^
 ||kdlktswsqhpd.com^
 ||kdmjvnk.com^
+||kdmyatytentionia.com^
 ||keajs.com^
 ||keboorsootch.net^
 ||kedasensiblem.info^
@@ -18266,6 +18281,7 @@
 ||lukeaccesspopped.com^
 ||lukeexposure.com^
 ||lukpush.com^
+||lukyday.xyz^
 ||lumaktoys.com^
 ||lumberperpetual.com^
 ||luminosoocchio.com^
@@ -20951,6 +20967,7 @@
 ||onstunkyr.com^
 ||ontj.com^
 ||ontosocietyweary.com^
+||ontrklnk.com^
 ||onverforrinho.com^
 ||onvictinitor.com^
 ||onwasrv.com^
@@ -21353,6 +21370,7 @@
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
+||ouveedaiz.net^
 ||ouvertrenewed.com^
 ||ouvrefth.shop^
 ||ouweessougleji.net^
@@ -22945,6 +22963,7 @@
 ||projectagoratech.com^
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
+||projekt678.de^
 ||prolatecyclus.com^
 ||proleclips.com^
 ||prologuerussialavender.com^
@@ -25608,6 +25627,7 @@
 ||sermonoccupied.com^
 ||serpentinelay.pro^
 ||serpentreplica.com^
+||sertingglucid.com^
 ||serv-selectmedia.com^
 ||serv01001.xyz^
 ||serv1for.pro^
@@ -26604,6 +26624,7 @@
 ||spooksuspicions.com^
 ||spoonpenitenceadventurous.com^
 ||sporedshock.com^
+||sporranawaked.shop^
 ||sport205.club^
 ||sportevents.news^
 ||sportradarserving.com^
@@ -30029,6 +30050,7 @@
 ||vuvcroguwtuk.com^
 ||vv8h9vyjgnst.com^
 ||vvehvch.com^
+||vvojuhtktpmwg.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
 ||vvvvdbrrt.com^
@@ -30631,6 +30653,7 @@
 ||winterolivia.com^
 ||wintjaywolf.org^
 ||wintrck.com^
+||winzessolicit.com^
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
 ||wipepeepcyclist.com^
@@ -31921,6 +31944,7 @@
 ||4cinsights.com^
 ||4dsply.com^
 ||888media.net^
+||99ads.net^
 ||9desires.xyz^
 ||a-static.com^
 ||a.raasnet.com^
@@ -31934,6 +31958,7 @@
 ||activedancer.com^
 ||ad-adapex.io^
 ||ad-mixr.com^
+||ad-nex.com^
 ||ad-tech.ru^
 ||ad.plus^
 ||ad.style^
@@ -33400,6 +33425,9 @@
 !
 !
 !
+||applicationinsights.azure.com^
+||analytics.sve.cc^
+||api.taboola.sve.cc^
 ||identitypxl.app^
 ||identitypxl.com^
 ||geotags.refinery89.com^
@@ -37245,6 +37273,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||fourier.aliexpress.com^
+||sofire.1024tera.com^
+||ad-events.flashtalking.com^
 ||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
@@ -41228,6 +41259,7 @@ inapps.appsflyersdk.com^
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
+||b.trueanthem.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||barium.cheezdev.com^
 ||bat.bing.net^
@@ -42760,8 +42792,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Feb 2025 15:54 UTC+7
-! Version: 2502031554
+! Last modified: 05 Feb 2025 09:33 UTC+7
+! Version: 2502050933
 ! Blocked: 873 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
