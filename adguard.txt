@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-02-06T00:00:11.760Z
+! Last modified: 2025-02-07T00:00:12.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6768,6 +6768,7 @@
 ||baileybenedictionphony.com^
 ||bailihaiw.com^
 ||bailorunwaged.com^
+||bainitesurge.com^
 ||bainushe.com^
 ||baipahanoop.net^
 ||baiphefim.com^
@@ -7034,6 +7035,7 @@
 ||beestuneglon.com^
 ||beetrootshady.com^
 ||beetrootsquirtexamples.com^
+||beetsswimmer.com^
 ||beevakum.net^
 ||beevalt.com^
 ||beewhoapuglih.net^
@@ -7118,6 +7120,7 @@
 ||bemobtrk.com^
 ||bemocksmunched.com^
 ||bemolintrans.shop^
+||bemoultmodder.com^
 ||bemsongy.com^
 ||benced.com^
 ||benchdropscommerce.com^
@@ -8127,6 +8130,7 @@
 ||busychopdenounce.com^
 ||butcherhashexistence.com^
 ||buticiodized.shop^
+||butoxylhewhall.com^
 ||butterflypronounceditch.com^
 ||butterflyunkindpractitioner.com^
 ||buttersource.com^
@@ -10091,10 +10095,12 @@
 ||d2kecuadujf2df.cloudfront.net^
 ||d2ship.com^
 ||d2tc1zttji8e3a.cloudfront.net^
+||d300jm499woj5o.cloudfront.net^
 ||d37914770f.com^
 ||d3c.life^
 ||d3c.site^
 ||d3edbb478c.com^
+||d3sdfpysdncs72.cloudfront.net^
 ||d3u0wd7ppfhcxv.cloudfront.net^
 ||d43849fz.xyz^
 ||d44501d9f7.com^
@@ -10695,6 +10701,7 @@
 ||dialoguemarvellouswound.com^
 ||dialogueshipwreck.com^
 ||diametersunglassesbranch.com^
+||diamondmorris.com^
 ||dianilinfant.top^
 ||dianomioffers.co.uk^
 ||dibbuksnoonlit.shop^
@@ -11293,6 +11300,7 @@
 ||drleez.xyz^
 ||dromoicassida.com^
 ||dronediscussed.com^
+||dronelsweeter.com^
 ||dronetmango.com^
 ||droopingfur.com^
 ||dropdoneraining.com^
@@ -12029,6 +12037,7 @@
 ||entreatyfungusgaily.com^
 ||entrecard.s3.amazonaws.com^
 ||entterto.com^
+||entwisttajik.com^
 ||enueduringhere.info^
 ||envious-low.com^
 ||enviousforegroundboldly.com^
@@ -12725,6 +12734,7 @@
 ||feedfinder23.info^
 ||feedingminder.com^
 ||feedisbeliefheadmaster.com^
+||feedmanecole.com^
 ||feedyourheadmag.com^
 ||feedyourtralala.com^
 ||feefoamo.net^
@@ -14557,6 +14567,7 @@
 ||growngame.life^
 ||grownupsufferinginward.com^
 ||growthbuddy.app^
+||growthwewenoc.com^
 ||grphfzutw.xyz^
 ||grpvyrybbqhob.com^
 ||grsm.io^
@@ -15745,6 +15756,7 @@
 ||ikahnruntx.com^
 ||ikcaru.com^
 ||ikengoti.com^
+||ikonmeros.com^
 ||ikouthaupi.com^
 ||ikspoopfp.com^
 ||ikssllnhrb.com^
@@ -15795,6 +15807,7 @@
 ||imaginaryspooky.com^
 ||imagingkneelankiness.com^
 ||imagoluchuan.com^
+||imamateunbain.com^
 ||imamictra.com^
 ||imathematica.org^
 ||imatrk.net^
@@ -17450,6 +17463,7 @@
 ||lacecompressarena.com^
 ||laceratehard.com^
 ||lacerateinventorwaspish.com^
+||laciestsculped.shop^
 ||lackawopsik.xyz^
 ||lacklesslacklesscringe.com^
 ||lacmoudoossaiss.net^
@@ -17701,6 +17715,7 @@
 ||leggymomme.top^
 ||leghairy.net^
 ||legiblyosmols.top^
+||legischarca.com^
 ||legiswoollen.shop^
 ||legitimatelubricant.com^
 ||legitimatemess.pro^
@@ -18959,6 +18974,7 @@
 ||mevarabon.com^
 ||mewgzllnsp.com^
 ||mexicantransmission.com^
+||mezzounmerge.shop^
 ||mfceqvxjdownjm.xyz^
 ||mfcewkrob.com^
 ||mfg8.space^
@@ -21863,6 +21879,7 @@
 ||peewhouheeku.net^
 ||pegloang.com^
 ||pehgoloe.click^
+||peiningkasm.com^
 ||peisantcorneas.com^
 ||pejzeexukxo.com^
 ||pekansrefait.shop^
@@ -22029,6 +22046,7 @@
 ||pgssl.com^
 ||phabycebe.com^
 ||phadsophoogh.net^
+||phahifoobsie.net^
 ||phaibimoa.xyz^
 ||phaidaimpee.xyz^
 ||phaighoosie.com^
@@ -23858,6 +23876,7 @@
 ||rafikfangas.com^
 ||ragapa.com^
 ||rageagainstthesoap.com^
+||rageryscarfer.com^
 ||raglassofrum.cc^
 ||ragofkanc.com^
 ||ragsbxhchr.xyz^
@@ -26473,6 +26492,7 @@
 ||soumoastout.net^
 ||soundingdisastereldest.com^
 ||soundingthunder.com^
+||soupilique.xyz^
 ||souptightswarfare.com^
 ||soupy-user.com^
 ||souraivo.xyz^
@@ -27156,6 +27176,7 @@
 ||sudroockols.xyz^
 ||sudukrirga.net^
 ||sudvclh.com^
+||suersstaun.com^
 ||suesuspiciousin.com^
 ||suffarilbf.com^
 ||sufferingtail.com^
@@ -27498,6 +27519,7 @@
 ||takiparkrb.site^
 ||talabsorbs.shop^
 ||talaobsf.shop^
+||talarigaonic.com^
 ||talcingartarin.shop^
 ||talckyslodder.top^
 ||talcoidsakis.com^
@@ -28619,6 +28641,7 @@
 ||trololopush2023push.com^
 ||trombocrack.com^
 ||tronads.io^
+||tronascodrus.com^
 ||troopsassistedstupidity.com^
 ||troopseruptionfootage.com^
 ||tropbikewall.art^
@@ -29110,6 +29133,7 @@
 ||unfortunatelydroopinglying.com^
 ||unfortunatelyprayers.com^
 ||unfriendlysalivasummoned.com^
+||unfulltoag.com^
 ||ungatedsynch.com^
 ||ungiblechan.com^
 ||ungillhenbane.com^
@@ -29204,6 +29228,7 @@
 ||unstoutgolfs.com^
 ||unsuccessfultesttubepeerless.com^
 ||untackreviler.com^
+||untenseleopold.com^
 ||untidyseparatelyintroduce.com^
 ||untiedecide.com^
 ||untilfamilythrone.com^
@@ -31152,6 +31177,7 @@
 ||xoilactv123.gdn^
 ||xoilactvcj.cc^
 ||xolen.xyz^
+||xoqod.sbs^
 ||xovdrxkog.xyz^
 ||xoyrxawri.com^
 ||xpollo.com^
@@ -31672,6 +31698,7 @@
 ||zisboombah.net^
 ||zishezetchadsi.net^
 ||zitaptugo.com^
+||zitbulled.com^
 ||zitchaug.xyz^
 ||zitchuhoove.com^
 ||zivtux.com^
@@ -33978,7 +34005,6 @@
 ||svibeacon.onezapp.com^
 ||signalayer.com^
 ||tags.refinery89.com^
-||statsigapi.net^
 ||cdn.cohesionapps.com^
 ||c212.net^
 ||imp.xmax.jp^
@@ -37273,6 +37299,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||events.statsigapi.net^
 ||fourier.aliexpress.com^
 ||sofire.1024tera.com^
 ||ad-events.flashtalking.com^
@@ -38211,7 +38238,6 @@
 ||stats.seotraff.team^
 ||stats.landingi.com^
 ||trek.powtoon.com^
-||biv.gazeta.pl^
 ||analytics.ngs55.ru^
 ||dgcollector.evidon.com^
 ||stats.video.globo.com^
@@ -42071,6 +42097,7 @@ inapps.appsflyersdk.com^
 ||analytics.media-proweb.de^
 ||analytics.praetor.im^
 ||artemis-cdn.ocdn.eu^
+||b.nativendo.de^
 ||blacktri-a.akamaihd.net^
 ||cgicounter.onlinehome.de^
 ||com.econa.com^
