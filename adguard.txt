@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-05T00:00:10.753Z
+! Last modified: 2025-03-06T00:00:10.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||nanthou.life^
 ||video.agenteimmobiliare.info^
 ||wrapper.bracdn.online^
 ||bolayaros.com^
@@ -3958,6 +3959,7 @@
 ||50368ce0a6.com^
 ||50f0ac5daf.com^
 ||5165c0c080.com^
+||52588314e4.com^
 ||52dvzo62i.com^
 ||536435ba94.com^
 ||53c2dtzsj7t1.top^
@@ -6052,6 +6054,7 @@
 ||aspirationliable.com^
 ||aspirationprogrammecontains.com^
 ||asqconn.com^
+||asrelaterconde.org^
 ||asricewaterhouseo.com^
 ||asrop.xyz^
 ||assailusefullyenemies.com^
@@ -8332,6 +8335,7 @@
 ||cgeckmydirect.biz^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
+||cgqhtithixi.com^
 ||cgtwccqrpbota.global^
 ||cgtwpoayhmqi.online^
 ||chabadokor.com^
@@ -8832,6 +8836,7 @@
 ||cloutlavenderwaitress.com^
 ||clovhmweksy.buzz^
 ||clpeachcod.com^
+||clrmoccyveuh.com^
 ||clrstm.com^
 ||cluethydash.com^
 ||cluewesterndisreputable.com^
@@ -10641,6 +10646,7 @@
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
+||doastaiwhouwouy.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
 ||dockboulevardshoes.com^
@@ -10720,6 +10726,7 @@
 ||doormantdoormantbumpyinvincible.com^
 ||doostaiy.com^
 ||doostozoa.net^
+||dooteewoodi.net^
 ||dopansearor.com^
 ||dope.autos^
 ||dopecurldizzy.com^
@@ -11629,6 +11636,7 @@
 ||epreswsentativ.com^
 ||epsashoofil.net^
 ||epsuphoa.xyz^
+||eptoufeebimeesh.net^
 ||eptougry.net^
 ||epu.sh^
 ||eputysolomon.com^
@@ -12866,6 +12874,7 @@
 ||friendshipposterity.com^
 ||friendsoulscombination.com^
 ||frighten3452.fun^
+||frillyearth.com^
 ||fringecompetenceranger.com^
 ||fringeforkgrade.com^
 ||fringesdurocs.com^
@@ -13226,6 +13235,7 @@
 ||geethaiw.xyz^
 ||geethoap.com^
 ||geewedurisou.net^
+||geghlyrecomemu.com^
 ||geiybze.com^
 ||gejusherstertithap.info^
 ||gekeebsirs.com^
@@ -14513,6 +14523,7 @@
 ||hiddenseet.com^
 ||hidemembershipprofane.com^
 ||hidgfbsitnc.fun^
+||hidgttxnces.com^
 ||hidingenious.com^
 ||hierarchytotal.com^
 ||highconvertingformats.com^
@@ -14835,6 +14846,7 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjbylofyso.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrtennaarn.com^
@@ -16249,6 +16261,7 @@
 ||justrelevant.com^
 ||justservingfiles.net^
 ||jutyledu.pro^
+||juvjimicwbauuw.com^
 ||juzaugleed.com^
 ||juztjtsxbojdj.com^
 ||jvcjnmd.com^
@@ -16949,6 +16962,7 @@
 ||leapretrieval.com^
 ||leaptmagnetvertical.com^
 ||learningcontainscaterpillar.com^
+||learningcontractionpolling.com^
 ||learntinga.com^
 ||leasemiracle.com^
 ||leashextendposh.com^
@@ -18714,6 +18728,7 @@
 ||muddyquote.pro^
 ||mudrouraung.net^
 ||muendakutyfore.info^
+||mufaommef.com^
 ||mufflercypress.com^
 ||mugglesskyfte.com^
 ||mugleafly.com^
@@ -18992,6 +19007,7 @@
 ||nctwoseln.xyz^
 ||ncubadmavfp.com^
 ||ncukankingwith.info^
+||ncvwahrct.com^
 ||ncwabgl.com^
 ||ncz3u7cj2.com^
 ||ndandinter.hair^
@@ -19219,6 +19235,7 @@
 ||nicheevaderesidential.com^
 ||nichools.com^
 ||nickdeliverfugitive.com^
+||nickdotarie.shop^
 ||nickeleavesdropping.com^
 ||nickelphantomability.com^
 ||nicknameuntie.com^
@@ -20118,6 +20135,7 @@
 ||onvictinitor.com^
 ||onwasrv.com^
 ||onxokvvevwop.xyz^
+||onykekwbyyita.com^
 ||oo00.biz^
 ||oobitsou.net^
 ||oobsaurt.net^
@@ -20238,6 +20256,7 @@
 ||optyruntchan.com^
 ||optzsrv.com^
 ||opvanillishan.com^
+||opzvalfafh.com^
 ||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqejupqb.xyz^
@@ -22002,6 +22021,7 @@
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||projekt678.de^
+||projetpunce.shop^
 ||prolatecyclus.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
@@ -23648,6 +23668,7 @@
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkksbrkwdqbop.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -24749,6 +24770,7 @@
 ||shipwreckclassmate.com^
 ||shirtclumsy.com^
 ||shitcustody.com^
+||shitsoojacm.net^
 ||shitsowhoort.net^
 ||shitucka.net^
 ||shiverdepartmentclinging.com^
@@ -25010,6 +25032,7 @@
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skewserer.com^
+||skgpzivadwdte.buzz^
 ||skhmjezzj.com^
 ||skibbybester.top^
 ||skidgleambrand.com^
@@ -26492,6 +26515,7 @@
 ||tediousgorgefirst.com^
 ||tedtaxi.com^
 ||tedtug.com^
+||teedastoowu.net^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
@@ -28481,6 +28505,7 @@
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
+||vihbuposxci.com^
 ||vihub.ru^
 ||viibest.com^
 ||viibmmqc.com^
@@ -29664,6 +29689,7 @@
 ||ww2.imgwallet.com^
 ||wwaeljajwvlrw.top^
 ||wwaeljamkvzwr.top^
+||wwainferrara.com^
 ||wwaowwonthco.com^
 ||wwarvlezkjev.top^
 ||wwarvlorkeww.top^
@@ -31786,6 +31812,7 @@
 ||84055600.xyz^
 ||84302764.xyz^
 ||84631949.xyz^
+||85132058.xyz^
 ||86124673.xyz^
 ||86222538.xyz^
 ||88129513.xyz^
@@ -31931,6 +31958,9 @@
 !
 !
 !
+||govisibl.io^
+||tver-metrics.streaks.jp^
+||24support.cc^
 ||a.hit360.tech^
 ||analytics.ahrefs.com^
 ||gcprivacy.com^
@@ -35799,6 +35829,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||dsbahmgppc0j4.cloudfront.net^
 ||logs.viewstats.com^
 ||mystats.flixfiend.top^
 ||utiq.pcgames.de^
@@ -40604,7 +40635,6 @@ inapps.appsflyersdk.com^
 ||dniyppubkuut7.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
 ||dqif5bl25s0bf.cloudfront.net^
-||dsbahmgppc0j4.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
