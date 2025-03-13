@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-12T00:00:10.207Z
+! Last modified: 2025-03-13T00:00:11.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5712,6 +5712,7 @@
 ||anymorearmsindeed.com^
 ||anymorecapability.com^
 ||anymoresentencevirgin.com^
+||anyonegoal.com^
 ||anysolely.com^
 ||anywaypossible.com^
 ||anywaysreives.com^
@@ -6827,6 +6828,7 @@
 ||bellamyawardinfallible.com^
 ||bellatrixmeissa.com^
 ||bellmandrawbar.com^
+||bellonapotype.com^
 ||bellowframing.com^
 ||bellpressinginspector.com^
 ||belom.site^
@@ -8877,6 +8879,7 @@
 ||collowhypoxis.com^
 ||colognenobilityfrost.com^
 ||colognerelish.com^
+||colonelsurvival.com^
 ||colonialismmarch.com^
 ||colonistnobilityheroic.com^
 ||colonistsmothercommunity.com^
@@ -10712,6 +10715,7 @@
 ||dr7.biz^
 ||drabimprovement.com^
 ||draftbeware.com^
+||draftedorgany.com^
 ||dragdisrespectmeddling.com^
 ||dralintheirbr.com^
 ||dralintheirbrightscar.org^
@@ -11061,6 +11065,7 @@
 ||ebz.io^
 ||ec49775bc5.com^
 ||ec7be59676.com^
+||ecerpgqnohelf.com^
 ||echeegoastuk.net^
 ||echefoph.net^
 ||echinusandaste.com^
@@ -11190,6 +11195,7 @@
 ||eezegrip.net^
 ||ef9i0f3oev47.com^
 ||efanyorgagetni.info^
+||efcybuvko.com^
 ||efdjelx.com^
 ||efef322148.com^
 ||efemsvcdjuov.com^
@@ -11510,6 +11516,7 @@
 ||epvjljye.com^
 ||eqads.com^
 ||eqdudaj.com^
+||eqgmnmqlz.com^
 ||equabilityassortshrubs.com^
 ||equabilityspirepretty.com^
 ||equanimitymortifyminds.com^
@@ -12655,6 +12662,7 @@
 ||frameworkjaw.com^
 ||framingmanoeuvre.com^
 ||francoistsjacqu.info^
+||frankerreedits.com^
 ||franticimpenetrableflourishing.com^
 ||frap.site^
 ||fraudulentintrusive.com^
@@ -16109,6 +16117,7 @@
 ||kaitakavixen.shop^
 ||kaiu-marketing.com^
 ||kaiwiscarps.shop^
+||kajeputhorn.com^
 ||kalauxet.com^
 ||kaleidoscopeadjacent.com^
 ||kaleidoscopefingernaildigging.com^
@@ -16762,6 +16771,7 @@
 ||lebratent.com^
 ||lecapush.net^
 ||lecdhuq.com^
+||lectureolympics.com^
 ||ledrapti.net^
 ||leechiza.net^
 ||leefosto.com^
@@ -16854,6 +16864,7 @@
 ||letterwolves.com^
 ||leukemiaruns.com^
 ||leveesmicker.top^
+||levelerlatosol.shop^
 ||leverseriouslyremarks.com^
 ||leveryone.info^
 ||levityheartinstrument.com^
@@ -20432,6 +20443,7 @@
 ||paintydevelela.org^
 ||paipsuto.com^
 ||paishoonain.net^
+||paitheerauvoag.net^
 ||paiwariaroids.shop^
 ||paiwena.xyz^
 ||paizowheefash.net^
@@ -22455,6 +22467,7 @@
 ||quicksitting.com^
 ||quickwest.pro^
 ||quidclueless.com^
+||quilafezzy.com^
 ||quilkinhulking.shop^
 ||quillsconi.top^
 ||quinchdeepish.top^
@@ -22570,6 +22583,7 @@
 ||raiseallocation.com^
 ||raisoglaini.net^
 ||raistiwije.net^
+||raitooshamooseg.net^
 ||rajabets.xyz^
 ||rakiblinger.com^
 ||rallydisprove.com^
@@ -25426,6 +25440,7 @@
 ||stionicgeodist.com^
 ||stirdevelopingefficiency.com^
 ||stirringdebrisirriplaceableirriplaceable.com^
+||stoachdarts.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
@@ -25665,6 +25680,7 @@
 ||sulideshalfman.click^
 ||sulkvulnerableexpecting.com^
 ||sullenabonnement.com^
+||sullensmedleys.shop^
 ||sullentrump.com^
 ||sultrycartonedward.com^
 ||sumbreta.com^
@@ -26579,6 +26595,7 @@
 ||toawaups.net^
 ||toawhulo.com^
 ||toawoapt.net^
+||toazoaptauz.net^
 ||tobaccocentgames.com^
 ||tobaccoearnestnessmayor.com^
 ||tobaccosturgeon.com^
@@ -27408,6 +27425,7 @@
 ||uncolylirella.top^
 ||uncomfortableremote.com^
 ||uncorecaaba.shop^
+||uncotorture.com^
 ||uncoverarching.com^
 ||uncrobator.com^
 ||uncrownarmenic.com^
@@ -29473,6 +29491,7 @@
 ||yaquinaaminity.shop^
 ||yardr.net^
 ||yarlnk.com^
+||yarningbursal.com^
 ||yarranpyrope.shop^
 ||yasesumedadele.com^
 ||yashi.com^
@@ -29766,6 +29785,7 @@
 ||zationservantas.info^
 ||zatloudredr.com^
 ||zatnoh.com^
+||zauchogligreted.net^
 ||zaudograum.xyz^
 ||zaudouwa.xyz^
 ||zaudowhiy.xyz^
@@ -31215,6 +31235,7 @@
 ||164de830.live^
 ||16972675.xyz^
 ||17022993.xyz^
+||17199874.xyz^
 ||19009143.xyz^
 ||19199675.xyz^
 ||19706903.xyz^
@@ -35145,6 +35166,9 @@
 !
 ! Actionlink.jp : mm.actionlink.jp disguised trackers
 !
+! ACWEB Inc. : acweb.clog.jp disguised trackers
+||acweb.clog.jp^
+!
 ! AD EBiS : ebis.ne.jp disguised trackers
 !
 ! Adobe Experience Cloud (formerly Omniture) : 2o7.net disguised trackers
@@ -35297,7 +35321,6 @@
 !
 ! Rule for detecting hidden trackers when the main domain cannot be blocked.
 ||d1udjti6mtxz9q.cloudfront.net^
-||acweb.clog.jp^
 !
 ! NOTE: CNAME disguised tracking networks end ⬆️
 ! !SECTION: CNAME disguised tracking networks
@@ -35328,6 +35351,9 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cs44.pikabu.ru^
+||ta.pinduoduo.com^
+||th.pinduoduo.com^
 ||gtr1.yes24.com^
 ||logs.getfiddler.com^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -36197,7 +36223,6 @@
 ||analytics.aklamio.com^
 ||collect.hollisterco.com^
 ||d17tqr44y57o31.cloudfront.net^
-||a.pikabu.ru^
 ||analytics-mkt.wemakeprice.com^
 ||ad-log.wemakeprice.com^
 ||analytics.ubports.com^
@@ -38176,6 +38201,11 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||grs.dbankcloud.
+||logservice.dbankcloud.cn
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
 ||insights.alibaba.com^
@@ -39369,6 +39399,7 @@ inapps.appsflyersdk.com^
 ||analytics.ynap.biz^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
+||analytics.yollamedia.com^
 ||analytics.ziftsolutions.com^
 ||analyticsehnwe.servicebus.windows.net^
 ||analyticssec.overwolf.com^
@@ -40918,8 +40949,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Mar 2025 10:14 UTC+7
-! Version: 2503101014
+! Last modified: 12 Mar 2025 23:02 UTC+7
+! Version: 2503122302
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
