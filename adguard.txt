@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-14T00:00:10.431Z
+! Last modified: 2025-03-15T00:00:12.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||adwadvert.com.ua^
 ||nanthou.life^
 ||video.agenteimmobiliare.info^
 ||wrapper.bracdn.online^
@@ -3866,6 +3867,7 @@
 ||3e1898dbbe.com^
 ||3e6072834f.com^
 ||3ead4fd497.com^
+||3fa3d4c288.com^
 ||3fc0ebfea0.com^
 ||3fee216537.com^
 ||3fwlr7frbb.pro^
@@ -4401,6 +4403,7 @@
 ||accountresponsesergeant.com^
 ||accountswindy.com^
 ||accuracyswede.com^
+||accurstscaur.shop^
 ||accusedstone.com^
 ||accuserannouncementadulthood.com^
 ||accuserhorste.shop^
@@ -5686,6 +5689,7 @@
 ||antibot.me^
 ||anticipateplummorbid.com^
 ||anticipationnonchalanceaccustomed.com^
+||antiqueskinnyminute.com^
 ||antiquespecialtyimpure.com^
 ||antiquitytissuepod.com^
 ||antiredcessant.com^
@@ -6276,6 +6280,7 @@
 ||avads.live^
 ||avalancheofnews.com^
 ||avalanchers.com^
+||avaljumectk.com^
 ||avatarthree.lol^
 ||avatarweb.site^
 ||avauntinnyard.shop^
@@ -7810,6 +7815,7 @@
 ||bxrtwyavhyb.online^
 ||bxsk.site^
 ||bxvlyrw.com^
+||bxwetgpwlkr.com^
 ||byambipoman.com^
 ||byaronan.com^
 ||bybastiodoner.com^
@@ -8511,6 +8517,7 @@
 ||churchyardalludeaccumulate.com^
 ||churci.com^
 ||chyjobopse.pro^
+||chymistscaphe.top^
 ||chyvz-lsdpv.click^
 ||ciaankzzhmcrz.click^
 ||cicamica.xyz^
@@ -9514,6 +9521,7 @@
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
 ||ctasnet.com^
+||ctcdwm.com^
 ||cteakmwtivr.com^
 ||ctengine.io^
 ||cteripre.com^
@@ -9531,6 +9539,7 @@
 ||ctubhxbaew.com^
 ||ctvnmxl.com^
 ||ctwmcd.com^
+||ctwmed.com^
 ||cubchillysail.com^
 ||cubeuptownpert.com^
 ||cubiclerunner.com^
@@ -10961,6 +10970,7 @@
 ||dzijggsdx.com^
 ||dzkdyqyvadyqq.online^
 ||dzliege.com^
+||dzvuvtwbp.com^
 ||e-cougar.fr^
 ||e0ad1f3ca8.com^
 ||e0e5bc8f81.com^
@@ -11173,6 +11183,7 @@
 ||eeksoshair.net^
 ||eekvgafcsgbwx.xyz^
 ||eelroave.xyz^
+||eemaibsemtushaz.net^
 ||eemsautsoay.net^
 ||eengange.com^
 ||eengilee.xyz^
@@ -11515,6 +11526,7 @@
 ||eplndhtrobl.com^
 ||epnredirect.ru^
 ||epochheelbiography.com^
+||epointatoncean.com^
 ||epreswsentativ.com^
 ||epsashoofil.net^
 ||epsuphoa.xyz^
@@ -12850,6 +12862,7 @@
 ||fussysandwich.pro^
 ||futilepreposterous.com^
 ||futseerdoa.com^
+||futsonseeke.net^
 ||future-hawk-content.co.uk^
 ||futureads.io^
 ||futureus.com^
@@ -13009,6 +13022,7 @@
 ||gasolinefax.com^
 ||gaspedtowelpitfall.com^
 ||gastphonol.top^
+||gateautriamid.top^
 ||gateimmenselyprolific.com^
 ||gatejav12.fun^
 ||gatetocontent.com^
@@ -13030,6 +13044,7 @@
 ||gaupaufi.net^
 ||gaupsaur.xyz^
 ||gaushaih.xyz^
+||gaustechumoluth.net^
 ||gaustele.xyz^
 ||gauvaiho.net^
 ||gauwanouzeebota.net^
@@ -13050,6 +13065,7 @@
 ||gbengene.com^
 ||gbfys.global^
 ||gblcdn.com^
+||gbsqwsjv.com^
 ||gbztputcfgp.com^
 ||gcdfennecs.com^
 ||gcolzvkh.com^
@@ -14890,6 +14906,7 @@
 ||idealintruder.com^
 ||idealmedia.io^
 ||ideapassage.com^
+||identicaldrench.com^
 ||identicalprofile.com^
 ||identifierssadlypreferred.com^
 ||identifyillustration.com^
@@ -15663,6 +15680,7 @@
 ||jaineshy.com^
 ||jaiphoaptom.net^
 ||jalapicundelve.top^
+||jaletcatena.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
@@ -15970,6 +15988,7 @@
 ||jqmebwvmbbby.top^
 ||jqmebwvmbrvz.top^
 ||jqrttpxdtrliiy.com^
+||jqtfoe92.com^
 ||jqtqoknktzy.space^
 ||jqtree.com^
 ||jqueryoi.com^
@@ -17868,6 +17887,7 @@
 ||meatabdicatedelicatessen.com^
 ||meatjav11.fun^
 ||meawo.cloud^
+||mechabiptouth.com^
 ||mechaelpaceway.com^
 ||mechanicalcardiac.com^
 ||medalslumut.shop^
@@ -19118,6 +19138,7 @@
 ||nobodylightenacquaintance.com^
 ||nocaudsomt.xyz^
 ||noclef.com^
+||noconversationh.com^
 ||nocturnal-employer.pro^
 ||nodreewy.net^
 ||noechomooches.shop^
@@ -19479,6 +19500,7 @@
 ||oamsughofooho.com^
 ||oanimsen.net^
 ||oansaifo.net^
+||oaocrxsgsemdg.love^
 ||oaphoace.net^
 ||oaphogekr.com^
 ||oapsoulreen.net^
@@ -19927,6 +19949,7 @@
 ||oo00.biz^
 ||oobitsou.net^
 ||oobsaurt.net^
+||oocecmauhe.net^
 ||oockighuchee.com^
 ||oocmoaghurs.net^
 ||oodalsarg.com^
@@ -20020,6 +20043,7 @@
 ||oppressiontheychore.com^
 ||oppressiveconnoisseur.com^
 ||oppressiveoversightnight.com^
+||oppressivethorn.com^
 ||opqhihiw.com^
 ||opreseynatcreativei.com^
 ||oprill.com^
@@ -20177,6 +20201,7 @@
 ||otoyueuprumok.icu^
 ||otrwaram.com^
 ||otterwoodlandobedient.com^
+||otvadvpas.com^
 ||otvjsfmh.tech^
 ||otwqvqla.com^
 ||oubeliketh.info^
@@ -21289,6 +21314,7 @@
 ||pnhorlcjtrfau.vip^
 ||pnouting.com^
 ||pnperf.com^
+||pnrndhgury.com^
 ||pnsqsv.com^
 ||pntfnral.com^
 ||pnuhondppw.com^
@@ -22301,6 +22327,7 @@
 ||qaklbrqevbzqz.top^
 ||qaklbrqyzbvqr.top^
 ||qakzfubfozaj.com^
+||qanqizywghyna.xyz^
 ||qarewien.com^
 ||qasforsalesrep.info^
 ||qatsbesagne.com^
@@ -22350,6 +22377,7 @@
 ||qibkkioqqw.com^
 ||qibqiwczoojw.com^
 ||qidmhohammat.com^
+||qidnujocmf.com^
 ||qimnubohcapb.com^
 ||qingolor.com^
 ||qinvaris.com^
@@ -24045,6 +24073,7 @@
 ||scptp1.com^
 ||scptpx.com^
 ||scrambleocean.com^
+||scrannyliplike.shop^
 ||scrapejav128.fun^
 ||scrapembarkarms.com^
 ||scratchconsonant.com^
@@ -24552,6 +24581,7 @@
 ||shulugoo.net^
 ||shunparagraphdim.com^
 ||shusacem.net^
+||shussausach.com^
 ||shutesaroph.com^
 ||shuttersurveyednaive.com^
 ||shvnfhf.com^
@@ -25400,6 +25430,7 @@
 ||steeplesaturday.com^
 ||steepto.com^
 ||steepuleltou.xyz^
+||steerensout.net^
 ||steeringsunshine.com^
 ||steeryyoungs.shop^
 ||stejikjc.com^
@@ -25465,6 +25496,7 @@
 ||stionicgeodist.com^
 ||stirdevelopingefficiency.com^
 ||stirringdebrisirriplaceableirriplaceable.com^
+||stithauzouleesy.com^
 ||stoachdarts.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
@@ -26619,6 +26651,7 @@
 ||toaglegi.com^
 ||toamaustouy.com^
 ||toapz.xyz^
+||toashapegroo.com^
 ||toastcomprehensiveimperturbable.com^
 ||toawaups.net^
 ||toawhulo.com^
@@ -26751,6 +26784,7 @@
 ||totaldrag.pro^
 ||totallyplaiceaxis.com^
 ||totemcash.com^
+||totenoltood.com^
 ||totentacruelor.com^
 ||totesnobis.com^
 ||totlnkbn.com^
@@ -27133,6 +27167,7 @@
 ||tuckedtucked.com^
 ||tuckerheiau.com^
 ||tuesdayfetidlit.com^
+||tuesdaypeas.com^
 ||tuffoonincaged.com^
 ||tuftoawoo.xyz^
 ||tugraughilr.xyz^
@@ -28300,6 +28335,7 @@
 ||vooptikoph.net^
 ||vooshagy.net^
 ||voovoacivoa.net^
+||voowozoogroagom.com^
 ||vophothoorom.net^
 ||voredi.com^
 ||vossulekuk.com^
@@ -29202,6 +29238,7 @@
 ||ws67eqwwp.pro^
 ||wsafeguardpush.com^
 ||wsaidthemathe.info^
+||wsatylyuqqtyhxv.com^
 ||wsentativesathya.org^
 ||wsjlbbqemr23.com^
 ||wsoldiyajjufmvk.xyz^
@@ -29272,6 +29309,7 @@
 ||wynvalur.com^
 ||wyrockraptest.shop^
 ||wysasys.com^
+||wyveplanked.com^
 ||wyvlljvbbjvvm.top^
 ||wyvlllooalobz.top^
 ||wywkwqzkavjbv.top^
@@ -31289,6 +31327,7 @@
 ||2edef809.xyz^
 ||30937261.xyz^
 ||32472254.xyz^
+||33109166.xyz^
 ||33848102.xyz^
 ||33862684.xyz^
 ||34475780.xyz^
@@ -31514,6 +31553,7 @@
 !
 !
 !
+||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -31948,7 +31988,7 @@
 ||trace.zhiyan.tencent-cloud.net^
 ||log.iflytek.com^
 ||log.voicecloud.cn^
-||aads.shuzilm.cn^
+||shuzilm.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||user-analysis.7moor.com^
 ||sirdata.io^
@@ -32687,7 +32727,7 @@
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
 ||cerdmann.com^
-||polarbyte.com^
+||cdn.polarbyte.com^
 ||revcatch.com^
 ||revprotect.com^
 ||protectsubrev.com^
@@ -35389,6 +35429,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pixel.thoughtmetric.io^
+||c9nyrr.puurfiguur.nl^
+||ryrv0j.greenbeanbuddy.com^
+||tracking-sales-pop.carecart.io^
 ||cs44.pikabu.ru^
 ||ta.pinduoduo.com^
 ||th.pinduoduo.com^
@@ -38239,6 +38283,12 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||nr.bidderstack.com^
+||stbid.ru^
+||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
 ||grs.dbankcloud.
 ||logservice.dbankcloud.cn
@@ -38315,7 +38365,6 @@ inapps.appsflyersdk.com^
 ||tracking.ws.eurosport.com^
 ||analysis.polarisoffice.com
 ||fraudmetrix.cn^
-||plbslog.umeng.com^
 ||analysys.cn^
 ||logs.supersonic.com^
 ||mssdk-va.byteoversea.com^
@@ -38582,14 +38631,12 @@ inapps.appsflyersdk.com^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||msg.umengcloud.com^
-||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||analytics.liveact-vault.com^
 ||analytics.300624.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
-||alogsus.umeng.com^
 ||log1.happymod.com^
 ||log.pvpgang.com^
 ||crs-event.line.me^
@@ -38660,8 +38707,6 @@ inapps.appsflyersdk.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||pingtas.qq.com^
-||alogus.umeng.com^
-||errlogos.umeng.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
@@ -38813,7 +38858,6 @@ inapps.appsflyersdk.com^
 ||api.uca.cloud.unity3d.com^
 ||resolver.gslb.mi-idc.com^
 ||geoip.ifunny.co^
-||alogs.umeng.com^
 ||alogs.umengcloud.com^
 ||device-metrics-*.amazon.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -38823,7 +38867,6 @@ inapps.appsflyersdk.com^
 ||adserver.snapads.com^
 ||adsunflower.com^
 ||advmob.cn^
-||alog.umeng.com^
 ||alog.umengcloud.com^
 ||amp-error-reporting.appspot.com^
 ||analytics.mobile.yandex.net^
@@ -38839,7 +38882,6 @@ inapps.appsflyersdk.com^
 ||api.gimbal.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.com^
-||ar.umeng.com^
 ||beacon.carfax.com^
 ||beacon.shazam.com^
 ||beha.ksmobile.com^
@@ -38869,7 +38911,6 @@ inapps.appsflyersdk.com^
 ||nativesdks.mparticle.com^
 ||nlog.droid4x.cn^
 ||nrc.tapas.net^
-||oc.umeng.com^
 ||pingma.qq.com^
 ||prugskh.com^
 ||prugskh.net^
@@ -39748,6 +39789,7 @@ inapps.appsflyersdk.com^
 ||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
+||metrics.nsureapi.com^
 ||metrics.onshape.com^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -40987,8 +41029,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2025 23:02 UTC+7
-! Version: 2503122302
+! Last modified: 14 Mar 2025 11:08 UTC+7
+! Version: 2503141108
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -42014,6 +42056,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/199304
+@@||ap01.records.in.treasuredata.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
 ! Blocked by EasyList's `||23.109.82.`
 @@||click.avs.io^|
