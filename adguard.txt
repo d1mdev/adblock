@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-19T00:00:14.458Z
+! Last modified: 2025-03-20T00:00:11.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2688,6 +2688,7 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||service-ad-image-ga.prd.pluto.tv^
 ||pavoshare.com
 ||global-staticplat.cdn.bcebos.com
 ||datk.bridgeoos.com^
@@ -7007,6 +7008,7 @@
 ||bewoobaton.com^
 ||bewperspiths.top^
 ||beyanmaan.com^
+||beylicbesmile.com^
 ||beyourxfriend.com^
 ||bf-ad.net^
 ||bfast.com^
@@ -7035,6 +7037,7 @@
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
 ||biaxalstiles.com^
+||bibbysilkmen.com^
 ||bibitheedseck.net^
 ||biblecollation.com^
 ||biblesausage.com^
@@ -7319,6 +7322,7 @@
 ||bobgames-prolister.com^
 ||bobpiety.com^
 ||bobqucc.com^
+||bockouphourgait.net^
 ||bodegaseikon.shop^
 ||bodieshomicidal.com^
 ||bodilypotatoesappear.com^
@@ -9033,6 +9037,7 @@
 ||comurbate.com^
 ||comymandars.info^
 ||conative.network^
+||concavobegan.shop^
 ||concealedcredulous.com^
 ||concealmentmimic.com^
 ||concedederaserskyline.com^
@@ -11700,6 +11705,7 @@
 ||ethelbrimtoe.com^
 ||ethelvampirecasket.com^
 ||etherart.online^
+||etherolasqueal.com^
 ||ethicbecamecarbonate.com^
 ||ethicel.com^
 ||ethichats.com^
@@ -12072,6 +12078,7 @@
 ||farfeljabots.top^
 ||fargwyn.com^
 ||farmmandatehaggard.com^
+||farmyengrail.top^
 ||farteniuson.com^
 ||fascespro.com^
 ||fascinateddashboard.com^
@@ -14588,6 +14595,7 @@
 ||hoaxviableadherence.com^
 ||hobbiesshame.online^
 ||hobbleobey.com^
+||hobitsaffined.com^
 ||hockeycomposure.com^
 ||hockeyhavoc.com^
 ||hockeysacredbond.com^
@@ -22145,6 +22153,7 @@
 ||ptbrdg.com^
 ||ptcdwm.com^
 ||pteekauksaupt.net^
+||pteemsoansouthe.net^
 ||pteemsolrirgegi.com^
 ||pteemteethu.net^
 ||pteeptamparg.xyz^
@@ -23328,6 +23337,7 @@
 ||reticencecarefully.com^
 ||reticencevaliddecoction.com^
 ||retimedtactor.shop^
+||retinaspealer.com^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retiringspamformed.com^
@@ -28902,6 +28912,7 @@
 ||welllwrite.com^
 ||wellmov.com^
 ||wellpdy.com^
+||wellworn-lead.com^
 ||welved.com^
 ||wembybuw.xyz^
 ||wemmyoolakan.shop^
@@ -29436,6 +29447,7 @@
 ||wuczmaorkqaz.com^
 ||wudr.net^
 ||wuefmls.com^
+||wuftaustee.net^
 ||wugoughurtaitsu.net^
 ||wugroansaghadry.com^
 ||wumufama.com^
@@ -30442,6 +30454,7 @@
 ||adespresso.com^
 ||adf01.net^
 ||adfinix.com^
+||adforge.io^
 ||adfrika.com^
 ||adgage.es^
 ||adgatemedia.com^
@@ -31593,6 +31606,7 @@
 ||79180284.xyz^
 ||79391192.xyz^
 ||79582961.xyz^
+||79870085.xyz^
 ||79893962.xyz^
 ||7fc8.site^
 ||80133082.xyz^
@@ -31751,6 +31765,8 @@
 !
 !
 !
+||api-notify.markarch.com^
+||venatusmedia.com^
 ||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
@@ -32822,7 +32838,6 @@
 ||durationmedia.net^
 ||s.myangular.life^
 ||pointmediatracker.com^
-||c-api-bit.shopeemobile.com^
 ||sp.dpgmedia.net^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
@@ -35716,6 +35731,7 @@
 ||metricreceiver.cellrebel.com^
 ||events.app-performance.music.amazon.dev^
 ||collector-*.px-client.net^
+||collector-*.px-cdn.net^
 ||metrics-a.wbx2.com^
 ||event.msi.com^
 ||dco.coupang.com^
@@ -40259,7 +40275,6 @@ inapps.appsflyersdk.com^
 ||track.untd.com^
 ||track.uppromote.com^
 ||track.us.org^
-||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
 ||tracker.au.zitcha.app^
@@ -42254,6 +42269,12 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/200033
+! Blocked by CNAME oasjs.kataweb.it
+@@||tlh.gedidigital.it^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1854
+! Blocked by CNAME tracking.socketlabs.com
+@@||smtp.focusgroupresearch.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/199304
 @@||ap01.records.in.treasuredata.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
