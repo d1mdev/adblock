@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-20T00:00:11.314Z
+! Last modified: 2025-03-21T00:00:10.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19,6 +19,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||vvdrhe.win^
 ||adwadvert.com.ua^
 ||nanthou.life^
 ||video.agenteimmobiliare.info^
@@ -2514,6 +2515,9 @@
 ||web-visor.
 ||yottos.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/200915
+! t.setAttribute("data-mrmn-tag"
+/62.76.25.2(7|8)/
 ! AD Factor
 /193.200.64.24:/
 !
@@ -6188,6 +6192,7 @@
 ||attributedrelease.com^
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
+||attuneuvito.com^
 ||atwola.com^
 ||atzekromchan.com^
 ||au2m8.com^
@@ -13184,6 +13189,7 @@
 ||generousfilming.com^
 ||genesismedia.com^
 ||geneticesteemreasonable.com^
+||geneurawipers.com^
 ||genfpm.com^
 ||geniad.net^
 ||genieedmp.com^
@@ -15639,6 +15645,7 @@
 ||isreputysolomo.com^
 ||issomeoneinth.info^
 ||issuedindiscreetcounsel.com^
+||isteetashy.com^
 ||istkechaukrguk.com^
 ||istlnkbn.com^
 ||istoanaugrub.xyz^
@@ -22092,6 +22099,7 @@
 ||psoamaupsie.net^
 ||psoanoaweek.net^
 ||psoansumt.net^
+||psoaphorsoa.com^
 ||psoasusteech.net^
 ||psockapa.net^
 ||psohemsinso.xyz^
@@ -23472,6 +23480,7 @@
 ||ridingdisguisessuffix.com^
 ||ridleward.info^
 ||ridmilestone.com^
+||riedrused.com^
 ||riffingwiener.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
@@ -24031,6 +24040,7 @@
 ||saltconfectionery.com^
 ||saltpairwoo.live^
 ||saltsarchlyseem.com^
+||saltsmute.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
 ||salvagefloat.com^
@@ -31765,6 +31775,8 @@
 !
 !
 !
+||install*.zonastat.com^
+||tags.pw.adn.cloud^
 ||api-notify.markarch.com^
 ||venatusmedia.com^
 ||metrics.nsureapi.com^
@@ -33158,6 +33170,7 @@
 ||amc.yandex.ru^
 ||mc.yandex.ru^
 ||mc.yandex.com^
+||mc.yandex.md^
 ||track.segmentstream.com^
 ||vboro.de^
 ||barddfvgkhctch11.ru^
@@ -40181,6 +40194,7 @@ inapps.appsflyersdk.com^
 ||stats.screenresolution.org^
 ||stats.senty.com.au^
 ||stats.smartclip.net^
+||stats.tiktoker.win^
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
@@ -40385,6 +40399,7 @@ inapps.appsflyersdk.com^
 ||x.weather.com^
 ||xp2023-pix.s3.amazonaws.com^
 ||yoast-schema-graph.com^
+||yotrack.cdn.ybn.io^
 ! https://d3ward.github.io/toolz/adblock.html
 ||adsdk.yandex.ru^
 ||analytics.samsungknox.com^
