@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-03-22T00:00:10.097Z
+! Last modified: 2025-03-23T00:00:11.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3912,6 +3912,7 @@
 ||44fc128918.com^
 ||452tapgn.de^
 ||453130fa9e.com^
+||459b6951ca.com^
 ||45cb7b8453.com^
 ||45f2a90583.com^
 ||460e19ebd6.com^
@@ -5229,6 +5230,7 @@
 ||aimportfoliosquid.com^
 ||aimukreegee.net^
 ||ainerations.com^
+||ainouzaudre.net^
 ||aintydevelelastic.com^
 ||ainuftou.net^
 ||aiphotomania.com^
@@ -5833,6 +5835,7 @@
 ||aq30me9nw.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqcutwom.xyz^
+||aqgyncebdxmpw.icu^
 ||aqhz.xyz^
 ||aqjbfed.com^
 ||aqkkoalfpz.com^
@@ -6775,6 +6778,7 @@
 ||becominggunpowderpalette.com^
 ||becorsolaom.com^
 ||becrustleom.com^
+||bedaoibe.com^
 ||bedaslonej.com^
 ||bedaslonejul.cc^
 ||beddermidlegs.shop^
@@ -8373,6 +8377,7 @@
 ||chaupheebe.net^
 ||chaussew.net^
 ||chautcho.com^
+||chauxuzauy.com^
 ||chbwe.space^
 ||cheap-celebration.pro^
 ||cheapenleaving.com^
@@ -8479,6 +8484,7 @@
 ||chitika.net^
 ||chitsnooked.com^
 ||chivoagrie.net^
+||chivwtusseh.com^
 ||chiwaiwhor.xyz^
 ||chl7rysobc3ol6xla.com^
 ||chloredenpia.shop^
@@ -13183,6 +13189,7 @@
 ||geminibugs.com^
 ||gemsbucks25.fun^
 ||gemseeniloksair.net^
+||gemworkbakairi.com^
 ||gen-ref.com^
 ||genbalar.com^
 ||generalizebusinessman.com^
@@ -13682,6 +13689,7 @@
 ||gotohouse1.club^
 ||gotoyahoo.com^
 ||gotrackier.com^
+||gougligloupha.net^
 ||gounodogaptofok.net^
 ||gousouse.com^
 ||goutee.top^
@@ -14913,6 +14921,7 @@
 ||hxaubnrfgxke.xyz^
 ||hxlkiufngwbcxri.com^
 ||hxoewq.com^
+||hxxkalmsovxvcp.com^
 ||hycantyoubelik.com^
 ||hycantyoubeliketh.com^
 ||hydraulzonure.com^
@@ -17821,6 +17830,7 @@
 ||manualquiet.com^
 ||manureinforms.com^
 ||manureoddly.com^
+||maoeoa.xyz^
 ||mapamnni.com^
 ||mapeeree.xyz^
 ||maper.info^
@@ -18248,6 +18258,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milseycurly.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
@@ -21188,6 +21199,7 @@
 ||physidstert.shop^
 ||phywifupta.com^
 ||piaigyyigyghjmi.xyz^
+||pianolamickeys.com^
 ||pianwela.xyz^
 ||piaroankenyte.store^
 ||piazzetasses.shop^
@@ -21271,6 +21283,7 @@
 ||piqueendogen.com^
 ||piroquealcmene.com^
 ||pirtecho.net^
+||pisachafibular.top^
 ||pisehiation.shop^
 ||pisgahserve.com^
 ||pishespied.top^
@@ -25703,6 +25716,7 @@
 ||stolenforensicssausage.com^
 ||stongoapti.net^
 ||stonierteddy.com^
+||stonifylolls.com^
 ||stonkstime.com^
 ||stooboastaud.net^
 ||stoobsugree.net^
@@ -31656,6 +31670,7 @@
 ||91301246.xyz^
 ||92790388.xyz^
 ||9354ee72.xyz^
+||94444717.xyz^
 ||94597672.xyz^
 ||95597529.xyz^
 ||97496b9d.xyz^
@@ -41275,8 +41290,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Mar 2025 23:48 UTC+7
-! Version: 2503182348
+! Last modified: 22 Mar 2025 17:17 UTC+7
+! Version: 2503221717
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
