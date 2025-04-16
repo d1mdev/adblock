@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-04-15T00:00:10.892Z
+! Last modified: 2025-04-16T00:00:09.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2694,6 +2694,8 @@
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||apishow.babybus.com^
+||apppromoteapi.babybus.com^
 ||tiktokpangle.us^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||lf-static.tiktokpangle-cdn-us.com^
@@ -4222,6 +4224,7 @@
 ||9d87b35397.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
+||9e11ec3a56.com^
 ||9e3810a418.com^
 ||9eb10b7a3d04a.com^
 ||9efc2a7246.com^
@@ -5783,6 +5786,7 @@
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apcatcltoph.com^
+||apdcekrulrpjd.online^
 ||apeefacheefirs.net^
 ||apeidol.com^
 ||apescausecrag.com^
@@ -6109,6 +6113,7 @@
 ||ast2ya4ee8wtnax.com^
 ||astarboka.com^
 ||astato.online^
+||asteandstilll.org^
 ||astehaub.net^
 ||astemolgachan.com^
 ||asterbiscusys.com^
@@ -6229,6 +6234,7 @@
 ||attributedrelease.com^
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
+||attuneuvito.com^
 ||atwola.com^
 ||atzekromchan.com^
 ||au2m8.com^
@@ -6915,6 +6921,7 @@
 ||bepawrepave.com^
 ||bepilelaities.com^
 ||beqcoabc.com^
+||berapt-medii.com^
 ||berchchisel.com^
 ||bereaveconsciousscuffle.com^
 ||bereaveencodefestive.com^
@@ -7089,6 +7096,7 @@
 ||biemedia.com^
 ||bifnosblfdpslg.xyz^
 ||bifrufhci.com^
+||bifszaojpkuq.com^
 ||bigamybigot.space^
 ||bigappboi.com^
 ||bigbasketshop.com^
@@ -7121,6 +7129,7 @@
 ||binaryrecentrecentcut.com^
 ||bincatracs.com^
 ||binderyvisage.shop^
+||bindirect.click^
 ||bineukdwithme.com^
 ||bineukdwithmef.info^
 ||bineukdwithmef.org^
@@ -8149,6 +8158,7 @@
 ||cbyqzt.xy^
 ||cc-dt.com^
 ||ccaa0e51d8.com^
+||ccc9c93083.com^
 ||ccjzuavqrh.com^
 ||ccmiocw.com^
 ||ccn08sth.de^
@@ -8307,6 +8317,7 @@
 ||cgbupajpzo-t.rocks^
 ||cgcobmihb.com^
 ||cgeckmydirect.biz^
+||cgjowhzaneoli.love^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
 ||cgtwccqrpbota.global^
@@ -9646,6 +9657,7 @@
 ||cyvjmnu.com^
 ||czaraptitude.com^
 ||czh5aa.xyz^
+||czuawlppipi.com^
 ||czuvzixm.com^
 ||czwxrnv.com^
 ||d03804f2c8.com^
@@ -10134,6 +10146,7 @@
 ||detentsclonks.com^
 ||determineworse.com^
 ||detestgaspdowny.com^
+||dethijohoagra.com^
 ||detour.click^
 ||deturbcordies.com^
 ||deturnfurdle.shop^
@@ -10794,6 +10807,7 @@
 ||dugapiece.com^
 ||dugothitachan.com^
 ||dugraukeeck.net^
+||dugrozufo.com^
 ||duili-mtp.com^
 ||duimspruer.life^
 ||dukerationpecial.com^
@@ -11361,6 +11375,7 @@
 ||enhclxug.xyz^
 ||enherappedo.cc^
 ||enigmahazesalt.com^
+||enigmamedicine.com^
 ||enigmaswhereas.com^
 ||enjaaiwix.com^
 ||enjehdch.xyz^
@@ -11895,6 +11910,7 @@
 ||fandmo.com^
 ||fantasiazoon.com^
 ||fantasticgap.pro^
+||fanxmfllqbyoy.top^
 ||fanza.cc^
 ||faoll.space^
 ||fapmeth.com^
@@ -12915,6 +12931,7 @@
 ||gdecording.info^
 ||gdecordingholo.info^
 ||gdeigri.com^
+||gdihvgebdej.com^
 ||gdktgkjfyvd.xyz^
 ||gdmconvtrck.com^
 ||gdmgsecure.com^
@@ -13610,6 +13627,7 @@
 ||grimytax.pro^
 ||grinbettyreserve.com^
 ||grincircus.com^
+||grinneddairt.shop^
 ||gripehealth.com^
 ||gripping-bread.com^
 ||gripspigyard.com^
@@ -13958,6 +13976,7 @@
 ||hauchiwu.com^
 ||haughtydistinct.com^
 ||haughtysafety.com^
+||haugloosigliwha.net^
 ||hauledforewordsentimental.com^
 ||hauledresurrectiongosh.com^
 ||hauledskirmish.com^
@@ -15451,6 +15470,7 @@
 ||jagnoans.com^
 ||jainecizous.xyz^
 ||jaiphoaptom.net^
+||jakseegrutso.net^
 ||jalapicundelve.top^
 ||jaletemetia.com^
 ||jalewaads.com^
@@ -15710,6 +15730,7 @@
 ||joozoowoak.net^
 ||jopbvpsglwfm.com^
 ||joqowqyaarewj.top^
+||joqowqymkrowl.top^
 ||jorbfstarn.com^
 ||jorttiuyng.com^
 ||josephtotters.top^
@@ -15924,6 +15945,7 @@
 ||kangaroohiccups.com^
 ||kanoodle.com^
 ||kantiwl.com^
+||kaolinoleous.com^
 ||kaorpyqtjjld.com^
 ||kaphsfruiter.top^
 ||kapnqcbhdxjfokr.com^
@@ -16017,6 +16039,7 @@
 ||ketseestoog.net^
 ||kettakihome.com^
 ||kettlemisplacestate.com^
+||kewbnmbettrd.xyz^
 ||kewodruzeezu.xyz^
 ||kexarvamr.com^
 ||kexojito.com^
@@ -17512,6 +17535,7 @@
 ||maticalmasterouh.info^
 ||matildawu.online^
 ||matiro.com^
+||matterforiwa.org^
 ||matterpalekept.com^
 ||mattockpackall.com^
 ||mattressashamed.com^
@@ -17773,6 +17797,7 @@
 ||mfcewkrob.com^
 ||mfeqckmfw.com^
 ||mflsbcasbpx.com^
+||mfoizeiwlbijkn.com^
 ||mgcash.com^
 ||mgdjmp.com^
 ||mghkpg.com^
@@ -18104,6 +18129,7 @@
 ||monumentsmaterialeasel.com^
 ||monxserver.com^
 ||mooawlqwrkhxlt.com^
+||moobuphaloachu.net^
 ||moodirresolute.com^
 ||moodjav12.fun^
 ||moograwhire.net^
@@ -18194,7 +18220,6 @@
 ||moviesflix4k.info^
 ||moviesflix4k.xyz^
 ||moviesprofit.com^
-||movturs.click^
 ||mowcawdetour.com^
 ||mowhamsterradiator.com^
 ||mozgvya.com^
@@ -18214,6 +18239,7 @@
 ||mpuwrudpeo.com^
 ||mpwhizbkgewzg.vip^
 ||mqabjtgli.xyz^
+||mqdownload.com^
 ||mqpmivxywvxef.buzz^
 ||mqwokyjqohty.com^
 ||mraza2dosa.com^
@@ -19141,6 +19167,7 @@
 ||o626b32etkg6.com^
 ||o911o.com^
 ||oaajylbosyndpjl.com^
+||oaapfztunpmky.vip^
 ||oabaubsutha.com^
 ||oacaighy.com^
 ||oaceewhouceet.net^
@@ -20231,6 +20258,7 @@
 ||paranoiaantiquarianstraightened.com^
 ||paranoiaourselves.com^
 ||paraodriki.com^
+||paraos.my^
 ||parasitevolatile.com^
 ||parasolsever.com^
 ||paravaprese.com^
@@ -20574,6 +20602,7 @@
 ||pgpartner.com^
 ||pgssjxz.com^
 ||pgssl.com^
+||pguzquckxbb.com^
 ||phabycebe.com^
 ||phadsophoogh.net^
 ||phahifoobsie.net^
@@ -20697,6 +20726,7 @@
 ||pictela.net^
 ||pictorialtraverse.com^
 ||picturesquesizedisabled.com^
+||pidsnbtigntdi.vip^
 ||pieairshed.top^
 ||pieceresponsepamphlet.com^
 ||pienbitore.com^
@@ -21912,6 +21942,7 @@
 ||qavhivvcex.com^
 ||qawzwkvqayrlr.top^
 ||qax1a3si.uno^
+||qazjpdzhatxaw.vip^
 ||qazrvobkmqvmr.top^
 ||qbkraweaoewrv.top^
 ||qblllqzqezmvb.top^
@@ -24424,6 +24455,7 @@
 ||soapsudkerfed.com^
 ||soathouchoa.xyz^
 ||soawousa.xyz^
+||soawunoovaiwhog.net^
 ||soazookiminoo.net^
 ||sobakenchmaphk.com^
 ||sobesed.com^
@@ -25701,6 +25733,7 @@
 ||tgel2ebtx.ru^
 ||tgingleagaineda.org^
 ||tgktlgyqsffx.xyz^
+||thabiphuto.pro^
 ||thackoofti.net^
 ||thacovapte.pro^
 ||thadairteetchar.net^
@@ -25768,6 +25801,7 @@
 ||theirbellstudio.co^
 ||theirsstrongest.com^
 ||theloungenet.com^
+||theltemtirg.net^
 ||thematicalaste.info^
 ||thembriskjumbo.com^
 ||themeillogical.com^
@@ -27432,6 +27466,7 @@
 ||vg4u8rvq65t6.com^
 ||vg876yuj.click^
 ||vgfhycwkvh.com^
+||vhbhundyietwwc.com^
 ||vhducnso.com^
 ||vhinyvcsxcga.com^
 ||vhjhmsvosxius.click^
@@ -27696,6 +27731,7 @@
 ||vptbn.com^
 ||vpuaklat.com^
 ||vpxzunvaldxcp.world^
+||vq4b0q.fun^
 ||vqfumxea.com^
 ||vqonjcnsl.com^
 ||vqoqlebqqammj.top^
@@ -27932,6 +27968,7 @@
 ||wdnkjctmnhqui.com^
 ||wdohhlagnjzi.com^
 ||wdoyouknowsai.org^
+||wdpaqlodreen.com^
 ||wdt9iaspfv3o.com^
 ||wdtyl.xyz^
 ||wduqxbvhpwd.xyz^
@@ -28534,6 +28571,7 @@
 ||ww2.imgtaxi.com^
 ||ww2.imgwallet.com^
 ||wwaeljajwvlrw.top^
+||wwaeljamkvayk.top^
 ||wwaowwonthco.com^
 ||wwarvlezkjev.top^
 ||wwarvlorkeww.top^
@@ -28786,6 +28824,7 @@
 ||yaervrqwtu.com^
 ||yahuu.org^
 ||yakmakhond.top^
+||yaksgwrkhufex.com^
 ||yallarec.com^
 ||yamanaisleepry.com^
 ||yamshikbrucia.top^
@@ -29189,6 +29228,7 @@
 ||zog.link^
 ||zograughoa.net^
 ||zogrepsili.com^
+||zoiefwqhcaczun.com^
 ||zokaukree.net^
 ||zombyfairfax.com^
 ||zomiluwha.pro^
@@ -29215,6 +29255,7 @@
 ||zovidree.com^
 ||zoykzjajvjoyo.top^
 ||zpbpenn.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zplfwuca.com^
 ||zprelandings.com^
@@ -30638,6 +30679,7 @@
 ||rl1u0wknm1onstp8395too.xyz^
 ||sn2rrlv57qpss5w-qk8llu.xyz^
 ||ts28ll0tk23t2n9pl0n327.xyz^
+||w9l4tr4013tn5mo27t0w.xyz^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||img-load.com^
@@ -30723,6 +30765,7 @@
 !
 !
 !
+||mobuppsweb.online^
 ||b.clipkit.co^
 ||easywebsiteanalytics.com^
 ||pixel.wetracked.io^
@@ -34615,6 +34658,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||rma.homedepot.com^
+||db7q4jg5rkhk8.cloudfront.net^
+||backend-pixel.zotek.io^
+||rudr-events.joybird.com^
 ||dns-clientinfo.vtg.paramount.tech^
 ||monitor.r53.cbsivideo.com^
 ||monitor.ns1-s.rspcdn.net^
@@ -37043,7 +37090,6 @@
 ||tracker.affirm.com^
 ||tracker.anandtech.com^
 ||tracker.arc.io^
-||tracker.blutv.com^
 ||tracker.calameo.com^
 ||tracker.cartprotector.com^
 ||tracker.cdn-moneysmart.com^
@@ -37492,6 +37538,9 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||apishowstats.babybus.com^
+||tjinit-event.babybus.com^
+||tjinit-global-register.babybus.com^
 ||metrics-us.cometchat.io^
 ||clog.weverse.io^
 ||collection.weverse.io^
