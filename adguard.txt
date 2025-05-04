@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-05-03T00:00:10.141Z
+! Last modified: 2025-05-04T00:00:10.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3986,6 +3986,7 @@
 ||53e91a4877.com^
 ||53ff0e58f9.com^
 ||540252a00b.com^
+||540484935e.com^
 ||548f23e472.com^
 ||551ba6c442.com^
 ||554koaylwga7.top^
@@ -4872,6 +4873,7 @@
 ||adservr.de^
 ||adservrs.com^
 ||adsessionserv.com^
+||adsethimdown.org^
 ||adsexo.com^
 ||adsfac.eu^
 ||adsfac.net^
@@ -5887,6 +5889,7 @@
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apartinept.com^
+||apartmentsellerprotest.com^
 ||apartsermon.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
@@ -6663,6 +6666,7 @@
 ||azazyjjovmker.top^
 ||azbjjbwkeokvj.top^
 ||azcmcacuc.com^
+||azeleiljkpywl.vip^
 ||azenka.one^
 ||azeriondigital.com^
 ||azimechgirosol.top^
@@ -7568,6 +7572,7 @@
 ||bobsleddomesticglandular.com^
 ||bockouphourgait.net^
 ||bodegaseikon.shop^
+||bodgertyphous.top^
 ||bodgeryfelloe.shop^
 ||bodieshomicidal.com^
 ||bodilypotatoesappear.com^
@@ -7924,6 +7929,7 @@
 ||bsantycbjnf.com^
 ||bsbrcdna.com^
 ||bsbxgphqrmbhy.com^
+||bscz3136.com^
 ||bservr.com^
 ||bsgbd77l.de^
 ||bshrdr.com^
@@ -8116,6 +8122,7 @@
 ||bygsworlowe.info^
 ||bylawrite.com^
 ||bynix.xyz^
+||bypassduehardly.com^
 ||bypassmaestro.com^
 ||bytesdictatescoop.com^
 ||bytogeticr.com^
@@ -8350,6 +8357,7 @@
 ||casionest292flaudient.com^
 ||caskcountry.com^
 ||casketdropperregalia.com^
+||casketembody.com^
 ||caspion.com^
 ||cassinamawger.top^
 ||castedbreth.shop^
@@ -9059,6 +9067,7 @@
 ||closablereactionskydiver.com^
 ||closeattended.com^
 ||closedpersonify.com^
+||closenesshistorian.com^
 ||closeupclear.top^
 ||clothegossip.com^
 ||clothepardon.com^
@@ -11381,6 +11390,7 @@
 ||earningaerie.shop^
 ||earningseriegents.org^
 ||earningsgrandpa.com^
+||earnofourg.com^
 ||earnvids.com^
 ||earphonespulse.com^
 ||earplugmolka.com^
@@ -11466,6 +11476,7 @@
 ||ecpms.net^
 ||ecrasepetre.shop^
 ||ecretaboutt.org^
+||ecrvysupbqcnb.top^
 ||ecrwqu.com^
 ||ectsofcukorpor.com^
 ||ectypalnonbank.shop^
@@ -11690,6 +11701,7 @@
 ||elite-thecontactstimes.com^
 ||elite-thedatingfind.com^
 ||elitedistasteful.com^
+||eliteeyeview.co^
 ||elitistcompensationstretched.com^
 ||eliwitensirg.net^
 ||elizathings.com^
@@ -12961,6 +12973,7 @@
 ||forciblelad.com^
 ||forciblepolicyinner.com^
 ||forcingclinch.com^
+||fordedcostaea.com^
 ||fordullorangs.shop^
 ||forearmdiscomfort.com^
 ||forearmsickledeliberate.com^
@@ -13304,6 +13317,7 @@
 ||fxjpbpxvfofa.com^
 ||fxmnba.com^
 ||fxpqcygxjib.com^
+||fxuxoqoifltzh.com^
 ||fyblppngxdt.com^
 ||fydapcrujhguy.xyz^
 ||fyglovilo.pro^
@@ -13313,6 +13327,7 @@
 ||fyresumefo.com^
 ||fzamtef.com^
 ||fzcbgedizbt.click^
+||fzdumffgp.com^
 ||fzivunnigra.com^
 ||fziwzaalp.com^
 ||fzmflvwn.tech^
@@ -19358,6 +19373,7 @@
 ||mysweetteam.com^
 ||mytdsnet.com^
 ||myteamdev.com^
+||mythad.com^
 ||mythicsallies.com^
 ||mythings.com^
 ||mythpointsatheism.com^
@@ -22051,6 +22067,7 @@
 ||ploteight.com^
 ||ploughbrushed.com^
 ||ploughplbroch.com^
+||plowh.com^
 ||ployingcurship.com^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
@@ -22487,6 +22504,7 @@
 ||prizegrantedrevision.com^
 ||prizeking.pro^
 ||prizel.com^
+||prizingupfurl.com^
 ||prksism.com^
 ||prmtracking3.com^
 ||prmtracks.com^
@@ -23047,6 +23065,7 @@
 ||px-broke.com^
 ||px3792.com^
 ||pxddavxjwuiufxf.xyz^
+||pxdroqjkqw.com^
 ||pxls4gm.space^
 ||pxltrck.com^
 ||pxyepmwex.com^
@@ -23733,6 +23752,7 @@
 ||reguid.com^
 ||regulationprivilegescan.top^
 ||regulushamal.top^
+||rehearsejuniorloaded.com^
 ||rehvbghwe.cc^
 ||reichelcormier.bid^
 ||reindaks.com^
@@ -24325,6 +24345,7 @@
 ||roubergmiteom.com^
 ||roucoutaivers.com^
 ||roudoduor.com^
+||roufaizecain.net^
 ||rougepromisedtenderly.com^
 ||roughindoor.com^
 ||roughsvick.top^
@@ -24516,6 +24537,7 @@
 ||ruxacwdfu.com^
 ||ruxdtiapgti.com^
 ||ruxmkiqkasw.com^
+||ruxnupaqx.com^
 ||ruzotchaufu.xyz^
 ||rv-syzfedv.rocks^
 ||rvardsusyseinp.org^
@@ -24637,6 +24659,7 @@
 ||sallecoast.shop^
 ||salliesjoll.shop^
 ||sallyfundamental.com^
+||salmisnepidae.com^
 ||salonscrowd.top^
 ||salpoidbashers.shop^
 ||salseprudely.com^
@@ -26658,6 +26681,7 @@
 ||swimmerperfectly.com^
 ||swimmingusersabout.com^
 ||swimsunleisure.com^
+||swindlebeseech.com^
 ||swindleincreasing.com^
 ||swinegraveyardlegendary.com^
 ||swinehalurgy.com^
@@ -27003,6 +27027,7 @@
 ||terciogouge.com^
 ||terhousouokop.com^
 ||termerspatrice.com^
+||terminatefaltergrunt.com^
 ||terminusbedsexchanged.com^
 ||termswhopitched.com^
 ||termswilgers.top^
@@ -27019,6 +27044,7 @@
 ||tessaragair.top^
 ||testcede.com^
 ||testsite34.com^
+||testybeautiful.com^
 ||tetrylscullion.com^
 ||tetyerecently.com^
 ||teuxbfnru.com^
@@ -27093,7 +27119,6 @@
 ||thecitydating.com^
 ||thecoidchirped.top^
 ||thecoinworsttrack.com^
-||thecontentserver.com^
 ||thecoreadv.com^
 ||thedating-mix.top^
 ||theehouho.xyz^
@@ -28410,6 +28435,7 @@
 ||untrendenam.com^
 ||untriedcause.pro^
 ||untrk.xyz^
+||untrodlagged.com^
 ||untropiuson.com^
 ||untruecharacterizepeople.com^
 ||unusedhair.pro^
@@ -28426,6 +28452,7 @@
 ||unwindirenebank.com^
 ||unwontcajun.top^
 ||unwoobater.com^
+||unwrapsbunkum.com^
 ||unwritmirific.com^
 ||unylgxxmrsbb.com^
 ||uod2quk646.com^
@@ -28820,6 +28847,7 @@
 ||verchokberain.top^
 ||verdiiceless.shop^
 ||verdreamsofcr.org^
+||verdunredowa.top^
 ||vereforhedidn.org^
 ||vereforhedidno.info^
 ||verifiablevolume.com^
@@ -32281,6 +32309,7 @@
 ! test for CNAME
 ||kib.hu^
 !
+||tr.thecontentserver.com^
 ||sst.hostnet.nl^
 ||api.visitorapi.com^
 ||analytics.scorpion.co^
@@ -32422,7 +32451,6 @@
 ||srvgl.com^
 ||webmaxlogger.net^
 ||prodregistryv2.org^
-||mythad.com^
 ||ga2.getresponse.com^
 ||analytics.wikitide.net^
 ||shgcdn3.com^
@@ -36199,6 +36227,13 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||pl.elements.video^
+||sgtm.alfinans.dk^
+||sgtm.aziendechesifinanzianodasole.com^
+||sgtm.comprend.com^
+||sgtm.joga.dk^
+||sgtm.lovi.fi^
+||sgtm.nordicbranch.com^
 ||utiq.bfmtv.com^
 ||sgtm.casamundo.de^
 ||sgtm.depaul.edu^
@@ -40236,6 +40271,7 @@ inapps.appsflyersdk.com^
 ||botdetector.ru^
 ||bumlam.com^
 ||checkru.net^
+||click.ru^
 ||detmir-stats.ru^
 ||directcrm.ru^
 ||e-kuzbass.ru^
@@ -40830,6 +40866,7 @@ inapps.appsflyersdk.com^
 ||reports.hibu.com^
 ||reports.sdiapi.com^
 ||rest.wildstar-online.com^
+||rg-3tn.pages.dev^
 ||rs.sinajs.cn^
 ||rtc.multiscreensite.com^
 ||rum.azion.com^
@@ -41570,6 +41607,7 @@ inapps.appsflyersdk.com^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
 ||events.auth.gid.ru^
+||events.plus.yandex.net^
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||hubrus.com^
 ||ip.up66.ru^
@@ -41862,8 +41900,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 May 2025 22:12 UTC+7
-! Version: 2505022212
+! Last modified: 03 May 2025 14:45 UTC+7
+! Version: 2505031445
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
