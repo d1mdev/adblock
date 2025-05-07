@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-05-06T00:00:10.047Z
+! Last modified: 2025-05-07T00:00:10.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5717,6 +5717,7 @@
 ||amusementrehearseevil.com^
 ||amusementstepfatherpretence.com^
 ||amusing-location.pro^
+||amusinghump.com^
 ||amvbwlerkvrqw.top^
 ||amvnaisn.com^
 ||amxntatujo.com^
@@ -6717,6 +6718,7 @@
 ||b3z29k1uxb.com^
 ||b41732fb1b.com^
 ||b42rracj.com^
+||b4ced3abcd.com^
 ||b57dqedu4.com^
 ||b58ncoa1c07f.com^
 ||b6b2d31f7e.com^
@@ -7086,6 +7088,7 @@
 ||belongedenemy.com^
 ||belovedsalesman.com^
 ||belovedset.com^
+||belowsavvied.shop^
 ||beltwaythrust.com^
 ||beludicolor.com^
 ||belwrite.com^
@@ -7326,6 +7329,7 @@
 ||bihoxqpfiown.com^
 ||bihunekus.com^
 ||biirmjnw.icu^
+||bikckophkhmsl.com^
 ||bikrurda.net^
 ||bilateralgodmother.com^
 ||bilifeetcheets.com^
@@ -9806,6 +9810,7 @@
 ||crossroadsubquery.com^
 ||crossroadzealimpress.com^
 ||crouchyearbook.com^
+||croupsdorsals.top^
 ||crowdeddisk.pro^
 ||crowderpedro.top^
 ||crowdnextquoted.com^
@@ -10258,6 +10263,7 @@
 ||dbycathyhoughs.com^
 ||dbyherslenderwai.com^
 ||dc-rotator.com^
+||dc7dad4603.com^
 ||dcff90fa75.com^
 ||dcfnihzg81pa.com^
 ||dcgjpojm.space^
@@ -10745,6 +10751,7 @@
 ||disbeliefenvelopemeow.com^
 ||disburymixy.shop^
 ||disccompose.com^
+||discernadornmentmaster.com^
 ||discernibletickpang.com^
 ||dischargemakerfringe.com^
 ||disciplecousinendorse.com^
@@ -11947,6 +11954,7 @@
 ||epnredirect.ru^
 ||epochheelbiography.com^
 ||epointatoncean.com^
+||epointatonceandt.com^
 ||epreswsentativ.com^
 ||epsashoofil.net^
 ||epsuphoa.xyz^
@@ -14225,6 +14233,7 @@
 ||grecizing26.fun^
 ||greckoaghoate.net^
 ||grecmaru.com^
+||gredraupse.net^
 ||gredritchupsa.net^
 ||gredroug.net^
 ||greececountryfurious.com^
@@ -14708,6 +14717,7 @@
 ||hbloveinfo.com^
 ||hbmode.com^
 ||hborq.com^
+||hcimixnajojl.com^
 ||hcpvkcznxj.com^
 ||hctwekslxuvtlcq.com^
 ||hcyhiadxay.com^
@@ -15045,6 +15055,7 @@
 ||hjxajf.com^
 ||hkaphqknkao.com^
 ||hkilops.com^
+||hkiqfjkqswwa.com^
 ||hkjfukkhwfepo.club^
 ||hksnu.com^
 ||hkyfuroxm.com^
@@ -15066,6 +15077,7 @@
 ||hnmikeloarp.com^
 ||hnpiwmegpdv.com^
 ||hnrgmc.com^
+||hnygjirnnakja.one^
 ||hoa44trk.com^
 ||hoabauwezow.com^
 ||hoachalaide.net^
@@ -15413,6 +15425,7 @@
 ||hypervre.com^
 ||hyphenatedion.com^
 ||hypnotismjamrelay.com^
+||hypnotizebaseballjesus.com^
 ||hypnotizebladdersdictate.com^
 ||hypnotizesqueegeetricolor.com^
 ||hypochloridtilz.click^
@@ -16350,6 +16363,7 @@
 ||jeinugsnkwe.xyz^
 ||jekesjzv.com^
 ||jekkfqndxe.com^
+||jekzyyyljvrbl.top^
 ||jekzyyyljvyww.top^
 ||jelliconitrate.shop^
 ||jelllearnedhungry.com^
@@ -16951,6 +16965,7 @@
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
 ||kingbole.com^
+||kingfainted.com^
 ||kingrecommendation.com^
 ||kingsfranzper.com^
 ||kingtrck1.com^
@@ -19759,6 +19774,7 @@
 ||nfgxadlbfzuy.click^
 ||nfjdxtfpclfh.com^
 ||nfuwlooaodf.com^
+||nfvetkycvdkaw.life^
 ||nfyowjhcgb.com^
 ||ngcghsdvjfcpp.club^
 ||ngegas.files.im^
@@ -19983,6 +19999,7 @@
 ||notorietycheerypositively.com^
 ||notorietyterrifiedwitty.com^
 ||notoriouscount.com^
+||noudounaigri.net^
 ||nougacoush.com^
 ||noughttrustthreshold.com^
 ||noukotumorn.com^
@@ -20366,6 +20383,7 @@
 ||octopod.cc^
 ||octopuspop.com^
 ||octroinewings.shop^
+||octteqlxtjagek.com^
 ||ocuwyfarlvbq.com^
 ||ocvrulo.digital^
 ||ocxihhlqc.xyz^
@@ -24304,6 +24322,7 @@
 ||roambedroom.com^
 ||roapsoogaiz.net^
 ||roastoup.com^
+||roawhuchoow.net^
 ||robazi.xyz^
 ||robberyinscription.com^
 ||robberynominal.com^
@@ -26125,6 +26144,7 @@
 ||sptrck.com^
 ||sptrkr.com^
 ||spukesuzette.shop^
+||spumvgltasdrjg.xyz^
 ||spunksteased.top^
 ||spunorientation.com^
 ||spuppeh.com^
@@ -26261,6 +26281,7 @@
 ||statuakeffel.top^
 ||staugloobads.net^
 ||staumersleep.com^
+||staupauptou.com^
 ||staupsadraim.xyz^
 ||staupsoaksy.net^
 ||staureez.net^
@@ -28433,6 +28454,7 @@
 ||ungyveporkies.com^
 ||unhatedkrubi.shop^
 ||unhatedprotei.com^
+||unheadedsouptotal.com^
 ||unhealthybravelyemployee.com^
 ||unhealthywelcome.pro^
 ||unhhsrraf.com^
@@ -29929,6 +29951,7 @@
 ||wllebozbzjybk.top^
 ||wlrkcefll.com^
 ||wlvkzwqmyjkmw.top^
+||wlyikeacon.org^
 ||wlzzwzeevbwez.top^
 ||wma.io^
 ||wmadmht.com^
@@ -32406,6 +32429,10 @@
 ! test for CNAME
 ||kib.hu^
 !
+||metric-api.newrelic.com^
+||conduit-beacon.mtvnservices.com^
+||redfast.com^
+||analytics.newsifier.nl^
 ||mn-tz.com^
 ||tr.thecontentserver.com^
 ||sst.hostnet.nl^
@@ -36325,6 +36352,14 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ap.attainplatform.io^
+||views-dual.hulu.com^
+||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
+||ichnaea.dradis.netflix.com^
+||customerevents.dradis.netflix.com^
+||customerevents.us-east-*.internal.dradis.netflix.com^
+||config.sdk.kochava.dewrain.life^
+||log.cookieyes.com^
 ||pl.elements.video^
 ||sgtm.alfinans.dk^
 ||sgtm.aziendechesifinanzianodasole.com^
@@ -36609,6 +36644,7 @@
 ||agi-static.indiatimes.com^
 ||fail.adr.ec^
 ||t.adii.se^
+||s.bunkr.ru^
 ||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
@@ -40844,7 +40880,6 @@ inapps.appsflyersdk.com^
 ||log-*.previewnetworks.com^
 ||log-pq.shopfully.cloud^
 ||log.aimtell.com^
-||log.cookieyes.com^
 ||log.nordot.jp^
 ||log.seekda.com^
 ||logging.je-apps.com^
@@ -43027,6 +43062,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
 !
+! Popular anti-adblock bait
+@@|www3.doubleclick.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
 ! Blocked by the rule, required for blocking Ingenious Technologies analytics
 @@||acs-m.daraz.pk^|
