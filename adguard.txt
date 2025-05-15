@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-05-14T00:00:11.395Z
+! Last modified: 2025-05-15T00:00:11.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10505,6 +10505,7 @@
 ||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
+||doapujoptude.net^
 ||doastaiwhouwouy.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
@@ -14626,6 +14627,7 @@
 ||hushpub.com^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
+||hussaiphoa.com^
 ||hutlockshelter.com^
 ||hutoumseet.com^
 ||huwaczntu.com^
@@ -17263,6 +17265,7 @@
 ||luxupcdnc.com^
 ||luyten-98c.com^
 ||lv9qr0g0.xyz^
+||lvbeybbrwvywq.top^
 ||lvhcqaku.com^
 ||lvlhmjerf.buzz^
 ||lvodomo.info^
@@ -17989,6 +17992,7 @@
 ||mkeqmafk.com^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
+||mkocdauxf.com^
 ||ml0z14azlflr.com^
 ||ml314.com^
 ||mladedda.net^
@@ -25405,6 +25409,7 @@
 ||tanhelpfulcuddle.com^
 ||tankleconflab.shop^
 ||tanothingfruiti.com^
+||tansazauksorg.com^
 ||tanzineshruti.shop^
 ||taosiz.xyz^
 ||taoyinbiacid.com^
@@ -28210,6 +28215,7 @@
 ||witnessremovalsoccer.com^
 ||witnesssellingoranges.com^
 ||witskirifkab.com^
+||wittijtuno.com^
 ||wittomeinvokes.com^
 ||wittyanswer.pro^
 ||wiwarrkazg.com^
@@ -28548,6 +28554,7 @@
 ||xceuzbaysacqp.global^
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
+||xcipwuoft.com^
 ||xcowuheclvwryh.com^
 ||xctoquhnalqgn.vip^
 ||xcuffrzha.com^
@@ -30709,6 +30716,11 @@
 ! test for CNAME
 ||kib.hu^
 !
+||adlink.wurl.com^
+||miqdigital.com^
+||imp.datafyhq.com^
+||getrockerbox.com^
+||tuhesok.com^
 ||track.iegcom.com^
 ||af.click.ru^
 ||treconeanalytics.com^
@@ -40346,8 +40358,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 May 2025 16:33 UTC+7
-! Version: 2505131633
+! Last modified: 14 May 2025 16:18 UTC+7
+! Version: 2505141618
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
