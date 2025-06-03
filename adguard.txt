@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-06-02T00:00:10.601Z
+! Last modified: 2025-06-03T00:00:10.839Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4080,6 +4080,7 @@
 ||6d7486ee46.com^
 ||6dbc7ad876.com^
 ||6dc2699b37.com^
+||6e67e233a2.com^
 ||6e6cd153a6.com^
 ||6gi0edui.xyz^
 ||6glece4homah8dweracea.com^
@@ -4452,6 +4453,8 @@
 ||abzaligtwd.com^
 ||abzkyjleoorjb.top^
 ||ac359edaf2.com^
+||ac3fc8f2a5.com^
+||aca4f6c07c.com^
 ||acacdn.com^
 ||acaciagrownborrowing.com^
 ||academic-level.pro^
@@ -5470,6 +5473,7 @@
 ||alfa-track2.site^
 ||alfasense.com^
 ||alfatraffic.com^
+||alfeinvceo.cloud^
 ||alfelixstownrus.org^
 ||alfredvariablecavalry.com^
 ||algediduala.com^
@@ -6470,6 +6474,7 @@
 ||auto-deploy.pages.dev^
 ||auto-im.com^
 ||autochunkintriguing.com^
+||autoflowbin.cyou^
 ||autoisthumped.shop^
 ||automatedtraffic.com^
 ||automateyourlist.com^
@@ -6575,6 +6580,7 @@
 ||awestatic.com^
 ||awestc.com^
 ||aweyqalyljbj.top^
+||aweyqaqkrvjm.top^
 ||awfulmorning.pro^
 ||awfulresolvedraised.com^
 ||awfvhklildaqv.com^
@@ -7583,6 +7589,7 @@
 ||bolsek.ru^
 ||boltepse.com^
 ||boltersoyana.shop^
+||bomdog.com^
 ||bonad.io^
 ||bonafides.club^
 ||bonaghtriter.shop^
@@ -7784,6 +7791,7 @@
 ||breadpro.com^
 ||breakfastinvitingdetergent.com^
 ||breakfastsinew.com^
+||breakingcapricorn.com^
 ||breakingscattered.com^
 ||breakthroughfuzzy.com^
 ||breastfeedingdelightedtease.com^
@@ -7926,6 +7934,7 @@
 ||btvuiqgio.xyz^
 ||btxxxnav.com^
 ||btyklhjjasgfm.club^
+||btzincvwqwe.com^
 ||bubblemayflowernephew.com^
 ||bubblestownly.com^
 ||bubrintta.com^
@@ -8676,6 +8685,7 @@
 ||childhoodstudioconversation.com^
 ||childhoodtilt.com^
 ||childishenough.com^
+||childishlispbarely.com^
 ||childlessporcupinevaluables.com^
 ||childrenplacidityconclusion.com^
 ||childtruantpaul.com^
@@ -9310,6 +9320,7 @@
 ||confrontation2.fun^
 ||confrontationdrunk.com^
 ||confusingepisodevest.com^
+||confusionnutmegflippers.com^
 ||congruousannualplanner.com^
 ||conicsfizzles.com^
 ||conjeller-chikemon.com^
@@ -11183,6 +11194,8 @@
 ||duskentsuba.com^
 ||dusksgaumish.com^
 ||dust-0001.delorazahnow.workers.dev^
+||dustinga.com^
+||dustyrender.com^
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutydynamo.co^
@@ -11758,6 +11771,7 @@
 ||enteredceorls.shop^
 ||entertainment3x.fun^
 ||enthralthermal.space^
+||enthroneunborn.com^
 ||enthusiasticfibreassembly.com^
 ||entia.site^
 ||entitledpleattwinkle.com^
@@ -11772,6 +11786,7 @@
 ||entreatyfungusgaily.com^
 ||entrecard.s3.amazonaws.com^
 ||entreesmoothstir.com^
+||entreguei.com^
 ||entterto.com^
 ||enueduringhere.info^
 ||envious-low.com^
@@ -13069,6 +13084,7 @@
 ||fuagewasho.top^
 ||fualujqbhqyn.xyz^
 ||fucategallied.com^
+||fuck-ads.vercel.app^
 ||fuck-dating.com^
 ||fuckthat.xyz^
 ||fuddlerpanther.top^
@@ -14083,6 +14099,7 @@
 ||grphfzutw.xyz^
 ||grquadonaxobq.site^
 ||grsjneetdekwpd.com^
+||grskayynfqwfe.space^
 ||grsm.io^
 ||grt02.com^
 ||grtaanmdu.com^
@@ -15385,6 +15402,7 @@
 ||imperturbableawesome.com^
 ||impetremondial.com^
 ||impetusorgansseparation.com^
+||impheesaugh.com^
 ||implix.com^
 ||implycollected.com^
 ||impofobulimic.top^
@@ -15394,6 +15412,7 @@
 ||important-credit.com^
 ||importantlyshow.com^
 ||importantoperativestudied.com^
+||importanttechnicianbeaten.com^
 ||imported1x.xyz^
 ||imposi.com^
 ||impossibilityaboriginalblessed.com^
@@ -15814,6 +15833,7 @@
 ||itemolgaer.com^
 ||itemperrycreek.com^
 ||iterantunacute.shop^
+||iteslawow.com^
 ||itespurrom.com^
 ||itflorgesan.com^
 ||itgiblean.com^
@@ -17129,6 +17149,7 @@
 ||leetmedia.com^
 ||leezeept.com^
 ||leezoama.net^
+||leforgotteddisg.com^
 ||leforgotteddisg.info^
 ||left-world.com^
 ||leftoverstatistics.com^
@@ -18239,6 +18260,7 @@
 ||medoofty.com^
 ||medusasglance.com^
 ||medyanetads.com^
+||meedauwheer.com^
 ||meedoorepsapoa.net^
 ||meekscooterliver.com^
 ||meenetiy.com^
@@ -19181,6 +19203,7 @@
 ||neladyhe.com^
 ||nelhon.com^
 ||nellads.com^
+||nellforgery.com^
 ||nellmeeten.com^
 ||nellthirteenthoperative.com^
 ||nemppa.com^
@@ -19638,6 +19661,7 @@
 ||numbertrck.com^
 ||numbmemory.com^
 ||numericprosapy.shop^
+||nunarzdiwdix.com^
 ||nunciodekare.shop^
 ||nuncleslupulic.shop^
 ||nunearn.com^
@@ -19841,6 +19865,7 @@
 ||ocpammownf.com^
 ||ocpjyfnbu.com^
 ||ocponcphaafb.com^
+||ocpsimamdza.com^
 ||ocrolwombhhy.com^
 ||octanmystes.com^
 ||octo25.me^
@@ -20059,6 +20084,7 @@
 ||ollapodbrewer.top^
 ||ollapodcarua.shop^
 ||olmiweb.com^
+||olmzbnuihptsw.com^
 ||olomonautcatho.info^
 ||olopruy.com^
 ||olpoxumbkput.com^
@@ -20220,6 +20246,7 @@
 ||onshucklea.com^
 ||onsolrockon.com^
 ||onstunkyr.com^
+||onsuchasricew.com^
 ||ontj.com^
 ||ontosocietyweary.com^
 ||ontrklnk.com^
@@ -21244,6 +21271,7 @@
 ||physicaldividedcharter.com^
 ||physidstert.shop^
 ||phywifupta.com^
+||piabaownable.top^
 ||pianosecretboy.com^
 ||pianwela.xyz^
 ||piaroankenyte.store^
@@ -22603,6 +22631,7 @@
 ||qwuaqrxfuohb.com^
 ||qwuopcbilw.com^
 ||qwvqbeqorrobv.top^
+||qwvvoamqyzyr.top^
 ||qwvvoaykyyvj.top^
 ||qwwsbnfspagbbn.com^
 ||qwyvmjvkmrqlz.top^
@@ -25312,6 +25341,7 @@
 ||stressfulproperlyrestrain.com^
 ||stretchedbystander.com^
 ||stretchedcreepy.com^
+||stretsynced.top^
 ||strettechoco.com^
 ||strewdirtinessnestle.com^
 ||strewviolently.com^
@@ -26226,6 +26256,7 @@
 ||tkyierpoyjrs.com^
 ||tkyoblcksma.site^
 ||tl2go.com^
+||tlkbfilacsw.com^
 ||tlklwtqqewceq.world^
 ||tlootas.org^
 ||tlrkcj17.de^
@@ -27179,6 +27210,7 @@
 ||upgrowssignet.top^
 ||upkoffingr.com^
 ||upkpezmxsosqa.today^
+||uplickoreman.shop^
 ||upliftsearch.com^
 ||upodaitie.net^
 ||uponflannelsworn.com^
@@ -27370,6 +27402,7 @@
 ||vantasrelatercond.com^
 ||vanvwogh.com^
 ||vanwuqjujnf.com^
+||vapbsatmnkwnpdx.xyz^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vaqykqeoeaywm.top^
@@ -27523,6 +27556,7 @@
 ||vflozkepp.com^
 ||vfndyulomlfk.com^
 ||vfqgmtqglqxkd.xyz^
+||vfr43ie3wo3.pro^
 ||vfsusmnbsi.com^
 ||vfthr.com^
 ||vfuqivac.com^
@@ -27695,6 +27729,7 @@
 ||vloahkelmykyd.top^
 ||vlogerads.com^
 ||vlry5l4j5gbn.com^
+||vlrybjejmpsnqb.com^
 ||vm8lm1vp.xyz^
 ||vmauuvpdxcre.com^
 ||vmauw.space^
@@ -27825,6 +27860,7 @@
 ||vutkaqlakbp.com^
 ||vutokpxc.com^
 ||vuvacu.xyz^
+||vuwzer.com^
 ||vuzhzlzswecvc.global^
 ||vv8h9vyjgnst.com^
 ||vvaywbqwuo.com^
@@ -28012,8 +28048,10 @@
 ||wdibwgllvzies.love^
 ||wdohhlagnjzi.com^
 ||wdoyouknowsai.org^
+||wdptconiwu.com^
 ||wdtyl.xyz^
 ||weakcompromise.com^
+||weakermumrespect.com^
 ||wealthextend.com^
 ||wealthsgraphis.com^
 ||weaponsnondescriptperceive.com^
@@ -28607,6 +28645,7 @@
 ||wylmzwklklywm.top^
 ||wynather.com^
 ||wynvalur.com^
+||wyquljil.com^
 ||wysasys.com^
 ||wyvlljvbbjvvm.top^
 ||wyvlllooalelk.top^
@@ -29401,6 +29440,7 @@
 ||go.betobet.net^
 ||gxfiledownload.com^
 ||hfr67jhqrw8.com^
+||kbmljxm.com^
 ||kstrk.com^
 ||mgid.com^
 ||mobile-ads.fetish-matters.net^
@@ -40503,8 +40543,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 May 2025 22:55 UTC+7
-! Version: 2505302255
+! Last modified: 02 Jun 2025 15:02 UTC+7
+! Version: 2506021502
 ! Blocked: 879 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
