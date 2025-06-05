@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2025-06-04T00:00:10.476Z
+! Last modified: 2025-06-05T00:00:10.454Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3545,6 +3545,7 @@
 ||0e4256d4f1.com^
 ||0emn.com^
 ||0f461325bf56c3e1b9.com^
+||0fe5096a4c.com^
 ||0ffaf504b2.com^
 ||0fmm.com^
 ||0gw7e6s3wrao9y3q.pro^
@@ -5304,6 +5305,7 @@
 ||ahfmruafx.com^
 ||ahfninqtaamj.com^
 ||ahhwpucku.com^
+||ahhxujozlapl.com^
 ||ahkapsalz.com^
 ||ahkjuekgpccmj.world^
 ||ahlefind.com^
@@ -6077,6 +6079,7 @@
 ||arleavannya.com^
 ||armaturereadiness.com^
 ||armedtidying.com^
+||armilmacusi.com^
 ||arminius.io^
 ||armmabbi.com^
 ||armsfulpageant.top^
@@ -6360,6 +6363,7 @@
 ||atpansagean.com^
 ||atpawniarda.com^
 ||atraff.com^
+||atrem.site^
 ||atriahatband.com^
 ||atris.xyz^
 ||atrkmankubf.com^
@@ -6890,6 +6894,7 @@
 ||barsshrug.com^
 ||bartererfaxtingling.com^
 ||bartonpriority.com^
+||barytemarkup.com^
 ||baseballletters.com^
 ||basehardily.com^
 ||baseporno.com^
@@ -7300,6 +7305,7 @@
 ||biggerluck.com^
 ||biggitylorry.top^
 ||bigheenseelsop.com^
+||bigincomplete.com^
 ||bigotstatuewider.com^
 ||bigrourg.net^
 ||bigstoreminigames.space^
@@ -7494,6 +7500,7 @@
 ||blubberspoiled.com^
 ||bludgeentraps.com^
 ||blue-coffee.pro^
+||blue-daughter.pro^
 ||blue99703.com^
 ||blueberryastronomy.com^
 ||bluelinknow.com^
@@ -7847,6 +7854,7 @@
 ||brinkprovenanceamenity.com^
 ||brioletredeyes.com^
 ||brionyamanist.com^
+||bristlechurch.com^
 ||brithungown.com^
 ||britishfinestarrangement.com^
 ||britishinquisitive.com^
@@ -8516,6 +8524,7 @@
 ||centreoverpet.top^
 ||centumshough.com^
 ||centwrite.com^
+||cephei-b.com^
 ||cephidcoastal.top^
 ||cepokraithignie.net^
 ||cer43asett2iu5m.com^
@@ -9028,6 +9037,7 @@
 ||closeattended.com^
 ||closedferallag.com^
 ||closedpersonify.com^
+||closelylength.com^
 ||closenesshistorian.com^
 ||closeupclear.top^
 ||clothegossip.com^
@@ -9651,6 +9661,7 @@
 ||crazylead.com^
 ||crazylovepartners.com^
 ||crbbgate.com^
+||crbrdwegmonc.com^
 ||crcgrilses.com^
 ||crcwmxyhc.com^
 ||crdefault.link^
@@ -9836,6 +9847,7 @@
 ||cufultahaur.com^
 ||cuisineenvoyadvertise.com^
 ||cujruloq.com^
+||cujscaawbaz.com^
 ||cullemple-motline.com^
 ||culmedpasses.cam^
 ||culnutwr.com^
@@ -10161,6 +10173,7 @@
 ||dawncreations.art^
 ||dawnfilthscribble.com^
 ||dawplm.com^
+||dawtetweever.com^
 ||dawtittalky.shop^
 ||dawurtinsumpoaz.net^
 ||daylongtrigae.top^
@@ -10492,6 +10505,7 @@
 ||deymalaise.com^
 ||deypersonalreco.com^
 ||dezna.online^
+||dfaazrxihm.com^
 ||dfaobxanhdfa.com^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
@@ -10545,6 +10559,7 @@
 ||dictumstortil.com^
 ||diddestrewinds.top^
 ||didesthanger.com^
+||didsaurtez.net^
 ||dieadi.com^
 ||diedpractitionerplug.com^
 ||dieehxgtp.com^
@@ -12467,6 +12482,8 @@
 ||fermistychism.shop^
 ||fermolo.info^
 ||feroffer.com^
+||ferritemegapod.shop^
+||ferukentaspects.com^
 ||fervcbytncxaj.icu^
 ||fessedpyropen.shop^
 ||fessoovy.com^
@@ -12485,6 +12502,7 @@
 ||fewergkit.com^
 ||fexyop.com^
 ||feyauknalyticafr.com^
+||ffgoxczavh.com^
 ||ffnlfxeyqpjg.com^
 ||ffofcetgurwrd.com^
 ||ffswithabras.com^
@@ -12843,6 +12861,7 @@
 ||foldedprevent.com^
 ||foldinsinuate.com^
 ||foldymuist.shop^
+||foliousagha.top^
 ||foliumumu.com^
 ||followeraggregationtraumatize.com^
 ||followingpartlyindicator.com^
@@ -13468,6 +13487,7 @@
 ||germainnappy.click^
 ||germanechubby.shop^
 ||germanize24.fun^
+||germanyetch.top^
 ||germinappropriateengine.com^
 ||germinatewishesholder.com^
 ||germlesslukewarmmold.com^
@@ -13854,6 +13874,7 @@
 ||goldangblowze.top^
 ||goldangjeany.shop^
 ||golden-gateway.com^
+||goldenriverway.com^
 ||goldfishouncereburial.com^
 ||goldinnips.top^
 ||golfersaxumite.com^
@@ -16097,6 +16118,7 @@
 ||jelliconitrate.shop^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
+||jelokerrvvayl.top^
 ||jemonews.com^
 ||jeniz.xyz^
 ||jennyunfit.com^
@@ -16140,6 +16162,7 @@
 ||jgqaainj.buzz^
 ||jgtdptiivqmxubk.com^
 ||jgubbpypmlxbk.one^
+||jguroejplzivn.site^
 ||jgwwszqkvyxcg.site^
 ||jhbjkqqykibyt.buzz^
 ||jhcnvrqljibffep.com^
@@ -16708,6 +16731,7 @@
 ||kjyytxyetnueu.club^
 ||kkeichcdm.xyz^
 ||kkeugrilxgql.com^
+||kkgrttfmi.com^
 ||kkieeoxcjpqah.vip^
 ||kknkcyrkvoqsqa.com^
 ||kkoacpohjomc.com^
@@ -16895,6 +16919,7 @@
 ||kueezrtb.com^
 ||kufturtewaist.com^
 ||kugmisawqo.com^
+||kuhcjgvmcsuun.space^
 ||kuhxhoanlf.com^
 ||kujbxpbphyca.com^
 ||kukrosti.com^
@@ -17339,6 +17364,7 @@
 ||liegelygosport.com^
 ||lieomvgvsmuc.com^
 ||liestseiser.shop^
+||lievestcrasser.com^
 ||lifadfxkid.com^
 ||lifeboatdetrimentlibrarian.com^
 ||lifeboatlegalalleviate.com^
@@ -17582,6 +17608,7 @@
 ||logshort.xyz^
 ||loijtoottuleringv.info^
 ||loinpriestinfected.com^
+||lokcdn.com^
 ||lokimaki.com^
 ||loktrk.com^
 ||lolco.net^
@@ -17720,6 +17747,7 @@
 ||lpjkwklc.com^
 ||lpmcr1h7z.com^
 ||lpmugcevks.com^
+||lpnikgpqxuyrjm.com^
 ||lptrak.com^
 ||lptrck.com^
 ||lptyuosfcv.com^
@@ -18409,6 +18437,7 @@
 ||metavertizer.com^
 ||meteorclashbailey.com^
 ||meteordentproposal.com^
+||meteorvitalboundary.com^
 ||methodyprovand.com^
 ||methoxyunpaled.com^
 ||methylstewed.com^
@@ -18718,6 +18747,7 @@
 ||molikrebaumt.xyz^
 ||mollesscar.top^
 ||molokerpterion.shop^
+||molpewere.top^
 ||molttenglobins.casa^
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
@@ -18866,6 +18896,7 @@
 ||mozoo.com^
 ||mp-pop.barryto.one^
 ||mp3pro.xyz^
+||mpanythathaveresulte.com^
 ||mpanythathaveresultet.info^
 ||mpk01.com^
 ||mplayeranyd.info^
@@ -19375,6 +19406,7 @@
 ||nfdxprxptlubs.buzz^
 ||nffmuvludurqc.com^
 ||nfgxadlbfzuy.click^
+||nfpnnijpsvy.com^
 ||nfvetkycvdkaw.life^
 ||ngcghsdvjfcpp.club^
 ||ngegas.files.im^
@@ -19474,6 +19506,7 @@
 ||nlargeconsu.org^
 ||nld0jsg9s9p8.com^
 ||nlhsfsgtye.com^
+||nlkikzzvtzo.com^
 ||nlkli.com^
 ||nlztpmhcxyzwh.vip^
 ||nmajjhzqyckro.icu^
@@ -19758,6 +19791,7 @@
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
 ||nwabcuwugact.com^
+||nwarktriynwek.store^
 ||nwemnd.com^
 ||nweztoovg.com^
 ||nwjdldsfzszkp.rocks^
@@ -20701,6 +20735,7 @@
 ||overseasearchopped.com^
 ||overseasinfringementsaucepan.com^
 ||oversightbullet.com^
+||oversleepwilling.com^
 ||oversolosisor.com^
 ||overswaloton.com^
 ||overtimetoy.com^
@@ -21118,6 +21153,7 @@
 ||peglessbath.shop^
 ||pegloang.com^
 ||peisantcorneas.com^
+||pejpioimgjtx.com^
 ||pejzeexukxo.com^
 ||pekansrefait.shop^
 ||pelamydlours.com^
@@ -21789,6 +21825,7 @@
 ||pqyydjswkyc.com^
 ||pqzyzircitnva.top^
 ||pr3tty-fly-4.net^
+||practical-interest.com^
 ||practicallyfire.com^
 ||practice3452.fun^
 ||practicedearest.com^
@@ -22150,6 +22187,7 @@
 ||ptekuwiny.pro^
 ||ptelastaxo.com^
 ||pteleaspiring.top^
+||ptemsoaksol.net^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
 ||ptifaustounsaz.com^
@@ -22249,6 +22287,7 @@
 ||punosy.com^
 ||punrbligpisll.life^
 ||punslemmas.shop^
+||puntingdeg.com^
 ||puntistbitless.shop^
 ||pupilarouranos.com^
 ||puppyderisiverear.com^
@@ -23115,6 +23154,7 @@
 ||relinquishcooperatedrove.com^
 ||relishpreservation.com^
 ||relkconka.com^
+||reloandewater.com^
 ||reluctancefleck.com^
 ||reluctanceleatheroptional.com^
 ||reluctantlycopper.com^
@@ -23537,6 +23577,7 @@
 ||rocoads.com^
 ||rodejessie.com^
 ||rodirgix.com^
+||rodlikemortal.com^
 ||rodmksuttevhgc.com^
 ||roduster.com^
 ||roemoss.com^
@@ -25049,6 +25090,7 @@
 ||spikearsonembroider.com^
 ||spilldemolitionarrangement.com^
 ||spin83qr.com^
+||spinborgh.top^
 ||spinbox.net^
 ||spindlyrebegin.top^
 ||spinesoftsettle.com^
@@ -25463,6 +25505,7 @@
 ||stvbiopr.net^
 ||stvkr.com^
 ||stvwell.online^
+||styldiaasarone.com^
 ||styletrackstable.com^
 ||stylf.com^
 ||stylish-airport.com^
@@ -27481,6 +27524,7 @@
 ||vapjcusfua.com^
 ||vaqykqeoeaywm.top^
 ||vaqykqyvvazbz.top^
+||variablehour.com^
 ||variationsradio.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
@@ -27569,6 +27613,7 @@
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velodran.com^
+||velsirtohoosh.net^
 ||velvetdock.com^
 ||vempeeda.com^
 ||vemtoutcheeg.com^
@@ -27731,6 +27776,7 @@
 ||vinegardaring.com^
 ||vinertoxamin.top^
 ||vingartistictaste.com^
+||vinouscavish.com^
 ||vintagerespectful.com^
 ||violentinduce.com^
 ||vionito.com^
@@ -27982,6 +28028,7 @@
 ||wadlwoqwuodv.com^
 ||waescyne.com^
 ||waeshana.com^
+||waffiemoted.com^
 ||wafflesquaking.com^
 ||wafmedia6.com^
 ||wagatilotase.shop^
@@ -28715,6 +28762,7 @@
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
+||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
 ||wylmzwklklyaz.top^
@@ -28808,6 +28856,7 @@
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xg-jbpmnru.online^
+||xgkmqyjxcjbj.com^
 ||xgkpltbxcpoyld.com^
 ||xgraph.net^
 ||xhulafpup.com^
@@ -29371,6 +29420,7 @@
 ||zogrepsili.com^
 ||zoiefwqhcaczun.com^
 ||zoilusdoping.top^
+||zokqlomemmzbw.top^
 ||zombyfairfax.com^
 ||zonealta.com^
 ||zoneremeriti.top^
@@ -30918,6 +30968,8 @@
 !
 !
 !
+||logs2.sportslocalmedia.com^
+||analytics.pyksid.com^
 ||yandexmetrica.com^
 ||sr-client-cfg.amplitude.com^
 ||regionconfig.amplitude.com^
@@ -32169,6 +32221,7 @@
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
 ||cerdmann.com^
+||iaw-events.polarbyte.com^
 ||cdn.polarbyte.com^
 ||revcatch.com^
 ||revprotect.com^
@@ -34871,6 +34924,8 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||c2-eu.piano.io^
+||proxima.midjourney.com^
 ||e.aimerce.ai^
 ||j0v36abmdj.execute-api.us-east-1.amazonaws.com^
 ||lumberjack-metrics.razorpay.com^
@@ -34884,7 +34939,6 @@
 ||img.sct.eu1.usercentrics.eu^
 ||segapi.splice.com^
 ||t.illuma-tech.com^
-||experiment-variant.baemin.com^
 ||cdp.yna.co.kr^
 ||ingestion.webanalytics.italia.it^
 ||njoevqi1nx.hockerty.com^
@@ -40628,8 +40682,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jun 2025 15:02 UTC+7
-! Version: 2506021502
+! Last modified: 04 Jun 2025 16:23 UTC+7
+! Version: 2506041623
 ! Blocked: 879 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -40767,6 +40821,7 @@ vkcdnservice.appspot.com^
 ||lio.aiservice.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
+||log-collector.shopee.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.dantocmiennui.vn^
 ||log.mp3.zing.vn^
@@ -40904,6 +40959,7 @@ vkcdnservice.appspot.com^
 ||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trk-pcweb.api.zaloapp.com^
+||userstats.shopee.vn^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
@@ -41197,7 +41253,6 @@ vkcdnservice.appspot.com^
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
@@ -41436,7 +41491,6 @@ vkcdnservice.appspot.com^
 ||upl.net-solutions.vn^
 ||us.mplis.gov.vn^
 ||user.headlines.pw^
-||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v9banners.com^
 ||vieon-tracking.vieon.vn^
