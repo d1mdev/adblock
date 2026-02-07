@@ -3,7 +3,7 @@
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: GPLv3
-! Last modified: 2026-02-06T19:15:48.830Z
+! Last modified: 2026-02-07T00:00:12.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6044,6 +6044,7 @@
 ||angry-quit.com^
 ||angryheadlong.com^
 ||angrymarketingprecise.com^
+||anguinekennel.cyou^
 ||anguishaddition.com^
 ||anguished-total.pro^
 ||angularpoppyrobbing.com^
@@ -6296,6 +6297,7 @@
 ||appriating.com^
 ||appriedtheligh.org^
 ||appropriate-league.pro^
+||appropriatedealer.pro^
 ||approvalnor.com^
 ||approved.website^
 ||approxacreaktulipa.cyou^
@@ -6768,6 +6770,7 @@
 ||atkpaitsh.net^
 ||atkyletwcywfi.online^
 ||atlastwo.com^
+||atlekronor.cfd^
 ||atlgixgeuppua.website^
 ||atlhvcmsbqutf.space^
 ||atlpkhmh.xyz^
@@ -11149,6 +11152,7 @@
 ||cluckedzion.com^
 ||cluelessbrain.pro^
 ||clueostensiblebureaucracy.com^
+||clujnxbqhytwpb26piwr6x8coikejl5b.rest^
 ||clumperrucksey.life^
 ||clumsybitter.pro^
 ||clumsybuttonbristle.com^
@@ -11750,6 +11754,7 @@
 ||corruptionburlylawsuit.com^
 ||corruptobstacle.com^
 ||corseswarty.qpon^
+||corulerkedgekerning.cyou^
 ||corveshangee.help^
 ||corydonunleft.cyou^
 ||corylinreifies.cfd^
@@ -16590,6 +16595,7 @@
 ||facedquila.qpon^
 ||facemandebuted.click^
 ||facesnotebook.com^
+||faceupusation.cyou^
 ||facheicuropapon.com^
 ||facialleaflet.com^
 ||faciliatemate.com^
@@ -19027,6 +19033,7 @@
 ||gfxdn.pics^
 ||gfxlkemrkltqz.online^
 ||gfyevvegjwlkc.website^
+||gfzb1jw6pmvr8tbyz.cfd^
 ||gfzyoomgfbnws.space^
 ||ggackkwyizwnd.online^
 ||ggavqsedrpbvn.website^
@@ -19104,6 +19111,7 @@
 ||giantlevel.pro^
 ||giarrahuddles.cyou^
 ||giaythethaonuhcm.com^
+||gibliabusingsithes.qpon^
 ||gibuqddhrp.com^
 ||giddyrabiddaylight.com^
 ||gidxggpntfrqz.online^
@@ -19360,6 +19368,7 @@
 ||gloamsacoudou.net^
 ||gloaphoo.net^
 ||gloatqueen.com^
+||gloatsubashi.cyou^
 ||globaladblocker.com^
 ||globaladmedia.com^
 ||globaladmedia.net^
@@ -20568,6 +20577,7 @@
 ||hamuliuntrendxyletic.cfd^
 ||hamwo.cloud^
 ||hamzahchaunt.cyou^
+||hamzahstubber.qpon^
 ||hanaqjaf.com^
 ||handbagtableau.cyou^
 ||handbagwazir.cfd^
@@ -22632,6 +22642,7 @@
 ||iloptrex.com^
 ||ilpgfdbc.xyz^
 ||ilpmcvbmizqfo.site^
+||ilpoocsvxe.com^
 ||ilqtskaqbxdrj.website^
 ||ilrkcyoqtybaf.website^
 ||ilshiletterismype.org^
@@ -25680,6 +25691,7 @@
 ||koyyppqoesnvh.website^
 ||kp2h7cfjnx4jv6gn.cfd^
 ||kpaamldootvpw.global^
+||kpaesttmyrww.com^
 ||kpbmqxucd.com^
 ||kpbzklaehwcaf.online^
 ||kpdslyrkdctow.website^
@@ -25761,6 +25773,7 @@
 ||krshmqrqvipop.website^
 ||krtnyognzagow.online^
 ||kruaxite.help^
+||krubicurupayjahveh.cfd^
 ||krudavmbgnwrc.website^
 ||krumanremet.cfd^
 ||krumanunsmote.com^
@@ -28800,6 +28813,7 @@
 ||misleadgifted.com^
 ||mislearsulliedsuber.cyou^
 ||mislucktinean.com^
+||missaryfrieze.shop^
 ||missarypengun.help^
 ||missav001.lol^
 ||misshiprecept.shop^
@@ -29290,6 +29304,7 @@
 ||motleyimproviseink.com^
 ||motonuvekerwi.online^
 ||motorshook.com^
+||motorstroke.com^
 ||motorsuffer.com^
 ||motqctjhtfsmc.site^
 ||motsardi.net^
@@ -31628,6 +31643,7 @@
 ||odourtaste.com^
 ||odqqtpfcatzbl.website^
 ||odspjksksgqxx.website^
+||odswwpxehesvkl.xyz^
 ||odtiniztbwuyx.space^
 ||oduauledfalmc.online^
 ||odvazhfsnswns.online^
@@ -31907,6 +31923,7 @@
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
 ||ojrkqzpuntzxg.online^
+||ojscanbrogi.com^
 ||ojufzejjwoiqg.site^
 ||ojuvjqymmcyos.site^
 ||ojvpumediuoxs.online^
@@ -32032,6 +32049,7 @@
 ||ominousplant.com^
 ||omission119.fun^
 ||omissiongreatestoriginal.com^
+||omitsterid.cfd^
 ||omjpipkakagk.com^
 ||omlahpewing.com^
 ||omlkfwhnqdiekxy.net^
@@ -34481,6 +34499,7 @@
 ||pocketshighlyinquired.com^
 ||pocrd.cc^
 ||podbteiinrlkl.space^
+||poddedsozolicdepass.cfd^
 ||poddockdwellsdollier.cfd^
 ||podefr2.net^
 ||poder.cloud^
@@ -34682,6 +34701,7 @@
 ||porojo.net^
 ||portapostil.help^
 ||portatebela.cyou^
+||portatoarmrack.cfd^
 ||portedlift.com^
 ||portedloppersdirk.cfd^
 ||portendsafrols.cfd^
@@ -35485,6 +35505,7 @@
 ||ptlwm.com^
 ||ptlwmstc.com^
 ||ptmbqrzsbevkh.store^
+||ptmfcvsgyc.com^
 ||ptmnd.com^
 ||ptnjphvurekdw.space^
 ||ptnmmhicosg.net^
@@ -36205,6 +36226,7 @@
 ||qieiepqyflfpk.space^
 ||qif1cuocfo8mcvzcyuqkichu57cpe2m64yv.cfd^
 ||qifwxledejkod.online^
+||qigplplee.com^
 ||qihegkxiytaah.online^
 ||qihnajipjpmii.online^
 ||qihpwojcazrje.website^
@@ -38658,6 +38680,7 @@
 ||ruddy-pass.com^
 ||ruddyheat.com^
 ||ruddymatter.pro^
+||rudenature.pro^
 ||ruderavidian.cyou^
 ||rudesbytransp.click^
 ||rudeteach.pro^
@@ -39233,6 +39256,7 @@
 ||scammerfail.com^
 ||scammerlasciviouscrater.com^
 ||scancemontes.com^
+||scaniastarr.cfd^
 ||scanneddutiful.qpon^
 ||scantyinherited.com^
 ||scanunderstiff.com^
@@ -39751,6 +39775,7 @@
 ||severewall.pro^
 ||sewboldlyavow.com^
 ||sewensiddurs.qpon^
+||sewerfieryendurance.com^
 ||sewingfreaky.com^
 ||sewinturcian.cfd^
 ||sex-and-flirt.com^
@@ -39772,6 +39797,7 @@
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
 ||sfgbobrkfliph.website^
+||sfhkbrsd.com^
 ||sfixretarum.com^
 ||sfjwwywgeyoak.website^
 ||sfmajuhkqrr.com^
@@ -40468,6 +40494,7 @@
 ||slightdrink.pro^
 ||slightlyparentingaugust.com^
 ||slightresignationswiftly.com^
+||slimalternative.pro^
 ||slimdein.icu^
 ||slimespell.com^
 ||slinglyricsimperturbable.com^
@@ -41369,6 +41396,7 @@
 ||stalecomplex.pro^
 ||stalelack.pro^
 ||staletraffic.com^
+||stalkstaxies.shop^
 ||stallionthan.com^
 ||stallsobservance.com^
 ||stallsubscribe.com^
@@ -42177,6 +42205,7 @@
 ||swomanifefashionis.org^
 ||swoonedanomala.help^
 ||swoopanomalousgardener.com^
+||swoopgnawnburnet.cyou^
 ||swooppolygraph.com^
 ||swoqxitffjvon.online^
 ||swordbloatgranny.com^
@@ -43228,6 +43257,7 @@
 ||tixj61yrbwqwijxcn.cfd^
 ||tiymvltgbllto.site^
 ||tiypa.com^
+||tizabfax.com^
 ||tizmanon.com^
 ||tjaard11.xyz^
 ||tjcsbcnpudcjx.website^
@@ -44351,6 +44381,7 @@
 ||tylulewe.com^
 ||tymdzzpyxbuzq.website^
 ||tympanfulledamara.cyou^
+||tyncero.com^
 ||tynt.com^
 ||typablehoist.qpon^
 ||typalbummie.cfd^
@@ -45950,6 +45981,7 @@
 ||vebv8me7q.com^
 ||vebzynslxdfun.online^
 ||vectionturmitassoin.cfd^
+||vedaliainblown.shop^
 ||vedanachank.help^
 ||vedreloonsi.net^
 ||vedtcxktwgltu.online^
@@ -46716,6 +46748,7 @@
 ||vscvotonpbevv.site^
 ||vsdiz.xyz^
 ||vsfswhpnyjnbv.space^
+||vshxtggsdki.com^
 ||vsimyppptdxdo.site^
 ||vskuiusgblrdq.website^
 ||vslcqsrpmhhne.net^
@@ -49694,6 +49727,7 @@
 ||ylih6ftygq7.com^
 ||ylinlhlzcumqe.online^
 ||ylitzzadjmfrk.space^
+||yljjsofxwaln.com^
 ||ylkdnoibgafda.website^
 ||ylkrkuafclwle.site^
 ||ylkujegjynqvn.online^
